@@ -6,7 +6,7 @@
 4. Fundamentals of Legal Reading/Writing
 
 ## Spring Semester 2019
-1. [Contracts](https://alexeibex.github.io/Contracts)
+1. [Contracts](https://alexeibex.github.io/contracts)
 2. Constitutional Law
 3. Property
 4. Fundamentals of Legal Reading/Writing
