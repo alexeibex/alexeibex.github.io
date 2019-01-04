@@ -7,6 +7,6 @@
 
 ## Spring Semester 2019
 1. [Contracts](https://alexeibex.github.io/Contracts)
-2. Constitutional Law
-3. Property
-4. Fundamentals of Legal Reading/Writing
+2. [Constitutional Law](https://alexeibex.github.io/constitutionallaw)
+3. [Property](https://alexeibex.github.io/property)
+4. [Fundamentals of Legal Reading/Writing](https://alexeibex.github.io/Contracts)
