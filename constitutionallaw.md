@@ -10,7 +10,7 @@ Course Themes
 ## Contents
 1. The Constitution and the Court    
   1.1 [Introduction: The US Constitution](#11-introduction)  
-  1.2 [Articles of the Confederacy](https://alexeibex.github.io/constitutionallaw#12-articles-of-the-confederacy)
+  1.2 [Articles of the Confederacy](https://alexeibex.github.io/constitutionallaw#12-articles-of-the-confederacy)  
   1.3 [The Supreme Court's Authority and Role](#1.2)  
      - *Marbury v. Madison*
      - *Martin v. Hunter's Lessee*
