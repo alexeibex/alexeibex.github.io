@@ -4,6 +4,18 @@
 3. Property
 
 
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 # Introduction
 1. Lesson 1
  - Okay
