@@ -8,7 +8,7 @@ Major Topics
 
 ### Contents
 1. The Constitution and the Court   
-  1.1 [Introduction: The US Constitution](#1.1)  
+  1.1 [Introduction: The US Constitution](#11-introduction)  
   1.2 [The Supreme Court's Authority and Role](#1.2)  
      - 1.2.1 *Marbury v. Madison*
      - 1.2.2 *Martin v. Hunter's Lessee*
