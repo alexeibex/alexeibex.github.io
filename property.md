@@ -11,22 +11,22 @@
 ### 1.1 Acquisition and Claim Scope
 
 <details>
+
 <summary><i>Pierson v. Post</i></summary>
-
-**Overview:** Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.
-
-
-**Facts:**  Post(∆) in possession of dogs and hounds was in pursuit of a fox on a wild, uninhabited, waste land called the beach. Pierson (π) knowing fox was so hunted and pursued, chased after fox and killed it, carrying it off.
-
-**Issue:** Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox.
-
-**Rule:**
-
-**Conclusion:** Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
-
-
+<br>
+<b>Overview:</b> Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.
+<br>
+<b>Facts:</b>  Post(∆) in possession of dogs and hounds was in pursuit of a fox on a wild, uninhabited, waste land called the beach. Pierson (π) knowing fox was so hunted and pursued, chased after fox and killed it, carrying it off.
+<br>
+<b>Issue:</b> Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox.
+<br>
+<b>Rule:</b>
+<br>
+<b>Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
+<br>
 
 **Notes/Concepts:**
+<br>
 
 </details>
 
