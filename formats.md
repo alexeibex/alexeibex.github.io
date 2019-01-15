@@ -4,18 +4,18 @@
 
 <summary><i>Case: Name</i></summary>
 <br>
-<b>Overview:</b>
+<ul>
+  <li><b>Overview:</b></li>
 <br>
-<b>Facts:</b>
+  <li><b>Facts:</b></li>
 <br>
-<b>Issue:</b>
+  <li><b>Issue:</b></li>
 <br>
-<b>Rule:</b>
+  <li><b>Rule:</b></li>
 <br>
-<b>Conclusion:</b>
+  <li><b>Conclusion:</b></li>
 <br>
-
-<b>Notes/Concepts:</b>
+  <li><b>Notes/Concepts:</b></li>
 <br>
 
 </details>
