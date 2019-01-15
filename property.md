@@ -6,9 +6,10 @@
   - [1.1 Open Access and the Commons](#11-open-access-and-the-commons)
 
 <!-- /TOC -->
-1. please read pages 57–69 and 72–82​
 
 ### 1.1 Acquisition and Claim Scope
+Reading: Pages 57–69 & 72–82​
+
 
 <details>
 
@@ -42,7 +43,7 @@
 <br>
 <b>Rule:</b> Whale, being a ferae naturae, does not become property until a firm possession has been established by the taker.
 <br>
-<b.Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
+<b>Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
 <br>
 <b>Notes/Concepts:</b>
 <br>
