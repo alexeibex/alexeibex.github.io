@@ -28,10 +28,9 @@
 ### 1.2 Creation of the Confederacy
 
 
-<details>
-<summary><b>Articles of the Confederacy</b></summary>
-  <details>
-  <summary>Article 1 - The Legislature</summary>
+<details><summary><b>Articles of the Confederacy</b></summary>
+
+  <details><summary>Article 1 - The Legislature</summary>
     <ul>
       <li><b>Section 1: Legislative Powers</b></li>
         <ul>
@@ -86,6 +85,7 @@
           <li>No Law impairing federal law</li>
         </ul>
     </ul>
+
   </details>
 
   <details>
