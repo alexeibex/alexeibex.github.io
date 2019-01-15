@@ -89,27 +89,25 @@
   </details>
 
 <details><summary>Article 2 - The Presidency</summary>
-    <ul>
+  <ul>
+    <li><b>Section 1: Election, Installation, Removal</b></li>
+      <ul>
+        <li>Natural Born citizen</li>
+        <li>35 years old</li>
+        <li>The Oath "I do solemnly swear"</li>
+      </ul>
 
-      <li><b>Section 1: Election, Installation, Removal</b></li>
-        <ul>
-          <li>Natural Born citizen</li>
-          <li>35 years old</li>
-          <li>The Oath "I do solemnly swear"</li>
-        </ul>
-
-      <li><b>Section 2: Presidential Powers<b></li>
-        <ul>
-          <li>Commander and Chief
-          <li>Reprieves and Pardons
-          <li><b>Appointment of all officials<b></li>
-        </ul>
-      <li><b>Section 3:** *State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
-        <ul>
-          <li>State of the Union</li>
-        </ul>
-  <li><b>Section 4: Impeachment<b></li>
-
+    <li><b>Section 2: Presidential Powers<b></li>
+      <ul>
+        <li>Commander and Chief
+        <li>Reprieves and Pardons
+        <li><b>Appointment of all officials<b></li>
+      </ul>
+    <li><b>Section 3:** *State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
+      <ul>
+        <li>State of the Union</li>
+      </ul>
+    <li><b>Section 4: Impeachment<b></li>
   </ul>
 
 </details>
@@ -176,6 +174,7 @@
   </details>
 
 </details>
+<br>
 
 ### 1.3 Passage of Bill of Rights - (1791)
 
@@ -265,28 +264,69 @@
 
 ### 1.4 Authority & Role of the Supreme Court
 
-###### ***The Power of Judicial Review***
+###### 1.4.5 The Power of Judicial Review
+
+Does the Court have the final word in constitutional interpretation? Both Congress and the executive branch also interpret the Constitution, but whose say is final?
+
+1. Adams had issued and signed an order appointing Marbury a justice of the peace. Marshall, then Secretary of State, failed to deliver it before the end of the Adams administration. Jefferson and Madison, the new Secretary of State, refused to deliver it. Marbury sued in December 1801 to receive the commission.
+2. The “peculiar delicacy” of the case was its contentious political context and the impact of the Court’s decision on the relations between the branches of government. Madison’s failure to appear in court resulted from the controversy.
+
+
+
 
 <details>
 
-<summary><i>Case [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></summary>
-<ul>
-  <li><b>Overview:</b>Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
+<summary><i>Case: [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></summary>
+  <ul>
+    <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
 <br>
-  <li><b>Facts:</b></li>
+    <li><b>Facts:</b></li>
 <br>
-  <li><b>Issue:</b></li>
+    <li><b>Issue:</b></li>
+      <ol>
+        <li>Did Marbury have a right to the commission?</li>
+          <ul>
+            <li>Yes. The commission was complete when the President signed it and the Secretary of State affixed the U.S. seal.</li>
+          </ul>
+        <li>If Marbury had a right to the commission, did he have right to a legal remedy? When can courts review the executive’s actions?</li>
+          <ul>
+            <li>Yes. Acts “in cases in which the executive possesses a constitutional or legal discretion . . . are only politically examinable” i.e., they are beyond judicial review. But when the act arises under a legal duty, “and individual rights depend upon the performance of that duty, it seems equally clear that the individual who considers himself injured, has a right to resort to the laws of his country for a remedy. . . ”</li>
+
+            <li>The Rule of Law: <i>“The government of the United States has been emphatically termed a government of laws, and not of men.”</i> Compare to Louis XIV: “The State, it is I.”</li>
+
+            <li>The question of whether an officer as an individual has a vested right in his appointment, and therefore whether the President can remove him at will, is for the courts. Therefore the courts can review Marbury’s dispute.</li>
+
+            <li>Whether a right is vested is a question for the courts to decide and is not coferring <b>the political question doctrine</b>.</li>
+          </ul>
+
+        <li>If Marbury had a right to a remedy, was it a writ of mandamus from the Supreme Court? Can the Court enforce the remedy? Can the Court declare a statute to be unconstitutional? Why?</li>
+        <ul>
+          <li>The Judiciary Act of 1789, which established the federal court system, authorized the Supreme Court to issue mandamus to lower courts or officials. Madison was an official, so mandamus was unavailable only if the Judiciary Act was unconstitutional.</li>
+
+          <li>Marshall: "The Constitution granted the Supreme Court original jurisdiction in only two types of cases (those involving ambassadors, etc., and those in which a state is a party). The Constitution’s division of the Court’s jurisdiction between original and appellate meant that it did not intend to give Congress the power to expand the Court’s original jurisdiction.</li>
+
+          <li>Congress therefore did not have the power to expand the Court’s original jurisdiction. §13 of the Judiciary Act was unconstitutional.</li>
+
+          <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.”</li>
+
+          <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”
+
+
+
+        </ul>
+    </ul>
 <br>
-  <li><b>Rule:</b></li>
+    <li><b>Rule:</b></li>
 <br>
-  <li><b>Conclusion:</b></li>
+    <li><b>Conclusion:</b></li>
 <br>
-  <li><b>Notes/Concepts:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+      Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.
 <br>
 
 </details>
 
-###### ***Supreme Court Authority to Review State Court Judgements***
+###### Supreme Court Authority to Review State Court Judgements
 
 <details>
 
@@ -307,49 +347,14 @@
 
 </details>
 
-### Topic
-
-<details>
-
-<summary><i>Case: Name</i></summary>
-<ul>
-  <li><b>Overview:</b></li>
-<br>
-  <li><b>Facts:</b></li>
-<br>
-  <li><b>Issue:</b></li>
-<br>
-  <li><b>Rule:</b></li>
-<br>
-  <li><b>Conclusion:</b></li>
-<br>
-  <li><b>Notes/Concepts:</b></li>
-<br>
-
-</details>
 
 
 
 
 
 
-**Facts:**
-William Marbury, Dennis Ramsay, Robert Townsend Hooe, and William Harper, by their counsel, Charles Lee, severally moved the court for a rule to James Madison, secretary of state of the United States, to show cause why a mandamus should not issue commanding him to cause to be delivered to them respectively their several commissions as justices of the peace in the district of Columbia. This motion was supported by affidavits of the following facts; that notice of this motion had been given to Mr. Madison; that Mr. Adams, the late president of the United States, nominated the applicants to the senate for their advice and consent to be appointed justices of the peace of the district of Columbia; that the senate advised and consented to the appointments; that commissions in the due form were signed by the said president appointing them justices, and that the seal of the United States was in due form affixed to the said commissions by the secretary of state; that the applicants have requested Mr. Madison to deliver them their said commissions, who has not complied with that request; and that their said commissions are withheld from them.
-Applicant asked the Supreme Court to compel President Jefferson’s Secretary of State, by Writ of Mandamus, to deliver the commission.
-**Issue:**
-Does the applicant have a vested right in the commission he demands?
-**Rule:**
-The Constitution of the United States establishes certain limits not to be transcended by the different departments of the government. The powers of the legislature are defined, and limited; and that those limits may not be mistaken, or forgotten, the Constitution is written. To what purpose are powers limited, and to what purpose is that limitation committed to writing, if these limits may, at any time, be passed by those intended to be restrained? The distinction, between a government with limited and unlimited powers, is abolished, if those limits do not confine the persons on whom they are imposed, and if acts prohibited and acts allowed, are of equal obligation. It is a proposition too plain to be contested, that the Constitution controls any legislative act repugnant to it; or, that the legislature may alter the Constitution by an ordinary act.
-
-**Conclusion:**
-
-**Notes/Concepts:**
-The court held the Judiciary Act of 1789 to be unconstitutional because in granting the Court original jurisdiction in acts by government officials, Congress exceeded its constitutional power.
-***Judicial Review*** - The Court has the final say in constitutional interpretation. “It is emphatically the province and duty of the judicial department to say what the law is.""
 
 
-
-Class Notes:
 
 
 
