@@ -98,35 +98,36 @@
 
 <details><summary>Article 2 - The Presidency</summary>
 
-    <ul>
-      <li><b>Section 1: Election, Installation, Removal</b></li>
-        <ul>
-          <li>Natural Born citizen</li>
-          <li>35 years old</li>
-          <li>The Oath "I do solemnly swear"</li>
-        </ul>
+  <ul>
+    <li><b>Section 1: Election, Installation, Removal</b></li>
+      <ul>
+        <li>Natural Born citizen</li>
+        <li>35 years old</li>
+        <li>The Oath "I do solemnly swear"</li>
+      </ul>
 
-      <li><b>Section 2: Presidential Powers</b></li>
-        <ul>
-          <li>Commander and Chief</li>
-          <li>Reprieves and Pardons</li>
-          <li>Appointment of all officials</li>
+    <li><b>Section 2: Presidential Powers</b></li>
+      <ul>
+        <li>Commander and Chief</li>
+        <li>Reprieves and Pardons</li>
+        <li>Appointment of all officials</li>
 
-        </ul>
+      </ul>
 
-      <li><b>Section 3: State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
+    <li><b>Section 3: State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
 
-        <ul>
-          <li>State of the Union</li>
-        </ul>
+      <ul>
+        <li>State of the Union</li>
+      </ul>
 
-      <li><b>Section 4: Impeachment</b></li>
+    <li><b>Section 4: Impeachment</b></li>
 
-    </ul>
+  </ul>
 
 </details>
 
 <details><summary>Article 3 - The Judiciary</summary>
+
   <ul>
     <li><b>Section 1: Judicial Power Vested</b></li>
     <li><b>Section 2: Scope of Judicial Power</b></li>
@@ -144,8 +145,8 @@
 </details>
 
 <details><summary>Article 4 - The States</summary>
-  <ul>
 
+  <ul>
     <li><b>Section 1: Full Faith and Credit</b></li>
     <li><b>Section 2: Privileges & Immunities, Extradition, Fugitive Slaves</b></li>
     <li><b>Section 3:Admission of States</b></li>
@@ -157,33 +158,33 @@
 
 </details>
 
-  <details><summary>Article 5 - Amendment Process</summary>
-    <ul>
+<details><summary>Article 5 - Amendment Process</summary>
+  <ul>
 
-      <li>2/3rds & 3/4ths requirements for amendments</li>
-      <li>Very Difficult to Change the Constitution</li>
-          <ul>
-            <li>Super Super Majority</li>
-          </ul>
-    </ul>
-
-  </details>
-
-  <details><summary>Article 6 - Legal Status of the Constitution</summary>
-    <ul>
-
-      <li>Supremacy Clause</li>
-      <li>"but no religious test shall ever be required..."</li>
-    </ul>
-
-
-  </details>
-
-  <details><summary>Article 7 - Ratification</summary>
-
+    <li>2/3rds & 3/4ths requirements for amendments</li>
+    <li>Very Difficult to Change the Constitution</li>
+        <ul>
+          <li>Super Super Majority</li>
+        </ul>
   </ul>
 
-  </details>
+</details>
+
+<details><summary>Article 6 - Legal Status of the Constitution</summary>
+  <ul>
+
+    <li>Supremacy Clause</li>
+    <li>"but no religious test shall ever be required..."</li>
+  </ul>
+
+
+</details>
+
+<details><summary>Article 7 - Ratification</summary>
+  <ul>
+  </ul>
+
+</details>
 
 </details>
 
@@ -286,7 +287,8 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
 <details>
 
-<summary><i>Case: [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></summary>
+<summary><i>Case:[Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></summary>
+
   <ul>
     <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
 <br>
