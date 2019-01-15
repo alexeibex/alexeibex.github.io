@@ -143,19 +143,19 @@
 
 </details>
 
-  <details><summary>Article 4 - The States</summary>
-    <ul>
+<details><summary>Article 4 - The States</summary>
+  <ul>
 
-      <li><b>Section 1: Full Faith and Credit</b></li>
-      <li><b>Section 2: Privileges & Immunities, Extradition, Fugitive Slaves</b></li>
-      <li><b>Section 3:Admission of States</b></li>
-        <ul>
-          <li>Senate as an Undemocratic institution</li>
-        </ul>
-      <li><b>Section 4: Guarantees to States<b></li>
-    </ul>
+    <li><b>Section 1: Full Faith and Credit</b></li>
+    <li><b>Section 2: Privileges & Immunities, Extradition, Fugitive Slaves</b></li>
+    <li><b>Section 3:Admission of States</b></li>
+      <ul>
+        <li>Senate as an Undemocratic institution</li>
+      </ul>
+    <li><b>Section 4: Guarantees to States</b></li>
+  </ul>
 
-  </details>
+</details>
 
   <details><summary>Article 5 - Amendment Process</summary>
     <ul>
