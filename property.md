@@ -28,8 +28,6 @@ No single unifying theory of property. Numerous older doctrines and rules that p
   - If you suffered?
 - Who determines the rules?
   - Law or Custom?
-  -
-
 
 
 ### 1.1 Acquisition and Claim Scope
