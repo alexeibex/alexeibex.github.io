@@ -38,6 +38,18 @@ Given candid representation of the facts.
 Disclose all material facts and acurately represent the record
 Dislose all binding authority even if it is negative
 
+#### Structure of Brief
+
+Structure  | Content  | Description
+--|--|--
+Caption/Title Page  |  |
+Table of Contents  |  | Persuasive Description and Layout
+Table of Authorities  |   |  Full Citation, still must give one more full cite substantively, Separated by Jurisdiction, No Passim, BlueBook Form,
+QP  |  | First chance to introduce issues and facts. (Relevant Legal Issue plus persuasive key facts) In persuasive writing, QP is strategic. Do not assume the legal issue is decided in QP.
+Statement of the Case  |  |
+Standard of Review   |   | The deference the appellate court gives to the lower courts decision. De Novo/Clear Error. Standard by which the court examines the lower court. Findings of law get less deference from appellate court. Findings of fact get more deference. De Novo = less deference + appellant court is starts from the beginning. Clear error = More Deference
+Argument  |  |
+Conclusion  | |
 
 
 More Links:
