@@ -46,7 +46,7 @@ Caption/Title Page  |  |
 Table of Contents  |  | Persuasive Description and Layout
 Table of Authorities  |   |  Full Citation, still must give one more full cite substantively, Separated by Jurisdiction, No Passim, BlueBook Form,
 QP  |  | First chance to introduce issues and facts. (Relevant Legal Issue plus persuasive key facts) In persuasive writing, QP is strategic. Do not assume the legal issue is decided in QP.
-Statement of the Case  |  |
+Statement of the Case  |  | Preliminary statement & statement of facts. Present clients version of the facts to persuade the court in your favor even prior to the argument. Start the story. Statements of facts need to be clear, concise, thorough, clear, persuasive. Judge should rely on your facts not opposing party. Preliminary statement = prior relevant history. Then Statement of Facts. Coherent, sympathetic, narrative that includes all material facts and background information. Maintain credibility, Maximize favorable facts, minimize unfavorable facts. What does someone who does not know anything about the case need to know? Organize strategically, chronological, by issue. Refer to client by their name. Alternate noun for other side. (Appellant) Do not overuse quotations, tell the narrative/story. Bad facts should be presented in the middle. Distance client from activity with passive voice if strategy requires.
 Standard of Review   |   | The deference the appellate court gives to the lower courts decision. De Novo/Clear Error. Standard by which the court examines the lower court. Findings of law get less deference from appellate court. Findings of fact get more deference. De Novo = less deference + appellant court is starts from the beginning. Clear error = More Deference
 Argument  |  |
 Conclusion  | |
