@@ -14,19 +14,33 @@ Supplemental Reading: Gilberts Outline, Sprankling
 
 #### Class Themes:
 No single unifying theory of property. Numerous older doctrines and rules that pervade modern facts and issues. Resurgent movement to change methodology and provide unfiying theory of property.
-
+##### Questions
+- Does an element of time matter?
+- How long ago was it acquired?
+- How it was acquired?
+  - Trespass is wrong. But trespass long enough and acquire ownership.
+- Transfer of ownership
+  - Position in lines
+    - DC circuit prohibited line standing for viewing cases
+    - US Supreme Court banned line standing
+- What sorts of things can be owned?
+  - Should you own something if you are first?
+  - If you suffered?
+- Who determines the rules?
+  - Law or Custom?
+  -
 
 
 
 ### 1.1 Acquisition and Claim Scope
 Reading: Pages 57–69 & 72–82​
 
-#### Acquisition:
-1. Gratutious transfer (Gift)
-2. Bought and Paid
-3. Stolen once upon a time?
-  - Does an element of time matter? How long ago was it stolen?
-  -
+##### Acquisition & Ownership
+
+
+##### Real Property v. Personal Property
+ - Real Prperty = Dirt & Buildings (Focus)
+ - Personal Property = Personal Goods & Tangibles + IP
 
 
 <details>
@@ -37,13 +51,18 @@ Reading: Pages 57–69 & 72–82​
 <br>
   <li><b>Facts:</b>Post(∆) in possession of dogs and hounds was in pursuit of a fox on a wild, uninhabited, waste land called the beach. Pierson (π) knowing fox was so hunted and pursued, chased after fox and killed it, carrying it off.</li>
 <br>
-  <li><b>Issue:</b>Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox.</li>
+  <li><b>Issue:</b>Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox. Narrow question is what amounts to occupancy of acquiring right to wild animals? What constitutes posession?</li>
 <br>
   <li><b>Rule:</b></li>
 <br>
-  <li><b>Conclusion:</b>Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?</li>
+  <li><b>Conclusion:</b>Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by <b>occupancy only</b> aka posession.</li>
 <br>
   <li><b>Notes/Concepts:</b></li>
+    <ul>
+      <li>Ownership by first posession is true of wild animals</li>
+
+    </ul>
+
 <br>
 
 </details>

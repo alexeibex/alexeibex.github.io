@@ -81,6 +81,7 @@
     <li>States cannot get involved in treaties</li>
     <li>No Bills of attainder & Ex Post Facto</li>
     <li>No Law impairing federal law</li>
+    
 </details>
 
 <details>
