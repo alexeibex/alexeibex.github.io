@@ -1,6 +1,6 @@
 # Constitutional Law
 
-Textbooks:  
+Textbooks:
 
 - Course Themes
  1. Powers
@@ -11,10 +11,10 @@ Textbooks:
 
 ## 0. Contents
 
-1. The Constitution and the Court    
-  1.1 [Introduction: The US Constitution](#11-introduction)  
-  1.2 [Articles of the Confederacy](https://alexeibex.github.io/constitutionallaw#12-articles-of-the-confederacy)  
-  1.3 [The Supreme Court's Authority and Role](#1.2)  
+1. The Constitution and the Court
+  1.1 [Introduction: The US Constitution](#11-introduction)
+  1.2 [Articles of the Confederacy](https://alexeibex.github.io/constitutionallaw#12-articles-of-the-confederacy)
+  1.3 [The Supreme Court's Authority and Role](#1.2)
      - *Marbury v. Madison*
      - *Martin v. Hunter's Lessee*
      - *Cooper v. Aaron*
@@ -28,7 +28,7 @@ Textbooks:
     1. Preamble set up to set forth the *Government*
     2. Structure and Organization
     3. *"Secure the Blessings of Liberty"*
-        - [Captain Kirk Monologue](https://www.youtube.com/watch?v=uGO-SldLrNA)       
+        - [Captain Kirk Monologue](https://www.youtube.com/watch?v=uGO-SldLrNA)
 
 ### 1.2 Articles of the Confederacy
 1. Article 1 - The Legislature
@@ -38,7 +38,7 @@ Textbooks:
   - Section 2: **The House of Representatives**
   - Creation of House and sets election terms.
     - *1st Stain of the Constitution* The 3/5ths clause
-  - Section 3: **The Senate & Impeachment**  
+  - Section 3: **The Senate & Impeachment**
     - Creation of Senate and election terms.
     - Separate but **Interlocking** Powers
       - Vice President has vote if tie
@@ -63,7 +63,7 @@ Textbooks:
     - Stain #2 - Commerce of slaves
     - Habeas Corpus
     - Ex Post Facto
-    - No Title of Nobility & No Emoluments  
+    - No Title of Nobility & No Emoluments
   - Section 10: Limits on States
     - States cannot get involved in treaties
     - No Bills of attainder & Ex Post Facto
@@ -122,18 +122,18 @@ Passage of Bill of Rights - (1791)
 
 <details>
 <summary>Case: *[Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)*</summary>
-**Overview:**  Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.  
-**Facts:**  
+**Overview:**  Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.
+**Facts:**
 William Marbury, Dennis Ramsay, Robert Townsend Hooe, and William Harper, by their counsel, Charles Lee, severally moved the court for a rule to James Madison, secretary of state of the United States, to show cause why a mandamus should not issue commanding him to cause to be delivered to them respectively their several commissions as justices of the peace in the district of Columbia. This motion was supported by affidavits of the following facts; that notice of this motion had been given to Mr. Madison; that Mr. Adams, the late president of the United States, nominated the applicants to the senate for their advice and consent to be appointed justices of the peace of the district of Columbia; that the senate advised and consented to the appointments; that commissions in the due form were signed by the said president appointing them justices, and that the seal of the United States was in due form affixed to the said commissions by the secretary of state; that the applicants have requested Mr. Madison to deliver them their said commissions, who has not complied with that request; and that their said commissions are withheld from them.
-Applicant asked the Supreme Court to compel President Jefferson’s Secretary of State, by Writ of Mandamus, to deliver the commission.  
+Applicant asked the Supreme Court to compel President Jefferson’s Secretary of State, by Writ of Mandamus, to deliver the commission.
 **Issue:**
-Does the applicant have a vested right in the commission he demands?  
-**Rule:**  
-The Constitution of the United States establishes certain limits not to be transcended by the different departments of the government. The powers of the legislature are defined, and limited; and that those limits may not be mistaken, or forgotten, the Constitution is written. To what purpose are powers limited, and to what purpose is that limitation committed to writing, if these limits may, at any time, be passed by those intended to be restrained? The distinction, between a government with limited and unlimited powers, is abolished, if those limits do not confine the persons on whom they are imposed, and if acts prohibited and acts allowed, are of equal obligation. It is a proposition too plain to be contested, that the Constitution controls any legislative act repugnant to it; or, that the legislature may alter the Constitution by an ordinary act.  
-**Conclusion:**  
+Does the applicant have a vested right in the commission he demands?
+**Rule:**
+The Constitution of the United States establishes certain limits not to be transcended by the different departments of the government. The powers of the legislature are defined, and limited; and that those limits may not be mistaken, or forgotten, the Constitution is written. To what purpose are powers limited, and to what purpose is that limitation committed to writing, if these limits may, at any time, be passed by those intended to be restrained? The distinction, between a government with limited and unlimited powers, is abolished, if those limits do not confine the persons on whom they are imposed, and if acts prohibited and acts allowed, are of equal obligation. It is a proposition too plain to be contested, that the Constitution controls any legislative act repugnant to it; or, that the legislature may alter the Constitution by an ordinary act.
+**Conclusion:**
 
 **Notes/Concepts:**
-The court held the Judiciary Act of 1789 to be unconstitutional because in granting the Court original jurisdiction in acts by government officials, Congress exceeded its constitutional power.  
+The court held the Judiciary Act of 1789 to be unconstitutional because in granting the Court original jurisdiction in acts by government officials, Congress exceeded its constitutional power.
 ***Judicial Review*** - The Court has the final say in constitutional interpretation. “It is emphatically the province and duty of the judicial department to say what the law is.""
 
 </details>
@@ -146,16 +146,16 @@ Class Notes:
 <details>
 <summary>Case: *[Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)*</summary>
 
- **Overview:** The Supreme Court of the United States had appellate power over a final judgement from a state court of appeals because the matter concerned an issue arising under a treaty of the United States.  
-**Facts:**  
-Plaintiff appealed from the Court of Appeals of Virginia which found for defendant in plaintiff's action of ejectment, the Supreme Court of the United States reversed. The court of appeals refused to obey the mandate of the Supreme Court because it determined that the appellate power of the Supreme Court did not extend to the state court of appeals. The case was once again brought to the Supreme Court on writ of error.  
+ **Overview:** The Supreme Court of the United States had appellate power over a final judgement from a state court of appeals because the matter concerned an issue arising under a treaty of the United States.
+**Facts:**
+Plaintiff appealed from the Court of Appeals of Virginia which found for defendant in plaintiff's action of ejectment, the Supreme Court of the United States reversed. The court of appeals refused to obey the mandate of the Supreme Court because it determined that the appellate power of the Supreme Court did not extend to the state court of appeals. The case was once again brought to the Supreme Court on writ of error.
 **Issue:**
-Whether the Supreme Court of the United States has appellate jurisdiction over the state court of appeals.  
-**Rule:**  
-Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself; and if in any of the cases enumerated in the constitution, the state courts did not then possess jurisdiction, the appellate jurisdiction of the supreme court (admitting that it could act on state courts) could not reach those cases, and, consequently, the injunction of the constitution, that the judicial power "shall be vested," would be disobeyed. It would seem, therefore, to follow, that congress are bound to create some inferior courts, in which to vest all that jurisdiction which, under the constitution, is exclusively vested in the United States, and of which the supreme court cannot take original cognizance. They might establish one or more inferior courts; they might parcel out the jurisdiction among such courts, from time to time, at their own pleasure. But the whole judicial power of the United States should be, at all times, vested either in an original or appellate form, in some courts created under its authority.  
-**Conclusion:**  
+Whether the Supreme Court of the United States has appellate jurisdiction over the state court of appeals.
+**Rule:**
+Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself; and if in any of the cases enumerated in the constitution, the state courts did not then possess jurisdiction, the appellate jurisdiction of the supreme court (admitting that it could act on state courts) could not reach those cases, and, consequently, the injunction of the constitution, that the judicial power "shall be vested," would be disobeyed. It would seem, therefore, to follow, that congress are bound to create some inferior courts, in which to vest all that jurisdiction which, under the constitution, is exclusively vested in the United States, and of which the supreme court cannot take original cognizance. They might establish one or more inferior courts; they might parcel out the jurisdiction among such courts, from time to time, at their own pleasure. But the whole judicial power of the United States should be, at all times, vested either in an original or appellate form, in some courts created under its authority.
+**Conclusion:**
 
-**Notes/Concepts:**  
+**Notes/Concepts:**
 The Court’s power to review state court decisions and the constitutionality of state court decisions is well established. See §25 of the Federal Judiciary Act of 1789
 
 </details>
@@ -166,14 +166,14 @@ The Court’s power to review state court decisions and the constitutionality of
 <details>
 <summary>Case: *Baker v. Carr*</summary>
 
-**Facts:**  
+**Facts:**
 Case over legislative districts.
 **Issue:**
 
-**Rule:**  
+**Rule:**
 
-**Conclusion:**  
+**Conclusion:**
 
-**Notes/Concepts:**  
+**Notes/Concepts:**
 
 </details>
