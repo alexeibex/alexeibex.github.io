@@ -88,10 +88,9 @@
 
   </details>
 
-  <details>
-  <summary>Article 2 - The Presidency</summary>
-
+<details><summary>Article 2 - The Presidency</summary>
     <ul>
+
       <li><b>Section 1: Election, Installation, Removal</b></li>
         <ul>
           <li>Natural Born citizen</li>
@@ -110,10 +109,10 @@
           <li>State of the Union</li>
         </ul>
   <li><b>Section 4: Impeachment<b></li>
-  <ul>
+
   </ul>
 
-  </details>
+</details>
 
   <details>
   <summary>Article 3 - The Judiciary</summary>
