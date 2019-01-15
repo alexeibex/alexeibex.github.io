@@ -106,11 +106,11 @@
           <li>The Oath "I do solemnly swear"</li>
         </ul>
 
-      <li><b>Section 2: Presidential Powers<b></li>
+      <li><b>Section 2: Presidential Powers</b></li>
         <ul>
           <li>Commander and Chief</li>
           <li>Reprieves and Pardons</li>
-          <li><b>Appointment of all officials<b></li>
+          <li><b>Appointment of all officials</b></li>
         </ul>
 
       <li><b>Section 3: State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
