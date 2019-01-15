@@ -275,7 +275,7 @@
 
 ### 1.4 Authority & Role of the Supreme Court
 
-###### 1.4.5 The Power of Judicial Review
+#### 1.4.5 The Power of Judicial Review
 
 Does the Court have the final word in constitutional interpretation? Both Congress and the executive branch also interpret the Constitution, but whose say is final?
 
@@ -284,16 +284,13 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
 
 
-
+<i><b>Case: [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</b></i>
 <details>
-
-<summary><i>Case:[Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></summary>
+<summary>Case Brief</summary>
 
   <ul>
     <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
-<br>
     <li><b>Facts:</b></li>
-<br>
     <li><b>Issue:</b></li>
       <ol>
         <li>Did Marbury have a right to the commission?</li>
@@ -326,14 +323,10 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
         </ul>
     </ul>
-<br>
     <li><b>Rule:</b></li>
-<br>
     <li><b>Conclusion:</b></li>
-<br>
     <li><b>Notes/Concepts:</b></li>
       Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.
-<br>
 
 </details>
 
@@ -341,7 +334,10 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
 <details>
 
-<summary><i>Case: [Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></summary>
+<i>Case: [Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i>
+
+<summary>Case Brief</summary>
+
 <ul>
   <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
 <br>
