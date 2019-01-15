@@ -322,13 +322,14 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
 
         </ul>
-    </ul>
+
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
       Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.
-
+  </ul>
 </details>
+
 
 ###### Supreme Court Authority to Review State Court Judgements
 
