@@ -30,7 +30,7 @@
 
 <details><summary><b>Articles of the Confederacy</b></summary>
 
-  <details><summary>Article 1 - The Legislature</summary>
+<details><summary>Article 1 - The Legislature</summary>
     <ul>
       <li><b>Section 1: Legislative Powers</b></li>
         <ul>
@@ -69,8 +69,9 @@
           <li>Patents & Trademarks</li>
           <li>International Law</li>
           <li>War Powers</li>
-          <li>Necessary & Proper - <b><i>Elastic Clause</b></i></li>
+          <li>Necessary & Proper<b><i>Elastic Clause</b></i></li>
         </ul>
+
       <li><b>Section 9:Limits on Legislative Power</b></li>
         <ul>
           <li>Stain #2 - Commerce of slaves</li>
@@ -78,15 +79,17 @@
           <li>Ex Post Facto</li>
           <li>No Title of Nobility & No Emoluments</li>
         </ul>
+
       <li><b>Section 10: Limits on States</b></li>
         <ul>
           <li>States cannot get involved in treaties</li>
           <li>No Bills of attainder & Ex Post Facto</li>
           <li>No Law impairing federal law</li>
         </ul>
+
     </ul>
 
-  </details>
+</details>
 
 <details><summary>Article 2 - The Presidency</summary>
   <ul>
@@ -307,10 +310,9 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
           <li>Congress therefore did not have the power to expand the Court’s original jurisdiction. §13 of the Judiciary Act was unconstitutional.</li>
 
-          <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.”</li>
+          <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.” so verse the statute, the constitution holds power</li>
 
           <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”
-
 
 
         </ul>
