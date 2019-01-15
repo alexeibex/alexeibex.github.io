@@ -120,7 +120,7 @@
           <li>State of the Union</li>
         </ul>
 
-      <li><b>Section 4: Impeachment<b></li>
+      <li><b>Section 4: Impeachment</b></li>
 
     </ul>
 
