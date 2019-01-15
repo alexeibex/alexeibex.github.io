@@ -30,93 +30,100 @@
 
 <details><summary><b>Articles of the Confederacy</b></summary>
 
-<details><summary>Article 1 - The Legislature</summary>
+  <details><summary>Article 1 - The Legislature</summary>
+
+      <ul>
+        <li><b>Section 1: Legislative Powers</b></li>
+          <ul>
+            <li><i>"All Legislative Power herein granted shall be vested in a Congress of the United States"</i></li>
+          </ul>
+
+        <li><b>Section 2: The House of Representatives</b></li>
+          <ul>
+            <li>Creation of House and sets election terms.</li>
+            <li>1st Stain of the Constitution* The 3/5ths clause</li>
+          </ul>
+
+        <li><b>Section 3: The Senate & Impeachment</b></li>
+          <ul>
+            <li>Creation of Senate and election terms</li>
+            <li>Separate but **Interlocking** Powers</li>
+            <li>Vice President has vote if tie</li>
+            <li>Senate has the sole power to try all Impeachment</li>
+            <li>"...on Oath or affirmation."</li>
+            <li>Chief Justice of SCOTUS will preside over Impeachment</li>
+            <li>Impeachment requires 2/3rds majority</li>
+            <li>Impeachment results in exit from office</li>
+          </ul>
+
+        <li><b>Section 6: Compensation and Privileges of Members</b></li>
+          <ul>
+            <li>Prevention of abuse to promote free discussion & debate</li>
+            <li>"for any Speech or Debate...they shall not be questioned in any other place"</li>
+          </ul>
+
+        <li><b>Section 7: Passage of Bills</b></li>
+          <ul>
+            <li>"Swiss Timepiece process of creation of law"</li>
+            <li>"Let's make it **Hard** for the government to act..."</li>
+          </ul>
+
+        <li><b> Section 8: Scope of Legislative Power</b></li>
+          <ul>
+            <li>Commerce Clause of Congress</li>
+            <li>"The Power to regulate Commerce among <b>different places...</b>"</li>
+            <li>Patents & Trademarks</li>
+            <li>International Law</li>
+            <li>War Powers</li>
+            <li>Necessary & Proper (Elastic Clause)</li>
+          </ul>
+
+        <li><b>Section 9:Limits on Legislative Power</b></li>
+          <ul>
+            <li>Stain #2 - Commerce of slaves</li>
+            <li>Habeas Corpus</li>
+            <li>Ex Post Facto</li>
+            <li>No Title of Nobility & No Emoluments</li>
+          </ul>
+
+        <li><b>Section 10: Limits on States</b></li>
+          <ul>
+            <li>States cannot get involved in treaties</li>
+            <li>No Bills of attainder & Ex Post Facto</li>
+            <li>No Law impairing federal law</li>
+          </ul>
+      </ul>
+
+  </details>
+
+  <details><summary>Article 2 - The Presidency</summary>
+
     <ul>
-      <li><b>Section 1: Legislative Powers</b></li>
+      <li><b>Section 1: Election, Installation, Removal</b></li>
         <ul>
-          <li><i>"All Legislative Power herein granted shall be vested in a Congress of the United States"</i></li>
-        </ul>
-      <li><b>Section 2: The House of Representatives</b></li>
-        <ul>
-          <li>Creation of House and sets election terms.</li>
-          <li>1st Stain of the Constitution* The 3/5ths clause</li>
-        </ul>
-      <li><b>Section 3: The Senate & Impeachment</b></li>
-        <ul>
-          <li>Creation of Senate and election terms</li>
-          <li>Separate but **Interlocking** Powers</li>
-          <li>Vice President has vote if tie</li>
-          <li>Senate has the sole power to try all Impeachment</li>
-          <li>"...on Oath or affirmation."</li>
-          <li>Chief Justice of SCOTUS will preside over Impeachment</li>
-          <li>Impeachment requires 2/3rds majority</li>
-          <li>Impeachment results in exit from office</li>
-        </ul>
-      <li><b>Section 6: Compensation and Privileges of Members</b></li>
-        <ul>
-          <li>Prevention of abuse to promote free discussion & debate</li>
-          <li>"for any Speech or Debate...they shall not be questioned in any other place"</li>
-        </ul>
-      <li><b>Section 7: Passage of Bills</b></li>
-        <ul>
-          <li>"Swiss Timepiece process of creation of law"</li>
-          <li>"Let's make it **Hard** for the government to act..."</li>
-        </ul>
-      <li><b> Section 8: Scope of Legislative Power</b></li>
-        <ul>
-          <li>Commerce Clause of Congress</li>
-          <li>"The Power to regulate Commerce among <b>different places...</b>"</li>
-          <li>Patents & Trademarks</li>
-          <li>International Law</li>
-          <li>War Powers</li>
-          <li>Necessary & Proper<b><i>Elastic Clause</b></i></li>
+          <li>Natural Born citizen</li>
+          <li>35 years old</li>
+          <li>The Oath "I do solemnly swear"</li>
         </ul>
 
-      <li><b>Section 9:Limits on Legislative Power</b></li>
+      <li><b>Section 2: Presidential Powers<b></li>
         <ul>
-          <li>Stain #2 - Commerce of slaves</li>
-          <li>Habeas Corpus</li>
-          <li>Ex Post Facto</li>
-          <li>No Title of Nobility & No Emoluments</li>
+          <li>Commander and Chief
+          <li>Reprieves and Pardons
+          <li><b>Appointment of all officials<b></li>
         </ul>
 
-      <li><b>Section 10: Limits on States</b></li>
+      <li><b>Section 3:** *State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
         <ul>
-          <li>States cannot get involved in treaties</li>
-          <li>No Bills of attainder & Ex Post Facto</li>
-          <li>No Law impairing federal law</li>
+          <li>State of the Union</li>
         </ul>
 
+      <li><b>Section 4: Impeachment<b></li>
     </ul>
 
-</details>
+  </details>
 
-<details><summary>Article 2 - The Presidency</summary>
-  <ul>
-    <li><b>Section 1: Election, Installation, Removal</b></li>
-      <ul>
-        <li>Natural Born citizen</li>
-        <li>35 years old</li>
-        <li>The Oath "I do solemnly swear"</li>
-      </ul>
-
-    <li><b>Section 2: Presidential Powers<b></li>
-      <ul>
-        <li>Commander and Chief
-        <li>Reprieves and Pardons
-        <li><b>Appointment of all officials<b></li>
-      </ul>
-    <li><b>Section 3:** *State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
-      <ul>
-        <li>State of the Union</li>
-      </ul>
-    <li><b>Section 4: Impeachment<b></li>
-  </ul>
-
-</details>
-
-  <details>
-  <summary>Article 3 - The Judiciary</summary>
+  <details><summary>Article 3 - The Judiciary</summary>
     <ul>
       <li><b>Section 1: Judicial Power Vested</b></li>
       <li><b>Section 2: Scope of Judicial Power</b></li>
@@ -133,9 +140,9 @@
 
   </details>
 
-  <details>
-  <summary>Article 4 - The States</summary>
+  <details><summary>Article 4 - The States</summary>
     <ul>
+
       <li><b>Section 1: Full Faith and Credit</b></li>
       <li><b>Section 2: Privileges & Immunities, Extradition, Fugitive Slaves</b></li>
       <li><b>Section 3:Admission of States</b></li>
@@ -147,9 +154,9 @@
 
   </details>
 
-  <details>
-  <summary>Article 5 - Amendment Process</summary>
+  <details><summary>Article 5 - Amendment Process</summary>
     <ul>
+
       <li>2/3rds & 3/4ths requirements for amendments</li>
       <li>Very Difficult to Change the Constitution</li>
           <ul>
@@ -159,9 +166,9 @@
 
   </details>
 
-  <details>
-  <summary>Article 6 - Legal Status of the Constitution</summary>
+  <details><summary>Article 6 - Legal Status of the Constitution</summary>
     <ul>
+
       <li>Supremacy Clause</li>
       <li>"but no religious test shall ever be required..."</li>
     </ul>
@@ -169,20 +176,17 @@
 
   </details>
 
-  <details>
-  <summary>Article 7 - Ratification</summary>
+  <details><summary>Article 7 - Ratification</summary>
 
   </ul>
 
   </details>
 
 </details>
-<br>
 
 ### 1.3 Passage of Bill of Rights - (1791)
 
-<details>
-<summary>The Bill Of Rights (10 Amendments)</summary>
+<details><summary>The Bill Of Rights (10 Amendments)</summary>
 
 <ul>
   <li>1st Amendment: Freedom of Religion, Speech, Press, Assembly</li>
@@ -213,8 +217,8 @@
 </ul>
 </details>
 
-<details>
-<summary>Subsequent Amendments (17 Amendments)</summary>
+<details><summary>Subsequent Amendments (17 Amendments)</summary>
+
   <ul>
     <li>11th Amendment: Suits against States</li>
     <li>12th Amendment: Election of President and Vice President</li>
@@ -256,8 +260,8 @@
 
 </details>
 
-<details>
-<summary>Unratified Amendments</summary>
+<details><summary>Unratified Amendments</summary>
+
   <ul>
     <li>Not Passed: 28th Equal Rights Amendment</li>
   </ul>
