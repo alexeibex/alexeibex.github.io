@@ -12,7 +12,7 @@
 
 <details>
 
-<summary><i>Pierson v. Post</i></summary>
+<summary><i>Case: Pierson v. Post</i></summary>
 <br>
 <b>Overview:</b> Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.
 <br>
@@ -25,25 +25,27 @@
 <b>Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
 <br>
 
-**Notes/Concepts:**
+<b>Notes/Concepts:</b>
 <br>
 
 </details>
 
+
 <details>
-<summary><i>Ghen v. Rich</i></summary>
-
-**Overview:** Court granted libellant fisherman judgment in action for conversion of fin-backwhale because local usage that fisherman who shoots a whale with identifiable bomb-lance, letting it sink, then pays fee to whale's finder, granted title.
-
-**Facts:** fin-backwhales frequent Massachusetts bay where fishermen shoot and kill the whales. Whales then sink to the ocean floor and rise up 1-3 days later. Whales then either float to beach, are picked up or float out to sea. Each fisherman uses their own unique lance to mark the whale. ∆ found such whale and advertised on the spot for the sale of the whale.
-**Issue:**
-
-**Rule:** Whale, being a ferae naturae, does not become property until a firm possession has been established by the taker.
-
-**Conclusion:** Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
-
-**Notes/Concepts:**
-
+<summary><i>Case: Ghen v. Rich</i></summary>
+<br>
+<b>Overview:</b> Court granted libellant fisherman judgment in action for conversion of fin-backwhale because local usage that fisherman who shoots a whale with identifiable bomb-lance, letting it sink, then pays fee to whale's finder, granted title.
+<br>
+<b>Facts:</b> fin-backwhales frequent Massachusetts bay where fishermen shoot and kill the whales. Whales then sink to the ocean floor and rise up 1-3 days later. Whales then either float to beach, are picked up or float out to sea. Each fisherman uses their own unique lance to mark the whale. ∆ found such whale and advertised on the spot for the sale of the whale.
+<br>
+<b>Issue:</b>
+<br>
+<b>Rule:</b> Whale, being a ferae naturae, does not become property until a firm possession has been established by the taker.
+<br>
+<b.Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?
+<br>
+<b>Notes/Concepts:</b>
+<br>
 </details>
 
 ### 1.1 Open Access and the Commons

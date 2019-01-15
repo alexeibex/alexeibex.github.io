@@ -1,18 +1,21 @@
-Briefing a Case
-
-#### Heading
+### Topic
 
 <details>
-<summary>Case Name</summary>
 
-**Facts:**  
+<summary><i>Case: Name</i></summary>
+<br>
+<b>Overview:</b>
+<br>
+<b>Facts:</b>
+<br>
+<b>Issue:</b>
+<br>
+<b>Rule:</b>
+<br>
+<b>Conclusion:</b>
+<br>
 
-**Issue:**
-
-**Rule:**  
-
-**Conclusion:**  
-
-**Notes/Concepts:**  
+<b>Notes/Concepts:</b>
+<br>
 
 </details>
