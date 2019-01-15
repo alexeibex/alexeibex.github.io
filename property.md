@@ -1,20 +1,37 @@
 # Property Law
+Supplemental Reading: Gilberts Outline, Sprankling
 <!-- TOC -->
 
-- [Property Law](#property-law)
+### [Contents](#property-law)
+  - 1.0 Introduction
   - [1.1 Acquisition and Claim Scope](#11-acquisition-and-claim-scope)
   - [1.1 Open Access and the Commons](#11-open-access-and-the-commons)
 
 <!-- /TOC -->
 
+
+### 1.0 Introduction
+
+#### Class Themes:
+No single unifying theory of property. Numerous older doctrines and rules that pervade modern facts and issues. Resurgent movement to change methodology and provide unfiying theory of property.
+
+
+
+
 ### 1.1 Acquisition and Claim Scope
 Reading: Pages 57–69 & 72–82​
+
+#### Acquisition:
+1. Gratutious transfer (Gift)
+2. Bought and Paid
+3. Stolen once upon a time?
+  - Does an element of time matter? How long ago was it stolen?
+  -
 
 
 <details>
 
 <summary><i>Case: Pierson v. Post</i></summary>
-<br>
 <ul>
   <li><b>Overview:</b>Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.</li>
 <br>
@@ -34,7 +51,7 @@ Reading: Pages 57–69 & 72–82​
 
 <details>
 <summary><i>Case: Ghen v. Rich</i></summary>
-<br>
+
 <ul>
   <li><b>Overview:</b>Court granted libellant fisherman judgment in action for conversion of fin-backwhale because local usage that fisherman who shoots a whale with identifiable bomb-lance, letting it sink, then pays fee to whale's finder, granted title.</li>
 <br>

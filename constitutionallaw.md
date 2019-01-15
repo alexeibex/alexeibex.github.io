@@ -29,72 +29,96 @@
 
 <details>
 <summary>Article 1 - The Legislature</summary>
-
-- **Section 1:** *Legislative Powers*
-  - *"All Legislative Power herein granted shall be vested in a Congress of the United States"*
-- **Section 2:** *The House of Representatives*
-  - Creation of House and sets election terms.
-  - *1st Stain of the Constitution* The 3/5ths clause
-- **Section 3:** *The Senate & Impeachment*
-  - Creation of Senate and election terms.
-  - Separate but **Interlocking** Powers
-  - Vice President has vote if tie
-  - Senate has the sole power to try all Impeachment
-  - "...on Oath or affirmation."
-  - Chief Justice of SCOTUS will preside over Impeachment
-  - Impeachment requires 2/3rds majority
-  - Impeachment results in exit from office
-- **Section 6:** *Compensation and Privileges of Members*
-  - Prevention of abuse to promote free discussion & debate
-    - "for any Speech or Debate...they shall not be questioned in any other place"
-- **Section 7:** *Passage of Bills*
-  -"Swiss Timepiece process of creation of law"
-  -"Let's make it **Hard** for the government to act..."
-- **Section 8:** *Scope of Legislative Power*
-  - Commerce Clause of Congress
-    - "The Power to regulate Commerce among **different places**..."
-  - Patents & Trademarks
-  - International Law
-  - War Powers
-  - Necessary & Proper - ***Elastic Clause***
-- **Section 9:** *Limits on Legislative Power*
-  - Stain #2 - Commerce of slaves
-  - Habeas Corpus
-  - Ex Post Facto
-  - No Title of Nobility & No Emoluments
-- **Section 10:** *Limits on States*
-  -States cannot get involved in treaties
-  - No Bills of attainder & Ex Post Facto
-  - No Law impairing federal law
+<ul>
+  <li><b>Section 1: Legislative Powers</b></li>
+    <ul>
+      <li><i>"All Legislative Power herein granted shall be vested in a Congress of the United States"</i></li>
+    </ul>
+  <li><b>Section 2: The House of Representatives</b></li>
+    <ul>
+      <li>Creation of House and sets election terms.</li>
+      <li>1st Stain of the Constitution* The 3/5ths clause</li>
+    </ul>
+  <li><b>Section 3: The Senate & Impeachment</b></li>
+    <ul>
+      <li>Creation of Senate and election terms</li>
+      <li>Separate but **Interlocking** Powers</li>
+      <li>Vice President has vote if tie</li>
+      <li>Senate has the sole power to try all Impeachment</li>
+      <li>"...on Oath or affirmation."</li>
+      <li>Chief Justice of SCOTUS will preside over Impeachment</li>
+      <li>Impeachment requires 2/3rds majority</li>
+      <li>Impeachment results in exit from office</li>
+    </ul>
+  <li><b>Section 6: Compensation and Privileges of Members</b></li>
+    <ul>
+      <li>Prevention of abuse to promote free discussion & debate</li>
+      <li>"for any Speech or Debate...they shall not be questioned in any other place"</li>
+    </ul>
+  <li><b>Section 7: Passage of Bills</b></li>
+    <ul>
+      <li>"Swiss Timepiece process of creation of law"</li>
+      <li>"Let's make it **Hard** for the government to act..."</li>
+    </ul>
+  <li><b> Section 8: Scope of Legislative Power</b></li>
+    <ul>
+      <li>Commerce Clause of Congress</li>
+      <li>"The Power to regulate Commerce among <b>different places...</b>"</li>
+      <li>Patents & Trademarks</li>
+      <li>International Law</li>
+      <li>War Powers</li>
+      <li>Necessary & Proper - <b><i>Elastic Clause</b></i></li>
+    </ul>
+  <li><b>Section 9:Limits on Legislative Power</b></li>
+    <ul>
+      <li>Stain #2 - Commerce of slaves</li>
+      <li>Habeas Corpus</li>
+      <li>Ex Post Facto</li>
+      <li>No Title of Nobility & No Emoluments</li>
+    </ul>
+  <li><b>Section 10: Limits on States</b></li>
+    <ul>
+    <li>States cannot get involved in treaties</li>
+    <li>No Bills of attainder & Ex Post Facto</li>
+    <li>No Law impairing federal law</li>
 </details>
 
 <details>
 <summary>Article 2 - The Presidency</summary>
-
-- **Section 1:** *Election, Installation, Removal*
-  - Natural Born citizen
-  - 35 years old
-  - The Oath "I do solemnly swear"
-- **Section 2:** *Presidential Powers*
-  - Commander and Chief
-  - Reprieves and Pardons
-  - **Appointment of all officials**
-- **Section 3:** *State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers*
-  - State of the Union
-- **Section 4:** *Impeachment*
+  <ul>
+    <li><b>Section 1: Election, Installation, Removal</b></li>
+      <ul>
+        <li>Natural Born citizen</li>
+        <li>35 years old</li>
+        <li>The Oath "I do solemnly swear"</li>
+      </ul>
+<li><b>Section 2: Presidential Powers<b></li>
+  <ul>
+    <li>Commander and Chief
+    <li>Reprieves and Pardons
+    <li><b>Appointment of all officials<b></li>
+  </ul>
+<li><b>Section 3:** *State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
+  <li>State of the Union</li>
+<li><b>Section 4: Impeachment<b></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Article 3 - The Judiciary</summary>
-
-- **Section 1:** *Judicial Power Vested*
-- **Section 2:** *Scope of Judicial Power*
-   - Subject Matter Jurisdiction
-   - Appellate Jurisdiction v. Original Jurisdiction
-   - Procedure of
-- **Section 3:** *Treason*
-   - Specific guidelines for Treason
+<ul>
+  <li><b>Section 1: Judicial Power Vested</b></li>
+  <li><b>Section 2: Scope of Judicial Power</b></li>
+    <ul>
+      <li>Subject Matter Jurisdiction</li>
+      <li>Appellate Jurisdiction v. Original Jurisdiction</li>
+      <li>Procedure of...</li>
+    </ul>
+<li><b>Section 3: Treason</b></li>
+    <ul>
+      <li>Specific guidelines for Treason</li>
+    </ul>
 
 </details>
 
@@ -146,56 +170,63 @@ Passage of Bill of Rights - (1791)
 ###### ***The Power of Judicial Review***
 
 <details>
+
 <summary><i>Case [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></summary>
-
-**Overview:** Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.
-
-**Facts:**
-
-**Issue:**
-
-**Rule:**
-
-**Conclusion:**
-
-**Notes/Concepts:**
+<ul>
+  <li><b>Overview:</b>Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
+<br>
+  <li><b>Facts:</b></li>
+<br>
+  <li><b>Issue:</b></li>
+<br>
+  <li><b>Rule:</b></li>
+<br>
+  <li><b>Conclusion:</b></li>
+<br>
+  <li><b>Notes/Concepts:</b></li>
+<br>
 
 </details>
-
 
 ###### ***Supreme Court Authority to Review State Court Judgements***
 
 <details>
-<summary><i>Case [Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></summary>
 
-**Overview:** Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.
-
-**Facts:**
-
-**Issue:**
-
-**Rule:**
-
-**Conclusion:**
-
-**Notes/Concepts:**
+<summary><i>Case: [Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></summary>
+<ul>
+  <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
+<br>
+  <li><b>Facts:</b></li>
+<br>
+  <li><b>Issue:</b></li>
+<br>
+  <li><b>Rule:</b></li>
+<br>
+  <li><b>Conclusion:</b></li>
+<br>
+  <li><b>Notes/Concepts:</b></li>
+<br>
 
 </details>
 
-
-###### ***Topic***
+### Topic
 
 <details>
-<summary>Case: *Baker v. Carr*</summary>
 
-**Facts:** Case over legislative districts.
-**Issue:**
-
-**Rule:**
-
-**Conclusion:**
-
-**Notes/Concepts:**
+<summary><i>Case: Name</i></summary>
+<ul>
+  <li><b>Overview:</b></li>
+<br>
+  <li><b>Facts:</b></li>
+<br>
+  <li><b>Issue:</b></li>
+<br>
+  <li><b>Rule:</b></li>
+<br>
+  <li><b>Conclusion:</b></li>
+<br>
+  <li><b>Notes/Concepts:</b></li>
+<br>
 
 </details>
 
@@ -218,16 +249,14 @@ The Constitution of the United States establishes certain limits not to be trans
 The court held the Judiciary Act of 1789 to be unconstitutional because in granting the Court original jurisdiction in acts by government officials, Congress exceeded its constitutional power.
 ***Judicial Review*** - The Court has the final say in constitutional interpretation. “It is emphatically the province and duty of the judicial department to say what the law is.""
 
-</p>
-</details>
+
 
 Class Notes:
 
 
 
 
-<details>
-<summary>Case: **</summary>
+Case:
 
  **Overview:** The Supreme Court of the United States had appellate power over a final judgement from a state court of appeals because the matter concerned an issue arising under a treaty of the United States.
 **Facts:**
@@ -240,5 +269,3 @@ Congress cannot vest any portion of the judicial power of the United States, exc
 
 **Notes/Concepts:**
 The Court’s power to review state court decisions and the constitutionality of state court decisions is well established. See §25 of the Federal Judiciary Act of 1789
-
-</details>

@@ -3,7 +3,6 @@
 <details>
 
 <summary><i>Case: Name</i></summary>
-<br>
 <ul>
   <li><b>Overview:</b></li>
 <br>
