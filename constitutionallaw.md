@@ -291,8 +291,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
 <i><b>Case: [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</b></i>
 
-<details>
-<summary>Case Brief</summary>
+<details><summary>Case Brief</summary>
 
   <ul>
     <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
@@ -335,6 +334,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
       Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.
 
   </ul>
+
 </details>
 
 
@@ -343,13 +343,15 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 <b>Case: <i>[Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></b>
 <details><summary>Case Brief</summary>
 
-<ul>
-  <li><b>Overview:</b> The Supreme Court of the United States had appellate power over a final judgement from a state court of appeals because the matter concerned an issue arising under a treaty of the United States.</li>
-  <li><b>Facts:</b> Plaintiff appealed from the Court of Appeals of Virginia which found for defendant in plaintiff's action of ejectment, the Supreme Court of the United States reversed. The court of appeals refused to obey the mandate of the Supreme Court because it determined that the appellate power of the Supreme Court did not extend to the state court of appeals. The case was once again brought to the Supreme Court on writ of error.</li>
-  <li><b>Issue:</b> Whether the Supreme Court of the United States has appellate jurisdiction over the state court of appeals.</li>
-  <li><b>Rule:</b> Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself; and if in any of the cases enumerated in the constitution, the state courts did not then possess jurisdiction, the appellate jurisdiction of the supreme court (admitting that it could act on state courts) could not reach those cases, and, consequently, the injunction of the constitution, that the judicial power "shall be vested," would be disobeyed. It would seem, therefore, to follow, that congress are bound to create some inferior courts, in which to vest all that jurisdiction which, under the constitution, is exclusively vested in the United States, and of which the supreme court cannot take original cognizance. They might establish one or more inferior courts; they might parcel out the jurisdiction among such courts, from time to time, at their own pleasure. But the whole judicial power of the United States should be, at all times, vested either in an original or appellate form, in some courts created under its authority.</li>
-  <li><b>Conclusion:</b></li>
-  <li><b>Notes/Concepts:</b> The Court’s power to review state court decisions and the constitutionality of state court decisions is well established. See §25 of the Federal Judiciary Act of 1789</li>
+  <ul>
+    <li><b>Overview:</b> The Supreme Court of the United States had appellate power over a final judgement from a state court of appeals because the matter concerned an issue arising under a treaty of the United States.</li>
+    <li><b>Facts:</b> Plaintiff appealed from the Court of Appeals of Virginia which found for defendant in plaintiff's action of ejectment, the Supreme Court of the United States reversed. The court of appeals refused to obey the mandate of the Supreme Court because it determined that the appellate power of the Supreme Court did not extend to the state court of appeals. The case was once again brought to the Supreme Court on writ of error.</li>
+    <li><b>Issue:</b> Whether the Supreme Court of the United States has appellate jurisdiction over the state court of appeals.</li>
+    <li><b>Rule:</b> Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself; and if in any of the cases enumerated in the constitution, the state courts did not then possess jurisdiction, the appellate jurisdiction of the supreme court (admitting that it could act on state courts) could not reach those cases, and, consequently, the injunction of the constitution, that the judicial power "shall be vested," would be disobeyed. It would seem, therefore, to follow, that congress are bound to create some inferior courts, in which to vest all that jurisdiction which, under the constitution, is exclusively vested in the United States, and of which the supreme court cannot take original cognizance. They might establish one or more inferior courts; they might parcel out the jurisdiction among such courts, from time to time, at their own pleasure. But the whole judicial power of the United States should be, at all times, vested either in an original or appellate form, in some courts created under its authority.</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b> The Court’s power to review state court decisions and the constitutionality of state court decisions is well established. See §25 of the Federal Judiciary Act of 1789</li>
+    
+  </ul>
 
 </details>
 
