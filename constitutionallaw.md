@@ -398,18 +398,27 @@ Power granted by §25 of the 1789 Judiciary act
 </details>
 
 #### 1.4.3 Judicial Exclusivity
-*"It is emphatically the province and duty of the judicial department to say what the law is"* - Marshall
+*"It is emphatically *the province* and duty of the judicial department to say what the law is"* - Marshall
 
 ##### Supreme Court Decision Are Binding
-<b>Case: <i>[Cooper v. Aaron](Link)</i></b>
+- Supreme Court are the "Keepers of the Flame" of the Constitution
+- Opinion written by all 9 justices.
+
+<b>Case: <i>[Cooper v. Aaron](https://www.lexisnexis.com/lawschool/resources/p/casebrief-cooper-v-aaron.aspx)</i></b>
 
 <details><summary><i>Case Brief</i></summary>
 <ul>
-  <li><b>Overview:</b> Following Brown v. Board of Ed, Arkansas Governor refused to allow for desgregation. Case arose out of school board seeking postponement of desgregation. District court granted because of "chaos, bedlam, and turmoil"</li>
+  <li><b>Overview:</b> Following Brown v. Board of Ed, Arkansas Governor refused to allow for desgregation. Case arose out of school board seeking postponement of desgregation. District court granted because of "chaos, bedlam, and turmoil" The prohibitions of the Fourteenth Amendment extended to all action of a state denying equal protection of the laws, whatever the agency of the state taking the action; moreover, the Constitution was the supreme law of the land.</li>
   <li><b>Facts:</b></li>
-  <li><b>Issue:</b></li>
+  <li><b>Issue:</b> Should the program for desegregation be postponed?</li>
   <li><b>Rule:</b></li>
   <li><b>Conclusion:</b> No state legislator or executive or judicicial officer can war against the Constitution without violating his undertaking to support it</li>
+    <ol>
+      <li>The Constiution is the Supreme Law of the Land</li>
+      <li>The Supreme Court's job is to say what the Law is</li>
+      <li>Supreme Court's word is supreme</li>
+      <li>Supreme Court's decisions are the Supreme Law of the Land.</li>
+    </ol>
   <li><b>Notes/Concepts:</b> Critique of Cooper distinguishing the Constitution v. What the Supreme Court says about the Constitution in its decisions.</li>
 </ul>
 
@@ -417,22 +426,26 @@ Power granted by §25 of the 1789 Judiciary act
 
 ##### Supreme Court Interpretations of the Constiution may not be overruled by an Act of Congress
 
-<b>Case: <i>[Dickerson v. United States](Link)</i></b>
+Supreme Court is the final word on Constiutional interpretation
+
+<b>Case: <i>[Dickerson v. United States](https://www.lexisnexis.com/lawschool/resources/p/casebrief-dickerson-v-united-states.aspx)</i></b>
 
 <details><summary><i>Case Brief</i></summary>
 <ul>
-  <li><b>Overview:</b></li>
+  <li><b>Overview:</b> Denial of petitioner's motion to suppress was reversed, since Miranda had announced a constitutional rule that could not be superseded legislatively, and the court declined to overrule Miranda itself. Miranda being a Constituional decision cannot be overruled by an act of Congress.</li>
   <li><b>Facts:</b></li>
-  <li><b>Issue:</b></li>
-  <li><b>Rule:</b></li>
-  <li><b>Conclusion:</b></li>
+  <li><b>Issue:</b> May Miranda, being a constitutional decision of the Supreme Court of the United States, be in effect overruled by an Act of Congress?</li>
+  <li><b>Rule:</b> Miranda and its progeny in the Supreme Court govern the admissibility of statements made during custodial interrogation in both state and federal courts.</li>
+  <li><b>Conclusion:</b> On appeal, the court reversed, finding that Miranda was a constitutional decision of the court, and therefore could not be in effect overruled by an Act of Congress. Further, following the principles of stare decisis, the court declined to overrule Miranda itself. The court held that Miranda and its progeny governed the admissibility of statements made during custodial interrogation in both state and federal courts. </li>
   <li><b>Notes/Concepts:</b></li>
 </ul>
 
 </details>
 
 ##### Supreme Court over the Executive Branch
+
 Judiciary set its own limits on the executive branch. Only has jurisdiction over executive agents in certain situations.
+Big bark but no bite? Presidents will obey orders of court but generally talk a big game.
 
 - Jefferson: *"Co-ordinate branches should be checks on each other, but for the Legislative & Executive in their spheres would make the judiciary a despotic branch"*
 - Jackson: *"The opinion of the judges has no more authority over Congress than the opinion of Congress has over the judges, and on that point the President is independent of both."*
@@ -441,18 +454,18 @@ Judiciary set its own limits on the executive branch. Only has jurisdiction over
 
 ##### 1.4.4 Political Restraints on the Supreme Court
 
-##### Political Restraints
-###### 1. Judicial Selection: The Nomination and Confirmation Process
+##### 1. Judicial Selection: The Nomination and Confirmation Process
 <details>
 
 <ul>
   <li>Justices nominated by the President but Article 2 provides that the appointment will not be effective unless the President obtains the *"Advice and Consent of the Senate"*</li>
   <li>Prior to new deal era, Senate only rejected on grounds of inompetence or defects in character or temperment.</li>
+  <li>People elect the President and the Senate, ergo they can help guide judicial appointments through indirect control</li>
 </ul>
 
 </details>
 
-###### 2. Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
+##### 2. Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
 
 <details>
 <ul>
@@ -462,33 +475,48 @@ Judiciary set its own limits on the executive branch. Only has jurisdiction over
 </ul>
 </details>
 
-###### 3. Structural Interference: Congress sets the size of and budge for the Court.
+##### 3. Structural Interference: Congress sets the size of and budge for the Court.
+  - Executive Court Packing
   - Justice salaries cannot be diminished during their Continuance in Office (Article 3)
   - Potential source of political checking power
 
-###### 4. Jurisdiction-stripping
+##### 4. Jurisdiction-Stripping
   - Congress has the power to make "exceptions" to the Supreme Court's appellate jurisdiction. (Article 3)
 
-###### 5. Constitutional Amendment
+##### 5. Constitutional Amendment
   - Article 5 permits amendment of almost every provision (Article 5)
   - 2 Methods for initiating the amendment process:
-    1. Congress, by a 2/3rds vote may propose amendments for ratification by 3/4ths of the states
-    2. OR 2/3rds of the states may apply to Congress to call a constitutional convention for "Proposing Amendments"
-  - Amendments to overturn specific Supreme Court rulings have been ratified only 4 times since founding. (11th, 14th, 16th, 26th)
+    1. Congress, by a ***2/3rds*** vote may propose amendments for ratification by ***3/4ths*** of the states
+    2. OR ***2/3rds*** of the states may apply to Congress to call a constitutional convention for "Proposing Amendments"
+    - Amendments to overturn specific Supreme Court rulings have been ratified only 4 times since founding.
+      - **(11th, 14th, 16th, 26th)**
 
-#### 1.4.5 Political Questions & The Political Thicket
+#### 1.4.5 Political Questions & The Political Thicket (Limits)
 *"Questions, in their nature political, or which are, by the Constitution and laws, submitted to the executive can never be made in this court"* - Marshall
 
-***Political Question Doctrine:***
-The Supreme Court does not resolve political questions. Those questions are resolved through the political process.
+##### Limits on Court:
+  - "A case or controvery ***(must)*** arises under the Constituion"
+  - Limits on Political Questions that the Court can hear
+  - Will not do advisory opinions
+  - Will not do cases where parties have no standing
+  - Will not do cases that are too old or too soon
+  - Will not do cases that are moot
+
+##### Political Question Doctrine:
+
+***The Supreme Court does not resolve political questions.*** Those questions are resolved through the political process.
 1. That some matters are committed to the unreviewable discretion of the political branches, AND
   - Constitutional interpretation
-2. That some otehrwise legal questions ought to be left to the other branches as a matter of prudence.
+2. That some otherwise legal questions ought to be left to the other branches as a matter of prudence.
   - Judicial Discretion
+
+
+
 
 <b>Case: <i>[Baker v. Carr](Link)</i></b>
 
 <details><summary><i>Case Brief</i></summary>
+
 <ul>
   <li><b>Overview:</b> Voters' complaint against state officers and election officials alleging that a state statute arbitrarily appointed representatives without any logical or rational formula presented a justiciable constitutional cause of action.</li>
   <li><b>Facts:</b> Plaintiffs, residents of several counties, filed a complaint against defendants, state officers and election officials, alleging that a state statute arbitrarily and capriciously appointed representatives without reference to any logical or rational formula and that it deprived them of the equal protection of the laws in violation of U.S. Const. amend. XIV. </li>
@@ -500,21 +528,40 @@ The Supreme Court does not resolve political questions. Those questions are reso
 
 </details>
 
+- Malaportionment of Vote - Denial of a Republican form of Government
+  - Brought under 14th Amendment, Equal Protection Under The Law
+  - Does not invoke a political question
+
+
+
 ##### Distinguishing Legal From Political Questions
+Questions that are to be answered by political process not the judicial process.
+
 1. Congressional Qualifications
 <details>
-   1. Court have responsibility to adjudicate qualifications laid out by the Constitution
-   1. *Powell v. McCormack*
-     1. Legal Question under Article 1
+  <ul>
+    <li>Court have responsibility to adjudicate qualifications laid out by the Constitution but not the Political Question of Congress being able to qualify it's members</li>
+      <ul>
+        <li>Powell v. McCormack</li>
+        <li>Legal Question under Article 1</li>
+      </ul>
+  </ul>
 </details>
 2. Treaty abrogation
-  - Nonjusticiable political because "involves the authority of the President and the conduct of our country's foreign relations" + dispute between coequal branches of our government with enough resources to protect and assert its interests.
-    - *Goldwater v. Carter*
-      - Political question
+<details>
+  <ul>
+    <li> Nonjusticiable political because "involves the authority of the President and the conduct of our country's foreign relations" + dispute between coequal branches of our government with enough resources to protect and assert its interests.</li>
+    - <i>Goldwater v. Carter</i> - Political question
+  </ul>
+</details>
 3. Impeachment Proceedings
-  - Article 2 & Article 1 set power and proceedings for impeachment
-  - Nonjusticiable on both textual and prudential grounds
-    - *Nixon v. United States*
+<details>
+  <ul>
+    <li>Article 2 & Article 1 set power and proceedings for impeachment</li>
+    <li>Non-justiciable on both textual and prudential grounds</li>
+    - <i>Nixon v. United States</i>
+  </ul>
+</details>
 4. Constitutional Amendment Process
   - Nonjusticiable the question of what is a reasonable period of time for ratification by the states of a constitutional amendment.
     - *Coleman v. Miller*
@@ -522,4 +569,3 @@ The Supreme Court does not resolve political questions. Those questions are reso
   - Procedures outlined by Constitution.
   - *Bush v. Gore*
 6. Recognition of Foreign Sovereigns
-  -
