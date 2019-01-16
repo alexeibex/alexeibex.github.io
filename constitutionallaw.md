@@ -315,23 +315,24 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
         <li>If Marbury had a right to a remedy, was it a writ of mandamus from the Supreme Court? Can the Court enforce the remedy? Can the Court declare a statute to be unconstitutional? Why?</li>
 
-        <ul>
-          <li>The Judiciary Act of 1789, which established the federal court system, authorized the Supreme Court to issue mandamus to lower courts or officials. Madison was an official, so mandamus was unavailable only if the Judiciary Act was unconstitutional.</li>
+          <ul>
+            <li>The Judiciary Act of 1789, which established the federal court system, authorized the Supreme Court to issue mandamus to lower courts or officials. Madison was an official, so mandamus was unavailable only if the Judiciary Act was unconstitutional.</li>
 
-          <li>Marshall: "The Constitution granted the Supreme Court original jurisdiction in only two types of cases (those involving ambassadors, etc., and those in which a state is a party). The Constitution’s division of the Court’s jurisdiction between original and appellate meant that it did not intend to give Congress the power to expand the Court’s original jurisdiction.</li>
+            <li>Marshall: "The Constitution granted the Supreme Court original jurisdiction in only two types of cases (those involving ambassadors, etc., and those in which a state is a party). The Constitution’s division of the Court’s jurisdiction between original and appellate meant that it did not intend to give Congress the power to expand the Court’s original jurisdiction.</li>
 
-          <li>Congress therefore did not have the power to expand the Court’s original jurisdiction. §13 of the Judiciary Act was unconstitutional.</li>
+            <li>Congress therefore did not have the power to expand the Court’s original jurisdiction. §13 of the Judiciary Act was unconstitutional.</li>
 
-          <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.” so verse the statute, the constitution holds power</li>
+            <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.” so verse the statute, the constitution holds power</li>
 
-          <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”</li>
-
-        </ul>
+            <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”</li>
+          </ul>
 
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
-      Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.
+      <ul>
+          <li>Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.</li>
+      </ul>
 
   </ul>
 
@@ -350,7 +351,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
     <li><b>Rule:</b> Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself; and if in any of the cases enumerated in the constitution, the state courts did not then possess jurisdiction, the appellate jurisdiction of the supreme court (admitting that it could act on state courts) could not reach those cases, and, consequently, the injunction of the constitution, that the judicial power "shall be vested," would be disobeyed. It would seem, therefore, to follow, that congress are bound to create some inferior courts, in which to vest all that jurisdiction which, under the constitution, is exclusively vested in the United States, and of which the supreme court cannot take original cognizance. They might establish one or more inferior courts; they might parcel out the jurisdiction among such courts, from time to time, at their own pleasure. But the whole judicial power of the United States should be, at all times, vested either in an original or appellate form, in some courts created under its authority.</li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b> The Court’s power to review state court decisions and the constitutionality of state court decisions is well established. See §25 of the Federal Judiciary Act of 1789</li>
-    
+
   </ul>
 
 </details>
