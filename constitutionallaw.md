@@ -332,15 +332,10 @@ Does the Court have the final word in constitutional interpretation? Both Congre
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
-          <ul>
-              <li>Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.</li>
-          </ul>
 
   </ul>
 
 </details>
-</details>
-
 
 #### 1.4.2 Supreme Court Authority to Review State Court Judgements
 
@@ -349,6 +344,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 <details><summary>Case Brief</summary>
 
   <ul>
+
     <li><b>Overview:</b> The Supreme Court of the United States had appellate power over a final judgement from a state court of appeals because the matter concerned an issue arising under a treaty of the United States.</li>
     <li><b>Facts:</b> Plaintiff appealed from the Court of Appeals of Virginia which found for defendant in plaintiff's action of ejectment, the Supreme Court of the United States reversed. The court of appeals refused to obey the mandate of the Supreme Court because it determined that the appellate power of the Supreme Court did not extend to the state court of appeals. The case was once again brought to the Supreme Court on writ of error.</li>
     <li><b>Issue:</b> Whether the Supreme Court of the United States has appellate jurisdiction over the state court of appeals.</li>
@@ -368,6 +364,7 @@ Power granted by §25 of the 1789 Judiciary act
 <b>Case: <i>[Cohens v. Virginia](Link)</i></b>
 
 <details><summary><i>Case Brief</i></summary>
+
   <ul>
     <li><b>Overview:</b>Criminal charges decided on the merits against ∆ selling DC lottery tickets in violation of Virgina Law. Supreme Court had jurisdiction to review state judgements.</li>
     <li><b>Facts:</b></li>
@@ -421,13 +418,16 @@ Power granted by §25 of the 1789 Judiciary act
 
 ##### 1.4.4 Political Restraints on the Supreme Court
 1. Judicial Selection: The#Nomination and Confirmation Process
+
 <details>
   <ul>
     <li>Justices nominated by the President but Article 2 provides that the appointment will not be effective unless the President obtains the *"Advice and Consent of the Senate"*</li>
     <li>Prior to new deal era, Senate only rejected on grounds of inompetence or defects in character or temperment.</li>
   </ul>
 </details>
+
 2. Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
+
 <details>
   <ul>
     <li>Presumed to confer life tenure</li>
@@ -435,6 +435,7 @@ Power granted by §25 of the 1789 Judiciary act
     <li>Ideological disagreement with a sitting Justice is not a proper ground for impeachment.</li>
   </ul>
 </details>
+
 3. Structural Interference: Congress sets the size of and budge for the Court.
   - Justice salaries cannot be diminished during their Continuance in Office (Article 3)
   - Potential source of political checking power
@@ -451,7 +452,7 @@ Power granted by §25 of the 1789 Judiciary act
 *"Questions, in their nature political, or which are, by the Constitution and laws, submitted to the executive can never be made in this court"* - Marshall
 
 ***Political Question Doctrine:***
-The Supreme Court does not resolve polit- ical questions. Those questions are resolved through the political process.
+The Supreme Court does not resolve political questions. Those questions are resolved through the political process.
 1. That some matters are committed to the unreviewable discretion of the political branches, AND
   - Constitutional interpretation
 2. That some otehrwise legal questions ought to be left to the other branches as a matter of prudence.
