@@ -1,14 +1,21 @@
 # Contracts
 Course Themes
 ## 0.0 Contents
+
 - 1.0 Introduction to Contracts
   - 1.1 Contracts
-   - White v. Benkowski
+    - White v. Benkowski
   - 1.2 Related Obligations
-
 - 2.0 Second Topic
 
 ## 1.0 Introduction to Contracts
+
+- Deal with the Devil
+  - Basic contract law principles. One party wants something right away the other must wait.
+  - Take the future effectively make it the present by contract
+- [Nick Szabo on Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
+  - The contract, a set of promises agreed to in a "meeting of the minds", is the traditional way to formalize a relationship.
+  - Whether enforced by a government, or otherwise, the contract is the basic building block of a free market economy. Over many centuries of cultural evolution has emerged both the concept of contract and principles related to it, encoded into common law.
 
 ### 1.1 Contracts
 - Legality of Contracts:
@@ -118,6 +125,8 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 </details>
 
+#####  Donative Promises
+- Donative promises are not enforceable.
 
 <b>Case: <i>[Dougherty v. Salt](Link)</i></b>
 
@@ -133,6 +142,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 </details>
 
+
 #### 1.2.5 Substantive Bases of Contract Liability
 
 -Common law recognizes several general theories of obligation.
@@ -145,8 +155,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
     - Majority of contracts made
       - Routine Transactions to Leases, deeds, mortages
     - Provide information and enforce order
-    - "One of the beliefs by which our society is organized, is that at least some lawmaking is better accomplished in a decentralized manner."
-    -
+    - One of the beliefs by which our society is organized, is that at least some lawmaking is better accomplished in a decentralized manner.
   - Oral Agreements
   - Informal Agreements
 -Relational Exchange
