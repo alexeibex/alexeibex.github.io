@@ -315,6 +315,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
           </ul>
 
         <li>If Marbury had a right to a remedy, was it a writ of mandamus from the Supreme Court? Can the Court enforce the remedy? Can the Court declare a statute to be unconstitutional? Why?</li>
+
         <ul>
           <li>The Judiciary Act of 1789, which established the federal court system, authorized the Supreme Court to issue mandamus to lower courts or officials. Madison was an official, so mandamus was unavailable only if the Judiciary Act was unconstitutional.</li>
 
@@ -324,8 +325,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
           <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.” so verse the statute, the constitution holds power</li>
 
-          <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”
-
+          <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”</li>
 
         </ul>
 
@@ -333,6 +333,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
       Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.
+
   </ul>
 </details>
 
