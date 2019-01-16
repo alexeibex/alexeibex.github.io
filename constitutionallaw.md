@@ -325,8 +325,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
   <li><b>Conclusion:</b></li>
   <li><b>Notes/Concepts:</b></li>
 
-</ul>
-
-</details>
+  </ul>
+  </details>
 
 #### 1.4.2 Supreme Court Authority to Review State Court Judgements
