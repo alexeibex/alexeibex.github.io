@@ -294,6 +294,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 <details><summary>Case Brief</summary>
 
   <ul>
+
     <li><b>Overview:</b> Even though an applicant had a legal right to his appointment as justice of the peace, he was not entitled to a mandamus because the act giving the U.S. Supreme Court authority to issue a mandamus to an officer violated the Constitution.</li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
@@ -316,6 +317,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
         <li>If Marbury had a right to a remedy, was it a writ of mandamus from the Supreme Court? Can the Court enforce the remedy? Can the Court declare a statute to be unconstitutional? Why?</li>
 
           <ul>
+
             <li>The Judiciary Act of 1789, which established the federal court system, authorized the Supreme Court to issue mandamus to lower courts or officials. Madison was an official, so mandamus was unavailable only if the Judiciary Act was unconstitutional.</li>
 
             <li>Marshall: "The Constitution granted the Supreme Court original jurisdiction in only two types of cases (those involving ambassadors, etc., and those in which a state is a party). The Constitution’s division of the Court’s jurisdiction between original and appellate meant that it did not intend to give Congress the power to expand the Court’s original jurisdiction.</li>
@@ -330,18 +332,20 @@ Does the Court have the final word in constitutional interpretation? Both Congre
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
-      <ul>
-          <li>Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.</li>
-      </ul>
+          <ul>
+              <li>Congress had suspended the courts ability to meet. Terms set by congress. Marshall stuck in the middle as issuing writ would upset anti-federalists, not issuing writ would upset federalists. Contrives decision to exercise power of court of judicial review.</li>
+          </ul>
 
   </ul>
 
+</details>
 </details>
 
 
 #### 1.4.2 Supreme Court Authority to Review State Court Judgements
 
 <b>Case: <i>[Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></b>
+
 <details><summary>Case Brief</summary>
 
   <ul>
