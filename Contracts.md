@@ -1,9 +1,8 @@
 # Contracts
-Course Themes
 ## 0.0 Contents
 
-- 1.0 Introduction to Contracts
-  - 1.1 Contracts
+- 1.0 [Introduction to Contracts](https://alexeibex.github.io/Contracts#10-introduction-to-contracts)
+  - 1.1 [Contracts](https://alexeibex.github.io/Contracts#11-contracts)
     - White v. Benkowski
   - 1.2 Related Obligations
 - 2.0 Second Topic
@@ -34,9 +33,11 @@ Course Themes
 - Damages/Punitive Damages:
   - As a general rule punitive damages are not recoverable for breach of contract. Although damages in excess of compensation for loss are in some instances permitted in tort actions by way of punishment, in contract actions the damages recoverable are limited to compensation for pecuniary loss sustained by the breach.
 
+###### Case: *[White v. Benkowski](https://advance.lexis.com/api/permalink/b6f5c0d1-fc87-40c2-8892-09fd07d1d5d2/?context=1000516)*
+
 <details>
 
-<summary>Case: <i>White v. Benkowski</i></summary>
+<summary>Case Brief</summary>
 
   <ul>
     <li><b>Overview:</b> Tenants were entitled to the actual damages amount determined by the jury, but they were not entitled to punitive damages because punitive damages were not recoverable in breach of contract actions.</li>
@@ -53,25 +54,40 @@ Course Themes
     <li><b>Issue:</b></li>
       <ol>
         <li>Was the trial court correct in reducing the award of compensatory damages from $10 to $1?</li>
-        <li>Are punitive damages available in actions for breach of contract?</li>
+        <li>Are punitive damages available in actions for breach of contract when there is an allegation based on a breach of wanton/malicious act?</li>
       </ol>
 
     <li><b>Rule:</b>In Wisconsin, compensatory damages are given to make whole the damage or injury suffered by the injured party. On the other hand, punitive damages are given on the basis of punishment to the injured party not because he has been injured, which injury has been compensated with compensatory damages, but to punish the wrongdoer for his malice and to deter others from like conduct.</li>
     <li><b>Conclusion:</b> The court held that the tenants were entitled to $ 10 because that figure was the actual damages determined by the jury and the trial court should not have disturbed that finding The court, however, held that the tenants were not entitled to punitive damages because punitive damages were not recoverable in breach of contract actions. The court held that in some cases where a breach of contractual duty led to a tort violation, punitive damages could be available. However, the court held that because no tort was pled or proven by the tenants, they were not entitled to punitive damages.</li>
-    <li><b>Notes/Concepts:</b></li>
-    <li><b>[Link](https://advance.lexis.com/api/permalink/b6f5c0d1-fc87-40c2-8892-09fd07d1d5d2/?context=1000516)</b></li>
+    <li><b>Notes/Concepts:</b> Compensatory Damages - Make Whole</li>
+
 
   </ul>
 
 </details>
 
+- Notes and Concepts:
+  - Context for the case: "This case involves a neighborhood squabble between two adjacent property owners."
+  - Compensatory Damages
+    - Nominal v. Compensatory
+  - Punitive Damages
+    - “If a man shall steal an ox, or a sheep, and kill it, or sell it;
+he shall restore five oxen for an ox, and four sheep for a sheep.”
+    - Corbin states that as a general rule punitive damages are not recoverable for breach of contract.
+      - Allusion to authority.
+      - Court fell short of providing **reasons** why punitive damages are not proper.
+      - Although it is well recognized that breach of a contractual duty **may be a** tort, in such situations the contract creates the relation out of which grows the duty to use care in the performance of a responsibility prescribed by the contract. Not so here. No tort was pleaded or proved. **Critique of White's Attorney**
+
 
 ### 1.2 Related Obligations
+- Contracts = K
+- Agreements = A
+- Consideration = C
 
 #### 1.2.1 Theories of Obligation:
 <details>
   <ol>
-    <li>Obligation arising from an agreement with <i>consideration</i> + any required writing (LINK)</li>
+    <li>Obligation arising from an agreement with <i>consideration</i> + any required writing (A w/ C)</li>
     <li>Obligation arising from justified reliance on a promise</li>
     <li>Obligation arising from unjust enrichment</li>
     <li>Obligation arising from promises for benefits received</li>
@@ -82,18 +98,55 @@ Course Themes
   </ol>
 </details>
 
+- Theories will connect to Remedies
+
 #### 1.2.2 Remedies
-###### Monetary remedies include:
-1. lost expectancy damages designed to put the π in the monetary position he or she would have been in if the agreement or promise had been performed;
-2. Reliance damages designed to put the π in the monetary position he or she would have been in if the agreement or promise had not been made;
-3. A sum equivalent to the value of any benefit the π conferred on the ∆, thereby restoring this value to the π.
+- How does the law treat someone who has been harmed by a breach of contract?
+###### Monetary Remedies
+  - Compensatory damages, which are given to the party which was detrimented by the breach of contract. With compensatory damages, there are two heads of loss, consequential damage and direct damage.
+    - Lost Expectation
+      - Expectation damages are awarded to put the party in as good of a position as the party would have been in had the contract been performed as promised.
+    - Reliance
+      - Reliance damages are usually awarded where no reasonably reliable estimate of expectation loss can be arrived at or at the option of the plaintiff. Reliance losses cover expense suffered in reliance to the promise.
+    - Restitution
+      - Compensation by the ∆ to pay the π for their loss.
+  - Nominal damages consist of a small cash amount where the court concludes that the defendant is in breach but the plaintiff has suffered no quantifiable pecuniary loss, and may be sought to obtain a legal record of who was at fault.
+  - Punitive or exemplary damages are used to punish the party at fault; but even though such damages are not intended primarily to compensate, nevertheless the claimant (and not the state) receives the award
+
+###### Problem 1.1 (Grain Contract **A w/ C**)
+- Handled by UCC (Statutory) because the "Sale of Goods"
+- Compensatory Damages for grain bought at a higher price than originally agreed.
+  - Search Costs
 
 #### 1.2.3 The Uniform Commerical Code
+##### Article 1 - Remedies to be liberally Administered
+  - Compensatory Damages
+
 ##### Article 2 of the UCC
 - Applies to "Transactions in goods"
   - "Goods" includes "all things" which are movable at the time of identification to the contract for sale
+- Adopted by all states except by Louisiana
 
-<b>Case: <i>[Sullivan v. O'Connor](Link)</i></b>
+
+#### 1.2.4 Common Law Remedies
+- Under strict theory of Obligation with Consideration
+  - Remedies can be flexible
+    - Restitution
+    - Reliance
+    - Lost Expectancy
+
+###### Case: *[Sullivan v. O'Connor](Link)*
+
+###### History
+- Breach of Contract Claim + Negligent Malpractice Tort
+  - Jury awarded verdict of $13.5K for Breach of Contract
+    - Contract to "Enhance Beauty + Improve Appearence"
+  - No Negligent Malpractice
+- ∆ claimed restitution should only get cost of surgery (Compensatory)
+- ∆ claimed jury instruction for damages in excess
+- π would claim Lost Expectancy
+  - Formulaic? Not a "Good"
+    - Botched Nose v. Enhanced Expected Nose (Subjective) =
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -107,28 +160,83 @@ Course Themes
 
 </details>
 
-#### 1.2.4 Obligation Arising from an Agreement with Consideration
-Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
+- Court dodged the bullet by not addressing Lost Expectancy Damages
+- Court rules in favor of Reliance Damages (Pre-K)
+  - Reliance damages designed to put the π in the monetary position he or she would have been in if the agreement or promise had not been made;
+    - Compensation for 3rd operation
+    - Compensation for medical expenses associated with 3rd operation
+- Hawkins v. McGee (Hairy Hand) = Expected Hand v. Hairy Hand
+  - π Entitled to difference in value between two hands
+- Medical Science is not an exact science. Court is skeptical of Doctors promises as interpreted by patients
+- Policy considerations
+  - Too Strict?
+    - Raised prices for surgery
+    - Defensive medicine
+    - Volume of contract disputes
+    - Sympathetic juries allocating damages
+  - Too Lenient?
 
-<b>Case: <i>[Hardesty v. Smith](Link)</i></b>
+
+#### 1.2.5 Obligation Arising from an Agreement with Consideration
+Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
+- A Valid Agreement w/ Consideration (A w/ C)
+
+##### Case: *[Hardesty v. Smith](Link)*
+"Freedom of Contract. Freedom to make a good or bad deal"
+
+
+- Exchange: Invention x Promissory Notes
+  - Consideration Issue
+    - π claims invention is worthless
+    - So trial court rules that consideration is invalid
+    - Appellate court reverses on basis of freedom of contract
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview: π sold rights to an invention, allegedly improving a lamp to ∆. Supposed improvement was worthless</b></li>
+    <li><b>Overview:</b> π sold rights to an invention, allegedly improving a lamp to ∆. Supposed improvement was worthless</li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b>Parties of sufficient mental capacity for the management of their own business, have a right to make their own bargains.</li>
-    <li><b>Conclusion:</b> Jusdement is reversed with costs.</li>
+    <li>"The doing of an act by one at the request of another, which may be a detriment or inconvenience, however slight, to the party doing it, or may be a benefit, however slight, to the party at whose request it is performed, is a legal consideration for a promise by such requesting party"</li>
+      <ul>
+        <li>...upon his own judgment, uninfluenced by fraud, or warranty, or mistake of facts...</li>
+      </ul>
+    <li><b>Conclusion:</b> Judgement is reversed with costs.</li>
     <li><b>Notes/Concepts:</b></li>
     When a party gets all the consideration he honestly contracted for, he cannot say he gets no consideration, or that it has failed. If the doctrine be not correct, then it is not true that parties are at liberty to make their own contracts.
   </ul>
 
 </details>
 
+- Court will not infringe on freedom of contract
+- Courts examine the EXISTENCE of consideration not the
+  - Subjective value is up to the parties
+    - Slippery slope argument
+- Consideration does not have to = to expected promise
+- Rule: The doing of an act by one at the request of another, which may be a detriment or inconvenience, however slight, to the party doing it, or may be a benefit, however slight, to the party at whose request it is performed, is a legal consideration for a promise by such requesting party
+
+
 #####  Donative Promises
 - Donative promises are not enforceable.
+  - Executed Promise (Gift) is not the same.
 
-<b>Case: <i>[Dougherty v. Salt](Link)</i></b>
+###### Case: *[Dougherty v. Salt](Link)*
+
+- Theories of Obligation
+  - Consideration = Bargain for exchange
+    - Consideration with writing with a Witness
+      - Aunt received no benefit
+        - Good feelings/Alturism is not consideration
+    - Promissary Exchange
+      - Not a present exchange
+      - Note indicates "past consideration"
+    - Value Received - "Done for me"
+      - Cardozo - No Value Received from the boy
+- Court will not enforce a "gift promises as contracts"
+- **Voidable Legal Capcity for contract**
+  - 9 year old contract is **voidable**
+    - Infant can claim from party
+    - Party cannot claim from infant
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -142,8 +250,18 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 </details>
 
+##### RESTATEMENT (FIRST) OF CONTRACTS § 75.
+- Definition of Consideration.
+  1. Consideration for a promise is
+    - an act other than a promise, or
+    - a forbearance, or
+    - the creation, modification or destruction of a legal relation, or
+    - a return promise,
+ 2. AND; bargained for and given in exchange for the promise.
+    - Consideration may be given to the promisor or to some other person. It may be given by the promisee or by some other person.
 
-#### 1.2.5 Substantive Bases of Contract Liability
+
+#### Substantive Bases of Contract Liability
 
 -Common law recognizes several general theories of obligation.
 -Recognized basis for imposing legal duties.
