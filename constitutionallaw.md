@@ -289,7 +289,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 
 
 ##### *Case: [Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)*
-
+<html>
 <details><summary>Case Brief</summary>
 
 <ul>
@@ -328,7 +328,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 </ul>
 
 </details>
-
+</html>
 
 
 
