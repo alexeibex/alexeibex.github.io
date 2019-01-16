@@ -281,7 +281,7 @@
 
 #### 1.4.1 The Power of Judicial Review
 
-Does the Court have the final word in constitutional interpretation? Both Congress and the executive branch also interpret the Constitution, but whose say is final?
+Does the Court have the final word in constitutional interpretation? **Both Congress and the Executive Branch** also interpret the Constitution, but whose say is final?
 
 ##### Historical Context of Judicial Review
 1. Adams had issued and signed an order appointing Marbury a justice of the peace. Marshall, then Secretary of State, failed to deliver it before the end of the Adams administration. Jefferson and Madison, the new Secretary of State, refused to deliver it. Marbury sued in December 1801 to receive the commission.
@@ -313,20 +313,50 @@ Does the Court have the final word in constitutional interpretation? Both Congre
             <ul>
               <li>The Judiciary Act of 1789, which established the federal court system, authorized the Supreme Court to issue mandamus to lower courts or officials. Madison was an official, so mandamus was unavailable only if the Judiciary Act was unconstitutional.</li>
               <li>Marshall: "The Constitution granted the Supreme Court original jurisdiction in only two types of cases (those involving ambassadors, etc., and those in which a state is a party). The Constitution’s division of the Court’s jurisdiction between original and appellate meant that it did not intend to give Congress the power to expand the Court’s original jurisdiction.</li>
-              <li>Congress therefore did not have the power to expand the Court’s original jurisdiction. §13 of the Judiciary Act was unconstitutional.</li>
+              <li>Congress therefore did not have the power to expand the Court’s original jurisdiction. <b>§13 of the Judiciary Act was unconstitutional.</b></li>
               <li><b>Constitutional Supremacy</b>(LINK): the Supremacy Clause established the Constitution as the “supreme law of the land.” so verse the statute, the constitution holds power</li>
-              <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. “It is emphatically the province and duty of the judicial department to say what the law is.”</li>
+              <li><b>Judicial Review (LINK):</b> Limited government requires the Court to review the constitutionality of statutes. <b>“It is emphatically the province and duty of the judicial department to say what the law is.”</b></li>
             </ul>
       </ol>
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
+      <ul>
+        <li>The Supreme Court's jurisdiction was given by statute. Interpretation of the statute allowed for jurisdiction but also brought it into conflict with the Constitution.</li>
+        <li>Courts have the ability to judge cases that "arise under" the Constitution.</li>
+      </ul>
     <li><b>Notes/Concepts:</b></li>
+      <ul>
+        <li></li>
+        <li>Jefferson calls holding "dictum" because the case was dismissed. Not binding law.</li>
+      </ul>
   </ul>
 
 </details>
 
+##### Theories of Judicial Review
+1. Judicial interpretation: First or Last Word?
+   - Is the court’s role mainly to legitimize the national government’s actions or to invalidate them?
+2. Judicial supremacy and judicial finality
+   - Do other branches have to accept Court decisions as authoritative (judicial supremacy)? Does the court get the last word, or do other branches also have the authority to interpret the Constitution (judicial finality/exclusivity)?
+3. Departmentalism:
+  - Each Branch of government can interpret the constitution.
+
+##### Frameworks of Beneath the Theories of Judicial Review
+1. Functionalism
+  - The Court’s actions contribute to maintaining a certain kind of American polity. Judiciary represents, "We The People" as a check on Congress and the Executive Branch.
+2. Originalism and Textualism
+ - The Court acts on the framers’ intent or on its reading of the text itself.
+
+
 
 #### 1.4.2 Supreme Court Authority to Review State Court Judgements
+Vertical Power over the states.
+"The Constituion bristols with limits over states..."
+
+###### Judiciary oversees interactions within the federal government and between the federal government and the states.
+  - The Court rejects the dual soveriengty idea and replaces it with interlocking oversight.
+
+
 
 <b>Case: <i>[Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></b>
 
@@ -338,7 +368,7 @@ Does the Court have the final word in constitutional interpretation? Both Congre
   <li><b>Facts:</b> Plaintiff appealed from the Court of Appeals of Virginia which found for defendant in plaintiff's action of ejectment, the Supreme Court of the United States reversed. The court of appeals refused to obey the mandate of the Supreme Court because it determined that the appellate power of the Supreme Court did not extend to the state court of appeals. The case was once again brought to the Supreme Court on writ of error.</li>
   <li><b>Issue:</b> Whether the Supreme Court of the United States has appellate jurisdiction over the state court of appeals.</li>
   <li><b>Rule:</b> Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself; and if in any of the cases enumerated in the constitution, the state courts did not then possess jurisdiction, the appellate jurisdiction of the supreme court (admitting that it could act on state courts) could not reach those cases, and, consequently, the injunction of the constitution, that the judicial power "shall be vested," would be disobeyed. It would seem, therefore, to follow, that congress are bound to create some inferior courts, in which to vest all that jurisdiction which, under the constitution, is exclusively vested in the United States, and of which the supreme court cannot take original cognizance. They might establish one or more inferior courts; they might parcel out the jurisdiction among such courts, from time to time, at their own pleasure. But the whole judicial power of the United States should be, at all times, vested either in an original or appellate form, in some courts created under its authority.</li>
-  <li><b>Conclusion:</b></li>
+  <li><b>Conclusion:</b> Appellate jurisdiction is over the case not the court. The Supreme Court has appellate jurisdiction over cases that involve any of the enumerated issues (SMJ) outlined in Article 3 of the Constitution. </li>
   <li><b>Notes/Concepts:</b> The Court’s power to review state court decisions and the constitutionality of state court decisions is well established. See §25 of the Federal Judiciary Act of 1789</li>
 
 </ul>
@@ -359,9 +389,9 @@ Power granted by §25 of the 1789 Judiciary act
 <ul>
   <li><b>Overview:</b>Criminal charges decided on the merits against ∆ selling DC lottery tickets in violation of Virgina Law. Supreme Court had jurisdiction to review state judgements.</li>
   <li><b>Facts:</b></li>
-  <li><b>Issue:</b></li>
+  <li><b>Issue:</b>Whether the Supreme Court can hear Criminal Cases from the State and Local Governments.</li>
   <li><b>Rule:</b></li>
-  <li><b>Conclusion:</b></li>
+  <li><b>Conclusion:</b> State judges are more susceptible to state legislatures. State itself was a party to the case, as a result Supreme Court has jurisdiction under the Constitution.</li>
   <li><b>Notes/Concepts:</b></li>
 </ul>
 
@@ -370,7 +400,7 @@ Power granted by §25 of the 1789 Judiciary act
 #### 1.4.3 Judicial Exclusivity
 *"It is emphatically the province and duty of the judicial department to say what the law is"* - Marshall
 
-##### Supreme Court decision are binding
+##### Supreme Court Decision Are Binding
 <b>Case: <i>[Cooper v. Aaron](Link)</i></b>
 
 <details><summary><i>Case Brief</i></summary>
@@ -385,7 +415,7 @@ Power granted by §25 of the 1789 Judiciary act
 
 </details>
 
-#### Supreme Court interpretations of the Constiution may not be overruled by an Act of Congress
+##### Supreme Court Interpretations of the Constiution may not be overruled by an Act of Congress
 
 <b>Case: <i>[Dickerson v. United States](Link)</i></b>
 
@@ -401,23 +431,28 @@ Power granted by §25 of the 1789 Judiciary act
 
 </details>
 
-#### Supreme Court over the Executive Branch
+##### Supreme Court over the Executive Branch
+Judiciary set its own limits on the executive branch. Only has jurisdiction over executive agents in certain situations.
+
 - Jefferson: *"Co-ordinate branches should be checks on each other, but for the Legislative & Executive in their spheres would make the judiciary a despotic branch"*
 - Jackson: *"The opinion of the judges has no more authority over Congress than the opinion of Congress has over the judges, and on that point the President is independent of both."*
 - Lincoln
 - Roosevelt
 
 ##### 1.4.4 Political Restraints on the Supreme Court
-1. Judicial Selection: The#Nomination and Confirmation Process
 
+##### Political Restraints
+###### 1. Judicial Selection: The Nomination and Confirmation Process
 <details>
+
 <ul>
   <li>Justices nominated by the President but Article 2 provides that the appointment will not be effective unless the President obtains the *"Advice and Consent of the Senate"*</li>
   <li>Prior to new deal era, Senate only rejected on grounds of inompetence or defects in character or temperment.</li>
 </ul>
+
 </details>
 
-2. Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
+###### 2. Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
 
 <details>
 <ul>
@@ -427,12 +462,14 @@ Power granted by §25 of the 1789 Judiciary act
 </ul>
 </details>
 
-3. Structural Interference: Congress sets the size of and budge for the Court.
+###### 3. Structural Interference: Congress sets the size of and budge for the Court.
   - Justice salaries cannot be diminished during their Continuance in Office (Article 3)
   - Potential source of political checking power
-4. Jurisdiction-stripping
+
+###### 4. Jurisdiction-stripping
   - Congress has the power to make "exceptions" to the Supreme Court's appellate jurisdiction. (Article 3)
-5. Constitutional Amendment
+
+###### 5. Constitutional Amendment
   - Article 5 permits amendment of almost every provision (Article 5)
   - 2 Methods for initiating the amendment process:
     1. Congress, by a 2/3rds vote may propose amendments for ratification by 3/4ths of the states
