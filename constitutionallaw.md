@@ -190,7 +190,6 @@
   </ul>
 
 </details>
-
 </details>
 
 ### 1.3 Passage of Bill of Rights - (1791)
@@ -329,6 +328,9 @@ Does the Court have the final word in constitutional interpretation? Both Congre
 </ul>
 
 </details>
+
+
+
 
 #### 1.4.2 Supreme Court Authority to Review State Court Judgements
 
