@@ -13,14 +13,14 @@
 - 1.2 [Creation of the Confederacy](https://alexeibex.github.io/constitutionallaw#12-articles-of-the-confederacy)
   - Articles of the Confederacy
 - 1.3 [Passage of the Bill of Rights](LINK)
-- 1.4 [Authority and Role if the Supreme Court](LINK)
+- 1.4 [Authority and Role of the Supreme Court](LINK)
   - 1.4.1 [The Power of Judicial Review](LINK)
     - *Marbury v. Madison*
   - 1.4.2 [Authority to Review State Court Judgements](LINK)
     - *Martin v. Hunter's Lessee*
   - 1.4.3 [Judicial Exclusivity]
     - *Cooper v. Aaron*
-  - *Baker v. Carr*
+    - *Baker v. Carr*
 
 ## 1.0 The Constitution and the Court
 ### 1.1 [The Constitution of the United States](https://www.law.cornell.edu/constitution)
@@ -283,6 +283,7 @@
 
 Does the Court have the final word in constitutional interpretation? Both Congress and the executive branch also interpret the Constitution, but whose say is final?
 
+##### Historical Context of Judicial Review
 1. Adams had issued and signed an order appointing Marbury a justice of the peace. Marshall, then Secretary of State, failed to deliver it before the end of the Adams administration. Jefferson and Madison, the new Secretary of State, refused to deliver it. Marbury sued in December 1801 to receive the commission.
 2. The “peculiar delicacy” of the case was its contentious political context and the impact of the Court’s decision on the relations between the branches of government. Madison’s failure to appear in court resulted from the controversy.
 
@@ -297,14 +298,16 @@ Does the Court have the final word in constitutional interpretation? Both Congre
       <ol>
         <li>Did Marbury have a right to the commission?</li>
           <ul>
-            <li>Yes. The commission was complete when the President signed it and the Secretary of State affixed the U.S. seal.</li>
+            <li><b>Yes.</b> The commission was complete when the President signed it and the Secretary of State affixed the U.S. seal.</li>
           </ul>
         <li>If Marbury had a right to the commission, did he have right to a legal remedy? When can courts review the executive’s actions?</li>
           <ul>
-            <li>Yes. Acts “in cases in which the executive possesses a constitutional or legal discretion . . . are only politically examinable” i.e., they are beyond judicial review. But when the act arises under a legal duty, “and individual rights depend upon the performance of that duty, it seems equally clear that the individual who considers himself injured, has a right to resort to the laws of his country for a remedy. . . ”</li>
-            <li>The Rule of Law: <i>“The government of the United States has been emphatically termed a government of laws, and not of men.”</i> Compare to Louis XIV: “The State, it is I.”</li>
-            <li>The question of whether an officer as an individual has a vested right in his appointment, and therefore whether the President can remove him at will, is for the courts. Therefore the courts can review Marbury’s dispute.</li>
-            <li>Whether a right is vested is a question for the courts to decide and is not coferring <b>the political question doctrine</b>.</li>
+            <li><b>Yes.</b> Acts “in cases in which the executive possesses a constitutional or legal discretion . . . are only politically examinable” i.e., they are beyond judicial review. <b>BUT</b> when the act arises under a legal duty, “<b>and individual rights</b> depend upon the performance of that duty, it seems equally clear that the individual who considers himself injured, has a right to resort to the laws of his country for a remedy. . . ”</li>
+              <ul>
+                <li>The Rule of Law: <i>“The government of the United States has been emphatically termed a government of laws, and not of men.”</i> Compare to Louis XIV: “The State, it is I.”</li>
+                <li>The question of whether an officer as an individual has a vested right in his appointment, and therefore whether the President can remove him at will, is for the courts. Therefore the courts can review Marbury’s dispute.</li>
+                <li>Whether a right is vested is a question for the courts to decide and is not coferring <b>the political question doctrine</b>.</li>
+              </ul>
           </ul>
         <li>If Marbury had a right to a remedy, was it a writ of mandamus from the Supreme Court? Can the Court enforce the remedy? Can the Court declare a statute to be unconstitutional? Why?</li>
             <ul>
