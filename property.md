@@ -4,9 +4,11 @@ Supplemental Reading: Gilberts Outline, Sprankling
 
 ### [Contents](#property-law)
   - 1.0 Introduction
-  - [1.1 Acquisition and Claim Scope](#11-acquisition-and-claim-scope)
-  - [1.1 Open Access and the Commons](#11-open-access-and-the-commons)
-  -
+    - [1.1 Acquisition and Claim Scope](#11-acquisition-and-claim-scope)
+    - [1.1 Open Access and the Commons](#11-open-access-and-the-commons)
+  - [2.0 Water Rights](https://alexeibex.github.io/property#20-water-rights)
+    - [2.1 WaterCourses]
+    - [2.2 Reasonable Use Theory]
 
 <!-- /TOC -->
 
@@ -84,25 +86,22 @@ Establishing roof of Title
 
 ## 2.0 Water Rights
 Reading: Pages 57-69 & 72-82
-
+###### Definition of Water
 - Fugitive Resource with a flow that is only partly predictable.
 - Renewable Resource
 - Water law consists of a common law base with state statutory and federal overlays.
-
-
-Definition of Water
 - Law Distinguishes water along two axes:
   - Surface v. Underground
   - Diffuse v. In a defined channel/body
 
-##### Watercourses
+##### 2.1 Watercourses
 - A riparian (relating to or situated on the banks of a river) owner = one whose land abuts the watercourse, and riparian water rights are apppurtenant to the land
   - The rights to the land and the right to use the water from the surface stream form a package that cannot be split up.
   - Natural Flow Theory v. Reasonable Use Theory
     - English law developed where each owner could prevent any diversion of the natural flow of a river or stream by an upstream riparian owner
     - American law adopts more flexible theory of reasonable use
 
-##### Reasonable Use Theory
+##### 2.2 Reasonable Use Theory
 
 ##### Riparian Rights
 ###### Case: *[Evans v. Merriweather](https://www.lexisnexis.com/lawschool/resources/p/casebrief-evans-v-merriweather-1667897126.aspx)*
