@@ -33,7 +33,8 @@
 - Damages/Punitive Damages:
   - As a general rule punitive damages are not recoverable for breach of contract. Although damages in excess of compensation for loss are in some instances permitted in tort actions by way of punishment, in contract actions the damages recoverable are limited to compensation for pecuniary loss sustained by the breach.
 
-###### Case: *[White v. Benkowski](https://advance.lexis.com/api/permalink/b6f5c0d1-fc87-40c2-8892-09fd07d1d5d2/?context=1000516)*
+#### Basic Contract Dispute
+#### Case: *[White v. Benkowski](https://advance.lexis.com/api/permalink/b6f5c0d1-fc87-40c2-8892-09fd07d1d5d2/?context=1000516)*
 
 <details>
 
@@ -66,7 +67,7 @@
 
 </details>
 
-- Notes and Concepts:
+- **Class Discussion**:
   - Context for the case: "This case involves a neighborhood squabble between two adjacent property owners."
   - Compensatory Damages
     - Nominal v. Compensatory
@@ -95,6 +96,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
     <li>Obligation arising from a statutory warrenty</li>
   </ol>
 
+---
 
 ## 2.0 Remedies
 - How does the law treat someone who has been harmed by a breach of contract?
@@ -104,7 +106,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 ### 2.1 Overview
 
 #### Common Law Remedies
-- **Compensatory** damages, which are given to the party which was detrimented by the breach of contract. With compensatory damages, there are two heads of loss, consequential damage and direct damage.
+- **Compensatory** damages, which are given to the party which was detrimented by the breach of contract.
   1. **Expectation**: Puts promisee in the position he would have been in if the contract had been *performed*. "You get what you bargained for"
   2. **Reliance**: Puts promisee in the position he would have been in if the contract had *not been made*.
   3. **Restitution**: Restors to the promisee any benefit he conferred to the promisor.
@@ -114,8 +116,8 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 - **Punitive** or **exemplary** damages are used to punish the party at fault; Contract law does not recognize punitive damages.
 
----
-#### 2.2 Expectation Damages
+
+### 2.2 Expectation Damages
 #### Case: *[Sullivan v. O'Connor](Link)*
 - The appropriate measure of damages is the difference between (1) performance of the contract as promised and (2) actual performance.
 
@@ -157,9 +159,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
     - Sympathetic juries allocating damages
   - Too Lenient?
 
----
-
-#### Remedies Under The Uniform Commerical Code
+### 2.3 Remedies Under The Uniform Commerical Code
 ##### Article 1 - Remedies to be liberally Administered
   - Compensatory Damages + Search Costs
 
@@ -171,20 +171,24 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 ---
 
 ## 3.0 Obligation Arising from an Agreement with Consideration
-Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
-- A Valid Agreement w/ Consideration (A w/ C)
 
-##### Case: *[Hardesty v. Smith](Link)*
-"Freedom of Contract. Freedom to make a good or bad deal"
+- Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
+  - Consideration = C
+  - Consideration is giving something and getting something in return. Both parties get something they want from one another.
+- Courts are hesitent to interfere with private transactions (exceptions)
+- Consideration has two elements:
+  1. Mutual Assent
+  2. Exchange of Value
+- A Valid Agreement w/ Consideration = (A w/ C)
 
+### 3.1 Freedom of Transaction
 
-- Exchange: Invention x Promissory Notes
-  - Consideration Issue
-    - π claims invention is worthless
-    - So trial court rules that consideration is invalid
-    - Appellate court reverses on basis of freedom of contract
+#### Case: *[Hardesty v. Smith](https://advance.lexis.com/api/permalink/f0f3a33f-a251-40dd-8ba8-447935669cde/?context=1000516)*
+
+*Freedom of Contract. Freedom to make a good or bad deal*
 
 <details><summary><i>Case Brief</i></summary>
+
   <ul>
     <li><b>Overview:</b> π sold rights to an invention, allegedly improving a lamp to ∆. Supposed improvement was worthless</li>
     <li><b>Facts:</b></li>
@@ -201,19 +205,27 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 </details>
 
-- Court will not infringe on freedom of contract
-- Courts examine the EXISTENCE of consideration not the
-  - Subjective value is up to the parties
-    - Slippery slope argument
-- Consideration does not have to = to expected promise
-- Rule: The doing of an act by one at the request of another, which may be a detriment or inconvenience, however slight, to the party doing it, or may be a benefit, however slight, to the party at whose request it is performed, is a legal consideration for a promise by such requesting party
+- *Class Discussion*
+  - Exchange: Invention x Promissory Notes
+    - Consideration Issue
+      - π claims invention is worthless
+      - So trial court rules that consideration is invalid
+      - Appellate court reverses on basis of freedom of contract
+  - Court will not infringe on freedom of contract
+  - Courts examine the EXISTENCE of consideration not the
+    - Subjective value is up to the parties
+      - Slippery slope argument
+  - Consideration does not have to = to expected promise
+  - Rule: The doing of an act by one at the request of another, which may be a detriment or inconvenience, however slight, to the party doing it, or may be a benefit, however slight, to the party at whose request it is performed, is a legal consideration for a promise by such requesting party
 
 
-#####  Donative Promises
-- Donative promises are not enforceable.
+### 3.2  Donative Promises, Form & Reliance
+- Made for affective reasons, usually informal, and not demonstrably relied upon.
   - Executed Promise (Gift) is not the same.
 
-###### Case: *[Dougherty v. Salt](Link)*
+*Donative promises are not enforceable.*
+
+#### Case: *[Dougherty v. Salt](Link)*
 
 - Theories of Obligation
   - Consideration = Bargain for exchange
@@ -253,9 +265,10 @@ Consideration is one of the basic requirements of the leading theory of obligati
  2. AND; bargained for and given in exchange for the promise.
     - Consideration may be given to the promisor or to some other person. It may be given by the promisee or by some other person.
 
-##### Bare Naked Promise
+#### 3.2.1 Bare Naked Promise & Consideration
+- Acceptance alone is not consideration, but at some point acceptance becomes an act that qualifies as consideration
 
-##### Case: *[Maughs v. Porter](https://advance.lexis.com/api/permalink/83b69d1f-aa65-4f2d-a22b-8b881846bcdd/?context=1000516)*
+#### Case: *[Maughs v. Porter](https://advance.lexis.com/api/permalink/83b69d1f-aa65-4f2d-a22b-8b881846bcdd/?context=1000516)*
 
 - Plaintiff auction winner appealed a judgment of the Circuit Court of Albemarle County (Virginia), which sustained defendant auctioneer's demurrer in the auction winner's action for a money judgment.
 -
@@ -279,7 +292,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 </details>
 
 
-##### Case: *[Carlisle v. T  & R Excavating Inc](https://advance.lexis.com/api/permalink/a92b0db1-cb4c-44da-9bd0-1cab856e2f8f/?context=1000516)*
+#### Case: *[Carlisle v. T  & R Excavating Inc](https://advance.lexis.com/api/permalink/a92b0db1-cb4c-44da-9bd0-1cab856e2f8f/?context=1000516)*
   - Appellant husband sought review of a decision by the Common Pleas Court, Medina County (Ohio) that entered judgment in favor of appellee wife, in the wife's breach of contract action against the husband.
 
 <details><summary><i>Case Brief</i></summary>
@@ -298,7 +311,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 </details>
 
 
-##### Case: *[Trilegiant Corp. v. Orbitz, LLC and Trip Network Inc.](https://advance.lexis.com/api/permalink/13c2fa79-f18c-4d7a-94d6-1190cac4ae48/?context=1000516)*
+#### Case: *[Trilegiant Corp. v. Orbitz, LLC and Trip Network Inc.](https://advance.lexis.com/api/permalink/13c2fa79-f18c-4d7a-94d6-1190cac4ae48/?context=1000516)*
 
 
 <details><summary><i>Case Brief</i></summary>
@@ -318,7 +331,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 ##### Sufficient Consideration
 
-##### Case: *[Hamer v. Sidway](https://www.lexisnexis.com/lawschool/resources/p/casebrief-hamer-v-sidway.aspx)*
+#### Case: *[Hamer v. Sidway](https://www.lexisnexis.com/lawschool/resources/p/casebrief-hamer-v-sidway.aspx)*
 
 - Plaintiff appealed from an order of the Supreme Court in the Fourth Judicial Department (New York), which reversed a judgment in his favor in an action to enforce a contract.
 <details><summary><i>Case Brief</i></summary>
@@ -343,7 +356,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
     2. The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
 
 
-##### Case: *[Baehr v. Penn-O-Tex Oil Corp.](https://advance.lexis.com/api/permalink/f54592e4-be10-4e64-8360-d1a530505f01/?context=1000516)*
+#### Case: *[Baehr v. Penn-O-Tex Oil Corp.](https://advance.lexis.com/api/permalink/f54592e4-be10-4e64-8360-d1a530505f01/?context=1000516)*
 - Plaintiff lessor appealed an order from the Hennepin County District Court (Minnesota) granting defendant oil company's motion for judgment notwithstanding the verdict (JNOV) in the lessor's action to recover rents allegedly owed because of possession and contract.
 
 <details><summary><i>Case Brief</i></summary>
@@ -359,7 +372,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 </details>
 
 
-##### Case: *[Neuhoff v. Marvin Lumber and Cedar Co.](https://advance.lexis.com/api/permalink/f60a4855-ed51-4c83-9f79-796b17993308/?context=1000516)*
+#### Case: *[Neuhoff v. Marvin Lumber and Cedar Co.](https://advance.lexis.com/api/permalink/f60a4855-ed51-4c83-9f79-796b17993308/?context=1000516)*
 - Plaintiffs brought a diversity action against defendants for breach of an oral contract, breach of implied warranty, violation of Mass. Gen. Laws ch. 93A, and promissory estoppel, arising from a promise to replace defective windows. The United States District Court for the District of Massachusetts granted defendants' motion for summary judgment on all four claims. Plaintiffs appealed.
 
 
@@ -375,7 +388,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 </details>
 
-##### Case: *[Springstead v. Nees](Link)*
+#### Case: *[Springstead v. Nees](Link)*
 - Plaintiffs sought review of the decision of a trial court (New York), which dismissed plaintiffs' action against defendants to prevent defendants from collecting a portion of the proceeds from the sale of a parcel of land inherited by plaintiffs.
 -
 <details><summary><i>Case Brief</i></summary>
@@ -392,7 +405,7 @@ Consideration is one of the basic requirements of the leading theory of obligati
 </details>
 
 
-##### Case: *[De Los Santos v. Great Western Sugar Company](https://advance.lexis.com/api/permalink/26dd8315-cbcd-46a8-9826-29cad4ff229d/?context=1000516)*
+#### Case: *[De Los Santos v. Great Western Sugar Company](https://advance.lexis.com/api/permalink/26dd8315-cbcd-46a8-9826-29cad4ff229d/?context=1000516)*
 - Plaintiff trucker appealed from a decision of the District Court for Scotts Bluff County (Nebraska), which granted summary judgment for defendant sugar company in the trucker's action for breach of contract.
 
 <details><summary><i>Case Brief</i></summary>
@@ -409,6 +422,14 @@ Consideration is one of the basic requirements of the leading theory of obligati
 
 
 
+
+
+
+
+
+
+
+---
 
 
 

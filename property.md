@@ -17,7 +17,7 @@ Supplemental Reading: Gilberts Outline, Sprankling
 
 #### Class Themes:
 No single unifying theory of property. Numerous older doctrines and rules that pervade modern facts and issues. Resurgent movement to change methodology and provide unfiying theory of property.
-##### Questions
+#### Questions
 - Does an element of time matter?
 - How long ago was it acquired?
 - How it was acquired?
@@ -90,24 +90,72 @@ Reading: Pages 57–69 & 72–82​
   - Characteristics of the Fox
     - Who changed the "free will" of the fox?
 
-<details><summary><i>Case: Ghen v. Rich</i></summary>
+
+#### Case: *[Ghen v. Rich](Link)*
+
+<details><summary><i>Case Brief</i></summary>
 
 <ul>
   <li><b>Overview:</b>Court granted libellant fisherman judgment in action for conversion of fin-backwhale because local usage that fisherman who shoots a whale with identifiable bomb-lance, letting it sink, then pays fee to whale's finder, granted title.</li>
   <li><b>Facts:</b> Fin-backwhales frequent Massachusetts bay where fishermen shoot and kill the whales. Whales then sink to the ocean floor and rise up 1-3 days later. Whales then either float to beach, are picked up or float out to sea. Each fisherman uses their own unique lance to mark the whale. ∆ found such whale and advertised on the spot for the sale of the whale.</li>
-  <li><b>Issue:</b></li>
+  <li><b>Issue:</b> Can local custom allow for possession and claim of title.</li>
   <li><b>Rule:</b> Whale, being a ferae naturae, does not become property until a firm possession has been established by the taker.</li>
-  <li><b>Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?</li>
+    <ul>
+      <li>No Application of Pierson Test</li>
+      </li>A custom among whalemen in the Arctic seas, that the iron holds the whale, is reasonable and valid to bestow title upon the party who first harpoons a whale. The usage for the first iron, whether attached to the boat or not, to hold the whale, is fully established.</li>
+    </ul>
+  <li><b>Conclusion:</b> Judgement Reversed. A whale is a ferae naturae (wild by nature) and that property of animals is acquired by <b>occupancy only</b>. Narrow question is what amounts to occupancy of acquiring right to wild animals?</li>
   <li><b>Notes/Concepts:</b></li>
 </ul>
 
 </details>
 
+- **Class Discussion**
+  - Application of rule for Pierson v. Post, Whale Company would lose
+    - Mortal Wounding and non abandonment of pursuit - leaving whale results in breaking off pursuit.
+    - Trapping to deprive of liberty
+  - Whales are different than foxes
+    - Context of chasing whale v. fox
+  - Custom Prevails because it is reasonable and is necessary limited application.
+    - Rule works in practice
+    - Necessary to continue the industry or else no one would whale hunt.
+  - Should judges follow custom even if it is contrary to law.
+    - Legislation may not fall in line with custom.
+    - Potential problems with Custom
+      - Small group will develop a custom that is good for group but that it is not good for society as a whole.
+        - Jim Crow Custom/Laws
+        - Ivy League Admission on Jewish Applicants
+      - What custom governs between competing customs?
+        - Are judges likely able to understand nuiances of custom?
+  - Case before court is to sort out custom v. legislation and provide clairty and issue settled.
+    - Amount awarded was probably more to litigate than cost of damages.
 
-### 1.1 Open Access and the Commons
+#### 1.2 Open Access and the Commons
+- *"The Tragedy of the Commons"*
+- **Elinor Ostrom *Governing the Commons*
+  - The degredation of the environment to be expected whenever many individuals use a scarce resource in common.
+  - Each man is locked into a system that compels him to increase his herd without limit-in a world that is limited.
+- Modern Tragedy of the Commons
+  - Overfishing
+  - Pollution
+  - Global Warming/CO2 Emissions
+- Solutions to the Tragey of the Commons
+  1. Central Planning/Government/Corporation (Leviathan)
+    - Inherently Coersive
+    - Prone to Error due to lack of information
+      - Microsoft v. Apple Example
+        - Steve Balmer - "There is no chance that the iPhone will get any significant marketshare, no chance"
+        - Microsoft had access to necessary resources to build mobile product and yet they completely failed.
+  2. Private Property
+    - Allows owner to internalize cost but reap the benefits of their own property.
+    - Requires security, monitoring, and defense of property
+    - Risk allocation problems
+      - Plot may be in an area that is not beneficial
+      - Requires insurance against risk
+- Property is an institution
 
-1. Establishing Proof of Title
-1. First to possess something that is unclaimed by anyone else
+---
+
 
 
 ## 2.0 Water Rights
