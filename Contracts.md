@@ -177,7 +177,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
   - Too Lenient?
 
 
-#### 1.2.5 Obligation Arising from an Agreement with Consideration
+## 2.0 Obligation Arising from an Agreement with Consideration
 Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
 - A Valid Agreement w/ Consideration (A w/ C)
 
@@ -259,6 +259,164 @@ Consideration is one of the basic requirements of the leading theory of obligati
     - a return promise,
  2. AND; bargained for and given in exchange for the promise.
     - Consideration may be given to the promisor or to some other person. It may be given by the promisee or by some other person.
+
+##### Bare Naked Promise
+
+##### Case: *[Maughs v. Porter](https://advance.lexis.com/api/permalink/83b69d1f-aa65-4f2d-a22b-8b881846bcdd/?context=1000516)*
+
+- Plaintiff auction winner appealed a judgment of the Circuit Court of Albemarle County (Virginia), which sustained defendant auctioneer's demurrer in the auction winner's action for a money judgment.
+-
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An auction winner was unable to recover a money judgment against an auctioneer where the bargain was unenforceable as against public policy because the transaction was consistent with the scheme of a lottery, which was prohibited by state law.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b> Whether the alleged offer to make the gift can be enforced as supported by a sufficient consideration and if it should be determined that there was such a consideration as would otherwise support the gift then:</li>
+      <ul>
+        <li>Whether the transaction constitutes a lottery which is prohibited by Constitution & Statute</li>
+      </ul>
+    <li><b>Rule:</b> The intention to give must be accompanied by a delivery, and the delivery must be made with an intention to give. Otherwise there is only an intention or promise to give, which, being gratuitous, would be a mere nullity. Delivery of possession of the thing given or of the means of obtaining it so as to make the disposal of it irrevocable, is indispensable to a valid gift.</li>
+    <li><b>Conclusion:</b>There was sufficient consideration to support the gift and but for the other questions involved this would determine the case but the court affirmed the judgment of the circuit court that the bargain was unenforceable and denied the auction winner recovery in the auction winner's action for a money judgment against the auctioneer.</li>
+    <li><b>Notes/Concepts:</b></li>
+      <ol>
+        <li>A gift is a contract without a consideration, and to be valid must be executed. A valid gift is therefore a contract executed.</li>
+        <li>Contracts founded upon an illegal consideration, as being contrary to public policy and forbidden by law, are void.</li>
+      </ol>
+  </ul>
+
+</details>
+
+
+##### Case: *[Carlisle v. T  & R Excavating Inc](https://advance.lexis.com/api/permalink/a92b0db1-cb4c-44da-9bd0-1cab856e2f8f/?context=1000516)*
+  - Appellant husband sought review of a decision by the Common Pleas Court, Medina County (Ohio) that entered judgment in favor of appellee wife, in the wife's breach of contract action against the husband.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An agreement providing for reimbursement of materials used to perform free services was not a bargained-for exchange sufficient to form a contract where the promise to provide free services was not made to induce the promise of reimbursement.</li>
+    <li><b>Facts:</b> In contemplation of divorce, the husband entered into a separation agreement with the wife, although they continued living together for some time afterwards. The agreement provided that in repayment for the wife's services to the husband's business, the husband would provide construction services for the wife's business, and the wife would reimburse the husband for the cost of material. Shortly after the couple separated, the husband discontinued services. The husband contended that there was no contract because the agreement lacked sufficient consideration.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court reversed the judgment in favor of the wife. Without consideration there can be no contract. Consideration consists of either a benefit to the promisor or a detriment to the promisee. </li>
+      <ul>
+        <li>The court found that: 1) the husband's motivation to help the wife's business for furtherance of the relationship or increased marital income was not sufficient consideration; 2) there was no evidence that the husband bargained away the free services to his wife in exchange for the benefit of collecting the cost of materials paid; 3) repayment for services suggested past consideration that was insufficient to form a contract; 4) the promise to reimburse for materials was a condition for a gratuitous promise; and 5) the separation agreement and its contents was invalid because the couple did not immediately separate.</li>
+      </ul>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+##### Case: *[Trilegiant Corp. v. Orbitz, LLC and Trip Network Inc.](https://advance.lexis.com/api/permalink/13c2fa79-f18c-4d7a-94d6-1190cac4ae48/?context=1000516)*
+
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> An agreement should be interpreted as of the date of its making and not as of the date of its breach.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+
+
+##### Sufficient Consideration
+
+##### Case: *[Hamer v. Sidway](https://www.lexisnexis.com/lawschool/resources/p/casebrief-hamer-v-sidway.aspx)*
+
+- Plaintiff appealed from an order of the Supreme Court in the Fourth Judicial Department (New York), which reversed a judgment in his favor in an action to enforce a contract.
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Forbearance or abandonment of legal right to use tobacco and alcohol in exchange for the payment of a sum of money was sufficient consideration to enforce the contract.</li>
+    <li><b>Facts:</b> A testator made an agreement with his nephew that if he refrained from drinking liquor, using tobacco, swearing and playing cards or billiards for money until he reached the age of twenty-one, the testator would pay him $ 5,000. The nephew fulfilled his obligation. When the nephew informed his uncle, it was agreed that the uncle would first keep the money on interest. Unfortunately, the uncle died before any money could be transferred to the nephew. Filing a case for sum of money with the trial court, the judgment was rendered in favor of the nephew but later on reversed by the General Term of the Supreme Court. The case was elevated on appeal to the Court of Appeals of New York.</li>
+    <li><b>Issue:</b> Is a promise to abandon ones legal right to use tobacco and alcohol considered sufficient consideration to enforce a contract?</li>
+    <li><b>Rule:</b> Consideration means not so much that one party is profiting as that the other abandons some legal right in the present, or limits his legal freedom of action in the future, as an inducement for the promise of the first.</li>
+    <li><b>Conclusion:</b> It is Enough that something is promised done forborne or suffered by the party to whom the promise is made as consideration for the promise made to him.</li>
+      <ul>
+        <li>It is sufficient that he restricted his lawful freedom of action within certain prescribed limits upon the faith of his uncle's agreement</li>
+        <li>The Court held that the right to use and enjoy the use of tobacco is a right that belongs to the nephew and is not forbidden by law. The abandonment of its use is a sufficient consideration to uphold the promise because such abandonment was the inducement for the promise.</li>
+      </ul>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+##### RESTATEMENT (SECOND) OF CONTRACTS § 81
+  - Consideration as Motive or Inducing Cause
+    1. The fact that what is bargained for does not of itself induce the making of a promise does not prevent it from being consideration for the promise
+    2. The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
+
+
+##### Case: *[Baehr v. Penn-O-Tex Oil Corp.](https://advance.lexis.com/api/permalink/f54592e4-be10-4e64-8360-d1a530505f01/?context=1000516)*
+- Plaintiff lessor appealed an order from the Hennepin County District Court (Minnesota) granting defendant oil company's motion for judgment notwithstanding the verdict (JNOV) in the lessor's action to recover rents allegedly owed because of possession and contract.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> The lessor leased gas stations to a lessee doing business as the oil company he was buying. The lessee could not meet payments due to the oil company and assigned accounts receivable, including those involving the lessor's gas stations. The oil company installed its agent in the lessee's office and collected rents paid by the filing station operators. </li>
+    <li><b>Issue:</b> Was there a legally enforceable contract between the parties?</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court affirmed the district court's order granting the oil company's motion for a JNOV. The oil company's installation of the agent in the lessee's office to collect money due the lessee and assigned to the oil company did not make it liable to pay the lessee's rent. The agent's promise to the lessor to pay rent was unenforceable because there was no consideration, and the promise did not amount to a contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+##### Case: *[Neuhoff v. Marvin Lumber and Cedar Co.](https://advance.lexis.com/api/permalink/f60a4855-ed51-4c83-9f79-796b17993308/?context=1000516)*
+- Plaintiffs brought a diversity action against defendants for breach of an oral contract, breach of implied warranty, violation of Mass. Gen. Laws ch. 93A, and promissory estoppel, arising from a promise to replace defective windows. The United States District Court for the District of Massachusetts granted defendants' motion for summary judgment on all four claims. Plaintiffs appealed.
+
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Plaintiffs' breach of contract claim failed because defendants' alleged promise to replace the remaining defective windows in plaintiffs' house lacked consideration.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> a hypothetical and tangential benefit to defendants' reputation was not sufficient consideration to make defendants' promise to replace the windows a binding contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+##### Case: *[Springstead v. Nees](Link)*
+- Plaintiffs sought review of the decision of a trial court (New York), which dismissed plaintiffs' action against defendants to prevent defendants from collecting a portion of the proceeds from the sale of a parcel of land inherited by plaintiffs.
+-
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant was entitled to share in the proceeds from the sale of a parcel of land inherited by defendant and plaintiff because plaintiffs' alleged promise to forego any interest in the land lacked consideration and was not enforceable.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> A valuable consideration may consist of some right, interest, profit or benefit accruing to one party or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other.</li>
+    <li><b>Conclusion:</b> The court affirmed the decision of the trial court. The court concluded that plaintiffs had no colorable right to the property received by defendants so there was no consideration or contract.
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+##### Case: *[De Los Santos v. Great Western Sugar Company](https://advance.lexis.com/api/permalink/26dd8315-cbcd-46a8-9826-29cad4ff229d/?context=1000516)*
+- Plaintiff trucker appealed from a decision of the District Court for Scotts Bluff County (Nebraska), which granted summary judgment for defendant sugar company in the trucker's action for breach of contract.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A sugar company was not liable for breach of contract when it terminated a trucker's services for hauling beets after two months because the contract did not specify a quantity of beets and allowed the company to terminate at any time.</li>
+    <li><b>Facts:</b> The trucker, an independent contractor, entered a contract with the sugar company that called for the trucker to haul only such tonnage of beets as might be loaded by the sugar company upon the trucker's trucks. The sugar company terminated the trucker after two months of hauling. The trucker contended that he was entitled to haul until all of the beets had been transported to the factory.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The contract was unenforceable because neither the trucker nor the sugar company intended to or did, either in fact or law, promise to transport a specific quantity of beets or promise to transport beets during a specific period of time. The term of the contract did not constitute a promise, but merely established the period of time during which the promises that were contained in the contract would be in effect. The sugar company's right to control the amount of beets loaded onto the trucker's trucks was a right to terminate the contract at any time, and rendered the contract as to its unexecuted portions void for want of mutuality.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+
+
 
 
 #### Substantive Bases of Contract Liability

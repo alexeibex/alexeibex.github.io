@@ -10,7 +10,7 @@ Supplemental Reading: Gilberts Outline, Sprankling
 <!-- /TOC -->
 
 
-### 1.0 Introduction
+## 1.0 Introduction
 
 #### Class Themes:
 No single unifying theory of property. Numerous older doctrines and rules that pervade modern facts and issues. Resurgent movement to change methodology and provide unfiying theory of property.
@@ -90,3 +90,71 @@ Reading: Pages 57–69 & 72–82​
 
 Establishing roof of Title
 1. First to possess something that is unclaimed by anyone else
+
+
+## 2.0 Water Rights
+Reading: Pages 57-69 & 72-82
+
+- Fugitive Resource with a flow that is only partly predictable.
+- Renewable Resource
+- Water law consists of a common law base with state statutory and federal overlays.
+
+
+Definition of Water
+- Law Distinguishes water along two axes:
+  - Surface v. Underground
+  - Diffuse v. In a defined channel/body
+
+##### Watercourses
+- A riparian (relating to or situated on the banks of a river) owner = one whose land abuts the watercourse, and riparian water rights are apppurtenant to the land
+  - The rights to the land and the right to use the water from the surface stream form a package that cannot be split up.
+  - Natural Flow Theory v. Reasonable Use Theory
+    - English law developed where each owner could prevent any diversion of the natural flow of a river or stream by an upstream riparian owner
+    - American law adopts more flexible theory of reasonable use
+
+##### Reasonable Use Theory
+
+##### Riparian Rights
+###### Case: *[Evans v. Merriweather](https://www.lexisnexis.com/lawschool/resources/p/casebrief-evans-v-merriweather-1667897126.aspx)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A judgment for plaintiff in an action for obstructing and diverting a water course was affirmed because defendant had not made a reasonable use of the running water and had injured plaintiff by diverting all of the water into his own well.</li>
+    <li><b>Facts:</b>Merriweather against Evans for obstructing and diverting a water course.</li>
+    <li><b>Issue:</b> Can riparian proprietors use as much water as they want from a stream on their land?</li>
+    <li><b>Rule:</b> There may be, and there must be, of that which is common to all, a reasonable use. The true test of the principle and extent of the use is, whether it is to the injury of the other proprietors or not. There may be diminution in quantity, or a retardation or acceleration of the natural current, indispensable for the general and valuable use of the water, perfectly consistent with the use of the common right. The diminution, retardation, or acceleration, not positively and sensibly injurious, by diminishing the value of the common right, is an implied element in the right of using the stream at all. The law here, as in many other cases, acts with a reasonable reference to public convenience and general good, and is not betrayed into a narrow strictness, subversive of common use, nor into an extravagant looseness, which would destroy private rights. That of a thing common by nature, there may be an appropriation by general consent or grant. Mere priority of appropriation of running water, without such consent or grant, confers no exclusive right.</li>
+    <li><b>Conclusion:</b> Affirmed with cost. The Court held that without a contract or a grant, neither owner has a right to use all the water, because all have a right to participate in its benefits. Because of this, the upstream owner may only use as much as is necessary to satisfy his natural needs, and has to leave enough for the downstream owner's natural needs. This is because while manufactures promote the prosperity and comfort of mankind, it is not considered absolutely necessary to his existence, nor is the machinery which would be used from the water power. </li>
+    <li><b>Notes/Concepts:</b> Justice upon the whole has been done and because damages are so small, the case should not be sent back for a jury to consider.</li>
+  </ul>
+
+</details>
+
+- American reasonable use doctrine is like the law of nuisance in torts in the sense that a wide variety of contextual factors are relevant in determining whether a diversion is actionable.
+  - Courts should consider the purpose of the use
+  - Suitability to the water course
+  - Economic and Social values at stake
+  - Harm Caused
+  - Possible accommodation techniques
+  - Protection of existing investments
+  - Ability of adversely affected riparians to bear the loss
+  - Justice
+- Riparian rights run with the land and cannot be severed.
+  - Riparian Owner A cannot sell his rights to nonriparian owner B
+    - Results in parceling of land for access to water (Bowling Alley Parcel)
+- *Evans v. Merriweather* draws distinction between natural wants and artifical wants.
+  - Domestic v. Other
+
+
+##### Case: *[Coffin v. Left Hand Ditch Company](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Appellee was entitled to use of water because, absent express statute to the contrary, appellee was the first appropriator of water from the natural stream for a beneficial purpose and had the prior right thereto.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
