@@ -37,16 +37,16 @@ No single unifying theory of property. Numerous older doctrines and rules that p
 Reading: Pages 57–69 & 72–82​
 
 ##### Acquisition & Ownership
-
-
-##### Real Property v. Personal Property
- - Real Prperty = Dirt & Buildings (Focus)
+- Real Property v. Personal Property
+ - Real Property = Dirt & Buildings (Focus)
  - Personal Property = Personal Goods & Tangibles + IP
 
+#### First/Subsequent Possession
+##### Case: *[Pierson v. Post](Link)*
 
 <details>
 
-<summary><i>Case: Pierson v. Post</i></summary>
+<summary>Case Brief</summary>
 
 <ul>
   <li><b>Overview:</b>Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.</li>
@@ -54,15 +54,41 @@ Reading: Pages 57–69 & 72–82​
   <li><b>Issue:</b>Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox. Narrow question is what amounts to occupancy of acquiring right to wild animals? What constitutes posession?</li>
   <li><b>Rule:</b></li>
   <li><b>Conclusion:</b>Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by <b>occupancy only</b> aka posession.</li>
+  <ul>
+    <li>Majority Opinon: Preserving peace and order in society.</li>
+      <ul>
+        <li>Lack of certainty, would prove a fertile source of quarrels and litigation</li>
+        <li>Bright Line Rule = TEST: Possession if either the person has BOTH mortally wounded the animal + not abandoned pursuit, OR trapped the animal depriving of natural liberty</li>
+        <li>Rule tries to establish certainty of ownership</li>
+      </ul>
+    <li>Dissenting Opinion: Preserve the encouragement and incentivize the destruction of a pest</li>
+      <ul>
+        <li>TEST: Property in wild animals can be established without actual contact IF pursuer is within reach/has a reasonable prospect of taking the animal</li>
+      </ul>
+    <li>Institutional Remedy: Should have been handled by sportsmen, which would not have interfered with hunting custom (Votery of Diana)</li>
+  </ul>
   <li><b>Notes/Concepts:</b></li>
     <ul>
-      <li>Ownership by first posession is true of wild animals</li>
-
+      <li>Social Context of Case: Fox hunting was purely social.</li>
+      <li>Nouveaux Riche v. Old Money Hunter</li>
+      <li>Property includes various concerns. Wealth/Status</li>
     </ul>
 </ul>
 
 </details>
 
+- **Class Discussion**
+  - Who should actually "own" the fox?
+  - Proof of Work?
+    - Pierson who caught the fox?
+    - Post who chased the fox?
+      - What if he was an incompetent hunter?
+      - Counterfactual Argument = "But For" Post chasing the fox Pierson would not have caught the fox.
+    - When does the causal windo begin
+      - Start of Fox's life?
+      - When Post/Pierson see the fox
+  - Characteristics of the Fox
+    - Who changed the "free will" of the fox?
 
 <details><summary><i>Case: Ghen v. Rich</i></summary>
 
@@ -80,7 +106,7 @@ Reading: Pages 57–69 & 72–82​
 
 ### 1.1 Open Access and the Commons
 
-Establishing roof of Title
+1. Establishing Proof of Title
 1. First to possess something that is unclaimed by anyone else
 
 
