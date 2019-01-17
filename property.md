@@ -42,7 +42,7 @@ Reading: Pages 57–69 & 72–82​
  - Personal Property = Personal Goods & Tangibles + IP
 
 #### First/Subsequent Possession
-##### Case: *[Pierson v. Post](Link)*
+#### Case: *[Pierson v. Post](Link)*
 
 <details>
 
