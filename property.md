@@ -6,6 +6,7 @@ Supplemental Reading: Gilberts Outline, Sprankling
   - 1.0 Introduction
   - [1.1 Acquisition and Claim Scope](#11-acquisition-and-claim-scope)
   - [1.1 Open Access and the Commons](#11-open-access-and-the-commons)
+  -
 
 <!-- /TOC -->
 
@@ -44,44 +45,33 @@ Reading: Pages 57–69 & 72–82​
 <details>
 
 <summary><i>Case: Pierson v. Post</i></summary>
+
 <ul>
   <li><b>Overview:</b>Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.</li>
-<br>
   <li><b>Facts:</b>Post(∆) in possession of dogs and hounds was in pursuit of a fox on a wild, uninhabited, waste land called the beach. Pierson (π) knowing fox was so hunted and pursued, chased after fox and killed it, carrying it off.</li>
-<br>
   <li><b>Issue:</b>Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox. Narrow question is what amounts to occupancy of acquiring right to wild animals? What constitutes posession?</li>
-<br>
   <li><b>Rule:</b></li>
-<br>
   <li><b>Conclusion:</b>Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by <b>occupancy only</b> aka posession.</li>
-<br>
   <li><b>Notes/Concepts:</b></li>
     <ul>
       <li>Ownership by first posession is true of wild animals</li>
 
     </ul>
-
-<br>
+</ul>
 
 </details>
 
 
-<details>
-<summary><i>Case: Ghen v. Rich</i></summary>
+<details><summary><i>Case: Ghen v. Rich</i></summary>
 
 <ul>
   <li><b>Overview:</b>Court granted libellant fisherman judgment in action for conversion of fin-backwhale because local usage that fisherman who shoots a whale with identifiable bomb-lance, letting it sink, then pays fee to whale's finder, granted title.</li>
-<br>
   <li><b>Facts:</b> Fin-backwhales frequent Massachusetts bay where fishermen shoot and kill the whales. Whales then sink to the ocean floor and rise up 1-3 days later. Whales then either float to beach, are picked up or float out to sea. Each fisherman uses their own unique lance to mark the whale. ∆ found such whale and advertised on the spot for the sale of the whale.</li>
-<br>
   <li><b>Issue:</b></li>
-<br>
   <li><b>Rule:</b> Whale, being a ferae naturae, does not become property until a firm possession has been established by the taker.</li>
-<br>
   <li><b>Conclusion:</b> Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by ***occupancy only***. Narrow question is what amounts to occupancy of acquiring right to wild animals?</li>
-<br>
   <li><b>Notes/Concepts:</b></li>
-<br>
+</ul>
 
 </details>
 
@@ -123,7 +113,7 @@ Definition of Water
     <li><b>Facts:</b>Merriweather against Evans for obstructing and diverting a water course.</li>
     <li><b>Issue:</b> Can riparian proprietors use as much water as they want from a stream on their land?</li>
     <li><b>Rule:</b> There may be, and there must be, of that which is common to all, a reasonable use. The true test of the principle and extent of the use is, whether it is to the injury of the other proprietors or not. There may be diminution in quantity, or a retardation or acceleration of the natural current, indispensable for the general and valuable use of the water, perfectly consistent with the use of the common right. The diminution, retardation, or acceleration, not positively and sensibly injurious, by diminishing the value of the common right, is an implied element in the right of using the stream at all. The law here, as in many other cases, acts with a reasonable reference to public convenience and general good, and is not betrayed into a narrow strictness, subversive of common use, nor into an extravagant looseness, which would destroy private rights. That of a thing common by nature, there may be an appropriation by general consent or grant. Mere priority of appropriation of running water, without such consent or grant, confers no exclusive right.</li>
-    <li><b>Conclusion:</b> Affirmed with cost. The Court held that without a contract or a grant, neither owner has a right to use all the water, because all have a right to participate in its benefits. Because of this, the upstream owner may only use as much as is necessary to satisfy his natural needs, and has to leave enough for the downstream owner's natural needs. This is because while manufactures promote the prosperity and comfort of mankind, it is not considered absolutely necessary to his existence, nor is the machinery which would be used from the water power. </li>
+    <li><b>Conclusion:</b> Affirmed with cost. The Court held that without a contract or a grant, neither owner has a right to use all the water, because all have a right to participate in its benefits. Because of this, the upstream owner may only use as much as is necessary to satisfy his natural needs, and has to leave enough for the downstream owner's natural needs. This is because while manufactures promote the prosperity and comfort of mankind, it is not considered absolutely necessary to his existence, nor is the machinery which would be used from the water power.</li>
     <li><b>Notes/Concepts:</b> Justice upon the whole has been done and because damages are so small, the case should not be sent back for a jury to consider.</li>
   </ul>
 
