@@ -1,7 +1,7 @@
 ### Topic
 
 
-<b>Case: <i>[Case Name](Link)</i></b>
+#### Case: *[Case Name](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>

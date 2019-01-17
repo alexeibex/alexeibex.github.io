@@ -144,16 +144,46 @@ Definition of Water
 - *Evans v. Merriweather* draws distinction between natural wants and artifical wants.
   - Domestic v. Other
 
+##### Priority by Appropriation
+- Statutory Application
+- Generally only "beneficial uses" of appropriated water are permitted.
+  - Water to flood gophers on land?
+- Gives rights to use water in a certain way for a certain period of time - rather than a right to a certain volume of water.
+- Water measured in cubic foot per second.
+- Eastern v Western Applications
+  - Western = Evolved from consumptive water use
+  - Eastern = Evolved from water for power non-zero sum game.
 
-##### Case: *[Coffin v. Left Hand Ditch Company](Link)*
+###### Case: *[Coffin v. Left Hand Ditch Company](https://www.lexisnexis.com/lawschool/resources/p/casebrief-coffin-v-left-hand-ditch-co.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Appellee was entitled to use of water because, absent express statute to the contrary, appellee was the first appropriator of water from the natural stream for a beneficial purpose and had the prior right thereto.</li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b> Appellee claimed to be the owner of certain water by virtue of an appropriation. Appellants were the owners of lands that were naturally irrigated by the same water. A portion of appellee's dam was torn out and its diversion of water seriously interfered with by appellants. Appellee brought an action for damages arising out of the trespass and for injunctive relief to prevent repetitions in the future. The trial court found in favor of appellee. Appelants challenged the order but the court affirmed the decision of the trial court.</li>
+    <li><b>Issue:</b> Does the common law doctrine that allowed the riparian owner the natural flow of the water over his lands apply to the case?</li>
+    <li><b>Rule:</b> The common law doctrine giving the riparian owner a right to the flow of water in its natural channel upon and over his lands, even though he makes no beneficial use thereof, is inapplicable to Colorado. Imperative necessity, unknown to the countries which gave it birth, compels the recognition of another doctrine in conflict therewith. In the absence of express statutes to the contrary, the first appropriator of water from a natural stream for a beneficial purpose has, with the qualifications contained in the constitution, a prior right thereto, to the extent of such appropriation.</li>
+    <li><b>Conclusion:</b> The common law doctrine that allowed the riparian owner the natural flow of the water over his lands was inapplicable. Instead, the court applied the rule that, in the absence of express statutes to the contrary, the first appropriator of water from a natural stream for a beneficial purpose had a prior right thereto.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+##### Diffuse Surface Water
+- Each landowner has an absolute right to use self-help to repel inflows of these waters
+  - To combat the common enemy of surface water, even if it causes damaging flooding to other landowners.
+- Modified by judicial policing for reasonableness
+
+##### Groundwater
+
+##### Case: *[Higday v. Nickolaus](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Under rule of reasonable use, overlying owner such as city could not withdraw percolating water and transport it for sale or other use away from land from which it was taken if result was to impair supply of adjoining landowners to their injury.</li>
+    <li><b>Facts:</b> Respondent city sought to extract groundwater from wells to supply its growing population. Appellant landowners, a group of farmers, filed a petition for declaratory judgment and injunction, requesting a judicial declaration of their rights to percolating waters under their lands and seeking an injunction to prevent the city from infringing on those rights. The trial court dismissed the petition.</li>
+    <li><b>Issue:</b> Did the pleaded averments of plaintiffs' petition raise in plaintiffs a property right to the reasonable use of the percolating waters underlying their lands? If so, was defendant city’s threatened use of the percolating waters an infringement of those rights as would be enjoined by equity?</li>
+    <li><b>Rule:</b> Generally, a basis is made out of equity's interference by injunction to prevent the wrongful diversion of percolating waters by a pleading that establishes the plaintiff's right to the use of the water, that he has suffered or will suffer, legal injury, that the acts of the defendant are the cause of the plaintiff's injury, that the injury, present or threatened, is irreparable, and that no adequate redress can be obtained in an action at law. </li>
+    <li><b>Conclusion:</b> The court reversed the trial court's judgment that dismissed the landowners' petition for declaratory relief and injunction against the city and remanded the cause for further proceedings. The court held that the landowners stated a real controversy and that a declaratory judgment action was the proper method of obtaining relief in a suit to quiet title to water rights. Under the rule of reasonable use, an overlying owner such as the city could not withdraw percolating water and transport it for sale or other use away from the land from which it was taken if the result was to impair the supply of the adjoining landowners to their injury. The fundamental measure of the overlying owner's right to use groundwater was whether it was for purposes incident to the beneficial enjoyment of the land from which it was taken. The landowners' petition showed that the landowners were threatened with wrongful invasion of their water rights by the city and that the injury was irreparable</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

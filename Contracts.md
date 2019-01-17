@@ -5,7 +5,7 @@
   - 1.1 [Contracts](https://alexeibex.github.io/Contracts#11-contracts)
     - White v. Benkowski
   - 1.2 Related Obligations
-- 2.0 Second Topic
+- 2.0 Consideration
 
 ## 1.0 Introduction to Contracts
 
@@ -79,13 +79,12 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
       - Although it is well recognized that breach of a contractual duty **may be a** tort, in such situations the contract creates the relation out of which grows the duty to use care in the performance of a responsibility prescribed by the contract. Not so here. No tort was pleaded or proved. **Critique of White's Attorney**
 
 
-### 1.2 Related Obligations
+### 1.2 Related Obligation
 - Contracts = K
 - Agreements = A
 - Consideration = C
+- Theories will connect to Remedies
 
-#### 1.2.1 Theories of Obligation:
-<details>
   <ol>
     <li>Obligation arising from an agreement with <i>consideration</i> + any required writing (A w/ C)</li>
     <li>Obligation arising from justified reliance on a promise</li>
@@ -94,59 +93,31 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
     <li>Obligation arising soley from tort</li>
     <li>Obligation arising solely from "form"</li>
     <li>Obligation arising from a statutory warrenty</li>
-
   </ol>
-</details>
 
-- Theories will connect to Remedies
 
-#### 1.2.2 Remedies
+## 2.0 Remedies
 - How does the law treat someone who has been harmed by a breach of contract?
-###### Monetary Remedies
-  - Compensatory damages, which are given to the party which was detrimented by the breach of contract. With compensatory damages, there are two heads of loss, consequential damage and direct damage.
-    - Lost Expectation
-      - Expectation damages are awarded to put the party in as good of a position as the party would have been in had the contract been performed as promised.
-    - Reliance
-      - Reliance damages are usually awarded where no reasonably reliable estimate of expectation loss can be arrived at or at the option of the plaintiff. Reliance losses cover expense suffered in reliance to the promise.
-    - Restitution
-      - Compensation by the ∆ to pay the π for their loss.
-  - Nominal damages consist of a small cash amount where the court concludes that the defendant is in breach but the plaintiff has suffered no quantifiable pecuniary loss, and may be sought to obtain a legal record of who was at fault.
-  - Punitive or exemplary damages are used to punish the party at fault; but even though such damages are not intended primarily to compensate, nevertheless the claimant (and not the state) receives the award
+  - Common Law Remedies can be flexible and attept to help promisee.
+  - UCC tries to make promisee whole + incurred costs "for goods"
 
-###### Problem 1.1 (Grain Contract **A w/ C**)
-- Handled by UCC (Statutory) because the "Sale of Goods"
-- Compensatory Damages for grain bought at a higher price than originally agreed.
-  - Search Costs
+### 2.1 Overview
 
-#### 1.2.3 The Uniform Commerical Code
-##### Article 1 - Remedies to be liberally Administered
-  - Compensatory Damages
+#### Common Law Remedies
+- **Compensatory** damages, which are given to the party which was detrimented by the breach of contract. With compensatory damages, there are two heads of loss, consequential damage and direct damage.
+  1. **Expectation**: Puts promisee in the position he would have been in if the contract had been *performed*. "You get what you bargained for"
+  2. **Reliance**: Puts promisee in the position he would have been in if the contract had *not been made*.
+  3. **Restitution**: Restors to the promisee any benefit he conferred to the promisor.
+  4. Expectation damages are the difference between promised performance and actual performance—for instance, between a perfect hand and a hairy, scarred hand. *Hawkins v. McGee*.
 
-##### Article 2 of the UCC
-- Applies to "Transactions in goods"
-  - "Goods" includes "all things" which are movable at the time of identification to the contract for sale
-- Adopted by all states except by Louisiana
+- **Nominal** damages consist of a small cash amount where the court concludes that the defendant is in breach but the plaintiff has suffered no quantifiable pecuniary loss, and may be sought to obtain a legal record of who was at fault.
 
+- **Punitive** or **exemplary** damages are used to punish the party at fault; Contract law does not recognize punitive damages.
 
-#### 1.2.4 Common Law Remedies
-- Under strict theory of Obligation with Consideration
-  - Remedies can be flexible
-    - Restitution
-    - Reliance
-    - Lost Expectancy
-
-###### Case: *[Sullivan v. O'Connor](Link)*
-
-###### History
-- Breach of Contract Claim + Negligent Malpractice Tort
-  - Jury awarded verdict of $13.5K for Breach of Contract
-    - Contract to "Enhance Beauty + Improve Appearence"
-  - No Negligent Malpractice
-- ∆ claimed restitution should only get cost of surgery (Compensatory)
-- ∆ claimed jury instruction for damages in excess
-- π would claim Lost Expectancy
-  - Formulaic? Not a "Good"
-    - Botched Nose v. Enhanced Expected Nose (Subjective) =
+---
+#### 2.2 Expectation Damages
+#### Case: *[Sullivan v. O'Connor](Link)*
+- The appropriate measure of damages is the difference between (1) performance of the contract as promised and (2) actual performance.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -160,6 +131,16 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 </details>
 
+#### Class Discussion
+- Breach of Contract Claim + Negligent Malpractice Tort
+  - Jury awarded verdict of $13.5K for Breach of Contract
+    - Contract to "Enhance Beauty + Improve Appearence"
+  - No Negligent Malpractice
+- ∆ claimed restitution should only get cost of surgery (Compensatory)
+- ∆ claimed jury instruction for damages in excess
+- π would claim Lost Expectancy
+  - Formulaic? Not a "Good"
+    - Botched Nose v. Enhanced Expected Nose (Subjective)
 - Court dodged the bullet by not addressing Lost Expectancy Damages
 - Court rules in favor of Reliance Damages (Pre-K)
   - Reliance damages designed to put the π in the monetary position he or she would have been in if the agreement or promise had not been made;
@@ -176,8 +157,20 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
     - Sympathetic juries allocating damages
   - Too Lenient?
 
+---
 
-## 2.0 Obligation Arising from an Agreement with Consideration
+#### Remedies Under The Uniform Commerical Code
+##### Article 1 - Remedies to be liberally Administered
+  - Compensatory Damages + Search Costs
+
+##### Article 2 of the UCC
+- Applies to "Transactions in goods"
+  - "Goods" includes "all things" which are movable at the time of identification to the contract for sale
+- Adopted by all states except by Louisiana
+
+---
+
+## 3.0 Obligation Arising from an Agreement with Consideration
 Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
 - A Valid Agreement w/ Consideration (A w/ C)
 
