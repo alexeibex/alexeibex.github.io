@@ -5,7 +5,13 @@
   - 1.1 [Contracts](https://alexeibex.github.io/Contracts#11-contracts)
     - White v. Benkowski
   - 1.2 Related Obligations
-- 2.0 Consideration
+- 2.0 [Remedies](https://alexeibex.github.io/Contracts#20-remedies)
+  - 2.1 [Common Law Remedies](https://alexeibex.github.io/Contracts#common-law-remedies)
+  - 2.2 [Expectation Damages](https://alexeibex.github.io/Contracts#22-expectation-damage)
+  - 2.3 [Remedies Under the Uniform Commerical Code](https://alexeibex.github.io/Contracts#23-remedies-under-the-uniform-commerical-code)
+- 3.0 [Obligation Arising Under An Agreement with Consideration](https://alexeibex.github.io/Contracts#30-obligation-arising-from-an-agreement-with-consideration)
+  - 3.1 [Freedom of Transaction](https://alexeibex.github.io/Contracts#31-freedom-of-transaction)
+  - 3.2 [Donative Promise, Form & Reliance](https://alexeibex.github.io/Contracts#32--donative-promises-form--reliance)
 
 ## 1.0 Introduction to Contracts
 
@@ -103,9 +109,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
   - Common Law Remedies can be flexible and attept to help promisee.
   - UCC tries to make promisee whole + incurred costs "for goods"
 
-### 2.1 Overview
-
-#### Common Law Remedies
+### 2.1 Common Law Remedies
 - **Compensatory** damages, which are given to the party which was detrimented by the breach of contract.
   1. **Expectation**: Puts promisee in the position he would have been in if the contract had been *performed*. "You get what you bargained for"
   2. **Reliance**: Puts promisee in the position he would have been in if the contract had *not been made*.
@@ -265,23 +269,47 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
  2. AND; bargained for and given in exchange for the promise.
     - Consideration may be given to the promisor or to some other person. It may be given by the promisee or by some other person.
 
+
 #### 3.2.1 Bare Naked Promise & Consideration
 - Acceptance alone is not consideration, but at some point acceptance becomes an act that qualifies as consideration
+
+#### Problem 2-1
+1. Consideration could have been given to promisor if promisee was *Induced* by exchange.
+
+#### The Substantive Bases of Contract Liability
+
+- Lon Fuller introduced **substantive** and **process** bases for enforcing promises.
+- The two process bases are **evidentiary** *(making sure a promise has actually been made)* and **cautionary** *(preventing inconsiderate action by the promisor)*.
+  - **Evidentiary**: Evidentiary security—protecting against manufactured evidence and dealing with insufficient proof.
+    - Written v. Oral promises as evidence
+  - **Cautionary**: Safeguarding the individual against his own rashness.
+    - Cautionary process requires promisor to consider legal consequences for promise.
+    - Writing out promises requires thought and pause.
+  - Simple donative promises are problematic on both bases.
+   - They raise problems of proof (evidence may be uncertain) and deliberativeness (the promisor is likely to be emotionally involved with the promisee).
+   - Substantive reasons for enforcing donative promises include compensating the promisee’s disappointment (a form of injury), move assets from the wealthy to the less wealthy, and increase the likelihood of beneficial reliance. But these substantive bases are open to question.
+  - **Channeling**: Signaling to make sure that the promisor knows the
+ promise is enforceable.
+   - Lease as a contract provides signal to promisee
+  - **Deterrent**: Unwillingness to enforce contracts of “suspect or marginal
+ value.”
+
+
 
 #### Case: *[Maughs v. Porter](https://advance.lexis.com/api/permalink/83b69d1f-aa65-4f2d-a22b-8b881846bcdd/?context=1000516)*
 
 - Plaintiff auction winner appealed a judgment of the Circuit Court of Albemarle County (Virginia), which sustained defendant auctioneer's demurrer in the auction winner's action for a money judgment.
--
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> An auction winner was unable to recover a money judgment against an auctioneer where the bargain was unenforceable as against public policy because the transaction was consistent with the scheme of a lottery, which was prohibited by state law.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> The auction winner won an automobile at an auction organized and advertised by the auctioneer. The auctioneer refused to pay for the automobile when it was delivered and refused to pay the auction winner the value of the car. The circuit court sustained the demurrer filed by the auctioneer in the auction winner's action for a money judgment.</li>
     <li><b>Issue:</b> Whether the alleged offer to make the gift can be enforced as supported by a sufficient consideration and if it should be determined that there was such a consideration as would otherwise support the gift then:</li>
       <ul>
         <li>Whether the transaction constitutes a lottery which is prohibited by Constitution & Statute</li>
       </ul>
     <li><b>Rule:</b> The intention to give must be accompanied by a delivery, and the delivery must be made with an intention to give. Otherwise there is only an intention or promise to give, which, being gratuitous, would be a mere nullity. Delivery of possession of the thing given or of the means of obtaining it so as to make the disposal of it irrevocable, is indispensable to a valid gift.</li>
-    <li><b>Conclusion:</b>There was sufficient consideration to support the gift and but for the other questions involved this would determine the case but the court affirmed the judgment of the circuit court that the bargain was unenforceable and denied the auction winner recovery in the auction winner's action for a money judgment against the auctioneer.</li>
+    <li><b>Conclusion:</b>There **was sufficient consideration** to support the gift and but for the other questions involved this would determine the case but the court affirmed the judgment of the circuit court that the bargain was unenforceable and denied the auction winner recovery in the auction winner's action for a money judgment against the auctioneer.</li>
     <li><b>Notes/Concepts:</b></li>
       <ol>
         <li>A gift is a contract without a consideration, and to be valid must be executed. A valid gift is therefore a contract executed.</li>
@@ -290,6 +318,26 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
   </ul>
 
 </details>
+
+- Advertisement calls for attendance.
+  - ∆ benefits by hope of deriving benefit from the crowd so augmented.
+  - π claims attendance was induced by advertisement and qualifies as consideration.
+  - As in Hardesty, Time in attendence = detriment/inconvenience
+- ∆ argument claims it is just a gift with a condition, no consideration and not enforceable.
+  - Gift was a condition of a promise. *See Tramp Example*
+- ∆ was conducting business in hopes of profit.
+  - "Free" not actually "Free"
+  - Opposite Daughtery where promise was purely motivated by emotion.
+
+#### Tramp/Homeless Hypo
+- **Class Discussion**
+  - I’ll call the store and have two suits ready for you. You go to the store and find out I was just kidding. **There’s no consideration.** But what if I make you drive to a store in San Francisco? Is that an act that constitutes consideration? I got what I wanted (for you to go to the store) and you thought you were getting what you wanted (new clothes).
+  - Promise of a coat induces a walk around the corner to go to the shop
+    - Tramp gives up his legal right to hang on the street to go walk around the block.
+      - Court don't question adequecy of consideration
+      - Detriment was not requested as the price of the promise, but was merely a condition of a **gratuitous promise.**
+        - Walking around the corner is not motivating the promisor to give the coat.
+  - Acceptance alone is not consideration, but at some point acceptance becomes an act that qualifies as consideration.
 
 
 #### Case: *[Carlisle v. T  & R Excavating Inc](https://advance.lexis.com/api/permalink/a92b0db1-cb4c-44da-9bd0-1cab856e2f8f/?context=1000516)*
@@ -329,18 +377,20 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 
 
-##### Sufficient Consideration
+#### Sufficient Consideration
+Any bargained-for act or forbearance constitutes consideration. There is no mutuality requirement.
 
 #### Case: *[Hamer v. Sidway](https://www.lexisnexis.com/lawschool/resources/p/casebrief-hamer-v-sidway.aspx)*
 
 - Plaintiff appealed from an order of the Supreme Court in the Fourth Judicial Department (New York), which reversed a judgment in his favor in an action to enforce a contract.
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Forbearance or abandonment of legal right to use tobacco and alcohol in exchange for the payment of a sum of money was sufficient consideration to enforce the contract.</li>
     <li><b>Facts:</b> A testator made an agreement with his nephew that if he refrained from drinking liquor, using tobacco, swearing and playing cards or billiards for money until he reached the age of twenty-one, the testator would pay him $ 5,000. The nephew fulfilled his obligation. When the nephew informed his uncle, it was agreed that the uncle would first keep the money on interest. Unfortunately, the uncle died before any money could be transferred to the nephew. Filing a case for sum of money with the trial court, the judgment was rendered in favor of the nephew but later on reversed by the General Term of the Supreme Court. The case was elevated on appeal to the Court of Appeals of New York.</li>
-    <li><b>Issue:</b> Is a promise to abandon ones legal right to use tobacco and alcohol considered sufficient consideration to enforce a contract?</li>
+    <li><b>Issue:</b> Is a promise to abandon ones legal rights to use tobacco and alcohol considered sufficient consideration to enforce a contract?</li>
     <li><b>Rule:</b> Consideration means not so much that one party is profiting as that the other abandons some legal right in the present, or limits his legal freedom of action in the future, as an inducement for the promise of the first.</li>
-    <li><b>Conclusion:</b> It is Enough that something is promised done forborne or suffered by the party to whom the promise is made as consideration for the promise made to him.</li>
+    <li><b>Conclusion:</b> It is enough that something is promised done forborne or suffered by the party to whom the promise is made as consideration for the promise made to him.</li>
       <ul>
         <li>It is sufficient that he restricted his lawful freedom of action within certain prescribed limits upon the faith of his uncle's agreement</li>
         <li>The Court held that the right to use and enjoy the use of tobacco is a right that belongs to the nephew and is not forbidden by law. The abandonment of its use is a sufficient consideration to uphold the promise because such abandonment was the inducement for the promise.</li>
@@ -350,10 +400,32 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 </details>
 
+- **Class Discussion**
+  - Is this a gift with a consideration or bargain for exchange.
+  - Detriment to the promisee v. Inducement by the Promisor
+  - Detriment is subjective to the person.
+    - As long as giving up a legal right or freedom.
+  - Promise induced detriment - Motivation of Promisor
+    - But did the detriment induce the promise?
+    - Uncle grandstanding/concerned with reputation of family name
+    -
+
+
+
 ##### RESTATEMENT (SECOND) OF CONTRACTS § 81
   - Consideration as Motive or Inducing Cause
-    1. The fact that what is bargained for does not of itself induce the making of a promise does not prevent it from being consideration for the promise
+    1. The fact that what is bargained for does not of **itself solely** induce the making of a promise does not prevent it from being consideration for the promise.
     2. The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
+
+#### Bargained-For & Mutual Inducement
+- Courts generally do not consider the adequacy of consideration.
+  - As long as you are getting **"a something"**
+- The **mutuality rule** required both parties to be obligated to each other, but it did not require **equal consideration.**
+  - Broad: “consideration” refers collectively to the things that make contracts legally enforceable—e.g., bargain or reliance.
+  - Narrow: “consideration” is the same thing as “bargain.” The Restate- ment Second adopts this approach, known as the bargain theory of consideration.
+- The bargain theory of consideration creates two kinds of distortion:
+  - **Terminological**: many other elements besides bargain can make a contract enforceable. Therefore, “under the terminology of the Re- statement Second, a promise needs consideration to be enforceable unless it does not need consideration to be enforceable.”
+  - **Substantive**: the bargain theory presumes that all nonbargain promises are unenforceable. It does not allow the law to develop other means of making promises enforceable.
 
 
 #### Case: *[Baehr v. Penn-O-Tex Oil Corp.](https://advance.lexis.com/api/permalink/f54592e4-be10-4e64-8360-d1a530505f01/?context=1000516)*
@@ -370,6 +442,8 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
   </ul>
 
 </details>
+-**Class Discussion**
+  - Forbearance to not bring a suit was the inducement
 
 
 #### Case: *[Neuhoff v. Marvin Lumber and Cedar Co.](https://advance.lexis.com/api/permalink/f60a4855-ed51-4c83-9f79-796b17993308/?context=1000516)*
