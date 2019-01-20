@@ -23,6 +23,7 @@
   - Whether enforced by a government, or otherwise, the contract is the basic building block of a free market economy. Over many centuries of cultural evolution has emerged both the concept of contract and principles related to it, encoded into common law.
 
 ### 1.1 Contracts
+- **Contacts** = **Offer** + **Acceptance** + **Consideration**
 - Legality of Contracts:
   - Agreements that our legal system will enforce and permit.
 - Considerations required for legal enforcement for Contracts
@@ -88,6 +89,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 ### 1.2 Related Obligation
 - Contracts = K
+- Offer = O
 - Agreements = A
 - Consideration = C
 - Theories will connect to Remedies
@@ -121,7 +123,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 - **Punitive** or **exemplary** damages are used to punish the party at fault; Contract law does not recognize punitive damages.
 
 
-### 2.2 Expectation Damages
+### 2.2 Reliance
 #### Case: *[Sullivan v. O'Connor](Link)*
 - The appropriate measure of damages is the difference between (1) performance of the contract as promised and (2) actual performance.
 
@@ -408,7 +410,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   - Promise induced detriment - Motivation of Promisor
     - But did the detriment induce the promise?
     - Uncle grandstanding/concerned with reputation of family name
-    -
+
 
 
 
@@ -419,7 +421,9 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 #### Bargained-For & Mutual Inducement
 - Courts generally do not consider the adequacy of consideration.
-  - As long as you are getting **"a something"**
+  - In a bargained for exchange, promise is said to be supported by consideration because the promisor gets "something in exchange for his/her promise"
+    - As long as you are getting **"a something"**
+  - Must demonstrate that parties "agreed to exchange"
 - The **mutuality rule** required both parties to be obligated to each other, but it did not require **equal consideration.**
   - Broad: “consideration” refers collectively to the things that make contracts legally enforceable—e.g., bargain or reliance.
   - Narrow: “consideration” is the same thing as “bargain.” The Restate- ment Second adopts this approach, known as the bargain theory of consideration.
@@ -442,7 +446,8 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   </ul>
 
 </details>
--**Class Discussion**
+
+- **Class Discussion**
   - Forbearance to not bring a suit was the inducement
 
 
@@ -464,7 +469,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 #### Case: *[Springstead v. Nees](Link)*
 - Plaintiffs sought review of the decision of a trial court (New York), which dismissed plaintiffs' action against defendants to prevent defendants from collecting a portion of the proceeds from the sale of a parcel of land inherited by plaintiffs.
--
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Defendant was entitled to share in the proceeds from the sale of a parcel of land inherited by defendant and plaintiff because plaintiffs' alleged promise to forego any interest in the land lacked consideration and was not enforceable.</li>
@@ -478,7 +483,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 </details>
 
-
+#### Mutuality of Obligation
 #### Case: *[De Los Santos v. Great Western Sugar Company](https://advance.lexis.com/api/permalink/26dd8315-cbcd-46a8-9826-29cad4ff229d/?context=1000516)*
 - Plaintiff trucker appealed from a decision of the District Court for Scotts Bluff County (Nebraska), which granted summary judgment for defendant sugar company in the trucker's action for breach of contract.
 
@@ -487,7 +492,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
     <li><b>Overview:</b> A sugar company was not liable for breach of contract when it terminated a trucker's services for hauling beets after two months because the contract did not specify a quantity of beets and allowed the company to terminate at any time.</li>
     <li><b>Facts:</b> The trucker, an independent contractor, entered a contract with the sugar company that called for the trucker to haul only such tonnage of beets as might be loaded by the sugar company upon the trucker's trucks. The sugar company terminated the trucker after two months of hauling. The trucker contended that he was entitled to haul until all of the beets had been transported to the factory.</li>
     <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
+    <li><b>Rule:</b> Mutuality is absent when one only of the contracting parties is bound to perform</li>
     <li><b>Conclusion:</b> The contract was unenforceable because neither the trucker nor the sugar company intended to or did, either in fact or law, promise to transport a specific quantity of beets or promise to transport beets during a specific period of time. The term of the contract did not constitute a promise, but merely established the period of time during which the promises that were contained in the contract would be in effect. The sugar company's right to control the amount of beets loaded onto the trucker's trucks was a right to terminate the contract at any time, and rendered the contract as to its unexecuted portions void for want of mutuality.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
@@ -495,14 +500,88 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 </details>
 
 
+#### Implied Obligation & Good Faith
+- The intent of the parties outweighs “primitive formalism.”
+#### Case: *[Wood v. Lucy, Lady Duff-Gordon](https://www.lexisnexis.com/lawschool/resources/p/casebrief-wood-v-lucy-lady-duff-gordon.aspx)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A marketer was entitled to performance of an implied contract with a fashion designer where mutuality of obligation existed, although imperfectly expressed, with express promises of sales and profit sharing.</li>
+    <li><b>Facts:</b> Defendant is a "creator of fashions" whose favor helps a sale, and manufacturers of feminine apparel are willing to pay for a certificate of her approval. She entered into an agreement with plaintiff employing him to turn this vogue into money. He was to have, for the term of one year, and thereafter unless terminated by a written notice, the exclusive right, subject to her approval, to place her indorsements on the designs of others and in return she was to have one-half of all profits and revenues derived from any contract he might make. Plaintiff claims that he kept the contract and that the defendant broke it, by placing her indorsement on articles without his knowledge and withholding the profits, and sues her for the damages. Defendant demurs to the complaint on the ground that the agreement lacks the elements of a contract in that plaintiff does not bind himself to anything. </li>
+    <li><b>Issue:</b> Is there mutuality in the contract?</li>
+    <li><b>Rule:</b> A promise may be lacking within a contract, and yet the whole writing may be instinct with an obligation, imperfectly expressed. If that is so, there is a contract. </li>
+    <li><b>Conclusion:</b> The Court held that upon examination of the contract, although plaintiff does not promise in express terms, such a promise is fairly implied. Defendant gave an exclusive privilege and plaintiff's promise to pay one-half of the profits and revenues resulting from the exclusive agency and to render accounts monthly, was a promise to use reasonable efforts to bring profits and revenues into existence, and, hence, the demurrer cannot be sustained.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - Cardozo "The law has outgrown is primitive stage of formalism when the precise word was the sovereign talisman and every slip was fatal.”136 The clear intent of the parties was to give the plaintiff an exclusive right. The defendant cannot escape that right on a formal technicality."
+
+#### Uniform Commerical Code §1-304 - Obligation of Good Faith
+- Every contract or duty within the UCC imposes an *obligation of good faith in its performance and enforcement*.
 
 
+#### Uniform Commerical Code §2-306(2)
+- A lawful agreement by either the seller or the buyer for exclusive dealing in the kind of goods concerned imposes unless otherwise agreed an obligation by the seller to use *best efforts to supply the goods and by the buyer to use best efforts to promote their sale*
+- Terms dealing with expected output, requirements, and exclusive dealings must be followed in good faith.
+  - Requirements contract: a seller agrees to provide as much of a good as the buyer requires
+  - Output contract: a buyer agrees to buy all of a seller’s output.
+- Traditionally, “courts often refused to enforce requirements contracts where the buyer could choose to have no requirements.” But both parties shrunk their realm of choice, so there was mutual consideration.
+  - “ . . . a modern court would almost certainly hold that all requirements and output contracts have consideration.”
 
 
+#### Mutuality
+- As long as there is sufficient consideration, unequal terms do not invalidate a contract
+
+#### Case: *[Weiner v. McGraw-Hill, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A former employee stated a cause of action in contract where he alleged that his former employer discharged him without sufficient cause or rehabilitation attempts, in violation of an employment agreement.</li>
+    <li><b>Facts:</b> π entered upon a career in book publishing with another employer & was invited to engage in discussions looking towards his joining the staff of ∆. ∆ representative assured π of company's firm policy not to terminate employees without "just cause". Employment with ∆ would bring him job security. π signed McGraw form where specified that π would be subject to the provisions of handbook on personnel policies and procedures. π forfeited fringe benefits and salary increase that were to induce him to remain at current employ so as to take job with ∆ company. π worked for 8 years at ∆ company and was raised in his level of compensation and rank. He suddenly found himself discharged for "lack of application" π seeks damages for wrongful termination.</li>
+    <li><b>Issue:</b> Whether the π though not engaged for a fixed term of employment, pleaded a good cause of action for breach of contract against his employer.</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> Mutuality in the sense of requiring such reciprocity is not necessary when a promisor receives other valid considerations. Court found sufficient evidence of a contact and a breach to sustain a cause of action. π was induced to leave previous employment with assurance that ∆ would not discharge him without cause. Second, assurance was incorporated into the employment application. Third π rejected other offers of employment in reliance on the assurance. Fourth appellant alleged that when he had recommendend certain subordinates be dismissed he was instructed to proceed in strict compliance with handbook and policy because employees could be discharged only for just cause. If he did not comply with handbook, ∆ would be liable for legal action. Therefore factors combine to present a question, was ∆ bound to a promise not to discharge π without just and sufficient cause and an opportunity for rehabilitation. Order reversed.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+
+- **Case Examples**
+  - *Kamboj v. Eli Lilly & Co*
+    - Absent special circumstances, mere relinquishment of a prior job to take a new job is insufficient consideration. **But** *if the employee's forbearance is a "specifically bargained for detriment" it can be said that the employee has surrendered something of value in exchange for the promise of employment and therefore that adequate consideration exists.*
+
+#### Satisfaction Clauses
+- Satisfaction clauses constitute consideration when courts read them as requiring good faith. Otherwise, the satisfaction clause would not involve a commitment, so the promise would be illusory.
+
+#### Case: *[Mattei v. Hopper](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> π brought action for damages after ∆ breached a contract by failing to convey her real property in accordance with terms of a deposit receipt which the parties had executed.</li>
+    <li><b>Facts:</b> π real estate developer was planning to construct a shopping center on a tract of ∆ land. After many attempts ∆ accepted π offer to buy land. π was given 120 days to examine the title and consummate the purchase after deposting $1000. Concluding clause provided that purchase contingent on Coldwell Banker & Co. obtaining leases satisfactory to the purchaser. 120 days and clause as means for arranging satisfactory leases of the shopping center building prior to the time he was finally committed to pay the balance of the purchase price and to take title to ∆ property. While π was in process of securing leases, ∆ attorney notified π that ∆ would not sell her land under terms contained in the deposit receipt. </li>
+    <li><b>Issue:</b> Was the deposit receipt no more than an offer by her which could only be accepted by π notifying her that all of the desired leases had been obtained and were satifactory to him.</li>
+    <li><b>Rule:</b> To make a contract where promises are exchanged as consideration, the promises must be mutual in obligation. Both much have assumed some legal obligations.</li>
+    <li><b>Conclusion:</b> ∆ thesis that deposit is no more than an offer must be rejected. The whole purhcase receipt and particular cluase must be read as merely making πs performance dependent on the obtaining of "satisfactory" leases. A contract arose, and π was given the power and privilege to terminate it in the event he did not obtain such leases. Accords with general view that deposit receipts are binding and enoforceable contracts. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- Corbin on Contracts: A promise conditional upon the promisor's satisfaction is not illusory since it means more than the validity of the performance is to depend on the arbitary choice of the promisor.
 
 
-
-
+#### The Preexisting Duty Doctrine
+- Performance of an existing duty is not consideration.
+  - Neither the performance of duty nor the promise to render a performance already required by duty is a sufficient consideration for a return promise.
+- Withholding performance does not create consideration for a modification. It looks more like extortion.
+- *Case Examples*
+  - Haigh v. Brooks
+    - Giving up a piece of paper, however objectively worthless it may have been would be consideration.
 ---
 
 

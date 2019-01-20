@@ -18,9 +18,14 @@
     - *Marbury v. Madison*
   - 1.4.2 [Authority to Review State Court Judgements](LINK)
     - *Martin v. Hunter's Lessee*
-  - 1.4.3 [Judicial Exclusivity]
+  - 1.4.3 [Judicial Exclusivity]()
     - *Cooper v. Aaron*
     - *Baker v. Carr*
+- 2.0 [National Powers & Local Activities]()
+  - 2.1 Federalism: History & Principles
+    - *McCulloch v. Maryland*
+    - *U.S. Term Limits, Inc. v. Thornton*
+    - *U.S. v. Comstock*
 
 ## 1.0 The Constitution and the Court
 ### 1.1 [The Constitution of the United States](https://www.law.cornell.edu/constitution)
@@ -569,3 +574,69 @@ Questions that are to be answered by political process not the judicial process.
   - Procedures outlined by Constitution.
   - *Bush v. Gore*
 6. Recognition of Foreign Sovereigns
+
+---
+
+## 2.0 National Powers & Local Activities
+
+### 2.1 Federalism: History & Principles
+- Federalism: federal government vs. states, i.e., limits on federal power.
+- Anti-Federalists: opposed the creation of a strong federal government
+and, later, opposed the 1787 constitution.
+
+#### 2.1.1 Articles of the Confederation
+- Article 9: Details out powers of the Federal Government
+  - War/Peace
+  - Tariffs
+  - Mint
+  - Trade
+- Article 2: Limits on Federal Government
+  - Each state retains everything not *expressly* delegated to the United States:
+    - Power
+    - Jurisdiction
+    - Right
+
+
+#### 2.1.2 Sovereignty in the Federal System
+
+#### Case: *[McCulloch v. Maryland](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The state had no power, by taxation or otherwise, to burden the Bank of the United States because to do so would be repugnant to the supremacy of the laws enacted by Congress.</li>
+    <li><b>Facts:</b> The state of Maryland sued McCulloch to recover certain penalties under the act of the legislature of Maryland, which imposed a tax on all banks in the state of Maryland not chartered by the Maryland legislature. McCulloch, a cashier at the Bank of the United States, had issued notes that were not issued on stamped paper in the manner prescribed by the state act. The county court found for the State, and the court of appeals affirmed. The cause was brought, by writ of error, to the Supreme Court questioning the constitutionality of the Act.</li>
+    <li><b>Issue:</b> Was the said act of the General Assembly of Maryland constitutional?</li>
+    <li><b>Rule:</b> The sound construction of the Constitution must allow to the national legislature that discretion, with respect to the means by which the powers it confers are to be carried into execution, which will enable that body to perform the high duties assigned to it, in the manner most beneficial to the people. Let the end be legitimate, let it be within the scope of the Constitution, and all means which are appropriate, which are plainly adapted to that end, which are not prohibited, but consist with the letter and spirit of the Constitution, are constitutional.</li>
+    <li><b>Conclusion:</b> The Court reversed the holding that the act to incorporate the Bank of the United States was a law made in pursuance of the Constitution. Moreover, the Court held that the law imposing a tax on the Bank of the United States was unconstitutional and void because the states had no power to burden the operations of the constitutional laws enacted by Congress.</li>
+    <li><b>Notes/Concepts:</b></li>
+      <ul>
+        <li>Government is acknowledged by all to be one of <b>enumerated powers.</b> The principle, that it can exercise only the powers granted to it, is now universally admitted. </li>
+        <li>Marshall takes a broad view of Congress's implied powers in order to hold that Congress did have the power to charter a national bank,</li>
+          <ul>
+            <li>Based on the **Necessary and Proper Clause**</li>
+          </ul>
+        <li>Marshall also emphasized the **broad and general** nature of the document</li>
+          <ul>
+            <li>It is *a constitution we are expounding*</li>
+            <li>**It is intended to endure for ages to come and to be adapted to the various crises of human affairs**</li>
+          </ul>
+      </ul>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+
+#### Case: *[U.S Term Limits, inc. v. Thornton](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>

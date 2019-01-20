@@ -156,11 +156,9 @@ Reading: Pages 57–69 & 72–82​
 
 ---
 
-
-
 ## 2.0 Water Rights
 Reading: Pages 57-69 & 72-82
-###### Definition of Water
+#### Definition of Water
 - Fugitive Resource with a flow that is only partly predictable.
 - Renewable Resource
 - Water law consists of a common law base with state statutory and federal overlays.
@@ -168,17 +166,17 @@ Reading: Pages 57-69 & 72-82
   - Surface v. Underground
   - Diffuse v. In a defined channel/body
 
-##### 2.1 Watercourses
+### 2.1 Watercourses
 - A riparian (relating to or situated on the banks of a river) owner = one whose land abuts the watercourse, and riparian water rights are apppurtenant to the land
   - The rights to the land and the right to use the water from the surface stream form a package that cannot be split up.
   - Natural Flow Theory v. Reasonable Use Theory
     - English law developed where each owner could prevent any diversion of the natural flow of a river or stream by an upstream riparian owner
     - American law adopts more flexible theory of reasonable use
 
-##### 2.2 Reasonable Use Theory
+### 2.2 Reasonable Use Theory
 
-##### Riparian Rights
-###### Case: *[Evans v. Merriweather](https://www.lexisnexis.com/lawschool/resources/p/casebrief-evans-v-merriweather-1667897126.aspx)*
+### Riparian Rights
+#### Case: *[Evans v. Merriweather](https://www.lexisnexis.com/lawschool/resources/p/casebrief-evans-v-merriweather-1667897126.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -207,7 +205,7 @@ Reading: Pages 57-69 & 72-82
 - *Evans v. Merriweather* draws distinction between natural wants and artifical wants.
   - Domestic v. Other
 
-##### Priority by Appropriation
+### Priority by Appropriation
 - Statutory Application
 - Generally only "beneficial uses" of appropriated water are permitted.
   - Water to flood gophers on land?
@@ -217,7 +215,7 @@ Reading: Pages 57-69 & 72-82
   - Western = Evolved from consumptive water use
   - Eastern = Evolved from water for power non-zero sum game.
 
-###### Case: *[Coffin v. Left Hand Ditch Company](https://www.lexisnexis.com/lawschool/resources/p/casebrief-coffin-v-left-hand-ditch-co.aspx)*
+#### Case: *[Coffin v. Left Hand Ditch Company](https://www.lexisnexis.com/lawschool/resources/p/casebrief-coffin-v-left-hand-ditch-co.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -231,14 +229,14 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-##### Diffuse Surface Water
+### Diffuse Surface Water
 - Each landowner has an absolute right to use self-help to repel inflows of these waters
   - To combat the common enemy of surface water, even if it causes damaging flooding to other landowners.
 - Modified by judicial policing for reasonableness
 
-##### Groundwater
+### Groundwater
 
-##### Case: *[Higday v. Nickolaus](Link)*
+#### Case: *[Higday v. Nickolaus](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -251,3 +249,138 @@ Reading: Pages 57-69 & 72-82
   </ul>
 
 </details>
+
+---
+
+## 3.0 The *Ad Coelum* Rule, Sequential Possession & *Nemo Dat*
+### 3.1 The *Ad Coelum Rule*
+  - "To whomever the soil belongs, he owns also to the sky and to the depths"
+  - Applies to resources discovered beneath the surface
+    - Minerals
+    - Oil/Gas Deposits
+    - Mines/Caves
+
+#### Case: *[Edwards v. Sims](https://www.lexisnexis.com/lawschool/resources/p/casebrief-edwards-v-sims.aspx)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Petitioner property owners sought a writ of prohibition against respondent judge of the Edmonson Circuit Court (Kentucky), to prevent the judge from enforcing an order permitting the inspection of a cave on their property and punishing them for contempt for any disobedience of the order.</li>
+    <li><b>Facts:</b> The property owners possessed land on which caves were situated. The judge of the lower court entered an order that surveyors were permitted to enter upon the land to survey a cave for the purpose of securing evidence on an issue as to whether or not a part of the cave was being exploited under the lands of another party. The property owners claimed that the lower court was without jurisdiction or authority to order the inspection and sought a writ of prohibition against the judge. Upon review, the court denied the writ of prohibition. The case was elevated to the Court of Appeals of Kentucky.</li>
+    <li><b>Issue:</b> Can the Court permit inspection of a cave in one's property to secure evidence for a different case?</li>
+    <li><b>Rule:</b> If a party is deprived of the entire use of his property, it is a taking, within the scope of the Fifth Amendment, although the mere title is not disturbed; but by an inspection neither the title nor the general use is taken, and all that can be said is that there is a temporary and limited interruption of the exclusive use.</li>
+    <li><b>Conclusion:</b> The court held that there was no difference in principle between the invasion of a mine on adjoining property to ascertain whether or not the minerals were being extracted from under the applicant's property and an inspection of the property owner's land through his cave to ascertain whether or not he was trespassing under another person's property. The court found that the lower court judge reviewed surveys of the surface of both parties, but the conflicting opinions were of no assistance to the judge. The judge concluded that the only viable option to ending the controversy was an accurate survey of the cave by an uninterested party.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+    <b>Majority Opinion:</b>
+    <ol>
+      <li>Caves = to an extent mines and a court of equity however has the inherent power, independent of statute to compel a mine owner to permit an inspection of his works with certain limits:</li>
+        <ol>
+          <li>The person applying for such an inspection must show a **bona fide** claim and;</li>
+          <li>Allege facts showing a necessity for the inspection and examination of the adverse party's property and;</li>
+          <li>The party whose property is to be inspected must have had an opportunity to be herd in relation thereto</li>
+        </ol>
+      <li>"We can see no difference in prcinple between the invasion of a mine on adjoining property to ascertain whether or not the minerals are being extracted from under the applicant's property and an inspection of this respondant's party..."</li>
+      <li>Controversy can be quickly and accurately settled by surveying the cave.</li><br>
+    </ol>
+    <b>Dissenting Opinion:</b></br>
+    <ol>
+      <li> Trite to say that he who owns the surface of real estate, without reservation owns from the center of the earth to the outmost sentinel of the solar system. = Not true and has never been true.</li>
+      <ul>
+        <li>The rule should be that he who owns the surface is the owner of everything that may be taken from the earth and used for his profit or happiness.</li>
+        <li>Applicable to mining but not to the case at hand. "No man can bring up from the depths of the earth the Stygian darkness"</li>
+        <li><b>A cave or cavern should belong absolutely to him who owns its entrance.</b></li>
+      </ul>
+      <li>It should not be held that he owns that which he cannot use and which is of no benefit to him and which may be of benefit to others. "Shall a man be allowed to stop airplanes flying above his land because he owns the surface?"</li>
+      <li><b>He owns nothing which he cannot subject to his dominion</b></li>
+      <li><i>The cave was his because he had made it what it was, and without what he had done it was nothing of value.</i></li>
+        <ul>
+          <li>That which Edwards owns is something intangible and indefineable. Vision translated into a reality.</li>
+        </ul>
+    </ol>
+  </ul>
+
+</details>
+
+### 3.2 Sequential Possession
+- Relativity of Title/Rejection of the *jus tertii* defense (Defense based on the rights of 3rd parties)
+- **Trover**: “forced purchase” action for recovery of damages for conversion of personal property, generally measured by the property’s value
+  - e.g., the chimney sweep could recover the value of the jewel, but not the jewel itself. Armory.
+
+#### 3.2.1 Prior Possessor Prevails
+- The finder’s right of ownership trumps all but the original owner’s right (or earlier finders’ rights).
+
+#### Case: *[Armory v. Delamirie](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> π a chimney sweeper's boy found a jewel and carried it to the ∆s (goldsmiths) shop to find it what it was, delivered then to the apprentice. Apprentice weighed the stones and offered 3 halfpence. Boy refused and asked for the jewel back. Apprentice delivered socket without the stones.</li>
+    <li><b>Issue:</b> Does π have claim over the found jewel?</li>
+    <li><b>Rule:</b>
+      <ol>
+        <li><b>The finder of a jewel, though he does not by such finding acquire an absolute property or ownership, has a such a property as will enable him to keep it against all but the rightful owner and consequently may maintain trover</b></li>
+        <li> That the action will lay against the master, who gives credit to his apprentice, and is answerable for his neglect</li>
+        <li>Unless ∆ presented the missing jewel, Jury should presume the strongest against him, and make the value of the best jewels the measure of the damages.
+      </ol>
+    <li><b>Conclusion:</b> Found in favor of the π</li>
+    <li><b>Notes/Concepts:</b></li>
+      <ul>
+        <li>Trover: Common-law action to recover the value of personal property that has been wrongfully disposed of by another person.</li>
+      </ul>
+  </ul>
+
+</details>
+
+
+#### 3.2.2 Subsequent Possession
+- TO > F1 > F2. “It’s more mine than yours.”
+
+#### Case: *[Clark v. Maloney](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Action of trover to <b>to recover the value of ten white pine logs</b> which were found by π floating in the Delaware bay after a great freshet, were afterwards taken up and moored with ropes to the mouth of a creek, and in possession of ∆ who refused to give them up alleging they had found them adrift floating up the creek. </li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b> Whether or not ∆ can claim the logs from the π</li>
+    <li><b>Rule:</b> The finder of a chattel, though he does not acquire an absolute property in it, yet has such a property, as will enable him to keep it against all but the rightful owner.</li>
+    <li><b>Conclusion:</b></li>
+      <ul>
+        <li>π must show first that the logs were his property AND that they were converted by the ∆s to their own use.</li>
+          <ul>
+            <li>Possession is certainly <b>prima facie</b> evidence of property but may be rebutted by evidence of better title.</li>
+          </ul>
+        <li>Loss of chattel does not change the right of property; as the π has shown a special property in these logs, which he never abandoned, which enabled him to keep them against all the world but the rightfulowner</li>
+      </ul>
+    <li><b>Notes/Concepts:</b></li>
+      <ul>
+        <li>Case involves sequential possession by two finders. Whould this indirectly encourage theft?</li>
+      </ul>
+  </ul>
+
+</details>
+
+#### 3.2.3 Relative Rights
+- The plaintiff’s property right must only be valid relative to the defendant’s right. Property rights are relative.
+
+#### Case: *[Anderson v. Gouldberg](https://www.lexisnexis.com/lawschool/resources/p/casebrief-anderson-v-gouldberg.aspx)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> One who acquired possession of pine logs by trespassing upon the land of some third party had a right to retain that possession against mere wrongdoers who were strangers to the property.</li>
+    <li><b>Facts:</b> The possessor of personal property filed action to recover the possession of 93 pine logs with damages. The possessor claimed that he cut the logs in question and hauled them to a mill from which place strangers took them. The logs in controversy were not cut upon the land of the strangers, and consequently they were entire strangers to the personal property. The trial court entered a judgment for the possessor even though it had found that the possessor had trespassed upon the land in question. </li>
+    <li><b>Issue:</b> Is possession of personal property sufficient title to enable the possessor to recover the property from a stranger who took the property?</li>
+    <li><b>Rule:</b> Possession only raises a presumption of title. One who takes property from the possession of another can only rebut this presumption by showing a superior title in himself, or in some way connecting himself with one who has. One who acquires possession has a right against a mere wrongdoer who is a stranger to the property. Any other rule leads to an endless series of unlawful seizures and reprisals in every case where property once passes out of the possession of the rightful owner. </li>
+    <li><b>Conclusion:</b> The court affirmed and found that plaintiff obtained possession of the logs in the first instance by trespassing upon the land of some third party. When it was said that to maintain replevin plaintiff's possession must have been lawful, it meant that it must have been lawful as against the person who deprived him of the property. Possession was good title against the entire world except those having a better title. Possession only raised a presumption of title. One who took property from the possession of another could only rebut the presumption by showing a superior title in himself or in some way connecting himself with one who had superior title. The court held that one who acquired the possession of property, whether by finding, bailment, or by mere tort, had a right to retain that possession as against a mere wrongdoer who was a stranger to the property.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+### 3.3 *Nemo Dat*
+- *"One cannot give that which one does not have"*
+  - You cannot buy the Brooklyn Bridge
+- *"Prior in time is prior in right"*
+- Property rights are always exclusive
+  - Two persons cannot hold the same property right at the same time.
+- Current owners must be able to trace their ownership back in time through a series of legitimate transfers (ideally) to an act of legitimate original acquisition.
