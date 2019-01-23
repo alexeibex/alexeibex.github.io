@@ -383,7 +383,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 
 
-#### Sufficient Consideration
+#### 3.3 Sufficient Consideration
 Any bargained-for act or forbearance constitutes consideration. There is no mutuality requirement.
 
 #### Case: *[Hamer v. Sidway](https://www.lexisnexis.com/lawschool/resources/p/casebrief-hamer-v-sidway.aspx)*
@@ -425,7 +425,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
     1. The fact that what is bargained for does not of **itself solely** induce the making of a promise does not prevent it from being consideration for the promise.
     2. The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
 
-#### Bargained Theory & Mutual Inducement
+#### 3.4 Bargained Theory & Mutual Inducement
 - Courts generally do not consider the adequacy of consideration.
   - In a bargained for exchange, promise is said to be supported by consideration because the promisor gets "something in exchange for his/her promise"
     - As long as you are getting **"a something"**
@@ -437,6 +437,9 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   - **Terminological**: many other elements besides bargain can make a contract enforceable. Therefore, “under the terminology of the Re- statement Second, a promise needs consideration to be enforceable unless it does not need consideration to be enforceable.”
   - **Substantive**: the bargain theory presumes that all nonbargain promises are unenforceable. It does not allow the law to develop other means of making promises enforceable.
 
+
+#### Forbearance
+A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.
 
 #### Case: *[Baehr v. Penn-O-Tex Oil Corp.](https://advance.lexis.com/api/permalink/f54592e4-be10-4e64-8360-d1a530505f01/?context=1000516)*
 - Plaintiff lessor appealed an order from the Hennepin County District Court (Minnesota) granting defendant oil company's motion for judgment notwithstanding the verdict (JNOV) in the lessor's action to recover rents allegedly owed because of possession and contract.
@@ -454,6 +457,9 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 </details>
 
 - **Class Discussion**
+  - A promise was made, further exchange not to sue = forbearance
+    - ∆ may get a benefit to the promisor based on the agreement made in the promise
+      - **The court missed this issue that promisor would benefit from making the promise to π. **
   - Forbearance to not bring a suit was the inducement
   - Examine motive behind consideration
     - Valid RPP claim v. Invalid Claim (Extortion)
@@ -468,7 +474,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Plaintiffs' breach of contract claim failed because defendants' alleged promise to replace the remaining defective windows in plaintiffs' house lacked consideration.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> π bought some windows from ∆. Windows were defective. ∆ assured π to fix windows. When ∆ did not fix windows in alotted time π brought suite. **Promise to Repair**</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b> a hypothetical and tangential benefit to defendants' reputation was not sufficient consideration to make defendants' promise to replace the windows a binding contract.</li>
@@ -477,15 +483,32 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 </details>
 
+- **Class Discussion**
+  - ∆ allege promise to repair lacks consideration
+  - π allege 3 types of consideration
+    - forbearance of their legal claims
+      - First claim: Court determines that there was **no express/implied** threat to sue.
+          - Therefore no forbearance
+    - Time and labor expended assisting marvin in connection with marvin'ss promise to repalce the defective windows.
+      - Like *Maughs v. Porter* where women went to event to win car
+      - Court rejected the claim that time and labor were not sufficient consideration
+      - Price = Promise?
+        - Effort/Time expended on repairing windows != price of fixing windows
+    - The benefit Marvin received to their reputation by agreeing to replace windows.
+      - ∆ would get benefit by building his reputation that he fixes windows, good company reviews.
+        - Not every benefit is consideration
+        - **Court rejected claim that a hypothetical/tangential benefit to reputation is sufficient consideration**
+  -
+
 #### Case: *[Springstead v. Nees](Link)*
 - Plaintiffs sought review of the decision of a trial court (New York), which dismissed plaintiffs' action against defendants to prevent defendants from collecting a portion of the proceeds from the sale of a parcel of land inherited by plaintiffs.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Defendant was entitled to share in the proceeds from the sale of a parcel of land inherited by defendant and plaintiff because plaintiffs' alleged promise to forego any interest in the land lacked consideration and was not enforceable.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> Familial argument over property that needs to be divided upon death of father.</li>
     <li><b>Issue:</b></li>
-    <li><b>Rule:</b> A valuable consideration may consist of some right, interest, profit or benefit accruing to one party or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other.</li>
+    <li><b>Rule:</b> A valuable consideration may consist of some right, interest, profit or benefit accruing to one party or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other. **The consideration for the promise cannot be found in the fact that there was a compromise of a disputed claim.**</li>
     <li><b>Conclusion:</b> The court affirmed the decision of the trial court. The court concluded that plaintiffs had no colorable right to the property received by defendants so there was no consideration or contract.
 </li>
     <li><b>Notes/Concepts:</b></li>
@@ -493,7 +516,30 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 </details>
 
-#### Mutuality of Obligation
+- **Class Discussion**
+  - Consideration = **Forbearance** - We Promise = "We will give you our share in the Sackett street property if you don't bother us about the Atlantic avenue property"
+  - Bargain-for exchange?
+    - Seems like parties are trying to make an exchange.
+      - Court **rejects this as consideration**
+    - π had to have something to exchange in the first place.
+  - It seems to be the rule with us that it is not essential that the claim should be valid; but it is enough if it could be regarded as **doubtful or colorable**
+
+#### Corbin on Contracts
+  - Forbearance to bring a suit or to proceed with one already brought, or to press a claim in any other way, is not consideration if the forbearance is made with knowledge that the claim is invalid.
+    - On grounds of public policy
+      - If recognized as consideration, **invalid claims would be infinitely increased in number and blackmail would become a profitable racket.**
+      - Blackmailing for forbearance to use.
+      - Example "Money or else claim for Sexual assault"
+
+#### Promise for Promise as Consideration
+  - Restatement § 75
+  - Fuller & Perdue: The Reliance Interest in Contract Damages
+    - Reliance in an agreement w/ consideration where a person is going to get lost expectancy damages. Do not have to rely on reliance and are entitled to full loss of expectancy.
+      - Loss of Expectancy damages > Reliance damages
+        - Problems with calculating reliance damages only
+        - Lost expectancy damages includes reliance damages
+
+#### 3.5 Mutuality of Obligation
 #### Case: *[De Los Santos v. Great Western Sugar Company](https://advance.lexis.com/api/permalink/26dd8315-cbcd-46a8-9826-29cad4ff229d/?context=1000516)*
 - Plaintiff trucker appealed from a decision of the District Court for Scotts Bluff County (Nebraska), which granted summary judgment for defendant sugar company in the trucker's action for breach of contract.
 
@@ -509,16 +555,20 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 </details>
 
-#### Satisfaction Clauses
-- Promise with condition that promisor is "**satisfied**"
-- Good faith obligation means that your decision about whether you are satisfied must be reasonable or honest.
-- Satisfaction clauses constitute consideration when courts read them as requiring good faith. Otherwise, the satisfaction clause would not involve a commitment, so the promise would be illusory.
-- If satisfaction clause deals with "commercial value or quality, operative fitness or mechanical utility" courts generally apply reasonableness test.
-  - Satisfaction as compared with other market alternatives.
-- If satisfaction deals with "fancy, taste, or judgement" courts apply the honesty test.
+- **Class Discussion**
+  - π Claim: Entitled to continue to haul until all the beets had been transported to the factory.
+  - ∆ Claim: Not obligated under the contract to allow the π to haul any particular amount of tonnage and that its determination that it would not longer require π services was a determination which was within the ∆s discretion under the terms.
+  - Consideration = No promise by ∆ to load beets into truck.
+    - "may be loaded"
+    - Promise to pay but not specifying quantity is an "**illusory**" promise.
+    - No guarantee by promisor to do anything at all = **No Commitment/No obligation = No Promise**
+      - Such a promise **lacks mutuality**
+  - Both sides not obligated by the contract and not bound
+    - **If one side is not bound then another side is not bound**
 
 #### Implied Obligation & Good Faith
 - The intent of the parties outweighs “primitive formalism.”
+
 #### Case: *[Wood v. Lucy, Lady Duff-Gordon](https://www.lexisnexis.com/lawschool/resources/p/casebrief-wood-v-lucy-lady-duff-gordon.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -534,7 +584,17 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 </details>
 
 - **Class Discussion**
-  - Cardozo "The law has outgrown is primitive stage of formalism when the precise word was the sovereign talisman and every slip was fatal.”136 The clear intent of the parties was to give the plaintiff an exclusive right. The defendant cannot escape that right on a formal technicality."
+  - π Claim: ∆ gave her endorsement to other products without any compensation.
+  - ∆ Claim: No mutality of agreement. No obligation to sell anything at all. Not a valid contract & No deal.
+  - Consideration: Exclusive rights to market products X for 1/2 profits made from sales of endorsed products.
+  - Cardozo "The law has outgrown is primitive stage of formalism when the precise word was the sovereign talisman and every slip was fatal.” The clear intent of the parties was to give the plaintiff an exclusive right. The defendant cannot escape that right on a formal technicality."
+  - Cannot account for profits if you dont have a duty to make profits
+    - Implied promise to create profits that will be accounted for monthly.
+  - The opposite holding? What is a reasonable effort by the π to create profits?
+    - What happens if he does not generate profits?
+    - What remedy does ∆ have?
+  - Cardozo enforcing contract that was not explicitly between the parties, (Freedom to make bad deals)
+    - Cardozo reading intent into contract and not reading the contract as it was written.
 
 #### Uniform Commerical Code §1-304 - Obligation of Good Faith
 - Every contract or duty within the UCC imposes an *obligation of good faith in its performance and enforcement*.
@@ -550,9 +610,13 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 
 #### Mutuality of Obligation
-- As long as there is sufficient consideration, unequal terms do not invalidate a contract
+- As long as there is **sufficient consideration**, unequal (lack of mutality) terms do not invalidate a contract.
+
 
 #### Case: *[Weiner v. McGraw-Hill, Inc.](Link)*
+- At will contract
+  - No obligation to stay, leave etc.
+  - Paid to do "work" for unknown duration of time
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -567,7 +631,10 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 </details>
 
 - **Class Discussion**
-
+- No mutality but contract is still enforcable.
+  - This is a problem
+    - Employer gave up his "at-will" status by inducing π to leave his job.
+      - **Inducing someone to leave job = Bargain for consideration**
 - **Case Examples**
   - *Kamboj v. Eli Lilly & Co*
     - Absent special circumstances, mere relinquishment of a prior job to take a new job is insufficient consideration. **But** *if the employee's forbearance is a "specifically bargained for detriment" it can be said that the employee has surrendered something of value in exchange for the promise of employment and therefore that adequate consideration exists.*
@@ -587,6 +654,14 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   </ul>
 
 </details>
+
+#### Satisfaction Clauses
+- Promise with condition that promisor is "**satisfied**"
+- Good faith obligation means that your decision about whether you are satisfied must be reasonable or honest.
+- Satisfaction clauses constitute consideration when courts read them as requiring good faith. Otherwise, the satisfaction clause would not involve a commitment, so the promise would be illusory.
+- If satisfaction clause deals with "commercial value or quality, operative fitness or mechanical utility" courts generally apply reasonableness test.
+  - Satisfaction as compared with other market alternatives.
+- If satisfaction deals with "fancy, taste, or judgement" courts apply the honesty test.
 
 - Corbin on Contracts: A promise conditional upon the promisor's satisfaction is not illusory since it means more than the validity of the performance is to depend on the arbitary choice of the promisor.
 

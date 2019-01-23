@@ -588,7 +588,7 @@ Questions that are to be answered by political process not the judicial process.
 
 ### 2.1 Federalism: History & Principles
 - Federalism: Division of power between national and state/local government.
-  - federal government vs. states,
+  - Federal government vs. states,
     - limits on federal power.
   - Origins of power
     - People v. States
@@ -619,8 +619,10 @@ and, later, opposed the 1787 constitution.
 
 #### 2.1.2 Sovereignty in the Federal System
 
-
 #### Case: *[McCulloch v. Maryland](Link)*
+
+- Recognizes enumerated powers but also acknowledges implied powers.
+
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -668,7 +670,7 @@ and, later, opposed the 1787 constitution.
 - Part 2: Whether the State of Maryland may, without violating the Constitution, tax that branch?
  - Supremecy Clause - Federal law is supreme so long as it is within its jurisdiction.
  - Power to tax and regulate = the power to destroy
-- Limits on Federal Government - 4 Limits
+- Limits on Federal Government - **4 Limits**
  - **Pretext**
    - Power they do have to justify a power they dont have
  - **Prohibited**
@@ -704,20 +706,30 @@ and, later, opposed the 1787 constitution.
     - Big Bang Theory - Once the founding occurred, states only enjoyed thsoe powers over the federal government that the Consitution delegates to them. - Justice Kennedy
 - Dissent
   - States have all powers, including powers with respect to activities of the federal government, **except those the Consitution withholds from them** either directly or by necessary implication
-  - The USC is simply silent on the question and where the USC is silent it raises no bar to action by the States or the People.
+  - The USC is **simply silent on the question and where the USC is silent it raises no bar to action by the States or the People.**
   - Disagrees with the notion that the only powers reserved to the States are those that the States enjoyed before the framing.
 
-#### McCulloch & Thornton
+#### *McCulloch & US Term Limits*
 - Look at the structure of Consitution and examine the duel sovereignty of states v. federal government.
 - Rights enumerated to the Federal Government
 - States rights reserved to them v. intent of the Constituion to the federal government.
 
+#### Tenth Amendment
+- Should be read in conjunction with the Ninth Amendment (Enumeration of rights in the Constitution or lack thereof doesnt disparage those rights of the people)
+- US Federal Government has enumerated rights outlined by the Constitution.
+  - All other rights are reserved to the states.
+  - Justice Thomas Default Position in *US Term Limits*
+
 #### Necessary & Proper Clause
-- “The Congress shall have Power . . . To make all Laws which shall be necessary and proper for carrying into Exe- cution the foregoing Powers.”
-  - Jefferson: The House that Jack Built
+- “The Congress shall have Power . . . To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers.”
+  - Jefferson: *The House that Jack Built*
     - Loose interpretation = power to do anything
-    - Justifications can lead to anything
-  -
+    - Justifications can lead to anything that is not explicitly spelled out in Constitution.
+- Police Powers
+  - Federal Government does not have police powers, only enumerated
+    - States have police powers unless in conflict with Federal Government
+    - States cannot push around federal government because federal law reigns supreme.
+
 
 #### Case: *[U.S v. Comstock](https://www.lexisnexis.com/lawschool/resources/p/casebrief-united-states-v-comstock-664160383.aspx)*
 
@@ -735,22 +747,57 @@ and, later, opposed the 1787 constitution.
 
 
 - Necessary & Proper
-  - Congress has broad authority to enact federal legislation that is convenient or useful or conducive to the authority's beneficial exercise.
-  - **Test for Necessary & Proper:**
-    1. Look to see whether statute constitutes a means that is **rationally related** to the implementation of a constitutionally enumerated power
-    2. Modest addition to a set of federal prison related mental health statutes.
-    3. Federal Government is the custodian of its prisoners and has the consitutional power to act in order to protect nearby and other communities from the danger federal prisoners may pose.
-    4. Statute properly accounts for state interests
-    5. the links between §4248 and an enumerated Article 1 power are not too attenuated.
+  - Congress has broad authority to enact federal legislation that is **convenient** or **useful** or **conducive** to the authority's beneficial exercise.
+  - **5 Part Test for Necessary & Proper:**
+    1. Look to see whether statute constitutes a means that is **rationally related** to the implementation of a constitutionally enumerated power.
+    2. **Modest addition** to a set of federal prison related mental health statutes in place since 1855 and historically been deemed okay.
+    3. Federal Government is the **custodian** of its prisoners and has the consitutional power **to act in order to protect nearby and other communities from the danger** federal prisoners may pose.
+    4. Statute properly **accounts for state interests**, not impoaching on state power
+    5. The links between §4248 and an enumerated Article 1 power are not too attenuated.
   - Taken together the statute is a necessary and proper means of exercising the federal authority that permits Congress to create federal criminal laws, to punish their violation, to imprison violators, to provide appropriately for those imprisoned, and to maintain the security of those who are not imprisoned but who may be affected by the federal imprisonment of others.
 - **Class Discussion**
+  - No explicit indication where Constitution grants Congress power over Civil issues regarding Mental Sexual Predators.
+  - 7-2 Decision demonstrates the hesitation of some to extend power through Necessary & Proper.
+  - Allusion to warnings by Jefferson "The House that Jack Built"
+  - Justice Kennedy **concurres** in judgement but disagrees with reasoning and desires **a tougher test**
+    - Tangible link to an enumerated power
+  - Justice Alito concurring in judgement
+  - Dissent
+    - Thomas & Scalia = Dangerously close to "police powers" which is reserved to states not to Federal Government
+
+#### Proper Federal Action Examples
+#### *National Federation of Independent Business v. Sebelius* - Individual Mandate
+- Raised 3 Separate Issues to justify the mandate
+- Necessary & Proper - Rejected - Cannot be sustained as an essential component of the insurance reforms.
+  - Cannot create vast independent substantive power in its own right
+    - Power being making people pay something
+- Commerce Clause
+  - Ginsbeg - Regulates 1/6th of the population/economy
+-  One Other
+
+#### United States v. Kebodeaux
+- Breyer Majority Opinion reference to *Comstock*
+- Necessary & Proper
+  - Enumerated power over military personnel
+- Roberts Concurring but required clarifying on public safety
+  - No great substantive and independent power can be implied as incidental to other powers or used as a means of executing them
+-
+
 
 ---
 ## 3.0 The Commerce Power and Its Federalism Based Limits
-- Article 1 § 8 granted Congress the power to
-  - Regulate Commerce with foreign Nations, and amonth the Several States, and with the Indian Tribes.
+- Article 1 § 8 granted Congress the power to:
+  - Taxes
+  - Borrow Money
+  - Regulate Commerce with Foreign Nations, and among the Several States, and with the Indian Tribes.
+    - Textualist: Provides power for "trade" regulation
 - Central purpose to suppress the "interfering and unneighborly regulations of some States"
-- Goal to help end hostile state restrictions, retalitory trade regulations, and protective tariffs on imports from other states...
+- Goal to help end hostile state restrictions, retalitory trade regulations, and protective tariffs on imports from other states (Prisonner's Dilemma)...
+
+#### Prisonner’s Dilemmas
+1. State economies face a classic prisoner’s dilemma, or race to the bottom: on their own, states will be better off if they cooperate in economic policy, but each has a stronger incentive to defect. So if state A passes a child labor law, its production costs will rise, and state B will gain an economic advantage—but both states would benefit more if they both passes child labor laws.
+2. One counterargument is that this is not a true prisoner’s dilemma because states may not agree that child labor laws are best for their citizens.
+3. The federal government can provide the necessary centralized coordination to solve this dilemma.
 
 ### 3.1 Commerce Power Before the New Deal
 - Marshall gave an expansive interpretation to the Commerce Clause in early 19th century.
@@ -773,19 +820,31 @@ and, later, opposed the 1787 constitution.
 
 </details>
 
--**Class Discussion**
+- **Class Discussion**
+  - Commerce (PLUS) Defined
+    - Navigation v. Trade (Buying and Selling)
+    - Marshall: Navigation is included in commerce and has been understood to be included in commerce since the commencement of the government.
+  - "Among" Defined
+    - Power: Among between the states fall under the power of Congress
+    - Limit: The completely **internal commerce of a state**, then may be considered as reserved for the state itself
+  - The power to regulate is whatever Congress says it is
+    - Acknowledges no limitations other than are prescribed in the Constitution.
 
 #### Judicial Limits on the Commerce Power
 - 3 Principal judicial approaches
   1. Direct v. Indirect Test
-    - Whether the regulated activity had a **direct** or **indirect** effect on interstate commerce
+    - **United States v. E.C. Knight Co.** (Sugar Trust Case)
+      - Whether the regulated activity had a **direct** or **indirect** effect on interstate commerce
       - "Manufacturing" does not extend to regulation under the Commerce Clause
       - Regulation of commerce applies to the subjects of commerce and not to matters of internal police.
-  2. The "substantial economic effects" Test
+    - The manufacturing affects the commerce *indirectly* not directly, ergo Congress cannot regulate.
+  2. The "Substantial Economic Effects" Test
+    - *Houston, East & West Texas Railway Co. v. United States*
     - Emphasizing the practical physical or economic effects of the regulated intrastate activities on interstate commerce.
-      - Railroad Regulation: Authority to regulate intrastate rail rates that discriminated against interstate railroad traffic.
+      - Railroad Regulation: Authority to regulate **intrastate** rail rates that **discriminated** against interstate railroad traffic. (Prisoner's Dilemma)
       - Necessarily embraces the right to control their operations in all matters having such a close and substantial relation to interstate traffic.
   3. The Stream of Commerce test
+    - **Swift & Co. v. United States**
     - Local activities could be regulated by Congress because they could be viewed as themselves "in" commerce or as an integral part of the "current of commerce".
       - Price fixing meat dealers
 
@@ -815,10 +874,6 @@ and, later, opposed the 1787 constitution.
 
 - **Class Discussion**
 
-#### Prisonner’s Dilemmas
-1. State economies face a classic prisoner’s dilemma, or race to the bottom: on their own, states will be better off if they cooperate in economic policy, but each has a stronger incentive to defect. So if state A passes a child labor law, its production costs will rise, and state B will gain an economic advantage—but both states would benefit more if they both passes child labor laws.
-2. One counterargument is that this is not a true prisoner’s dilemma because states may not agree that child labor laws are best for their citizens.
-3. The federal government can provide the necessary centralized coordination to solve this dilemma.
 
 ### The Comerce Power and the New Deal
 - The government sought to justify measures passed in the New Deal under the Commerce Clause as based on the "substantially affecting commerce" rationale and the "in commerce" rationale
