@@ -261,7 +261,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 </details>
 
-##### RESTATEMENT (FIRST) OF CONTRACTS § 75.
+##### Restatement (First) of Contracts § 75.
 - Definition of Consideration.
   1. Consideration for a promise is
     - an act other than a promise, or
@@ -283,15 +283,19 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 - Lon Fuller introduced **substantive** and **process** bases for enforcing promises.
 - The two process bases are **evidentiary** *(making sure a promise has actually been made)* and **cautionary** *(preventing inconsiderate action by the promisor)*.
   - **Evidentiary**: Evidentiary security—protecting against manufactured evidence and dealing with insufficient proof.
+    - Bargained-for exchange **tends** to produce evidence that a promise was made.
     - Written v. Oral promises as evidence
   - **Cautionary**: Safeguarding the individual against his own rashness.
     - Cautionary process requires promisor to consider legal consequences for promise.
     - Writing out promises requires thought and pause.
   - Simple donative promises are problematic on both bases.
+    - People make gift promises all the time
    - They raise problems of proof (evidence may be uncertain) and deliberativeness (the promisor is likely to be emotionally involved with the promisee).
    - Substantive reasons for enforcing donative promises include compensating the promisee’s disappointment (a form of injury), move assets from the wealthy to the less wealthy, and increase the likelihood of beneficial reliance. But these substantive bases are open to question.
   - **Channeling**: Signaling to make sure that the promisor knows the
  promise is enforceable.
+    - offers parties a recognizeable method of entering an enforceable obligation.
+      - Distinct set of instruction for parties who want to enter into an enforceable exchange.
    - Lease as a contract provides signal to promisee
   - **Deterrent**: Unwillingness to enforce contracts of “suspect or marginal
  value.”
@@ -408,18 +412,20 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   - Detriment is subjective to the person.
     - As long as giving up a legal right or freedom.
   - Promise induced detriment - Motivation of Promisor
+    - Uncle's motive was to extract the forbearance from newphew
+      - Some discussion that newphew's detriment of legal right was enough.
     - But did the detriment induce the promise?
     - Uncle grandstanding/concerned with reputation of family name
 
 
 
 
-##### RESTATEMENT (SECOND) OF CONTRACTS § 81
+##### Restatement (Second) Of Contracts § 81
   - Consideration as Motive or Inducing Cause
     1. The fact that what is bargained for does not of **itself solely** induce the making of a promise does not prevent it from being consideration for the promise.
     2. The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
 
-#### Bargained-For & Mutual Inducement
+#### Bargained Theory & Mutual Inducement
 - Courts generally do not consider the adequacy of consideration.
   - In a bargained for exchange, promise is said to be supported by consideration because the promisor gets "something in exchange for his/her promise"
     - As long as you are getting **"a something"**
@@ -449,6 +455,10 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 - **Class Discussion**
   - Forbearance to not bring a suit was the inducement
+  - Examine motive behind consideration
+    - Valid RPP claim v. Invalid Claim (Extortion)
+    - Law & Public policy should try an discourage dishonest forbearance claims
+
 
 
 #### Case: *[Neuhoff v. Marvin Lumber and Cedar Co.](https://advance.lexis.com/api/permalink/f60a4855-ed51-4c83-9f79-796b17993308/?context=1000516)*
@@ -499,6 +509,13 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 
 </details>
 
+#### Satisfaction Clauses
+- Promise with condition that promisor is "**satisfied**"
+- Good faith obligation means that your decision about whether you are satisfied must be reasonable or honest.
+- Satisfaction clauses constitute consideration when courts read them as requiring good faith. Otherwise, the satisfaction clause would not involve a commitment, so the promise would be illusory.
+- If satisfaction clause deals with "commercial value or quality, operative fitness or mechanical utility" courts generally apply reasonableness test.
+  - Satisfaction as compared with other market alternatives.
+- If satisfaction deals with "fancy, taste, or judgement" courts apply the honesty test.
 
 #### Implied Obligation & Good Faith
 - The intent of the parties outweighs “primitive formalism.”
@@ -532,7 +549,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   - “ . . . a modern court would almost certainly hold that all requirements and output contracts have consideration.”
 
 
-#### Mutuality
+#### Mutuality of Obligation
 - As long as there is sufficient consideration, unequal terms do not invalidate a contract
 
 #### Case: *[Weiner v. McGraw-Hill, Inc.](Link)*
@@ -555,8 +572,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
   - *Kamboj v. Eli Lilly & Co*
     - Absent special circumstances, mere relinquishment of a prior job to take a new job is insufficient consideration. **But** *if the employee's forbearance is a "specifically bargained for detriment" it can be said that the employee has surrendered something of value in exchange for the promise of employment and therefore that adequate consideration exists.*
 
-#### Satisfaction Clauses
-- Satisfaction clauses constitute consideration when courts read them as requiring good faith. Otherwise, the satisfaction clause would not involve a commitment, so the promise would be illusory.
+
 
 #### Case: *[Mattei v. Hopper](Link)*
 
@@ -578,10 +594,20 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 #### The Preexisting Duty Doctrine
 - Performance of an existing duty is not consideration.
   - Neither the performance of duty nor the promise to render a performance already required by duty is a sufficient consideration for a return promise.
+- Contract Modification
+  - Accord & Satisfaction
 - Withholding performance does not create consideration for a modification. It looks more like extortion.
+
+
 - *Case Examples*
   - Haigh v. Brooks
     - Giving up a piece of paper, however objectively worthless it may have been would be consideration.
+- **Corbin on Contracts**
+  - Parting with a document, contents which render no service, has been held to be a consideration for a promise to pay a large sum of money.
+- Restatement (Second) of Contracts § 79
+  - Adequacy of Consideration
+    - If the requirement of consideration is met, there is no additional requirement of equivalence in the values exchanged.
+
 ---
 
 

@@ -77,13 +77,17 @@ Reading: Pages 57–69 & 72–82​
 
 </details>
 
+-Majority
+  - Mortal Wounding + Non-Abandonment/Depriving of liberty through traps.
+- Dissent
+  - Incentivize trapping of pests
 - **Class Discussion**
   - Who should actually "own" the fox?
   - Proof of Work?
     - Pierson who caught the fox?
     - Post who chased the fox?
       - What if he was an incompetent hunter?
-      - Counterfactual Argument = "But For" Post chasing the fox Pierson would not have caught the fox.
+      - Counterfactual Argument "But For" Post chasing the fox Pierson would not have caught the fox.
     - When does the causal windo begin
       - Start of Fox's life?
       - When Post/Pierson see the fox
@@ -139,7 +143,8 @@ Reading: Pages 57–69 & 72–82​
   - Overfishing
   - Pollution
   - Global Warming/CO2 Emissions
-- Solutions to the Tragey of the Commons
+- Results in Overutilization
+- **Solutions to the Tragedy of the Commons**
   1. Central Planning/Government/Corporation (Leviathan)
     - Inherently Coersive
     - Prone to Error due to lack of information
@@ -152,7 +157,12 @@ Reading: Pages 57–69 & 72–82​
     - Risk allocation problems
       - Plot may be in an area that is not beneficial
       - Requires insurance against risk
-- Property is an institution
+    - Property as a utilitarian solution
+      - Incentive to invest and reap benefits
+- Anti-Commons - Property can create problems of their own
+  - Too many people have ownership of a resource
+    - Can result in every person has a veto vote and impedes progress
+  - Results in underutilization
 
 ---
 
@@ -163,8 +173,10 @@ Reading: Pages 57-69 & 72-82
 - Renewable Resource
 - Water law consists of a common law base with state statutory and federal overlays.
 - Law Distinguishes water along two axes:
-  - Surface v. Underground
-  - Diffuse v. In a defined channel/body
+  - Surface v. Underground (Y Axis)
+  - Diffuse v. In a defined channel/body (X Axis)
+    - Diffuse treated as a pest
+    - Defined Channel as a resource
 
 ### 2.1 Watercourses
 - A riparian (relating to or situated on the banks of a river) owner = one whose land abuts the watercourse, and riparian water rights are apppurtenant to the land
@@ -173,9 +185,44 @@ Reading: Pages 57-69 & 72-82
     - English law developed where each owner could prevent any diversion of the natural flow of a river or stream by an upstream riparian owner
     - American law adopts more flexible theory of reasonable use
 
-### 2.2 Reasonable Use Theory
 
-### Riparian Rights
+### 2.2 Principles of Water Allocation
+- Embodies and Underlies the just utilization of property
+  1. Natural Flow
+  2. Reasonable Use
+  3. First Appropriation
+  4. Corellative Use
+
+### Natural Flow
+  - Every riparian owner has equal access to water
+  - Rests on implicit principle of just allocation of property rights
+    - Where everyone gets an equal amount
+  - Cons: Prevents the use of water for applications that removes water from water course.
+  - Use of the water can be gained by getting permission from every riparian owner
+  - Anti-Commons Problem
+    - Incur Transaction costs/Hold out problems
+  - Impededs productive use
+
+### Reasonable Use
+- Just allocation of property rights, promotes the reasonably social good uses.
+- American reasonable use doctrine is like the law of nuisance in torts in the sense that a wide variety of contextual factors are relevant in determining whether a diversion is actionable.
+  - Courts should consider the purpose of the use
+  - Suitability to the water course
+  - Economic and Social values at stake
+  - Harm Caused
+  - Possible accommodation techniques
+  - Protection of existing investments
+  - Ability of adversely affected riparians to bear the loss
+  - Justice
+- Riparian rights run with the land and cannot be severed.
+  - Riparian Owner A cannot sell his rights to nonriparian owner B
+    - Results in parceling of land for access to water (Bowling Alley Parcel)
+- Problems: What is Reasonable?
+  - *Evans v. Merriweather* draws distinction between natural wants and artifical wants.
+    - Norms change - Artificial changes
+      - Outhouses v. modern plumbling
+    - Domestic v. Other
+
 #### Case: *[Evans v. Merriweather](https://www.lexisnexis.com/lawschool/resources/p/casebrief-evans-v-merriweather-1667897126.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -190,22 +237,27 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- American reasonable use doctrine is like the law of nuisance in torts in the sense that a wide variety of contextual factors are relevant in determining whether a diversion is actionable.
-  - Courts should consider the purpose of the use
-  - Suitability to the water course
-  - Economic and Social values at stake
-  - Harm Caused
-  - Possible accommodation techniques
-  - Protection of existing investments
-  - Ability of adversely affected riparians to bear the loss
-  - Justice
-- Riparian rights run with the land and cannot be severed.
-  - Riparian Owner A cannot sell his rights to nonriparian owner B
-    - Results in parceling of land for access to water (Bowling Alley Parcel)
-- *Evans v. Merriweather* draws distinction between natural wants and artifical wants.
-  - Domestic v. Other
+- **Class Discussion**
+  - Application of Priciples
+    - First Posession Theory
+      - Evans gets the water before Merriweather
+      - Evans "owned" steam mill before Merriweather who accquried from Smith & Baker
+      - Merriweather would have claim over water rights through building first steam mill
+    - Natural Flow Theory
+      - Rejected
+    - Reasonable Use
+      - Both have a right so long as both uses are:
+        - Reasonable AND;
+        - Does not injury any other riparian owner than is necessary to accomplish reasonable use.
+      - Natural v. Artificial Use
+        - Water for needs (drinking)
+        - Water for comfort & prosperity
+        - Natural use > Artificial Use
 
-### Priority by Appropriation
+
+### First Appropriation
+- Whoever is first gets the right.
+- Promotes economic development & efficiency
 - Statutory Application
 - Generally only "beneficial uses" of appropriated water are permitted.
   - Water to flood gophers on land?
@@ -229,12 +281,28 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
+- **Class Discussion**
+  - Beginning of Colorodo Statue relies on First Appropriation
+    - Reliance on First Approriation has resulted in investment
+  - First Appropriation for a beneficial purpose rule
+    - Based on climate of area.
+      - West = dry and requires irrigation v. East = industrial use
+
+
 ### Diffuse Surface Water
 - Each landowner has an absolute right to use self-help to repel inflows of these waters
   - To combat the common enemy of surface water, even if it causes damaging flooding to other landowners.
-- Modified by judicial policing for reasonableness
+- Recently modified by judicial policing for reasonableness
 
-### Groundwater
+
+### Corellative Rights
+- Scope of ownership corrollate to something else
+  - Ownership of land corelates to the ownership of the underground water.
+- Based on other allocations that are considered just
+- Problems:
+  - Ability to extract from underground
+  - Competing landowners uses
+    - Beneficial use v. non-beneficial use
 
 #### Case: *[Higday v. Nickolaus](Link)*
 
@@ -250,11 +318,20 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
+- **Class Discussion**
+  - All underground water is assumed to be percolating
+  - Rejection of first appropriation rule
+  - Developes reasonable use standard for ground water
+    - Reasonable = Beneficial Use on the land itself
+    - Water cannot be extracted and shipped to somewhere else so long as it does not interfere with other users benficially enjoying their properties.
+  - City could still use emminant domain to acquire property and water rights
+
 ---
 
 ## 3.0 The *Ad Coelum* Rule, Sequential Possession & *Nemo Dat*
 ### 3.1 The *Ad Coelum Rule*
   - "To whomever the soil belongs, he owns also to the sky and to the depths"
+  - Cone of ownership from center of earth to outter reaches of universe
   - Applies to resources discovered beneath the surface
     - Minerals
     - Oil/Gas Deposits
@@ -301,6 +378,8 @@ Reading: Pages 57-69 & 72-82
   </ul>
 
 </details>
+- **Class Discussion**
+  - What happens after case is resolved?
 
 ### 3.2 Sequential Possession
 - Relativity of Title/Rejection of the *jus tertii* defense (Defense based on the rights of 3rd parties)

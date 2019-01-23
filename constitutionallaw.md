@@ -382,8 +382,8 @@ Vertical Power over the states.
 
 
 
-##### 1.4.2.1 Supreme Court Review of State Criminal Cases
-*"The judicial power extends to all cases arising under the constitution or a law of the United States, whoever may be the parties" * - Marshall
+#### 1.4.2.1 Supreme Court Review of State Criminal Cases
+*"The judicial power extends to all cases arising under the constitution or a law of the United States, whoever may be the parties"* - Marshall
 
 Power granted by §25 of the 1789 Judiciary act
 
@@ -457,7 +457,7 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
 - Lincoln
 - Roosevelt
 
-##### 1.4.4 Political Restraints on the Supreme Court
+#### 1.4.4 Political Restraints on the Supreme Court
 
 ##### 1. Judicial Selection: The Nomination and Confirmation Process
 <details>
@@ -507,9 +507,10 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
   - Will not do cases that are too old or too soon
   - Will not do cases that are moot
 
-##### Political Question Doctrine:
+#### Political Question Doctrine:
 
-***The Supreme Court does not resolve political questions.*** Those questions are resolved through the political process.
+***The Supreme Court does not resolve political questions.***
+Those questions are resolved through the political process.
 1. That some matters are committed to the unreviewable discretion of the political branches, AND
   - Constitutional interpretation
 2. That some otherwise legal questions ought to be left to the other branches as a matter of prudence.
@@ -533,9 +534,14 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
 
 </details>
 
-- Malaportionment of Vote - Denial of a Republican form of Government
-  - Brought under 14th Amendment, Equal Protection Under The Law
-  - Does not invoke a political question
+- **Class Discussion**
+  - Malaportionment of Vote - Denial of a Republican form of Government
+    - Brought under 14th Amendment, Equal Protection Under The Law
+    - Does not invoke a political question
+  - 6 PQ Factors
+    1. Textual Commitment
+    2. Lack of Standing Standing
+
 
 
 
@@ -556,7 +562,7 @@ Questions that are to be answered by political process not the judicial process.
 <details>
   <ul>
     <li> Nonjusticiable political because "involves the authority of the President and the conduct of our country's foreign relations" + dispute between coequal branches of our government with enough resources to protect and assert its interests.</li>
-    - <i>Goldwater v. Carter</i> - Political question
+    <li><i>Goldwater v. Carter</i> - Political question</li>
   </ul>
 </details>
 3. Impeachment Proceedings
@@ -574,30 +580,45 @@ Questions that are to be answered by political process not the judicial process.
   - Procedures outlined by Constitution.
   - *Bush v. Gore*
 6. Recognition of Foreign Sovereigns
+  1. Jerusalum/Israel Case
 
 ---
 
 ## 2.0 National Powers & Local Activities
 
 ### 2.1 Federalism: History & Principles
-- Federalism: federal government vs. states, i.e., limits on federal power.
+- Federalism: Division of power between national and state/local government.
+  - federal government vs. states,
+    - limits on federal power.
+  - Origins of power
+    - People v. States
+  - Enumerated/Limited v. General/Implied Powers of States
+  - Suspicion of Federal Government
+    - Distant "Swamp"
 - Anti-Federalists: opposed the creation of a strong federal government
 and, later, opposed the 1787 constitution.
+-Divison of Powers
+  - Seperated by Axis (X,Y)
+    - Horizontal/Vertical Separation of Powers
 
-#### 2.1.1 Articles of the Confederation
+
+#### 2.1.1 Articles of the Confederation & Amendments
 - Article 9: Details out powers of the Federal Government
   - War/Peace
   - Tariffs
   - Mint
   - Trade
-- Article 2: Limits on Federal Government
+- Article 2: Limits on Federal Government & Amendment 10
+  - 10th Amendment
   - Each state retains everything not *expressly* delegated to the United States:
     - Power
     - Jurisdiction
     - Right
-
+- Articles deemed too weak but must not be made too strong
+  - Specific and enumerated powers not general powers of federal government
 
 #### 2.1.2 Sovereignty in the Federal System
+
 
 #### Case: *[McCulloch v. Maryland](Link)*
 
@@ -626,17 +647,257 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - **Class Discussion**
+- Part 1: Does the US Constitution allow the federal government to establish a bank?
+ - The X Amendment thus provides no basis for concluding that the States possess reserved power to add qualifcations to those that are fixed in the Constitution.
+   - No explicit power to create a bank
+ - Creation of a bank is not a **bold usurpation**
+ - Consitution a document for the people or the states
+   - If states:
+     - Inclined toward giving power to states
+   - If People:
+     - States are not preferred over the states.
+   - Court finds for people, "We the people"
+ - Creation of bank is not within its authoirty specifically
+ - But notion of implied powers that are explained by necessary &
+   - Necessary:
+   - Ample means ability to act, means to carry out an end.
+     - Raise an army - implied acts to carry out the means to that act
+   - Proper:
+ - Limiting Principle
+   - **"Let the end be legitimate, let it be within the scope of the consitution, and all means which are appropriate, which are plainly adapted to that end, which are not prohibited, but consist with the letter and spirit of the consitution, are constitutional.**"
+- Part 2: Whether the State of Maryland may, without violating the Constitution, tax that branch?
+ - Supremecy Clause - Federal law is supreme so long as it is within its jurisdiction.
+ - Power to tax and regulate = the power to destroy
+- Limits on Federal Government - 4 Limits
+ - **Pretext**
+   - Power they do have to justify a power they dont have
+ - **Prohibited**
+ - **Plainly Adapted**
+   - Means must be plainly adapted to the ends
+ - **Proper**
+   - Within the power of the government and not to assume a great and substantial power
 
-#### Case: *[U.S Term Limits, inc. v. Thornton](Link)*
+#### Reserved Powers States v. Federal Government
+#### Case: *[U.S Term Limits, Inc. v. Thornton](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> State's legislative attempt to impose term limits upon eligible candidates for Congress, limiting candidates to three terms in the House of Representatives or two terms in the Senate, violated the U.S. Constitution.</li>
+    <li><b>Facts:</b> The people of Arkansas voted to amend the state constitution to impose term limits upon the individuals it elected to Congress. Ark. Const. amend. LXXIII limited persons seeking office in the House of Representatives to three terms and in the Senate to two terms. Respondent challenged the amendment and the trial court held that it was unconstitutional. The state supreme court upheld that ruling stating that states have no authority to change, add to, diminish the requirements of the Qualifications Clauses, U.S. Const. Art. I, § 2, Art. I, § 3, cl. 7. </li>
+    <li><b>Issue:</b> Was the amendment unconstitutional?</li>
+    <li><b>Rule:</b> The power to add qualifications is not within the original powers of the states, and thus is not reserved to the states by the U.S. Const. amend. X. Even if states possessed some original power in this area, the framers intended the Constitution to be the exclusive source of qualifications for members of Congress, and that the framers thereby divested states of any power to add qualifications.</li>
+    <li><b>Conclusion:</b> The US Supreme Court upheld the lower court rulings because any changes with respect to term limits must be made, not by legislation, but rather through the amendment procedures set forth in the U.S. Constitution.</li>
+    <li><b>Notes/Concepts:</b></li>
+      <ul>
+        <li>Creation of bank is not a bold usurpation</li>
+        <li></li>
+      </ul>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+- Cannot add state requirements on federal positons unless by amendment
+- Silence != Consent to act by States
+- Majority
+  - States have no reserved powers over the composition or operation of the federal government because power may not be reserved over what does not yet exist.
+    - Big Bang Theory - Once the founding occurred, states only enjoyed thsoe powers over the federal government that the Consitution delegates to them. - Justice Kennedy
+- Dissent
+  - States have all powers, including powers with respect to activities of the federal government, **except those the Consitution withholds from them** either directly or by necessary implication
+  - The USC is simply silent on the question and where the USC is silent it raises no bar to action by the States or the People.
+  - Disagrees with the notion that the only powers reserved to the States are those that the States enjoyed before the framing.
+
+#### McCulloch & Thornton
+- Look at the structure of Consitution and examine the duel sovereignty of states v. federal government.
+- Rights enumerated to the Federal Government
+- States rights reserved to them v. intent of the Constituion to the federal government.
+
+#### Necessary & Proper Clause
+- “The Congress shall have Power . . . To make all Laws which shall be necessary and proper for carrying into Exe- cution the foregoing Powers.”
+  - Jefferson: The House that Jack Built
+    - Loose interpretation = power to do anything
+    - Justifications can lead to anything
+  -
+
+#### Case: *[U.S v. Comstock](https://www.lexisnexis.com/lawschool/resources/p/casebrief-united-states-v-comstock-664160383.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b></li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b> In November and December 2006, the Government instituted proceedings in the Federal District Court for the Eastern District of North Carolina against the five respondents in this case. Three of the five had previously pleaded guilty in federal court to possession of child pornography, and a fourth had pleaded guilty to sexual abuse of a minor. With respect to each of them, the Government claimed that the respondent was about to be released from federal prison, that he had engaged in sexually violent conduct or child molestation in the past, and that he suffered from a mental illness that made him sexually dangerous to others. During that same time period, the Government instituted similar proceedings against the fifth respondent, who had been charged in federal court with aggravated sexual abuse of a minor, but was found mentally incompetent to stand trial. Each of the five respondents moved to dismiss the civil-commitment proceeding on constitutional grounds. They claimed that the commitment proceeding is, in fact, criminal, not civil, in nature and consequently that it violates the Double Jeopardy Clause, the Ex Post Facto Clause, and the Sixthand Eighth Amendments. They also claimed that, in enacting the statute, Congress exceeded the powers granted to it by Article I, § 8, of the Constitution, including those granted by the Commerce Clauseand the Necessary and Proper Clause. The district court granted respondent inmates' motion to dismiss finding that in enacting § 4248, Congress exceeded the powers granted to it by the Necessary and Proper Clause, U.S. Const. art. I, § 8, cl. 18. On appeal, the United States Court of Appeals for the Fourth Circuit upheld the dismissal. Certiorari was granted on the request of the U.S.</li>
+    <li><b>Issue:</b> Did the Congress exceed its powers granted to it by Article I, § 8, of the Constitution when it enacted the statute?</li>
+    <li><b>Rule:</b> 18 U.S.C.S. § 4248 is reasonably adapted to Congress' power to act as a responsible federal custodian (a power that rests, in turn, upon federal criminal statutes that legitimately seek to implement constitutionally enumerated authority). Congress could have reasonably concluded that federal inmates who suffer from a mental illness that causes them to have serious difficulty in refraining from sexually violent conduct, 18 U.S.C.S. § 4247(a)(6), would pose an especially high danger to the public if released. </li>
+    <li><b>Conclusion:</b> The Fourth Circuit's judgment was reversed and the case was remanded for further proceedings. The Court held that Section 4248 was a modest addition to a set of federal prison-related mental-health statutes that had existed for many decades, aside from its focus on sexually dangerous persons. The desire to address the specific challenges identified with mentally ill, sexually dangerous federal prisoners, taken together with U.S. responsibilities as a federal custodian with the constitutional power to act to protect communities from the danger its prisoners could pose, satisfied a rational means review. Powers granted by the Necessary and Proper Clause were, by definition, not powers "reserved to the States" under U.S. Const. amend. X, and, § 4248 even required accommodation of state interests. Section 4248 was not too sweeping in scope. From the implied power to punish, the federal civil-commitment power was inferred.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
+
+
+- Necessary & Proper
+  - Congress has broad authority to enact federal legislation that is convenient or useful or conducive to the authority's beneficial exercise.
+  - **Test for Necessary & Proper:**
+    1. Look to see whether statute constitutes a means that is **rationally related** to the implementation of a constitutionally enumerated power
+    2. Modest addition to a set of federal prison related mental health statutes.
+    3. Federal Government is the custodian of its prisoners and has the consitutional power to act in order to protect nearby and other communities from the danger federal prisoners may pose.
+    4. Statute properly accounts for state interests
+    5. the links between §4248 and an enumerated Article 1 power are not too attenuated.
+  - Taken together the statute is a necessary and proper means of exercising the federal authority that permits Congress to create federal criminal laws, to punish their violation, to imprison violators, to provide appropriately for those imprisoned, and to maintain the security of those who are not imprisoned but who may be affected by the federal imprisonment of others.
+- **Class Discussion**
+
+---
+## 3.0 The Commerce Power and Its Federalism Based Limits
+- Article 1 § 8 granted Congress the power to
+  - Regulate Commerce with foreign Nations, and amonth the Several States, and with the Indian Tribes.
+- Central purpose to suppress the "interfering and unneighborly regulations of some States"
+- Goal to help end hostile state restrictions, retalitory trade regulations, and protective tariffs on imports from other states...
+
+### 3.1 Commerce Power Before the New Deal
+- Marshall gave an expansive interpretation to the Commerce Clause in early 19th century.
+  - NY legislature granted Livingston and Fulton, exclusive right to operate steamboats in NY waters.
+
+#### Case: *[Gibbons v. Ogden](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An act of Congress gave full authority to defendants' to navigate steamboats in waters of the United States, and the law of the state of New York prohibiting navigation in the state was repugnant to the Constitution and void.</li>
+    <li><b>Facts:</b> A state act gave an exclusive right to certain individuals to use steam navigation in all the waters of New York for 30 years from 1808. An injunction was issued restraining defendants from navigating steamboats in the waters within the state because of this exclusive privilege, which defendants violated. Defendants contended that the privilege violated an act of Congress which regulated the licensing of ships and vessels in the coasting trade and fisheries and was repugnant to the Constitution and laws of the United States. The state court found in favor of the plaintiff, and defendants appealed.</li>
+    <li><b>Issue:</b> Was the law of the state of New York prohibiting navigation in the waters of the state valid?</li>
+    <li><b>Rule:</b>
+    In regulating commerce with foreign nations, the power of Congress does not stop at the jurisdictional lines of the several states. The commerce of the United States with foreign nations, is that of the whole United States. Because Congress has the power to regulate commerce, that power must be exercised whenever the subject exists. If a foreign voyage may commence or terminate at a port within a state, then the power of Congress may be exercised within a state.</li>
+    <li><b>Conclusion:</b> The court reversed, finding that the act of Congress gave full authority to defendants' vessels to navigate the waters of the United States. The law of the state of New York, prohibiting the vessels from navigating the waters of the state, was repugnant to the Constitution and void.</li>
+    <li><b>Notes/Concepts:</b></li>
+    - Commerce undoubtedly is traffic, but it is something more, it is intercourse.
+    - The Commerce power is the power to regulate, that is to prescribe the rule by which commerce is to be governed.
+  </ul>
+
+</details>
+
+-**Class Discussion**
+
+#### Judicial Limits on the Commerce Power
+- 3 Principal judicial approaches
+  1. Direct v. Indirect Test
+    - Whether the regulated activity had a **direct** or **indirect** effect on interstate commerce
+      - "Manufacturing" does not extend to regulation under the Commerce Clause
+      - Regulation of commerce applies to the subjects of commerce and not to matters of internal police.
+  2. The "substantial economic effects" Test
+    - Emphasizing the practical physical or economic effects of the regulated intrastate activities on interstate commerce.
+      - Railroad Regulation: Authority to regulate intrastate rail rates that discriminated against interstate railroad traffic.
+      - Necessarily embraces the right to control their operations in all matters having such a close and substantial relation to interstate traffic.
+  3. The Stream of Commerce test
+    - Local activities could be regulated by Congress because they could be viewed as themselves "in" commerce or as an integral part of the "current of commerce".
+      - Price fixing meat dealers
+
+
+
+
+
+#### Case: *[Hammer v. Dagenhart](Link)*
+- The power to prohibit commerce depends on the harmful nature of the pro- hibited trade. Lotteries, for instance, are a “widespread pestilence” and there- fore fall within Congress’s regulatory authority. Champion. But child labor does not. Moreover, Congress does not have the authority to prevent unfair competition between states.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A federal act, which prevented interstate commerce in the products of child labor, was unconstitutional because the act exceeded congress' authority under the Commerce Clause and invaded the states' reserved powers.</li>
+    <li><b>Facts:</b> Congress enacted the Act of Sept. 1, 1916, which prevented interstate commerce in the products of child labor. Appellee father filed a bill to enjoin the enforcement of the Act, and the district court granted the bill and declared the Act unconstitutional. On appeal, the court upheld the district court's judgment, holding that the Act attempted the federal government's regulation of a matter that was purely local.</li>
+    <li><b>Issue:</b> Is the contested legislation beyond the scope of authority of Congress?</li>
+    <li><b>Rule:</b> The production of  goods and the mining of coal are not considered commerce, and are therefore not under Congressional power to regulate. The regulation of production is a local power reserved to States and is Constitutionally protected by the Tenth Amendment. </li>
+    <li><b>Conclusion:</b> The court held that although there should be limitations upon the right to employ children in mines and factories in the interest of their own and the public's welfare, such regulation was reserved for the states. The grant of power to Congress over the subject of interstate commerce was to enable it to regulate such commerce, and not to give it authority to control the States in their exercise of the police power over local trade and manufacture.</li>
+    <li><b>Notes/Concepts:</b></li>
+      <ul>
+        <li>Key question: “Is it within the authority of Congress in regulating commerce among the States to prohibit the transportation in interstate commerce of manufactured goods” produced with child labor.</li>
+        <li>The government (Hammer, the DA for the Western District of North Carolina) argued that Congress was within its Commerce Clause authority. The government argued that the Commerce Clause automatically gives Congress the power to prohibit interstate trade of “ordiary commodities.” The Court disagreed, holding that the power to prohibit depends on “the character of the particular subjects dealt with.” For instance, in Champion, Congress’s authority rested on the harmful effects of lotteries. But “this element is wanting in the present case.”</li>
+        <li>The government argued further that regulation was necessary to prevent states that allowed child labor to gain unfair trade advantages over states with child labor restrictions. The Court held that Congress has no power “to require the States to exercise their police power so as to prevent possible unfair competition.” Under any other result, “all freedom of commerce will be at an end, and the power of the States over local matters may be eliminated and thus our system of government be practically destroyed.”</li>
+      </ul>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+
+#### Prisonner’s Dilemmas
+1. State economies face a classic prisoner’s dilemma, or race to the bottom: on their own, states will be better off if they cooperate in economic policy, but each has a stronger incentive to defect. So if state A passes a child labor law, its production costs will rise, and state B will gain an economic advantage—but both states would benefit more if they both passes child labor laws.
+2. One counterargument is that this is not a true prisoner’s dilemma because states may not agree that child labor laws are best for their citizens.
+3. The federal government can provide the necessary centralized coordination to solve this dilemma.
+
+### The Comerce Power and the New Deal
+- The government sought to justify measures passed in the New Deal under the Commerce Clause as based on the "substantially affecting commerce" rationale and the "in commerce" rationale
+- Tests to the New Deal
+  1. Court decided that Congress lacked the power to establish a compulsory retirement and pension plan for all carriers subject to the Interstate Commerce Act
+    - Law was not in purpose or effect a regulation of interstate commerce within the meaning of the Constitution
+
+#### Relaxation of Judicial Constraints on Congressional Power
+
+
+
+#### Case: *[NLRB v. Jones & Laughlin Steel Corp.](Link)*
+- The National Labor Relations Act prohibited employers “from engaging in unfair labor practices affecting commerce.”
+  - Jones & Laughlin was accused of violating the act by interfering with employees’ organizing and collective bargaining rights. The Court held that Jones & Laughlin’s activities would have an indirect but significant impact on commerce: “
+  - Although activities may be intrastate in character when separately considered, if they have such a close and substantial relation to interstate commerce that their control is essential or appropriate to protect that commerce from burdens and obstructions, Congress cannot be denied the power to exercise that control.”
+
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> National Labor Relations Board's order requiring employer to cease and desist from unfair labor practices was within its competency, and the National Labor Relations Act was a valid exercise of Congress' power to regulate interstate commerce.</li>
+    <li><b>Facts:</b> The National Labor Relations Board sought their enforcement of an order to employer, which was engaged in the manufacture of iron and steel, to cease and desist from unfair labor practices, to offer reinstatement to 10 employees at one of its plants who were discharged for union activity, to make good their losses in pay, and to post notices. The lower court denied its petition. On appeal, the Court of Appeals affirmed. The case was elevated on certiorari to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Was the National Labor Relations Act authorized by Congress to regulate interstate commerce?</li>
+    <li><b>Rule:</b> The power of Congress to protect interstate commence is plenary and may be exerted to protect interstate commerce no matter what the source of the dangers which threaten it. Although activities may be intrastate in character, if they have a substantial relation to interstate commerce and their control is essential or appropriate to protect that commerce from burdens and obstructions, Congress cannot be denied the power to exercise that control. </li>
+    <li><b>Conclusion:</b> The court ruled that the National Labor Relations Act was a proper exercise of Congress' power to regulate interstate commerce, that employees had a right to self-organization, and that discrimination and coercion to prevent exercise of this right was a proper subject for condemnation by legislative authority. The court further ruled that the Act applied to respondent's employees who were engaged exclusively in production because intrastate activities that were closely connected to interstate commerce were subject to regulation by Congress.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+#### Case: *[United States v. Darby](https://www.lexisnexis.com/lawschool/resources/p/casebrief-united-states-v-darby.aspx)*
+- The Fair Labor Standards Act prescribed minimum wage and maximum hour requirements for employees engaged in the production of goods re- lated to interstate commerce. Darby, a Georgia lumber manufacturer, was accused of violating the act.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The court reversed the district court's judgment, which had quashed the indictment against appellee on the grounds that the Fair Labor Act of 1938 was unconstitutional, because the restriction on the production of goods for commerce was a permissible exercise of the power under the Commerce Clause.</li>
+    <li><b>Facts:</b> The Fair Labor Standards Act set up a comprehensive legislative scheme for preventing the shipment in interstate commerce of certain products and commodities produced in the United States under labor conditions as respects wages and hours which fail to conform to standards set up by the Act. A lumber manufacturer was charged with violation of § 15(a)(1), (2), and (5) of the Fair Labor Standards Act of 1938 (Act). He sought to quash the indictment on the ground that the Act was unconstitutional. The District Court quashed the indictment.</li>
+    <li><b>Issue:</b> Does the Congress have constitutional power to prohibit the shipment in interstate commerce of lumber manufactured by employees?</li>
+    <li><b>Rule:</b> Congress, having by the Fair Labor Standards Act of 1938, 29 U.S.C.S. § 201 et seq., adopted the policy of excluding from interstate commerce all goods produced for the commerce which do not conform to the specified labor standards, it may choose the means reasonably adapted to the attainment of the permitted end, even though they involve control of intrastate activities.</li>
+    <li><b>Conclusion:</b> The court reversed the district court's judgment, which had quashed the indictment against appellee on the grounds that the Fair Labor Act of 1938 was unconstitutional, because the restriction on the production of goods for commerce was a permissible exercise of the power under the Commerce Clause, The court ruled that the power of Congress under the Commerce Clause was plenary to exclude any article from interstate commerce subject only to the specific prohibitions of the Constitution. Further, Congress, having by the Act adopted the policy of excluding from interstate commerce all goods produced for the commerce which did not conform to the specified labor standards, could choose the means reasonably adapted to the attainment of the permitted end, even though they involved control of intrastate activities.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- Part 1 (prohibition of shipment of proscribed goods in interstate commerce under § 15(a)(1)):
+  - “ . . . the only question arising under the commerce clause with respect to such shipments is whether Congress has the constitutional power to prohibit them.”
+  - The government argued that Congress acted “under the guise of regulation of interstate commerce.” But its real aim was to regulate hours and wages.
+  - Held: Congress’s freedom to exercise its commerce clause powers do not depend whether “its exercise is attended by the same incidents which attend the exercise of the police power of the states.” Or: Congress is free to exercise police power via the commerce clause as long as the commerce clause exercise is valid on its own.
+  - Hammer v. Dagenhart, which held that Congress’s commerce clause powers were limited to regulation of things with “some harmful or deleterious property,” is now overruled.
+- Part 2 (validity of the wage and hour requirements under §§ 15(a)(2), 6, and 7):
+  - Darby’s employees were not themselves engaged in interstate commerce. The question was whether employees engaged in the production of goods for interstate commerce were within the reach of Congress’s regulatory power.
+  - Congress intended the act not only to prevent transportation of the prohibited product, but also to “stop the initial step toward tranpportation, production with the purpose of so transporting it.”Such regulation was within Congress’s power.
+  - Congress also appropriately exercised its commerce clause power in coordinating economic activity between the states by limiting “a method or kind of competition in interstate commerce which it has in effect condemned as “unfair.””
+
+
+- **Class Discussion**
+
+
+#### Case: *[Wickard v. Filburn](https://www.lexisnexis.com/lawschool/resources/p/casebrief-wickard-v-filburn.aspx)*
+- The Agricultural Adjustment Act of 1938 mandated maximum allotments of wheat for farmers. Filburn was accused of violating the act by growing wheat for personal use in excess of the allotment.
+
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Decision that enjoined enforcement of Agricultural Adjustment Act amendment as to wheat marketing quota was reversed because penalties for agriculture department programs did not violate due process and were not unconstitutional.</li>
+    <li><b>Facts:</b> Pending a referendum vote of farmers upon wheat quotas proclaimed by the Secretary of Agriculture under the Agricultural Adjustment Act of 1938, the Secretary made a radio address in which he advocated approval of the quotas and called attention to the recent enactment by Congress of the amendatory act, later approved May 26, 1941. Appellee farmer filed a complaint against appellants to enjoin enforcement against himself of the marketing penalty imposed by amendment to the Agricultural Adjustment Act of 1938 (Act) for violating the quotas set forth in the law. The Appellee farmer only used the produced wheat for personal use and local consumption. </li>
+    <li><b>Issue:</b> Can Congress regulate intrastate activity under its commerce clause?</li>
+    <li><b>Rule:</b> The power of Congress over interstate commerce is plenary and complete in itself, may be exercised to its utmost extent, and acknowledges no limitations other than are prescribed in the Constitution. It follows that no form of state activity can constitutionally thwart the regulatory power granted by the commerce clause to Congress. Hence the reach of that power extends to those intrastate activities which in a substantial way interfere with or obstruct the exercise of the granted power. </li>
+    <li><b>Conclusion:</b> It is well established by decisions of this Court that the power to regulate commerce includes the power to regulate the prices at which commodities in that commerce are dealt in and practices affecting such prices. One of the primary purposes of the Act in question was to increase the market price of wheat, and to that end to limit the volume thereof that could affect the market. It can hardly be denied that a factor of such volume and variability as home-consumed wheat would have a substantial influence on price and market conditions. This may arise because being in marketable condition such wheat overhangs the market and, if induced by rising prices, tends to flow into the market and check price increases. But if we assume that it is never marketed, it supplies a need of the man who grew it which would otherwise be reflected by purchases in the open market. Home-grown wheat in this sense competes with wheat in commerce. The stimulation of commerce is a use of the regulatory function quite as definitely as prohibitions or restrictions thereon. This record leaves us in no doubt that Congress may properly have considered that wheat consumed on the farm where grown, if wholly outside the scheme of regulation, would have a substantial effect in defeating and obstructing its purpose to stimulate trade therein at increased prices.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+- Decision: “ . . . even if appellee’s activity be local and though it may not be regarded as commerce, it may still, whatever its nature, be reached by Congress if it exerts a substantial economic effect on interstate commerce . . .
+  - The act in question was meant both to regulate the amount of wheat on the market and “the extent . . . to which one may forestall resort to the market by producing to meet his own needs.” If everyone produced personal wheat as Filburn did, it would have a substantial impact on the interstate wheat market. Therefore, personal wheat production was within Congress’s regulatory power under the commerce clause.
+    - This was the same argument that justified the insurance mandate in the Affordable Care Act.
+
+#### Post-Hammer
+- The Darby court moved away from the Hammer world in which Congress
+could only regulate items it saw as “noxious‘in themselves’”
+- Does Darby mean that Congress is free to regulate interstate commerce for noneconomic reasons? Or does it mean that courts should not try to discern Congress’s motives as long as the regulation is a valid exercise of its commerce clause power?
+- Darby and Wickard, both unanimous, might suggest that Congress enjoyed unlimited powers to regulate the national economy. But both cases involved issues of economic competition where only Congress could solve the coordination problem between states. States may have wanted to implement similar economic regulation but couldn’t because of the prisoner’s dilemma.
