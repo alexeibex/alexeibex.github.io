@@ -643,6 +643,8 @@ A promise which the promisor should reasonably expect to induce action or forbea
 
 #### Case: *[Mattei v. Hopper](Link)*
 
+- Satisfaction clauses constitute consideration when courts read them as requiring good faith. Otherwise, the satisfaction clause would not involve a commitment, so the promise would be illusory.
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> π brought action for damages after ∆ breached a contract by failing to convey her real property in accordance with terms of a deposit receipt which the parties had executed.</li>
@@ -655,6 +657,16 @@ A promise which the promisor should reasonably expect to induce action or forbea
 
 </details>
 
+- **Class Discussion**
+- Consideration: π to buy property and ∆ to sell property
+  - π is conditional based on **satisfactory** lease obtained
+  - ∆ no consideration and lacked mutality of obliation.
+  - A promise to sell along with a promise to buy forms a contract under the conditions.
+    - Problem arises when one party does not perform under the duties of the contract.
+  - ∆ argues that the satisfaction clause (satifactory leases) makes the mutuality agreement of the π illusory. π can pull out of deal and has no obligation. Invalid promise if they can choose to do or not do the obligation.
+  - Court held that satisfaction clause was performed in "good faith"
+
+
 #### Satisfaction Clauses
 - Promise with condition that promisor is "**satisfied**"
 - Good faith obligation means that your decision about whether you are satisfied must be reasonable or honest.
@@ -662,6 +674,12 @@ A promise which the promisor should reasonably expect to induce action or forbea
 - If satisfaction clause deals with "commercial value or quality, operative fitness or mechanical utility" courts generally apply reasonableness test.
   - Satisfaction as compared with other market alternatives.
 - If satisfaction deals with "fancy, taste, or judgement" courts apply the honesty test.
+- **Limitation** placed on "free way to backout" is not an illusory promise.
+  - **Limitation = "sufficient notice"**
+    - 24 hour notice
+    - Written Notice
+    - Any Notice
+
 
 - Corbin on Contracts: A promise conditional upon the promisor's satisfaction is not illusory since it means more than the validity of the performance is to depend on the arbitary choice of the promisor.
 
@@ -674,16 +692,288 @@ A promise which the promisor should reasonably expect to induce action or forbea
 - Withholding performance does not create consideration for a modification. It looks more like extortion.
 
 
-- *Case Examples*
-  - Haigh v. Brooks
+- Case Examples
+  - *Haigh v. Brooks*
     - Giving up a piece of paper, however objectively worthless it may have been would be consideration.
 - **Corbin on Contracts**
   - Parting with a document, contents which render no service, has been held to be a consideration for a promise to pay a large sum of money.
-- Restatement (Second) of Contracts § 79
+
+
+- Restatement (Second) of Contracts § 79 (PepperCorn)
   - Adequacy of Consideration
-    - If the requirement of consideration is met, there is no additional requirement of equivalence in the values exchanged.
+    - **If the requirement of consideration is met, there is no additional requirement of equivalence in the values exchanged.**
+- Restatement (Second) fo Contracts § 208
+    - Unconscionable Contract or Term
+      - **Note to Examine Later**
+
+
+### 3.6 Obligation Arising From Justified Reliance - Promissory Estoppel
+- A moral obligation to keep a promise is generally insufficient to establish a legal obligation.
+- Lawmakers should also consider social policy and experiential concerns (e.g., problems of proof)
+- Injury from reliance is a moral and policy reason for enforcing promises.
+
+#### No Reliance in Traditional Common Law
+
+#### Case: *[Kirksey v. Kirksey](Link)*
+- These facts are analogous to the tramp example. Was this a mere gift or was there consideration? The defendant got nothing in return for his offer, but the plaintiff did do what he wanted—so you can start the consideration analysis.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> The defendant, plaintiff’s brother in law, invited the plaintiff and her family to come live at his house, offering her living space and land to tend, but asking nothing in return. She abandoned her property in the country to come live with him. He let her live comfortably in the house for two years. Then, he put her in a house, “not comfortable,” in the woods, and then made her leave.</li>
+    <li><b>Issue:</b> Would an action lie for breach of the promise?</li>
+    <li><b>Rule:</b> The judge writing the opinion for the Supreme Court of Alabama believed that the “loss and inconvenience” she suffered justified the award, but the majority believed the offer was a “mere gratuity.” Reversed</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - Consideration: ∆ asked π to come live on his land and promises housing. No bargain for exchange.
+    - ∆ Promise: Induced π to leave her own home to move
+    - π claim: Merely a gift, detriment did not induce the promise.
+  - Opinion: Ormond seeks to correct injustice.
+    - π sustained breaking up and moving to ∆s property
+      - 60 miles
+  - Equitable estopple to Promissory Estoppel.
+
+
+#### Restatement Second § 90: Promise Reasonably Inducing Action or Forbearance
+1. “A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.”
+
+- Under classical contract law, only a bargain was consideration. Donative promises were not enforceable, even if the promisee relied on the promise. *Kirksey*.
+
+#### Estoppel in pais (or equitable estoppel):
+- If A made a statement and B foreseeably relied on that statement, A is estopped from denying that statement’s truth. Based on a statement of fact.
+  - For instance, say a store receives a suspicious check. It calls the owner of the bank account to make sure it’s valid. The owner absent-mindedly said yes, but the check was in fact a forgery. The customer is estopped from denying the truth of his statement.
+- Case Basis - *Ricketts v. Cothorn*
+  - Holding: Having intentionally influenced the π to alter her position for the worse on the faith of the note being paid when due, it would be grossly inequitable to permit the maker, or his executor, to resist payment on the ground that the promise was given without consideration.
+
+
+#### Promissory estoppel:
+- A promise is binding if the promisee reasonably relied on it. Codified in Restatement Second § 90. Based on a promise.
+
+#### Reliance Principle
+- Both are instances of a broader “reliance principle”: “When one person, A, uses words or actions that he knows or should know would induce another, B, to reasonably believe that A is committed to take a certain course of action, and A knows or should know that B will incur costs if A doesn’t take action, A should take steps to ensure that if he doesn’t take the action, B will not suffer a loss.”
+
+#### Case: *[Cochran v. Robinhood Lane Baptist Church](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Pastor's widow's presence at church was not consideration to support contract between her and church; she had no right to benefits conferred to her pursuant to employment contract between pastor and church. Marriage restraint provision was void and could not be consideration. Widow did not show she detrimentally relied on officials' promises.</li>
+    <li><b>Facts:</b> Church entered into an agreement to provide Wife with money on first and thir Sunday every month until 2010. Until she either died or remarried. Church discontinued making payment ot wife. Wife filed suit against Church for breach of contract and amended complaint to include the theory of promissory estoppel as justification for upholding the contract.</li>
+    <li><b>Issue:</b>Was the contract enforcable under the doctrine of promissory estoppel?</li>
+    <li><b>Rule:</b> Promissory estoppel is defined as follows: A promise which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does not induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise.</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - Consideration: "Nonwhere in the limited record on appeal demonstrates that the Appellees (promisor) benefitted from her presence at the Church."
+    - Mere presence at the Church does not consititute consideration.
+    - Prior benefits and loss of those benefits does not constitute consideration. Benefit and consideration were actually accomodation/gift for husband/preacher.
+    - Forbearance of marrying another man.
+      - Policies of marriage and the family.
+    - π did not have to do "Anything" at all that would be considered consideration
+
+
+#### Case: *[Wheeler v. White](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The existence of promises designedly made to influence and encourage the conduct of petitioner did not make a contract, but estopped respondent from insisting on strict construction of contractual terms.</li>
+    <li><b>Facts:</b> Petitioner entered into a contract whereby respondent was to obtain a loan for petitioner within six months of the date of the contract. The loan described the contract terms and provided that respondent was to be paid for obtaining the loan and receive a commission on all rentals received from tenants procured by petitioner. After the contract had been signed by both parties, respondent assured petitioner that the money would be available and urged him to proceed with the necessary task of demolishing the building on the site for construction of the new building. Pursuant to such promises, petitioner proceeded to raze the old building and prepare the land for the new structure. No loan was procured and respondent refused to provide one. The court found that although the terms of the contract itself lacked sufficiency, petitioner's alternative pleadings on the theory of estoppel stated a cause of action.</li>
+    <li><b>Issue:</b> Did the trial court err in sustaining the special exceptions directed at the sufficiency of the contract itself, instead of considering the doctrine of promissory estoppel?</li>
+    <li><b>Rule:</b> A promise which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise."</li>
+    <li><b>Conclusion:</b> The court reversed and remanded the case for trial, finding that although the terms of the contract itself lacked sufficiency, petitioner's alternative pleadings on the theory of estoppel stated a cause of action. The binding thread which runs through the cases applying promissory estoppel is the existence of promises designedly made to influence the conduct of the promisee, tacitly encouraging the conduct, which conduct, although not necessarily constituting any actual performance of the contract itself, is something that must be done by the promisee before he could begin to perform, and was a fact known to the promisor.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - Consideration: Promisor to loan Promisee. Court upheld consideration of parties. Bargain for. Promise for a promise.
+  - Valid Consideration but Indefinite agreement makes
+  - Breach of Contract gets compensatory, loss of expectancy damages
+    - Court will award reliance damages based on the urging
+    - π was induced by the promise
+- More Cases:
+  - Whistle v. David H. Arrington Oil & Gas Inc.
+    - Promissory estoppel is applicable only in the absence of an otherwise enforceable contract.
+  - Promissory estopple was supposed to replace consideration
+    - Not used in the way it was used in Wheeler, which had prior consideration
+    -
+
+#### Promissory Estoppel As An Independent Theory of Recovery
+#### Remedies & Consideration
+- Two Types of Injury
+  - Reliance Interest
+    - The promisee is worse off than he would have been if the promise had not been made. Reliance damages restore a promisee to the position he would have been in had the promise not been made.
+  - Expectation Interest
+    - The promisee is worse off than he would have been if the promise had been performed. Expectation damages restore the promisee to the position he would have been in had the promise been performed.
+- Two Types of Reliance Damages
+  - Out-of-pocket Costs
+    - Costs incurred by promisee prior to the breach.
+  - Opportunity Cost
+    - The surplus the promisee would have enjoyed if he had taken the opportunity that the promise led him to forgo
+
+#### Case: *[Hoffman v. Red Owl Stores](Link)*
+- Outlier case, most courts do not follow precontractual promissory estopple.1
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  In a breach of contract action injustice would result if plaintiffs were not granted some relief where defendants failed to keep their promises that had induced plaintiffs to act to their detriment.</li>
+    <li><b>Facts:</b> Red Owl promised a couple that if they invested a total sum of $ 18,000, Red Owl would establish a new grocery store for them. Upon reliance to the agreement and representations, the couple sold their bakery building and business and their grocery store and business, as well as bought a new lot, only to find Red Owl continuously increased the price the parties had originally agreed upon. Consequently, the couple were induced to sell the store's fixtures and inventory on the promise that they would be in their new store in a few months. The deal never went through and couple sued Red Owl. The circuit court ruled in favour of the couple. The case was appealed to the Supreme Court of Wisconsin.</li>
+    <li><b>Issue:</b> Did the couple have a cause of action based on promissory estoppel?</li>
+    <li><b>Rule:</b> The conditions imposed for promissory estoppel are: (1) Was the promise one which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee? (2) Did the promise induce such action or forbearance? (3) Can injustice be avoided only by enforcement of the promise?</li>
+    <li><b>Conclusion:</b> The Courts held that the development of the law of promissory estoppel is an attempt by the courts to keep remedies abreast of increased moral consciousness of honesty and fair representations in all business dealings. A promise which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - Unlike Wheeler, no prior contract had been made
+    - Negotiations pre-contract & Promissory Estoppel
+  - Promise: For $18,000 to establish a Red Owl Franchise
+  -
+  - Consideration: Not yet achieved
+  - Justifiable reliance,
+
+#### Precontractual Reliance on Freedom of Contract
+- For both efficiency and fairness, acceptence at least in some circusmstances, recovery of reliance loss caused by a failed negotiation.
+
+
+
+#### Agreements to Agree
+
+#### Case: *[Local 1330, United Steel Workers v. United States Steel Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Appellants, steel workers union and individual employees, filed suit against appellee steel corporation to enjoin appellees' closing of two major steel plants or in the alternative, to require appellees to sell the steel plants to appellants. Appellants claimed that pursuant to an agreement with appellees, if the plants were made profitable, appellees would keep the plants open or sell them to appellants. The district court denied all relief, holding that appellants had not met the condition precedent of making the plants profitable. On appeal, appellants asserted that the district court erred in its factual findings, in denying a hearing on the antitrust claims, and in construing the applicable law.</li>
+    <li><b>Issue:</b> Were the trial court's factual findings erroneous?</li>
+    <li><b>Rule:</b> The appellate court's standard of review of findings of fact of the district court is set forth in Fed. R. Civ. P. 52(a), which provides, findings of fact shall not be set aside unless clearly erroneous and due regard shall be given to the opportunity of the trial court to judge of the credibility of the witnesses. </li>
+    <li><b>Conclusion:</b> The court affirmed, holding that the district court's factual findings were not clearly erroneous because there was evidence to support appellees' decision that the plants were not profitable and appellants had failed to prove otherwise. The court held that appellants had failed to provide any legal basis to support a injunction requiring appellees to continue the plant operations. The court vacated and remanded the order dismissing appellants' antitrust claim.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+### 3.7 Obligation Arising From Unjust Enrichment
+
+#### Restatement (Third) of Restitution § 1
+- A person who is unjustly enriched at the expense of another is subject to liability in restitution.
+
+#### Implied-in-Law and Implied-in-Fact Contracts
+- Implied-in-fact contracts are true contracts in which assent is implied,
+not explicit—e.g., raising your hand to bid at an auction.
+- Implied-in-law contracts aren’t really contracts. There’s no offer, acceptance, or assent. But to prevent unjust enrichment, someone should be rewarded.
+- Implied-in-fact contracts: the parties decide that there is a contract. Implied-in-law: the court decides
+- “Contracts implied in law, or as they are more commonly called ‘quasi contracts,’ are obligations imposed by law on grounds of justice and equity. Their purpose is to prevent unjust enrichment. Unlike express contracts or contracts implied in fact, quasi contracts do not rest upon the assent of the contracting parties.
+- Gardner, “Observations in the Course of Contracts”
+  - Four principles underly ethical problems in contracts
+    - The Tort Idea: promisor must pay for losses from promisee’s reliance.
+    - The Bargain Idea: buyer must pay the agreed price to the seller.
+    - The Promissory Idea: promises are inherently binding.
+    - The Quasi-Contractual Idea: anyone who receives anything of value should pay for it unless it’s a gift
+
+#### Case: *[Bloomgarden v. Coyer](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Where a businessman never indicated that he expected a finder's fee for his introduction of defendants who later began an enterprise to develop waterfront property, he could not recover a fee under an implied-in-fact contract or a quasi-contract.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+#### Case: *[Blackmon v. Iverson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> π sued ∆ baseketball player, Allen Iverson for idea missappropriation, breach of contract, and quantum meruit, all arising out of the ∆ use of "The Answer" both as a nickname and as a logo or slogan.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+#### Case: *[Sparks v. Gustafson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The trial court did not err in awarding the manager damages under an unjust enrichment theory because, although the complaint did not clearly encompass the theory, it was tried with the express or implied consent of the executor.</li>
+    <li><b>Facts:</b> Plaintiff manager alleged a breach of an oral contract by the defendant executor and estate and later filed an amended complaint, which alleged that plaintiff was entitled to recover for funds and services that he expended on the building under an equitable lien theory. At trial, the superior court found that it was inequitable to allow the estate to retain the benefits that plaintiff had conferred upon the property at his own expense and, therefore, ordered the estate to pay plaintiff compensation. On appeal, the state supreme court affirmed the trial court's order.</li>
+    <li><b>Issue:</b> Whether it is unjust to allow the Estate to retain these benefits without paying for them. In particular, Sparks argues that Gustafson gave his services to the Estate gratuitously, without the Estate's knowledge or Consent.</li>
+    <li><b>Rule:</b> Unjust enrichment exists where the ∆ has received a benefit from the π and it would be inequitable for the ∆ to retain the benefit without compensating π for its value. A person coners a benefit upon another if he gives the other</li>
+    <li><b>Conclusion:</b> The trial court did not err in awarding plaintiff manager damages under an unjust enrichment theory because, although the complaint did not clearly encompass the theory, it was tried with the express or implied consent of defendant executor. Plaintiff was entitled to compensation because the services that he performed for the estate were the types of extensive business services for which one would ordinarily expect to be paid.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+
+#### Remedies in Implied-in-Law and Implied-in-Fact
+- Implied-in-fact contracts are based on the parties’ intentions, so the proper remedy is compensatory damages.
+  - One who has conferred a benefit upon another with an intention to make a gift, has no equitable claim for relief against the recipent of the benefit in the absence of fraud, mistake, duress or undue influence.
+  - One who confers a benefit upon another without affording that other the opporunity to reject the benefit, has no equitable claim for relief against the recipient of the benefit in the absence of some special policy that would outweigh the right of free choice in the benefited party.
+  - Implied-in-law contracts are based on unjust enrichment, so the proper remedy is the value of the benefit acquired.
+  - Damages in an unjust enrichment (i.e., implied in law) claim are measured by the benefit conferred. Damages in a quantum meruit claim are measured by the reasonable value of the plaintiff’s services.
+
+#### Services between siblings
+- Brown v. Brown
+  - Substantial policy considerations underlie the presumption that services rendered between siblings are gratuitous.
+    - As a matter of common human experience
+
+#### Case: *[Gay v. Mooney](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Evidence concerning an understanding that a decedent would convey a dwelling house to a relative's children was relevant and admissible in the relative's suit to recover compensation for lodging and board provided to the decedent.</li>
+    <li><b>Facts:</b> The relative filed suit seeking to recover compensation for the board and lodging he furnished to the decedent. On review, the court affirmed the judgment in favor of the relative.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> In cases against an estate to recover for services provided by a relative top a decedent, a reasonable and proper expectation that there would be compensation must, and hence may, be shown. When, in pursuance of a bargain, for a reason unenforceable, services have been rendered, the legal remedy is by an action on the quantum meruit for the value of the services.</li>
+    <li><b>Conclusion:</b> The court affirmed the judgment in favor of the relative in his claim against the estate.  The court held that, because the understanding did not amount to an actionable contract, no legal remedy was available and only gave color to the conduct of the parties in furnishing and accepting the service rendered.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+#### Equitable Relief, Quantum Meruit
+- When a contract employee is discharged, the employee may either sue on the contract for damages for the breach, or, if he so elects, he may regard the action of the employer as indicating a purpose on his part to repudiate the contract, may accept the repudiation and recover upon a quantum meruit the value of his services as if the special contract had not existed.
+
+#### Case: *[Posner v. Seder](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An employer's exceptions to a judgment in favor of an employee in his action to recover wages were sustained. When the employee treated the employment contract as repudiated, he was entitled to the value of all services less wages that were paid.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
 
 ---
+
+
 
 
 

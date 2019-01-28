@@ -378,6 +378,7 @@ Reading: Pages 57-69 & 72-82
   </ul>
 
 </details>
+
 - **Class Discussion**
   - What happens after case is resolved?
 
@@ -390,6 +391,7 @@ Reading: Pages 57-69 & 72-82
 - The finder’s right of ownership trumps all but the original owner’s right (or earlier finders’ rights).
 
 #### Case: *[Armory v. Delamirie](Link)*
+-Finder v. Keeper (Earlier Possessor Won)
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -402,7 +404,7 @@ Reading: Pages 57-69 & 72-82
         <li> That the action will lay against the master, who gives credit to his apprentice, and is answerable for his neglect</li>
         <li>Unless ∆ presented the missing jewel, Jury should presume the strongest against him, and make the value of the best jewels the measure of the damages.
       </ol>
-    <li><b>Conclusion:</b> Found in favor of the π</li>
+    <li><b>Conclusion:</b> Found in favor of the π. Appropriate measure of damages is the value of the jewel. Jewel was not presented in court as evidence, so value of jewel should be presumed the strongest against the ∆.(Information forcing rule)</li>
     <li><b>Notes/Concepts:</b></li>
       <ul>
         <li>Trover: Common-law action to recover the value of personal property that has been wrongfully disposed of by another person.</li>
@@ -411,16 +413,30 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
+- **Class Discussion**
+- Both parties can claim that the other is not the true owner of the jewel.
+- Finder's property right good against everyone in the world, EXCEPT the true owner.
+- Information forcing rule/Penalty faulting Rule
+  - Information asymmetry between two parties, and that information is relevent, court provides incentive to provide information.
+- "Finders keepers losers weepers" != not an accurate representation of the law.
+- Finder acts as a Bailley to the true owner.
+  - Finder can sue until the statute of limitaitons runs out.
+  - NY State Law on Finders - 1958 hinged on price then, after inflation around $100 today.
+    - If the found property is worth less than $10, if you make reasonable efforts and cannot do so, permitted to keep the property after 1 year.
+    - If the found property is worth $20 or more, must be turned into police who must hold it for a specified time of up to 3 years, then the finder is entitled to keep it. Punishable by misdomenor, fine and imprisonment.
+    - If value of is >10 but <20 the statutes are silent.
+
 
 #### 3.2.2 Subsequent Possession
-- TO > F1 > F2. “It’s more mine than yours.”
+- **TO > F1 > F2. “It’s more mine than yours.”**
 
-#### Case: *[Clark v. Maloney](Link)*
+#### Case: *[Clark v. Maloney](https://www.lexisnexis.com/lawschool/resources/p/casebrief-clark-v-maloney.aspx)*
+-Finder v. Finder (Earlier Possessor Won)
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Action of trover to <b>to recover the value of ten white pine logs</b> which were found by π floating in the Delaware bay after a great freshet, were afterwards taken up and moored with ropes to the mouth of a creek, and in possession of ∆ who refused to give them up alleging they had found them adrift floating up the creek. </li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> Plaintiff found logs floating and moored them; subsequently they were lost and came into the possession of defendants, who refused to give them to plaintiff, contending they had found them adrift, and asserting a sufficient property in the logs as to any but the original owner. Plaintiff brought an action in trover to recover the value of logs from defendant.  The court held that possession, while prima facie evidence of property, could be rebutted by evidence of better title, which plaintiff had shown.</li>
     <li><b>Issue:</b> Whether or not ∆ can claim the logs from the π</li>
     <li><b>Rule:</b> The finder of a chattel, though he does not acquire an absolute property in it, yet has such a property, as will enable him to keep it against all but the rightful owner.</li>
     <li><b>Conclusion:</b></li>
@@ -439,22 +455,47 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
+- **Class Discussion**
+-  A loses item, B finds it, then B loses it, C finds it
+  - Armory Rule invokes the finder has claim against all but the true owner.
+
+
 #### 3.2.3 Relative Rights
 - The plaintiff’s property right must only be valid relative to the defendant’s right. Property rights are relative.
 
+
 #### Case: *[Anderson v. Gouldberg](https://www.lexisnexis.com/lawschool/resources/p/casebrief-anderson-v-gouldberg.aspx)*
+-Converter v. Converter (Earlier Possessor Won)
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> One who acquired possession of pine logs by trespassing upon the land of some third party had a right to retain that possession against mere wrongdoers who were strangers to the property.</li>
-    <li><b>Facts:</b> The possessor of personal property filed action to recover the possession of 93 pine logs with damages. The possessor claimed that he cut the logs in question and hauled them to a mill from which place strangers took them. The logs in controversy were not cut upon the land of the strangers, and consequently they were entire strangers to the personal property. The trial court entered a judgment for the possessor even though it had found that the possessor had trespassed upon the land in question. </li>
+    <li><b>Facts:</b> Plaintiffs harvested lumber while trespassing and took the logs to the defendants’ mill, where the defendants took them. The possessor of personal property filed action to recover the possession of 93 pine logs with damages. The possessor claimed that he cut the logs in question and hauled them to a mill from which place strangers took them. The logs in controversy were not cut upon the land of the strangers, and consequently they were entire strangers to the personal property. The trial court entered a judgment for the possessor even though it had found that the possessor had trespassed upon the land in question. </li>
     <li><b>Issue:</b> Is possession of personal property sufficient title to enable the possessor to recover the property from a stranger who took the property?</li>
     <li><b>Rule:</b> Possession only raises a presumption of title. One who takes property from the possession of another can only rebut this presumption by showing a superior title in himself, or in some way connecting himself with one who has. One who acquires possession has a right against a mere wrongdoer who is a stranger to the property. Any other rule leads to an endless series of unlawful seizures and reprisals in every case where property once passes out of the possession of the rightful owner. </li>
     <li><b>Conclusion:</b> The court affirmed and found that plaintiff obtained possession of the logs in the first instance by trespassing upon the land of some third party. When it was said that to maintain replevin plaintiff's possession must have been lawful, it meant that it must have been lawful as against the person who deprived him of the property. Possession was good title against the entire world except those having a better title. Possession only raised a presumption of title. One who took property from the possession of another could only rebut the presumption by showing a superior title in himself or in some way connecting himself with one who had superior title. The court held that one who acquired the possession of property, whether by finding, bailment, or by mere tort, had a right to retain that possession as against a mere wrongdoer who was a stranger to the property.</li>
     <li><b>Notes/Concepts:</b></li>
+    - Replevin v. Trover
   </ul>
 
 </details>
+
+- **Class Discussion**
+  - Armory rule should apply. Finder = Converter
+    - Possession title whether by finder, bailment or by mere tort has a right to retain that possession as against a mere wrongdoer who was a stranger to the property.
+  - Later case came to the opposite result.
+    - Later converter won against prior converter.
+    - Rare since wrongdoers typically do not present themselves in court.
+
+#### Jus Tertii Defense (Not applicable) - Right of the Third Person
+- A suit for possession of personal property cannot be defeated by showing that someone else has a better claim.
+  - A v. B cannot claim that C has better claim than both
+- Rejected by courts as a defense.
+  - Common law involves only the 2 parties of the case and no Jus Tertii Defense
+    - Jury may lack information on a party not involved in the case
+    - Jury cannot make a ruling on information not available
+
+
 
 ### 3.3 *Nemo Dat*
 - *"One cannot give that which one does not have"*
@@ -463,3 +504,105 @@ Reading: Pages 57-69 & 72-82
 - Property rights are always exclusive
   - Two persons cannot hold the same property right at the same time.
 - Current owners must be able to trace their ownership back in time through a series of legitimate transfers (ideally) to an act of legitimate original acquisition.
+- Generic name for land (Black Acre)
+
+### 3.4 Adverse Possession
+- "Squatters Rights"
+  - Ordinarily a tort - Trespass
+- Adverse Possessor's right is good against all including the owner so long as Adverse Possession Doctrine is fulfilled.
+  - Example: A is the true owner. Adverse possession happens when B becomes the possessor without A’s consent. B might be the owner or have other rights (e.g., easement).
+- Applications to both real and personal property
+- **Elements** to Adverse Possession
+  1. **Actual Claim of Ownership**.
+    - Actual Entry giving exclusive possession
+    - Triggers Statute of Limitations
+    - Stakes out property to be claimed
+      - Must fly his flag over the property in such a way as to put the actual owner on notice that the property is being held under an adverse claim of ownership.
+        - Quality of acts not Quantity
+  2. **Open & Notorious & Visible Possession**
+    - Penalizes owner for sleeping on their rights
+      - Test is objective
+    - Possessor must unfurl his flag on the land and keep it flying so that the actual owner may see, and if he will, that an enemy has invaded his domains, and planted the standard of conquest.
+  3. **Actual or Hostile Possession that is Adverse**
+    - Possession is hostile and adverse when the adverse possessor intends to claim title notwithstanding that the claim is made under a mistaken belief that the land is within the class of possessor's deed.
+    - Under a claim of right (color of title)
+  4. **Possession that is continuous for the statutory period**
+    - Need not be constant just match average owner's use
+  5. **Exclusive**
+    - Possessor evinces an intention to possess and hold land to the exclusion of and in opposition to, the claims of all others and conduct must indicate that he is exercising the dominion of a sole owner.
+  6. **Peaceful** (Non-Standard)
+  7. Sometimes payment of property taxes (Non-Standard)
+
+#### Case: *[Scott v. Anderson-Tully Co.](https://www.lexisnexis.com/lawschool/resources/p/casebrief-scott-v-anderson-tully-co.aspx)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Substantial evidence in the record supported the chancellor's finding that an adjacent landowner proved adverse possession by clear and convincing evidence where it openly and notoriously possessed the disputed 20-acre tract, marked the perceived property line, and managed and harvested timber from the property.</li>
+    <li><b>Facts:</b> π filed suit seeking damages after ∆ removed timber from a 21 acre parcel of land that π claimed to own. Scott inhereted 1/2 interest in 584.5 acre tract of land. ∆ alleges that adjacent landowner to the east, ∆ was trespassing on a portion of the estate. ∆ argued that it acquired title to the property by adverse possession through its possession and use of the land from 1969 to 2010.</li>
+    <li><b>Issue:</b>Whether ∆ had acquired the disputed 20 acres of land through adverse possession.</li>
+    <li><b>Rule:</b> For adverse possession it must be 1. under claim of ownership; 2. actual or hostile; 3 open notorious. and visible; 4. continuous and uninterrupted for a period of 10 years; 5. exclusive, and 6. peaceful</li>
+    <li><b>Conclusion:</b> ∆ demonstrated claim of ownership by marking its borders with recognizable company blue paint. Widely known to local population. Cleared land and timber and issued 5 hunting licenses for the property. π argues ∆ did not actually or hostilely possess the property because it did not care for or improve the land on a regular basis. Generally required for adverse possession, but possessory acts necessary to establish a claim of adverse possession may vary with the characteristis of the land. If wild or unimproved land, may be established by evidence of acts that would be wholly insufficient in the case of improved or developed lands. Public acts of ownership sufficient. The Court held that substantial evidence in the record supported the courts finding that the company, an adjacent landowner, proved adverse possession by clear and convincing evidence where it openly and notoriously possessed the disputed 20-acre tract from 1969 until the purported owner's complaint was filed in 2010, the adjacent landowner marked its perceived boundary line with blue paint when it purchased the property in 1969 and repainted the boundary line in 1986 and 1998, the adjacent landowner managed timber uninterruptedly from 1969 to 2010 and harvested timber in 1990, 1999, and 2010, and no testimony was presented that the purported owner or anyone else used the disputed property after 1969.
+     </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - π asserts claim because he began paying property taxes on the disputed tract in 1993
+    - No evidence to support claim by π.
+    - Payment of taxes alone is not dispostive of the claim of ownership
+  - Proof of adverse possession of wild land is measurably lower than had the property been developed.
+
+#### Claim of Right
+- The adverse possession doctrine has no application to one who actually knows that he has no claim or title or right to a title.
+  - Main purpose is to bar mere squatters from the benefits of adverse possession.
+  - Three Positions
+    1. Adverse under a claim of right means that the AP subjectively (but mistakenly) believes he is legally entitled to possession of the property. (The AP is acting in good faith)
+    2. Adverse under a claim of right means that the AP subjectively believes he is not legally entitled to possession of the property. (THe AP is acting in bad faith)
+    3. The AP's subjective state of mind is irrelevant; all that matter is that the AP has not been given permission by the TO to use the property.
+
+#### Color of Title
+- Evidence (like a written deed) that appears to establish title but actually does not (e.g., because the original seller lacked a valid title, or because the seller was not competent to transfer the property).
+
+
+#### Adverse Possession Against the Government
+- Adverse possession does not apply to the government
+  - Very high monitoring costs that would be involved to ensure to adverse possession.
+- The doctrine has been retained in some states, modified in others with a longer statute of limitations against the government than against private owners and has been abololished in others.
+
+
+#### Case: *[Carpenter v. Ruperto](https://www.lexisnexis.com/lawschool/resources/p/casebrief-carpenter-v-ruperto.aspx)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The property owner knew she had no legal right to possession of the disputed land; therefore, she could not establish a good faith claim of right, and the trial court properly found against her in her action to quiet title to the piece of property.</li>
+    <li><b>Facts:</b> The property, which plaintiff claimed to have acquired by adverse possession was the south 60 feet of defendants' lot. She claimed open, exclusive, hostile, adverse, and actual possession under a claim of right. She installed a propane tank on the parcel and used part of it as a driveway. The trial court held in part that she did not establish her possession was under a claim of right. However, it ordered defendants to "do equity" by deeding to her the strip of land her driveway was on and to pay the costs of moving the propane tank to her lot. On appeal, the court affirmed the judgment on the appeal and dismissed the cross-appeal. </li>
+    <li><b>Issue:</b> Did plaintiff fail to prove a good faith claim of right?</li>
+    <li><b>Rule:</b> One claiming title by adverse possession must establish hostile, actual, open, exclusive and continuous possession, under a claim of right or color of title, for at least ten years, by clear and positive proof. Because the law presumes possession under regular title, the doctrine is strictly construed. </li>
+    <li><b>Conclusion:</b> The court held that good faith was essential to adverse possession under a claim of right. Plaintiff failed to prove a good faith claim of right. She knew her lot did not include the cornfield north of it. At the time she entered possession of the disputed land, plaintiff knew she had no legal right to do so. Possession for the statutory period could not be bootstrapped into a basis for claiming a right to possession. Defendants' cross-appeal was untimely and compliance with he time limitations for taking a cross-appeal was mandatory and jurisdictional.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- Claim of Right v. Color of Title
+- **Class Discussion**
+
+
+#### Tacking
+- Joining consecutive periods of possession by multiple people as a single period of possession.
+
+#### Case: *[Howard v. Kunto](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Ten year summer occupancy and continued improvements to land sufficient to constitute defendants' continuity of possession for purposes of tacking and establishing right to title based on adverse possession.</li>
+    <li><b>Facts:</b> Defendants' house stood on one lot while their deed described the adjacent lot. At the time quiet title action was commenced, defendants occupied the disputed property less than a year. The lower court found defendants unable to establish a claim for adverse possession because they failed to prove continuity of possession to permit tacking of defendants' possession to their predecessors'. The court concluded that a ten year summer occupancy did not destroy continuity of possession for purposes of adverse possession because the land was regularly used during the time it was capable of use and defendants made continued improvements on the land. As a result, the court found tacking permitted. The court determined the privity requirement for tacking was satisfied because defendants' claim of right as the last of successive purchasers who received title under the mistaken belief they acquired a contiguous track was sufficiently above that of a trespasser.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b>Rject the conclusion that the summer occupancy only of a summer beach home destroys the continuity of possession required by statute. It is not necessary that the occupant should be actually upon the premises continually. If the land is occuped during the period of time during the year it is capable of use, there is sufficient continuity. Furhter, adverse possession is permitted if the successive occupants are in privity. Held that sufficient privity of state to permit tacking and thus establish adverse possession as a matter of law.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>

@@ -79,7 +79,7 @@ Conclusion  | |
 #### Argument Example
 1. Point heading 1 (One Sentence)
   - Thesis
-    a. Subheading 1 
+    a. Subheading 1
     - Thesis
         i. SubSubHeading 1
 
@@ -109,3 +109,5 @@ Specific Case Resources:
 - chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://cases.justia.com/wisconsin/court-of-appeals/2010AP001758-(2011-08-25).pdf?ts=1396152730
 
 - https://pennrecord.com/stories/511396145-right-to-farm-act-protects-salem-family-farm-from-lawsuit-over-its-smell
+
+- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.law.georgetown.edu/wp-content/uploads/2018/07/From-Memo-to-Appellate-Brief.pdf

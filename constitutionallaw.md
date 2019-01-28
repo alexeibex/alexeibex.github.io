@@ -732,6 +732,8 @@ and, later, opposed the 1787 constitution.
 
 
 #### Case: *[U.S v. Comstock](https://www.lexisnexis.com/lawschool/resources/p/casebrief-united-states-v-comstock-664160383.aspx)*
+- Involuntary civil commitment of sexual dangerous inmates
+  - Necessary & Proper allowing for the need for the government to hold custody over prisoners and protect population from prisoners.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -775,13 +777,28 @@ and, later, opposed the 1787 constitution.
   - Ginsbeg - Regulates 1/6th of the population/economy
 -  One Other
 
-#### United States v. Kebodeaux
+#### Case: *[United States v. Kebodeaux](Link)*
+- Enumerated powers over military personel
+- Requiring a convicted member of the Air Force to register as a sex offender under the SORNA act.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
 - Breyer Majority Opinion reference to *Comstock*
 - Necessary & Proper
   - Enumerated power over military personnel
 - Roberts Concurring but required clarifying on public safety
   - No great substantive and independent power can be implied as incidental to other powers or used as a means of executing them
--
+
 
 
 ---
@@ -804,6 +821,9 @@ and, later, opposed the 1787 constitution.
   - NY legislature granted Livingston and Fulton, exclusive right to operate steamboats in NY waters.
 
 #### Case: *[Gibbons v. Ogden](Link)*
+- Commerce is more than just buying and selling
+- Among the states includes commerce within the states
+- Power to regulate commerce = power to do anything that is not prohibited by the Constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -831,36 +851,47 @@ and, later, opposed the 1787 constitution.
     - Acknowledges no limitations other than are prescribed in the Constitution.
 
 #### Judicial Limits on the Commerce Power
-- 3 Principal judicial approaches
-  1. Direct v. Indirect Test
-    - **United States v. E.C. Knight Co.** (Sugar Trust Case)
+- 4 Principal Judicial Approaches
+  1. **Direct v. Indirect Test**
+    - *United States v. E.C. Knight Co.* (Sugar Trust Case)
       - Whether the regulated activity had a **direct** or **indirect** effect on interstate commerce
-      - "Manufacturing" does not extend to regulation under the Commerce Clause
+      - "Manufacturing" **does not** extend to regulation under the Commerce Clause
       - Regulation of commerce applies to the subjects of commerce and not to matters of internal police.
     - The manufacturing affects the commerce *indirectly* not directly, ergo Congress cannot regulate.
-  2. The "Substantial Economic Effects" Test
-    - *Houston, East & West Texas Railway Co. v. United States*
+  2. **The "Substantial Economic Effects" Test**
+    - *Houston, East & West Texas Railway Co. v. United States* (Shrevport Rate Case)
     - Emphasizing the practical physical or economic effects of the regulated intrastate activities on interstate commerce.
       - Railroad Regulation: Authority to regulate **intrastate** rail rates that **discriminated** against interstate railroad traffic. (Prisoner's Dilemma)
-      - Necessarily embraces the right to control their operations in all matters having such a close and substantial relation to interstate traffic.
-  3. The Stream of Commerce test
-    - **Swift & Co. v. United States**
-    - Local activities could be regulated by Congress because they could be viewed as themselves "in" commerce or as an integral part of the "current of commerce".
+      - Necessarily embraces the right to control their operations in all matters having such a close and substantial relation to interstate traffic and that affects more than 1 state.
+  3. **The Stream of Commerce test**
+    - *Swift & Co. v. United States*
       - Price fixing meat dealers
+        - When cattle are sent for price fixing by meat dealers in one state, with the expectation that they will end their transit, after purchase in anothe, and when in effect they do so with only....
+    - Local activities could be regulated by Congress because they could be viewed as themselves "in" commerce or as an integral part of the "current of commerce".
+  4. **National "Police" Regulation**
+    - Balance against pretext
+    - *Champion v. Ames* (Lottery Case)
+      - Prohibiting the import, mailing, or interstate transport of lottery tickets under the Commerce Clause
+      - Sets the groundwork for police power
+        - *Hipolite Egg Co. v. United States (Preserved Eggs)
+          - Allowing the seizure of food that contained a "deleterious ingredient"
+        - *Hoke v. United States (Interstate shipment of women)
+          - Upheld the Mann act against transportation of women for immoral purposes.
+          - Jack Johnson prosecution over sexual behavior
 
 
 
-
+#### Limits on the Police Power of the Commerce Clause
 
 #### Case: *[Hammer v. Dagenhart](Link)*
-- The power to prohibit commerce depends on the harmful nature of the pro- hibited trade. Lotteries, for instance, are a “widespread pestilence” and there- fore fall within Congress’s regulatory authority. Champion. But child labor does not. Moreover, Congress does not have the authority to prevent unfair competition between states.
+- The power to prohibit commerce depends on the harmful nature of the prohibited trade. Lotteries, for instance, are a “widespread pestilence” and therefore fall within Congress’s regulatory authority. Champion. But child labor does not. Moreover, Congress does not have the authority to prevent unfair competition between states.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> A federal act, which prevented interstate commerce in the products of child labor, was unconstitutional because the act exceeded congress' authority under the Commerce Clause and invaded the states' reserved powers.</li>
     <li><b>Facts:</b> Congress enacted the Act of Sept. 1, 1916, which prevented interstate commerce in the products of child labor. Appellee father filed a bill to enjoin the enforcement of the Act, and the district court granted the bill and declared the Act unconstitutional. On appeal, the court upheld the district court's judgment, holding that the Act attempted the federal government's regulation of a matter that was purely local.</li>
     <li><b>Issue:</b> Is the contested legislation beyond the scope of authority of Congress?</li>
-    <li><b>Rule:</b> The production of  goods and the mining of coal are not considered commerce, and are therefore not under Congressional power to regulate. The regulation of production is a local power reserved to States and is Constitutionally protected by the Tenth Amendment. </li>
+    <li><b>Rule:</b> The production of goods and the mining of coal are not considered commerce, and are therefore not under Congressional power to regulate. **The regulation of production is a local power reserved to States and is Constitutionally protected by the Tenth Amendment**. </li>
     <li><b>Conclusion:</b> The court held that although there should be limitations upon the right to employ children in mines and factories in the interest of their own and the public's welfare, such regulation was reserved for the states. The grant of power to Congress over the subject of interstate commerce was to enable it to regulate such commerce, and not to give it authority to control the States in their exercise of the police power over local trade and manufacture.</li>
     <li><b>Notes/Concepts:</b></li>
       <ul>
@@ -873,22 +904,47 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - **Class Discussion**
+- Pretext issue
+  - Regulation of interstate commerce to regulate child labor.
+- Counter to the Court's previous rulings on ability to regulate "commerce"
+- 5 v. 4 Decision
+- Majority: It not only transcends the authority delegated to Congress over commerce but also exerts a power as to a purely local matter to which the federal authority does not extend.
+- Dissent:
+  - Holmes
+    - Interstate commerce is under the pervue of Congress.
+    - Up to Congress to decide the reasons behind laws not the Courts
+- Later power was extended via Congress's ability to Tax child labor.
 
 
-### The Comerce Power and the New Deal
+### The Comerce Power and the New Deal (Slamming Doors on the Commerce Clause)
 - The government sought to justify measures passed in the New Deal under the Commerce Clause as based on the "substantially affecting commerce" rationale and the "in commerce" rationale
 - Tests to the New Deal
-  1. Court decided that Congress lacked the power to establish a compulsory retirement and pension plan for all carriers subject to the Interstate Commerce Act
+  - *Railroad Retirement Board v. Alton Railroad Co.*
+    - Court decided that Congress lacked the power to establish a compulsory retirement and pension plan for all carriers subject to the Interstate Commerce Act
     - Law was not in purpose or effect a regulation of interstate commerce within the meaning of the Constitution
+  - *Schechter Poultry Corp. v. United States* (Sick Chicken Case)
+    - Holding that National Industrial Recovery Act regulating the Poultry industry was unconstitutional.
+      - Rejected stream of commerce rationale of swift and the "affecting commerce" theory.
+        - Act exceeded Commerce power.
+        - Transactions ended when the shipments reached the Brooklyn slaughterhouse
+        - Transactions did not directly 'affect' interstate commerce.
+  - *Carter v. Carter* (Coal Industry Regulations)
+    - Invalidation of law that aimed to regulate the maximum hours and minumum wages in coal mines.
+      - Production, Prices, Wages, Management
+    - Production is a purely local activity.
+    - Coal Production in the case is an indirect activity
 
-#### Relaxation of Judicial Constraints on Congressional Power
-
-
+### Relaxation of Judicial Constraints on Congressional Power
+- FDR Court Packing Plan
+  - For every judge over 70 appointing 2 more justices up until 15 total.
+  - Rejected by the establishment
+    - Lost the battle but won the war
 
 #### Case: *[NLRB v. Jones & Laughlin Steel Corp.](Link)*
-- The National Labor Relations Act prohibited employers “from engaging in unfair labor practices affecting commerce.”
-  - Jones & Laughlin was accused of violating the act by interfering with employees’ organizing and collective bargaining rights. The Court held that Jones & Laughlin’s activities would have an indirect but significant impact on commerce: “
-  - Although activities may be intrastate in character when separately considered, if they have such a close and substantial relation to interstate commerce that their control is essential or appropriate to protect that commerce from burdens and obstructions, Congress cannot be denied the power to exercise that control.”
+- The National Labor Relations Act prohibited employers “from engaging in unfair labor practices affecting commerce.
+  - Jones & Laughlin was accused of violating the act by interfering with employees’ organizing and collective bargaining rights.
+  - The Court held that Jones & Laughlin’s activities would have an indirect but significant impact on commerce:
+    - "Although activities may be intrastate in character when separately considered, if they have such a close and substantial relation to interstate commerce that their control is essential or appropriate to protect that commerce from burdens and obstructions, Congress cannot be denied the power to exercise that control.”
 
 
 <details><summary><i>Case Brief</i></summary>
@@ -903,8 +959,19 @@ and, later, opposed the 1787 constitution.
 
 </details>
 
+- **Class Discussion**
+  - Government argued under the "stream of commerce"
+    - 75% of its product is shopped outside of Pennsylvania
+    - **Close & Substantial** Although activities may be intrastate in character when separately considered, if they have such a close and substantial relation to interstate commerce from burdens and obstructions, Congress cannot be denied the power to exercise that control.
+  - Dissent:
+    - Feels as if they are protecting federalism
+      - 10 workers at a plant != interstate commerce (House that Jack Built)
+        - "By the chain of indirect and progressively remote events we finally reach the evil with which it is said the legislation under consideration undertakes to deal"
+
+
 #### Case: *[United States v. Darby](https://www.lexisnexis.com/lawschool/resources/p/casebrief-united-states-v-darby.aspx)*
-- The Fair Labor Standards Act prescribed minimum wage and maximum hour requirements for employees engaged in the production of goods re- lated to interstate commerce. Darby, a Georgia lumber manufacturer, was accused of violating the act.
+- The Fair Labor Standards Act prescribed minimum wage and maximum hour requirements for employees engaged in the production of goods related to interstate commerce. Darby, a Georgia lumber manufacturer, was accused of violating the act.
+- Overrules Hammar v.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -918,18 +985,18 @@ and, later, opposed the 1787 constitution.
 
 </details>
 
-- Part 1 (prohibition of shipment of proscribed goods in interstate commerce under § 15(a)(1)):
-  - “ . . . the only question arising under the commerce clause with respect to such shipments is whether Congress has the constitutional power to prohibit them.”
-  - The government argued that Congress acted “under the guise of regulation of interstate commerce.” But its real aim was to regulate hours and wages.
-  - Held: Congress’s freedom to exercise its commerce clause powers do not depend whether “its exercise is attended by the same incidents which attend the exercise of the police power of the states.” Or: Congress is free to exercise police power via the commerce clause as long as the commerce clause exercise is valid on its own.
-  - Hammer v. Dagenhart, which held that Congress’s commerce clause powers were limited to regulation of things with “some harmful or deleterious property,” is now overruled.
-- Part 2 (validity of the wage and hour requirements under §§ 15(a)(2), 6, and 7):
-  - Darby’s employees were not themselves engaged in interstate commerce. The question was whether employees engaged in the production of goods for interstate commerce were within the reach of Congress’s regulatory power.
-  - Congress intended the act not only to prevent transportation of the prohibited product, but also to “stop the initial step toward tranpportation, production with the purpose of so transporting it.”Such regulation was within Congress’s power.
-  - Congress also appropriately exercised its commerce clause power in coordinating economic activity between the states by limiting “a method or kind of competition in interstate commerce which it has in effect condemned as “unfair.””
-
-
 - **Class Discussion**
+  - Part 1 (prohibition of shipment of proscribed goods in interstate commerce under § 15(a)(1)):
+    - “ . . . the only question arising under the commerce clause with respect to such shipments is whether Congress has the constitutional power to prohibit them.”
+    - The government argued that Congress acted “under the guise of regulation of interstate commerce.” But its real aim was to regulate hours and wages.
+    - Held: Congress’s freedom to exercise its commerce clause powers do not depend whether “its exercise is attended by the same incidents which attend the exercise of the police power of the states.” Or: Congress is free to exercise police power via the commerce clause as long as the commerce clause exercise is valid on its own.
+    - **Hammer v. Dagenhart, which held that Congress’s commerce clause powers were limited to regulation of things with “some harmful or deleterious property,” is now overruled.**
+    - 10th Amendment is a mere truism
+  - Part 2 (validity of the wage and hour requirements under §§ 15(a)(2), 6, and 7):
+    - Darby’s employees were not themselves engaged in interstate commerce. The question was whether employees engaged in the production of goods for interstate commerce were within the reach of Congress’s regulatory power.
+    - Reason 1: Congress intended the act not only to prevent transportation of the prohibited product, **but** also to “stop the initial step toward **tranportation**, **production** with the purpose of so transporting it. ”Such regulation was within Congress’s power.
+      - Automatically regulate the production to protect against the shipment interstate.
+    - Reason 2: Congress also appropriately exercised its commerce clause power in coordinating economic activity between the states by limiting “a method or kind of competition in interstate commerce which it has in effect condemned as “unfair.”
 
 
 #### Case: *[Wickard v. Filburn](https://www.lexisnexis.com/lawschool/resources/p/casebrief-wickard-v-filburn.aspx)*
@@ -947,12 +1014,116 @@ and, later, opposed the 1787 constitution.
   </ul>
 
 </details>
+
+- **Class Discussion**
+  - Depression era law
+    - Source of Farm Subsidies
 - Decision: “ . . . even if appellee’s activity be local and though it may not be regarded as commerce, it may still, whatever its nature, be reached by Congress if it exerts a substantial economic effect on interstate commerce . . .
-  - The act in question was meant both to regulate the amount of wheat on the market and “the extent . . . to which one may forestall resort to the market by producing to meet his own needs.” If everyone produced personal wheat as Filburn did, it would have a substantial impact on the interstate wheat market. Therefore, personal wheat production was within Congress’s regulatory power under the commerce clause.
+  - The act in question was meant both to regulate the amount of wheat on the market and “the extent . . . to which one may forestall resort to the market by producing to meet his own needs.”
+  - Aggregration of Actions
+  - If everyone produced personal wheat as Filburn did, it would have a substantial impact on the interstate wheat market. Therefore, personal wheat production was within Congress’s regulatory power under the commerce clause.
     - This was the same argument that justified the insurance mandate in the Affordable Care Act.
 
 #### Post-Hammer
-- The Darby court moved away from the Hammer world in which Congress
-could only regulate items it saw as “noxious‘in themselves’”
+- The Darby court moved away from the Hammer world in which Congress could only regulate items it saw as “noxious‘in themselves’”
 - Does Darby mean that Congress is free to regulate interstate commerce for noneconomic reasons? Or does it mean that courts should not try to discern Congress’s motives as long as the regulation is a valid exercise of its commerce clause power?
 - Darby and Wickard, both unanimous, might suggest that Congress enjoyed unlimited powers to regulate the national economy. But both cases involved issues of economic competition where only Congress could solve the coordination problem between states. States may have wanted to implement similar economic regulation but couldn’t because of the prisoner’s dilemma.
+
+
+### The Contemporary Commerce Power
+
+#### The Rehnquist Court: Finding Limits on Federal Power
+
+#### Case: *[United States v. Lopez](Link)*
+
+- Commerce Clause & Gun Control Legislation
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Gun-Free School Zones Act was invalid because it did not regulate an activity arising out of or connected with a commercial transaction that substantially affected interstate commerce, and thus, was beyond Congress' power under the Commerce Clause.</li>
+    <li><b>Facts:</b> A 12th-grade student was charged with the knowing possession of a firearm at a school zone in violation of the Gun-Free School Zones Act of 1990, which prohibits any individual knowingly to possess a firearm at a place that the individual knows, or has reasonable cause to believe, is a school zone (defined as in, or on the grounds of, a public, parochial, or private school or within a distance of 1,000 feet from the grounds of such a school). The trial court convicted the student and concluded that the Act was a constitutional exercise of Congress' power to regulate activities in and affecting commerce, and that the business of elementary, middle, and high schools affects interstate commerce. On appeal, the Court of Appeals reversed claiming that the Act exceeded the power of Congress to legislate under the commerce clause. The case was elevated by writ of certiorari to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Did Congress exceed its power to legislate under the Commerce Clause?</li>
+    <li><b>Rule:</b> Congress may regulate the use of the channels of interstate commerce.  Congress is empowered to regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come only from intrastate activities. Congress' commerce authority includes the power to regulate those activities having a substantial relation to interstate commerce, i.e., those activities that substantially affect interstate commerce. </li>
+    <li><b>Conclusion:</b> The Court held that the GFSZA is a criminal statute that by its terms has nothing to do with "commerce" or any sort of economic enterprise, however broadly one might define those terms. The GFSZA is not an essential part of a larger regulation of economic activity, in which the regulatory scheme could be undercut unless the intrastate activity were regulated. It cannot, therefore, be sustained as a regulation of activity that arises out of or is connected with a commercial transaction, which viewed in the aggregate, substantially affects interstate commerce.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- Opinions:
+  - Justice Rehnquist - Majority:
+    - Earlier cases (Jones & Laughlin Steel, Darby, Wickard) established Congress’s authority to enact social legislation under its Commerce Clause Authority. They allowed Congress to (1) regulate activity that uses the channels of interstate commerce, (2) protect the instrumentalities of interstate commerce, and (3) regulate activities with a substantial relation to interstate commerce.369 The first two categories were irrelevant in this case. Only the third is at issue.
+    - The government argued that the statute affects interstate commerce because guns lead to costly violent crime, because gun violence reduces travel and thus impedes commerce, and because gun violence harms education which in turn harms economic productivity.
+    - If the government’s theories were correct, would there be any areas of criminal law that the government could not regulate under the Commerce Clause? Any activity can be characterized as commercial.
+  - Justice Kennedy, concurring:
+    - Federalism was one of the framers’ key values.
+    - Broadening the Commerce Clause would disrupt the balance of power between state governments and the federal government.
+    - Authority to regulate education lies with the states, and education is beyond commerce. States, however, are free to enact similar legislation.
+  - Justice Thomas, concurring:
+    - “ . . . the term ‘commerce’ denoted sale and/or transport rather than business generally.”
+    - A more expansive reading of the meaning of “commerce” would render many other constitutional clauses superfluous.
+    - “Taken together, these fundamental textual problems should, at the very least, convince us that the ‘substantial effects’ test should be reexamined . . .”
+  - Justice Stevens, dissenting:
+    - The welfare of commerce depends on education.
+    - “Guns are both articles of commerce and articles that can be used to restrain commerce. Their possession is the consequence, either directly or indirectly, of commercial activity.”
+  - Justice Souter, dissenting:
+    - 1900–1937: the Court invalidated federal social and economic legis- lation on the basis “highly formalistic notions of ‘commerce’”—e.g., Hammer v. Dagenhart (striking down legislation prohibiting commerce in goods manufactured with child labor).374 After 1937, the Court’s Commerce Clause jurisprudence expanded (Jones & Laughlin Steel, Darby, Wickard, and rational review)
+    - The majority opinion here is“a backward glance at old pit falls...”
+    - There is a close connection between education and commerce.
+    - Congress’s Commerce Clause power is plenary. It doesn’t matter whether the power to regulate education lies with the states.
+    - Congress’s findings on the effects of gun violence are not determinative.
+  - Justice Breyer, dissenting:
+    - Three principles of Commerce Clause interpretation:
+      - Congress can regulate activity that significantly effects interstate commerce. Wickard.
+      - Congress can regulate activity on the basis of its cumulative, not separate, effect. Wickard.
+      - Rational review is the proper standard.
+    - There is a substantial connection between this legislation and interstate commerce because gun violence has marked effects on education, and in turn, on commerce.
+    - Upholding this act would not expand Congress’s Commerce Clause power.
+    - The majority’s distinction between commercial and noncommercial activities is tenuous. And anyway, education has a clear impact on commerce. “ . . . Congress has often analyzed school expenditure as if it were a commercial investment . . .”
+
+
+#### Case: *[United States v. Morrison](Link)*
+- Commerce Clause & Gender Motivated Crimes
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Congress lacked the authority to enact a statute under the Commerce Clause or the Fourteenth Amendment as the statute did not regulate an activity that substantially affected interstate commerce nor did it redress harm caused by the state.</li>
+    <li><b>Facts:</b> Petitioner Brzonkala a student in Virginia Polytechnic Institute, filed suit, alleging, that she was raped by respondents while they were attending the university, and that this attack violated 42 U.S.C. § 13981, which provides a federal civil remedy for the victims of gender-motivated violence. Respondents moved to dismiss on the grounds that the complaint failed to state a claim and that § 13981's civil remedy is unconstitutional. Petitioner United States intervened to defend the section's constitutionality. In dismissing the complaint, the District Court held that it stated a claim against respondents, but that Congress lacked authority to enact § 13981 under either § 8 of the Commerce Clause or § 5 of the Fourteenth Amendment, which Congress had explicitly identified as the sources of federal authority for § 13981. The en banc Fourth Circuit affirmed.</li>
+    <li><b>Issue:</b> Are gender-motivated crimes within the authority of Congress to enact under the Commerce Clause?</li>
+    <li><b>Rule:</b> Modern Commerce Clause jurisprudence has identified three broad categories of activity that Congress may regulate under its commerce power. First, Congress may regulate the use of the channels of interstate commerce. Second, Congress is empowered to regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come only from intrastate activities. Finally, Congress' commerce authority includes the power to regulate those activities having a substantial relation to interstate commerce, namely, those activities that substantially affect interstate commerce.</li>
+    <li><b>Conclusion:</b> The court affirmed the decision of the lower court and held that gender-motivated crimes of violence were not considered economic activity, and therefore, the Commerce Clause did not vest Congress with the authority to enact a statute regulating such. Moreover, the court affirmed that the civil remedy contained in § 13981should be struck down as it was outside Congress's remedial power under U.S. Const. amend. XIV, § 5. The civil remedy was not found to be corrective in its character nor adapted to counteract and redress the operation of such prohibited state laws or proceedings of state officers. Instead, the subject statute redressed private discrimination and was outside Congress' power to enact.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+#### Case: *[Gonzales v. Raich](Link)*
+- Commerce Clause & Marijuana Legislation
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The regulation of marijuana under the Controlled Substances Act (CSA), 21 U.S.C.S. § 801 et seq., was squarely within Congress' commerce power under U.S. Const., art. I, § 8 because production of marijuana meant for home consumption had a substantial effect on supply and demand in the national market.</li>
+    <li><b>Facts:</b> Respondents were California residents who suffered from a variety of serious medical conditions and had sought to avail themselves of medical marijuana pursuant to the terms of the Compassionate Use Act. After an investigation, county officials concluded that one respondent's use of marijuana was entirely lawful under California law; nevertheless, federal agents seized and destroyed all six of her cannabis plants.Respondents brought an action against the Attorney General of the United States and the head of the DEA seeking injunctive and declaratory relief prohibiting the enforcement of the federal Controlled Substances Act (CSA). </li>
+    <li><b>Issue:</b> May Congress, under its commerce power, forbid the cultivation and use of marijuana in compliance with California law?</li>
+    <li><b>Rule:</b> The Commerce Clause allows Congress to regulate activity within a state if the activity has a substantial economic effect on interstate commerce.</li>
+    <li><b>Conclusion:</b> The Court held that the regulation of marijuana under the CSA was squarely within Congress' commerce power because production of marijuana meant for home consumption had a substantial effect on supply and demand in the national market. Given the enforcement difficulties in distinguishing between marijuana cultivated locally and marijuana grown elsewhere, and concerns about diversion into illicit channels, the Court had no difficulty concluding that Congress had a rational basis for believing that failure to regulate the intrastate manufacture and possession of marijuana would leave a gaping hole in the CSA. Congress was acting well within its authority of the Commerce Clause, U.S. Const., art. I, § 8.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+
+#### Case: *[National Federation of Independent Business v. Sebelius](Link)*
+- Commerce Clause and The Affordable Care Act (Individual Mandate)
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Patient Protection and Affordable Care Act of 2010's individual mandate provision, 26 U.S.C.S. § 5000A, requiring health insurance, was a valid tax under U.S. Const. art. I, § 8, cl. 1. 42 U.S.C.S. § 1396c could not constitutionally be applied to withdraw existing Medicaid funds from states that did not comply with extended coverage requirements.</li>
+    <li><b>Facts:</b> Plaintiffs challenged the individual mandate provision of 26 U.S.C.S. § 5000A, which imposed a “shared responsibility payment” on individuals who failed to maintain health insurance. The Court declined to uphold the individual mandate under the Commerce Clause, U.S. Const. art. I, § 8, cl. 3, or the Necessary and Proper Clause, U.S. Const. art. I, § 8, cl. 18. However, it ruled that the mandate was a valid exercise of the taxing power under U.S. Const. art. I, § 8, cl. 1. Factors such as the manner of collection indicated that the payment was a tax rather than a penalty. Plaintiffs appealed, also challenging the Act's Medicaid expansion provisions.</li>
+    <li><b>Issue:</b> Can Medical Assistance Programs be constitutionally applied to withdraw existing Medicaid funds?</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> n a split decision, the Court held that 42 U.S.C.S. § 1396c could not constitutionally be applied to withdraw existing Medicaid funds from a state for failure to comply with the expanded coverage requirements. The remedy was to bar the federal government from imposing such a sanction, without striking down other portions of the Act.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
