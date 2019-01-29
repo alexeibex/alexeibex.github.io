@@ -1,5 +1,12 @@
 ### Topic
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+<span style="color:blue"></span>
+
+![Cheat Sheet](/Users/Furs/Downloads/cheatsheet.jpeg)
+
+
+
 
 #### Case: *[Case Name](Link)*
 
@@ -14,3 +21,5 @@
   </ul>
 
 </details>
+
+- <span style="color:red">**Class Discussion**</span>

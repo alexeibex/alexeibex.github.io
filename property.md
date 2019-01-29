@@ -237,7 +237,7 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
   - Application of Priciples
     - First Posession Theory
       - Evans gets the water before Merriweather
@@ -281,7 +281,7 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
   - Beginning of Colorodo Statue relies on First Appropriation
     - Reliance on First Approriation has resulted in investment
   - First Appropriation for a beneficial purpose rule
@@ -318,7 +318,7 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
   - All underground water is assumed to be percolating
   - Rejection of first appropriation rule
   - Developes reasonable use standard for ground water
@@ -379,7 +379,7 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
   - What happens after case is resolved?
 
 ### 3.2 Sequential Possession
@@ -484,7 +484,7 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
   - Armory rule should apply. Finder = Converter
     - Possession title whether by finder, bailment or by mere tort has a right to retain that possession as against a mere wrongdoer who was a stranger to the property.
   - Later case came to the opposite result.
@@ -498,7 +498,6 @@ Reading: Pages 57-69 & 72-82
   - Common law involves only the 2 parties of the case and no Jus Tertii Defense
     - Jury may lack information on a party not involved in the case
     - Jury cannot make a ruling on information not available
-
 
 
 ### 3.3 *Nemo Dat*
@@ -518,6 +517,7 @@ Reading: Pages 57-69 & 72-82
   - Example: A is the true owner. Adverse possession happens when B becomes the possessor without A’s consent. B might be the owner or have other rights (e.g., easement).
 - Applications to both real and personal property
 - **Elements** to Adverse Possession
+- For possession to be adverse, it must be (1) under claim of ownership; (2) actual or hostile; (3) open, notorious, and visible; (4) continuous and uninterrupted for a period of 10 years; (5) exclusive; and (6) peaceful. The claimant must prove each element by clear and convincing evidence. - *Scott v. Anderson-Tully Co.*
   1. **Actual Claim of Ownership**.
     - Actual Entry giving exclusive possession
     - Triggers Statute of Limitations
@@ -529,7 +529,7 @@ Reading: Pages 57-69 & 72-82
   3. **Open & Notorious & Visible Possession**
     - Penalizes owner for sleeping on their rights
       - Test is objective
-    - Possessor must unfurl his flag on the land and keep it flying so that the actual owner may see, and if he will, that an enemy has invaded his domains, and planted the standard of conquest.
+    - Possessor must unfurl his flag on the land and keep it flying so that the actual owner may see, and if he will, that an enemy has invaded his domains, and planted the standard of conquest. - *Scott v. Anderson-Tully Co.*
   4. **Possession that is continuous for the statutory period**
     - Need not be constant just match average owner's use
   5. **Hostile Possession that is Adverse**
@@ -539,6 +539,17 @@ Reading: Pages 57-69 & 72-82
   7. Optional
     - **Peaceful** (Non-Standard)
     - Sometimes payment of property taxes (Non-Standard)
+
+- Justification of Adverse Possession
+  - . . . the doctrine apparently affords an anomalous instance of maturing
+a wrong into a right . . .
+  - It’s not about the merit of the possessor, but the demerit of the one out of possession. We want people to use land in a useful way.
+  - The purpose of adverse possession is to “automatically quiet all titles which are openly and consistently asserted, to provide proof of meritorious titles, and correct errors in conveyancing.
+- Economics: Holmes was invoking diminishing marginal utility of income.
+- Psychology: Holmes was anticipating prospect theory, which holds that people are more upset by losing something in hand than by forgoing the opportunity to realize an equivalent gain.
+- Morality: the new possessor depends on the property, and it’s wrong for the original owner to establish and then cut off that dependence.
+- Environmental: Assumption that land should be developed when perhaps for environmental purposes land should be left to its own devices.
+
 
 #### Case: *[Scott v. Anderson-Tully Co.](https://www.lexisnexis.com/lawschool/resources/p/casebrief-scott-v-anderson-tully-co.aspx)*
 
@@ -555,7 +566,7 @@ Reading: Pages 57-69 & 72-82
 
 </details>
 
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
   - π asserts claim because he began paying property taxes on the disputed tract in 1993
     - No evidence to support claim by π.
     - Payment of taxes alone is not dispostive of the claim of ownership
@@ -565,12 +576,29 @@ Reading: Pages 57-69 & 72-82
 - The adverse possession doctrine has no application to one who actually knows that he has no claim or title or right to a title.
   - Main purpose is to bar mere squatters from the benefits of adverse possession.
   - Three Positions
-    1. Adverse under a claim of right means that the AP subjectively (but mistakenly) believes he is legally entitled to possession of the property. (The AP is acting in good faith)
-    2. Adverse under a claim of right means that the AP subjectively believes he is not legally entitled to possession of the property. (THe AP is acting in bad faith)
-    3. The AP's subjective state of mind is irrelevant; all that matter is that the AP has not been given permission by the TO to use the property.
+    1. Adverse under a claim of right means that the AP **subjectively (but mistakenly)** believes he is legally entitled to possession of the property. **(The AP is acting in good faith)**
+      - *Carptenter v. Ruperto*
+    2. Adverse under a claim of right means that the AP subjectively believes he is not legally entitled to possession of the property. (The AP is acting in bad faith) (Main Rule) = (No Jurisdiction follows this rule)
+    3. The AP's subjective state of mind is irrelevant; all that matters is that the AP has not been given permission by the TO to use the property. (Conneticut Rule)
 
 #### Color of Title
-- Evidence (like a written deed) that appears to establish title but actually does not (e.g., because the original seller lacked a valid title, or because the seller was not competent to transfer the property).
+- Evidence (like a written deed) that appears to establish title but actually does not
+  - (e.g., because the original seller lacked a valid title, or because the seller was not competent to transfer the property).
+  - Some jurisdictions require color of title others do not
+  - Gives AP advantages
+    - AP of partial black acre **with a color of title** could have claim to **whole black acre**
+      - (NY Follows Advantage)
+      - Requires following of custom to determine if activity = encolsure, improvement, possession.
+
+#### Problems with Adverse Possesson & Disability
+- Disabilities: some disabilities render property owners incompetent to transfer ownership of their property, e.g., dementia.
+  - A disability is immaterial unless it existed at the time when the cause of action accrued (i.e., when the adverse possessor first. took possession of the land).
+  - Traditionally, the three Is: infancy, insanity, imprisonment.
+    - O owns the property in 1984. A enters adversely on May 1, 1984. The age of majority is 18. The statutory period is 21 years, unless the owner is disabled, in which case the AP must still reach the 21-year period and can then gain ownership ten years after the removal of the disability.
+
+#### Boundry Disputes
+- **Doctrine of agreed boundaries**: if the boundary is uncertain, an oral agreement between neighbors is enforceable if they accept the line for a long time.
+- **Doctrine of acquiescence**: long acquiescence is evidence of an agree- ment fixing the boundary line
 
 
 #### Adverse Possession Against the Government
@@ -580,6 +608,8 @@ Reading: Pages 57-69 & 72-82
 
 
 #### Case: *[Carpenter v. Ruperto](https://www.lexisnexis.com/lawschool/resources/p/casebrief-carpenter-v-ruperto.aspx)*
+- Outlier of Adverse Possession.
+  - Rarely explicitly stated that AP requires good faith under claim of right.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -594,13 +624,14 @@ Reading: Pages 57-69 & 72-82
 </details>
 
 - Claim of Right v. Color of Title
-- **Class Discussion**
+- <span style="color:red">**Class Discussion**</span>
 
-
-#### Tacking
-- Joining consecutive periods of possession by multiple people as a single period of possession.
 
 #### Case: *[Howard v. Kunto](Link)*
+- Demonstrates the court's ability to clean up property issues through adverse possession.
+- First, tacking is allowed for two adverse possessors in privity with each other. Second, seasonal use satisfies the requirements for adverse possession if the ordinary use of the property is seasonal.
+- Tacking = Joining consecutive periods of possession by multiple people as a single period of possession.
+  - Generally, tacking is allowed if successive possessors are in privity. The reason is that squatters should not be able to profit from tres- passing.66 But in this case, because all occupants acted in good faith on an erroneous deed, privity should not be required. Tacking is allowed here.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -608,13 +639,30 @@ Reading: Pages 57-69 & 72-82
     <li><b>Facts:</b> Defendants' house stood on one lot while their deed described the adjacent lot. At the time quiet title action was commenced, defendants occupied the disputed property less than a year. The lower court found defendants unable to establish a claim for adverse possession because they failed to prove continuity of possession to permit tacking of defendants' possession to their predecessors'. The court concluded that a ten year summer occupancy did not destroy continuity of possession for purposes of adverse possession because the land was regularly used during the time it was capable of use and defendants made continued improvements on the land. As a result, the court found tacking permitted. The court determined the privity requirement for tacking was satisfied because defendants' claim of right as the last of successive purchasers who received title under the mistaken belief they acquired a contiguous track was sufficiently above that of a trespasser.</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b>Rject the conclusion that the summer occupancy only of a summer beach home destroys the continuity of possession required by statute. It is not necessary that the occupant should be actually upon the premises continually. If the land is occuped during the period of time during the year it is capable of use, there is sufficient continuity. Furhter, adverse possession is permitted if the successive occupants are in privity. Held that sufficient privity of state to permit tacking and thus establish adverse possession as a matter of law.</li>
+    <li><b>Conclusion:</b>Reject the conclusion that the summer occupancy only of a summer beach home destroys the continuity of possession required by statute. It is not necessary that the occupant should be actually upon the premises continually. If the land is occuped during the period of time during the year it is capable of use, there is sufficient continuity. Furhter, adverse possession is permitted if the successive occupants are in privity. Held that sufficient privity of state to permit tacking and thus establish adverse possession as a matter of law.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
 
-#### Ownership of Bodyparts - Personhood
+- <span style="color:red">**Class Discussion**</span>
+
+Lot  | Unimp A   |Imp B   | Imp C   | Unimp D
+---|---|---|---|---
+Occupant Has Title To |  -  | A  | B--C   | C-->B
+  Lot Occupant|  -   | Kuntos   | Moyers   | Howards
+
+- **Continuous != Continual**
+  - Continuous = Without Interuption
+  - Continual = Happens Repeatedly
+- The court rejects the conclusion that summer occupancy only of a summer beach home destroys the continuity of possession required by Wash. Rev. Code § 4.16.020
+- Continuity of possession may be established although the land is used regularly for only a certain period each year.
+- The rule which permits tacking is one of substance and not of absolute mathematical continuity, provided there is no break so as to sever two possessions. It is not necessary that the occupant should be actually upon the premises continually. If the land is occupied during the period of time during the year it is capable of use, there is sufficient continuity.
+- A purchaser may tack the adverse use of its predecessor in interest to that of his own where the land was intended to be included in the deed between them, but was mistakenly omitted from the description.
+- Tacking of adverse possession is permitted if the successive occupants are in "privity."
+- What about Howard? Is he left without property?
+
+### Ownership of Bodyparts - Personhood
 - Universal Consensus today that people are not a permissible subject of property rights
 - Formal Slavery is abolished + Supreme Court has long invalidated schemes that would permit **peonage** systems of of servitude based on unpaid debts.
   - People are autonomous moral agents
@@ -634,3 +682,5 @@ Reading: Pages 57-69 & 72-82
   </ul>
 
 </details>
+
+- <span style="color:red">**Class Discussion**</span>
