@@ -402,7 +402,7 @@ Reading: Pages 57-69 & 72-82
       <ol>
         <li><b>The finder of a jewel, though he does not by such finding acquire an absolute property or ownership, has a such a property as will enable him to keep it against all but the rightful owner and consequently may maintain trover</b></li>
         <li> That the action will lay against the master, who gives credit to his apprentice, and is answerable for his neglect</li>
-        <li>Unless ∆ presented the missing jewel, Jury should presume the strongest against him, and make the value of the best jewels the measure of the damages.
+        <li>Unless ∆ presented the missing jewel, Jury should presume the strongest against him, and make the value of the best jewels the measure of the damages.</li>
       </ol>
     <li><b>Conclusion:</b> Found in favor of the π. Appropriate measure of damages is the value of the jewel. Jewel was not presented in court as evidence, so value of jewel should be presumed the strongest against the ∆.(Information forcing rule)</li>
     <li><b>Notes/Concepts:</b></li>
@@ -507,6 +507,7 @@ Reading: Pages 57-69 & 72-82
 - Generic name for land (Black Acre)
 
 ### 3.4 Adverse Possession
+
 - "Squatters Rights"
   - Ordinarily a tort - Trespass
 - Adverse Possessor's right is good against all including the owner so long as Adverse Possession Doctrine is fulfilled.
@@ -519,19 +520,21 @@ Reading: Pages 57-69 & 72-82
     - Stakes out property to be claimed
       - Must fly his flag over the property in such a way as to put the actual owner on notice that the property is being held under an adverse claim of ownership.
         - Quality of acts not Quantity
-  2. **Open & Notorious & Visible Possession**
+  2. **Exclusive**
+    - Possessor evinces an intention to possess and hold land to the exclusion of and in opposition to, the claims of all others and conduct must indicate that he is exercising the dominion of a sole owner.
+  3. **Open & Notorious & Visible Possession**
     - Penalizes owner for sleeping on their rights
       - Test is objective
     - Possessor must unfurl his flag on the land and keep it flying so that the actual owner may see, and if he will, that an enemy has invaded his domains, and planted the standard of conquest.
-  3. **Actual or Hostile Possession that is Adverse**
-    - Possession is hostile and adverse when the adverse possessor intends to claim title notwithstanding that the claim is made under a mistaken belief that the land is within the class of possessor's deed.
-    - Under a claim of right (color of title)
   4. **Possession that is continuous for the statutory period**
     - Need not be constant just match average owner's use
-  5. **Exclusive**
-    - Possessor evinces an intention to possess and hold land to the exclusion of and in opposition to, the claims of all others and conduct must indicate that he is exercising the dominion of a sole owner.
-  6. **Peaceful** (Non-Standard)
-  7. Sometimes payment of property taxes (Non-Standard)
+  5. **Hostile Possession that is Adverse**
+    - Possession is hostile and adverse when the adverse possessor intends to claim title notwithstanding that the claim is made under a mistaken belief that the land is within the class of possessor's deed.
+    - Under a claim of right (color of title)
+  6. **For the Statutory Time**
+  7. Optional
+    - **Peaceful** (Non-Standard)
+    - Sometimes payment of property taxes (Non-Standard)
 
 #### Case: *[Scott v. Anderson-Tully Co.](https://www.lexisnexis.com/lawschool/resources/p/casebrief-scott-v-anderson-tully-co.aspx)*
 
@@ -602,6 +605,27 @@ Reading: Pages 57-69 & 72-82
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b>Rject the conclusion that the summer occupancy only of a summer beach home destroys the continuity of possession required by statute. It is not necessary that the occupant should be actually upon the premises continually. If the land is occuped during the period of time during the year it is capable of use, there is sufficient continuity. Furhter, adverse possession is permitted if the successive occupants are in privity. Held that sufficient privity of state to permit tacking and thus establish adverse possession as a matter of law.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+#### Ownership of Bodyparts - Personhood
+- Universal Consensus today that people are not a permissible subject of property rights
+- Formal Slavery is abolished + Supreme Court has long invalidated schemes that would permit **peonage** systems of of servitude based on unpaid debts.
+  - People are autonomous moral agents
+  - Should not be regarded as objects or commodities to be bought and sold by other people
+
+#### Case: *[Moore v. Regents of the University of California](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Physician's use of patient's cells in medical research without the patient's permission did not state a cause of action for conversion because the patient had no ownership interest in the cells after they left his body.</li>
+    <li><b>Facts:</b> Review was sought of appellate court's decision, which found plaintiff stated cause of action for conversion when defendants used plaintiff's cells in medical research without permission. The court found plaintiff stated cause of action for breach of physician's disclosure obligations. Physicians seeking patient consent for medical procedures must disclose personal interests unrelated to the patient's health that may affect medical judgment. Defendant did not properly disclose personal interests in plaintiff's cells before he operated, thus plaintiff stated cause of action for breach of disclosure obligations. The court reversed and held use of plaintiff's cells without permission did not state conversion cause of action. Plaintiff did not retain ownership interest in cells after they left his body and thus could not assert conversion claim. Conversion should not lie because it would discourage medical research of cells and patients are adequately protected from abuse because of informed consent laws.
+ </li>
+    <li><b>Issue:</b> </li>
+    <li><b>Rule:</b> To establish a conversion, plaintiff must establish an actual interference with his ownership or right of possession. Where plaintiff neither has title to the property alleged to have been converted, nor possession thereof, he cannot maintain an action for conversion. While it ordinarily suffices to allege ownership generally, it is well established that a complaint's contentions or conclusions of law do not bind courts. The Uniform Anatomical Gift Act, Cal. Health and Safety Code § 7150 et seq., permits a competent adult to give all or part of his body for certain designated purposes, including transplantation, therapy, medical or dental education, research, or advancement of medical or dental science. The act does not, however, permit the donor to receive valuable consideration for the transfer.</li>
+    <li><b>Conclusion:</b> The court reversed the appellate court's decision, finding plaintiff did not state conversion claim when defendants used plaintiff's cells in medical research without permission because plaintiff had no ownership interest in cells after they left his body; plaintiff did state claim for breach of physician's disclosure obligations.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
