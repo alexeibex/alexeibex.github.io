@@ -398,7 +398,7 @@ Reading: Pages 57-69 & 72-82
     <li><b>Overview:</b></li>
     <li><b>Facts:</b> π a chimney sweeper's boy found a jewel and carried it to the ∆s (goldsmiths) shop to find it what it was, delivered then to the apprentice. Apprentice weighed the stones and offered 3 halfpence. Boy refused and asked for the jewel back. Apprentice delivered socket without the stones.</li>
     <li><b>Issue:</b> Does π have claim over the found jewel?</li>
-    <li><b>Rule:</b>
+    <li><b>Rule:</b><li>
       <ol>
         <li><b>The finder of a jewel, though he does not by such finding acquire an absolute property or ownership, has a such a property as will enable him to keep it against all but the rightful owner and consequently may maintain trover</b></li>
         <li> That the action will lay against the master, who gives credit to his apprentice, and is answerable for his neglect</li>
