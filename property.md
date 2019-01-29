@@ -394,17 +394,21 @@ Reading: Pages 57-69 & 72-82
 -Finder v. Keeper (Earlier Possessor Won)
 
 <details><summary><i>Case Brief</i></summary>
+
   <ul>
     <li><b>Overview:</b></li>
     <li><b>Facts:</b> π a chimney sweeper's boy found a jewel and carried it to the ∆s (goldsmiths) shop to find it what it was, delivered then to the apprentice. Apprentice weighed the stones and offered 3 halfpence. Boy refused and asked for the jewel back. Apprentice delivered socket without the stones.</li>
     <li><b>Issue:</b> Does π have claim over the found jewel?</li>
-    <li><b>Rule:</b><li>
+    <li><b>Rule:</b></li>
+
       <ol>
         <li><b>The finder of a jewel, though he does not by such finding acquire an absolute property or ownership, has a such a property as will enable him to keep it against all but the rightful owner and consequently may maintain trover</b></li>
         <li> That the action will lay against the master, who gives credit to his apprentice, and is answerable for his neglect</li>
         <li>Unless ∆ presented the missing jewel, Jury should presume the strongest against him, and make the value of the best jewels the measure of the damages.</li>
       </ol>
+
     <li><b>Conclusion:</b> Found in favor of the π. Appropriate measure of damages is the value of the jewel. Jewel was not presented in court as evidence, so value of jewel should be presumed the strongest against the ∆.(Information forcing rule)</li>
+
     <li><b>Notes/Concepts:</b></li>
       <ul>
         <li>Trover: Common-law action to recover the value of personal property that has been wrongfully disposed of by another person.</li>
