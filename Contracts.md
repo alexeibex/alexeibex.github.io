@@ -739,7 +739,7 @@ A promise which the promisor should reasonably expect to induce action or forbea
 
 
 #### Restatement Second § 90: Promise Reasonably Inducing Action or Forbearance
-1. “A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.”
+1. “A promise which **the promisor should reasonably expect** *to induce action or forbearance* on the part of the promisee or a third person and which does induce such action or forbearance is binding **if injustice can be avoided only by enforcement of the promise**. The remedy granted for breach may be limited as justice requires.”
 
 - Under classical contract law, only a bargain was consideration. Donative promises were not enforceable, even if the promisee relied on the promise. *Kirksey*.
 
@@ -804,7 +804,6 @@ A promise which the promisor should reasonably expect to induce action or forbea
     - Promissory estoppel is applicable only in the absence of an otherwise enforceable contract.
   - Promissory estopple was supposed to replace consideration
     - Not used in the way it was used in Wheeler, which had prior consideration
-    -
 
 #### Promissory Estoppel As An Independent Theory of Recovery
 #### Remedies & Consideration
@@ -820,7 +819,10 @@ A promise which the promisor should reasonably expect to induce action or forbea
     - The surplus the promisee would have enjoyed if he had taken the opportunity that the promise led him to forgo
 
 #### Case: *[Hoffman v. Red Owl Stores](Link)*
-- Outlier case, most courts do not follow precontractual promissory estopple.1
+- Outlier case, most courts do not follow precontractual promissory estopple.
+  - Promissory Representation
+- General Rule is that each is responsible for their own expenses.
+
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -835,45 +837,94 @@ A promise which the promisor should reasonably expect to induce action or forbea
 </details>
 
 - **Class Discussion**
-  - Unlike Wheeler, no prior contract had been made
+  - Unlike Wheeler, no prior contract had been made (No Agreement + Consideration = No Contract?)
     - Negotiations pre-contract & Promissory Estoppel
   - Promise: For $18,000 to establish a Red Owl Franchise
-  -
   - Consideration: Not yet achieved
   - Justifiable reliance,
 
 #### Precontractual Reliance on Freedom of Contract
-- For both efficiency and fairness, acceptence at least in some circusmstances, recovery of reliance loss caused by a failed negotiation.
+- Red-Owl v. Wheeler
+- Red-Owl
+  - For both efficiency and fairness, acceptence at least in some circusmstances, recovery of reliance loss caused by a failed negotiation.
+- Wheeler
+Factors to Consider when enforcing promissory estoppel
+- Timeline of Deal
+  - Prenegotiation v. Completed Deal/Consideration
+- Bad Faith
+- “reliance damages measured by the detriment sustained"
 
-
-
-#### Agreements to Agree
-
-#### Case: *[Local 1330, United Steel Workers v. United States Steel Corp.](Link)*
+#### Case: *[Evlin Associates v. Franklin](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b></li>
-    <li><b>Facts:</b> Appellants, steel workers union and individual employees, filed suit against appellee steel corporation to enjoin appellees' closing of two major steel plants or in the alternative, to require appellees to sell the steel plants to appellants. Appellants claimed that pursuant to an agreement with appellees, if the plants were made profitable, appellees would keep the plants open or sell them to appellants. The district court denied all relief, holding that appellants had not met the condition precedent of making the plants profitable. On appeal, appellants asserted that the district court erred in its factual findings, in denying a hearing on the antitrust claims, and in construing the applicable law.</li>
-    <li><b>Issue:</b> Were the trial court's factual findings erroneous?</li>
-    <li><b>Rule:</b> The appellate court's standard of review of findings of fact of the district court is set forth in Fed. R. Civ. P. 52(a), which provides, findings of fact shall not be set aside unless clearly erroneous and due regard shall be given to the opportunity of the trial court to judge of the credibility of the witnesses. </li>
-    <li><b>Conclusion:</b> The court affirmed, holding that the district court's factual findings were not clearly erroneous because there was evidence to support appellees' decision that the plants were not profitable and appellants had failed to prove otherwise. The court held that appellants had failed to provide any legal basis to support a injunction requiring appellees to continue the plant operations. The court vacated and remanded the order dismissing appellants' antitrust claim.</li>
+    <li><b>Facts:</b> Aretha Franklin express strong interest in taking role for Broadway musical play. Producer based on Franklin's assurances that the producer's final proposal was acceptable and that she would perform. No Actual breach of contract because draft agreement was not executed. Language inserted in the draft of the agreement referring to its validity upon execution. </li>
+    <li><b>Issue:</b> Whether despite not having an agreement with consideration in an executable contract, promissary estoppel can be upheld to enforce an agreement between π and ∆?</li>
+    <li><b>Rule:</b> When it is reasonable that a ∆ would rely on an oral promise is it enforceable?</li>
+    <li><b>Conclusion:</b> Court honored the contract due to the clause for execution of the contract to be executed. So court must examine promissory estoppel to go around agreement with consideration. Court found that Franklin had unequivocally and intentionally committed herself to appear in the production in the production </li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
+
+- **Class Discussion**
+  - Franklin should have known that the producer would commit to major expenditures before she would be available to sign the contract.
+  - Compare to Red-Owl in terms of reliance on pre agreement promises.
+  - If he knew that expenditures had to be signed why not just get the signature. (Fax?)
+
+#### Case: *[Alfred v. Walt Disney](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> π made unsolicted proposal involving Star Wars marketing to Disney. </li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+#### Reliance on Promise Not Reasonable
+
+#### Case: *[Local 1330, United Steel Workers v. United States Steel Corp.](Link)*
+- If an employer promises its employees to continue running its business IF it is profitable, the promisor can abandon the business if it is not profitable without sustaining liability based on promissory estoppel.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> If an employer promises its employees to continue running its business IF it is profitable, the promisor can abandon the business if it is not profitable without sustaining liability based on promissory estoppel.</li>
+    <li><b>Facts:</b> Appellants, steel workers union and individual employees, filed suit against appellee steel corporation to enjoin appellees' closing of two major steel plants or in the alternative, to require appellees to sell the steel plants to appellants. Appellants claimed that pursuant to an agreement with appellees, if the plants were made profitable, appellees would keep the plants open or sell them to appellants. The district court denied all relief, holding that appellants had not met the condition precedent of making the plants profitable. On appeal, appellants asserted that the district court erred in its factual findings, in denying a hearing on the antitrust claims, and in construing the applicable law.</li>
+    <li><b>Issue:</b> Were the trial court's factual findings erroneous?</li>
+    <li><b>Rule:</b> The appellate court's standard of review of findings of fact of the district court is set forth in Fed. R. Civ. P. 52(a), which provides, findings of fact shall not be set aside unless clearly erroneous and due regard shall be given to the opportunity of the trial court to judge of the credibility of the witnesses. </li>
+    <li><b>Conclusion:</b> The court affirmed, holding that the district court's factual findings were not clearly erroneous because there was evidence to support appellees' decision that the plants **were not profitable** and appellants had failed to prove otherwise. The court held that appellants had failed to provide any legal basis to support a injunction requiring appellees to continue the plant operations. The court vacated and remanded the order dismissing appellants' antitrust claim.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- **Class Discussion**
+  - Forbearance in extra time and effort by workers based on promise made by managers
+
+#### Promissory Estoppel
+- A Promise
+- Promisor's Reasonable Expectations
+- Inducement of Action or Forbearance
+- Injustice
+
 
 
 ### 3.7 Obligation Arising From Unjust Enrichment
 
 #### Restatement (Third) of Restitution § 1
 - A person who is unjustly enriched at the expense of another is subject to liability in restitution.
-
+- Remedy = **Restiution**
 #### Implied-in-Law and Implied-in-Fact Contracts
-- Implied-in-fact contracts are true contracts in which assent is implied,
-not explicit—e.g., raising your hand to bid at an auction.
-- Implied-in-law contracts aren’t really contracts. There’s no offer, acceptance, or assent. But to prevent unjust enrichment, someone should be rewarded.
-- Implied-in-fact contracts: the parties decide that there is a contract. Implied-in-law: the court decides
+- **Implied-in-fact** contracts are true contracts in which assent is implied without any expressed contract.
+not explicit— e.g., raising your hand to bid at an auction.
+- **Implied-in-law** contracts aren’t really contracts. There’s no offer, acceptance, or assent. But to prevent unjust enrichment, someone should be rewarded.
+- Implied-in-fact contracts: the parties decide that there is a contract v. Implied-in-law: the court decides
 - “Contracts implied in law, or as they are more commonly called ‘quasi contracts,’ are obligations imposed by law on grounds of justice and equity. Their purpose is to prevent unjust enrichment. Unlike express contracts or contracts implied in fact, quasi contracts do not rest upon the assent of the contracting parties.
 - Gardner, “Observations in the Course of Contracts”
   - Four principles underly ethical problems in contracts
@@ -883,14 +934,26 @@ not explicit—e.g., raising your hand to bid at an auction.
     - The Quasi-Contractual Idea: anyone who receives anything of value should pay for it unless it’s a gift
 
 #### Case: *[Bloomgarden v. Coyer](Link)*
+- Implied-In-Fact v. Quasi-Contract
+- No Promise or Agreement/Bargain-For Exchange = No Contract
+- No evidence of any inference or implied-in-fact
+- Perhaps theory of Quasi-Contract Idea could be applicable
+  - Conferral of a Benefit in the Absence of a Contract
+    - Imposing a duty to pay for the benefit that they received (Unjustly?)
+    - π bringing claim for "finders fee" not for the oral agreement "something for my business"
+- Counter Argument
+  - In Business people do not normally conduct this type of business without some benefit.
+    - Realestate development customarily has a "broker fee"
+    - Mere action of asking π what he expects to get means that ∆ thought of πs expectation
+  - Perhaps enough evidence to go infront of the jury.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Where a businessman never indicated that he expected a finder's fee for his introduction of defendants who later began an enterprise to develop waterfront property, he could not recover a fee under an implied-in-fact contract or a quasi-contract.</li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b> π Bloomgarden sought a finder's fee for a Georgetown realestate deal for $1 million dollars. π alleged he was entitled to remuneration by virtue of a contract which should either be factually implied from prevalent custom and usage or recognized as a legal consequence of the transaction when viewed in light of the surrounding circumstances.</li>
+    <li><b>Issue:</b> Whether π was entitiled to a finders fee as an implied in fact contract</li>
+    <li><b>Rule:</b> It is well settled that in order to establish an implied-in-fact contract to pay for services, the party seeking payment must show: 1. that the services were carried out under such circumstances as to give the recipient reason to understand that: a. they were performed for him and not for some other person, and b. that they were not rendered gratuitously, but with the expectation of compensation from the recipient; and 2. that the services were beneficial to the recipient</li>
+    <li><b>Conclusion:</b> Held that because π did not hold the license required of real estate and businesschance brokers in the DC area, he was precluded from charging for what he did. Further, no enforceable claim for recompense because it appeared without dispute that at the time he introduced the parties he did not expect to be personally compensated for doing so. π did not indicate he wanted payment, therefore no unjust reasonable expectation of payment on part of ∆. Instead looks more like a gift (gratuitous intent)</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -898,6 +961,9 @@ not explicit—e.g., raising your hand to bid at an auction.
 
 
 #### Case: *[Blackmon v. Iverson](Link)*
+- Court: Past Consideration Issue != Valid Consideration
+  - Name was given **before** the promise was made
+  - Iverson as "The Answer" is not the reason for his succcess, his skills and talent are the reason for success
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -912,6 +978,24 @@ not explicit—e.g., raising your hand to bid at an auction.
 </details>
 
 #### Case: *[Sparks v. Gustafson](Link)*
+
+- No Agreement with Consideration
+  - No Agreement + No Bargain for something exchange = No Contract
+  - π did not ask for anything
+  - No promissory estoppel because no promise to π
+- Examination as gift
+  - Relationship between parties = Personal not necissarily business
+  - Failure to request compensation in a timely manner
+- Weigh gift against unjustifiable enrichment
+  - π went more than what was expected in maintaining the estate.
+  - Time spent and effort expended reasonable to expect payment.
+Questions that arise?
+  - ∆ did not sell π the estate, complaint was amended after the deal fell through
+  - π thought he was going to purchase the property.
+    - All actions therefore were for his own benefit in hopes of one day owning the property.
+Party Autonomy (Squeegee)
+  - No Agreement
+  - **Foistins** freedome to decline
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -934,12 +1018,21 @@ not explicit—e.g., raising your hand to bid at an auction.
   - Implied-in-law contracts are based on unjust enrichment, so the proper remedy is the value of the benefit acquired.
   - Damages in an unjust enrichment (i.e., implied in law) claim are measured by the benefit conferred. Damages in a quantum meruit claim are measured by the reasonable value of the plaintiff’s services.
 
+#### Gift Principle and the Choice Principle
+- One who confers a benefit upon another without affording the other the opportunity to reject the benefit has no equitable claim for releift against the recipient of the benefit in the absence of some special policy that would outweigh the right of free choice in the benefited party.
+- There are situations in which the policy is outweighed by other considerations, but the basic principle is solidly established.
+
 #### Services between siblings
 - Brown v. Brown
-  - Substantial policy considerations underlie the presumption that services rendered between siblings are gratuitous.
+  - Substantial policy considerations underlie the presumption that services **rendered between siblings/family members are gratuitous**.
     - As a matter of common human experience
 
 #### Case: *[Gay v. Mooney](Link)*
+- Bargain for Exchange with Consideration != Contract because:
+  - Oral Promise to Convey land is required in writing (Statute of Frauds)
+  - Fails unjust enrichment because it is a promise from his father-in-law
+  - Failed contact in writing demonstrates a bargain-for-exchange
+  - Only remedy was the services rendered not the full house or value of the full house.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -947,7 +1040,7 @@ not explicit—e.g., raising your hand to bid at an auction.
     <li><b>Facts:</b> The relative filed suit seeking to recover compensation for the board and lodging he furnished to the decedent. On review, the court affirmed the judgment in favor of the relative.</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b> In cases against an estate to recover for services provided by a relative top a decedent, a reasonable and proper expectation that there would be compensation must, and hence may, be shown. When, in pursuance of a bargain, for a reason unenforceable, services have been rendered, the legal remedy is by an action on the quantum meruit for the value of the services.</li>
-    <li><b>Conclusion:</b> The court affirmed the judgment in favor of the relative in his claim against the estate.  The court held that, because the understanding did not amount to an actionable contract, no legal remedy was available and only gave color to the conduct of the parties in furnishing and accepting the service rendered.</li>
+    <li><b>Conclusion:</b> The court affirmed the judgment in favor of the relative in his claim against the estate.  The court held that, because the understanding did not amount to an actionable contract, no legal remedy was available and only gave color to the conduct of the parties in furnishing and accepting the service rendered not the WHOLE house only the value of services rendered.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
