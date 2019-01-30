@@ -1249,3 +1249,228 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+## The Tenth Amendment as an External Constraint on the Federal Commerce Power
+- Court develoing *external* restraints on the commerce power rooted in two textual sources
+  1. The 10th Amendment
+    - "The Powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.""
+  2. The 11th Amendment
+    - "The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosectued against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State"
+- Does it matter?
+  - At the end of the day court must determine whether any challenged provision **oversteps the boundry between federal and state authority.**
+
+#### The Rise and Fall of State Autonomy from federal regulation
+- Must be *some* outer limits on federal power to interfere with the core functions implict in state sovereignty.
+
+#### Case: *[Coyle v. Oklahoma](Link)*
+- Denying federal involvment in core functions reserved implicitly to state sovereignty.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Citizens were not entitled to reinstatement of their action, which sought to enjoin state officials from moving the state capital, in part because fixing the location of the seat of government was within the State's power.</li>
+    <li><b>Facts:</b> Petitioner citizens claimed that the Oklahoma Act, providing for the immediate location of the capital at Oklahoma City was void as repugnant to the Enabling Act of Congress of June 16, 1906, under which the State was admitted to the Union. Prior to the Oklahoma Act, the capital was located in another city. The citizens were owners of property interests in the former location of the capital. The state court rejected the citizens' challenges under the state constitution. On review, the Court affirmed.</li>
+    <li><b>Issue:</b> Does the state of Oklahoma have the power to locate its own seat of government?</li>
+    <li><b>Rule:</b> The phrase "this Union" in U.S. Const. art. IV, § 3 was and is a union of States, equal in power, dignity and authority, each competent to exert that residuum of sovereignty not delegated to the United States by the Constitution itself.</li>
+    <li><b>Conclusion:</b> The State, by virtue of its jurisdictional sovereignty as a state, was able to determine for its own people the proper location of the local seat of government. The power to locate its own seat of government, to change the same, and to appropriate its public money therefor, are essentially state powers beyond the control of Congress.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[United States v. California](Link)*
+- Upholding a penalty imposed on a state-owned railroad for violation of the Federal Safety Appliance Act.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Plaintiff United States sought review of the decision of the United States Court of Appeals for the Ninth Circuit, which reversed the district court's judgment in favor of the United States in its action to recover the statutory penalty for defendant California's violation of the federal Safety Appliance Act</li>
+    <li><b>Facts:</b> The United States alleged that California was subject to the Safety Appliance Act as a transportation agency that acted as a common carrier. California argued that it was not subject to the Safety Appliance Act because it was engaged in performing a public function in its sovereign capacity. </li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> By engaging in interstate commerce by rail, a state subjects itself to the commerce power, and is liable for a violation of the Safety Appliance Act, as are other carriers</li>
+    <li><b>Conclusion:</b> The Court reversed and held that the only question was whether the exercise of California's power regarding the railroad, in whatever capacity, was in subordination to the power to regulate interstate commerce, which had been granted specifically to the United States. The Court held that California, by engaging in interstate commerce by rail, subjected itself to the commerce power</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[New York v. United States](Link)*
+- Upholding against a state immunity claim the application of a federal tax to the state of NY's sale of bottled mineral water from state owned springs.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A State that bottled and sold its mineral water was subject to taxation under a federal statute because the State was engaged in an enterprise in which it sold water in competition with private sellers and in which Congress had decided to tax.</li>
+    <li><b>Facts:</b> The United States brought suit pursuant to § 615(a)(5) of the 1932 Revenue Act to recover taxes assessed against the State for the sale of mineral waters. The State claimed immunity, arguing that it was engaging in a traditional and essential governmental function. The circuit court entered judgment for the United States, and the court of appeals affirmed. The case was elevated on certiorari to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Is the government immune from paying taxes for the sale of mineral water?</li>
+    <li><b>Rule:</b> To say that the States cannot be taxed for enterprises generally pursued, like the sale of mineral water, because it is somewhat connected with a State's conservation policy, is to invoke an irrelevance to the federal taxing power.</li>
+    <li><b>Conclusion:</b> The Court found that the State was engaged in an enterprise in which the State sold mineral waters in competition with private waters, the sale of which Congress had found necessary to tap as a source of revenue for carrying on the national government. To say that the States could not be taxed for enterprises generally pursued, like the sale of mineral water, because it is somewhat connected with a State's conservation policy, was to invoke an irrelevance to the federal taxing power.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[National League of Cities v. Usery](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Fair Labor Standards Act amendments that eliminated public employee exemptions from the wage and hour requirements exceeded congressional authority under the Commerce Clause by intruding upon the States' traditional governmental functions.</li>
+    <li><b>Facts:</b> Appellants, various cities and states, commenced an action against appellee U.S. Secretary of Labor, seeking declaratory and injunctive relief against amendments to the Fair Labor Standards Act, 29 U.S.C.S. § 203, on the ground that they were violative of the Commerce Clause of U.S. Const. art. I. Appellants maintained that the amendments, which eliminated a prior exemption from minimum wage and maximum hour requirements for public employees, intruded upon appellants' performance of essential government functions. Appellants challenged a district court decision dismissing the complaint for failure to state a claim.</li>
+    <li><b>Issue:</b>May Congress amend a law that would impair the states' integrity or their ability to function effectively in a federal system?</li>
+    <li><b>Rule:</b> The U.S. Const. amend. X expressly declares the constitutional policy that Congress may not exercise power in a fashion that impairs the states' integrity or their ability to function effectively in a federal system.</li>
+    <li><b>Conclusion:</b> The Court reversed. Congress could not exercise its power under the Commerce Clause to force its choices upon the states as to how essential decisions regarding the conduct of integral governmental functions were to be made. The amendments were unconstitutional, since apart from the substantial costs imposed upon appellants, the amendments displaced state policies regarding the manner in which they would structure delivery of governmental services which their citizens required.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Overruled by...
+
+#### Case: *[Garcia v. San Antonio Metropolitan Transit Authority](Link)*
+- Holding a municiple transit authority property subjected to the minimum wage and overtime requirements of the FLSA.
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A summary judgment was reversed in a claim of a municipally-owned transit system of exemption from the Fair Labor Standards Act's wage and hour requirements because a transit system that was a traditional governmental function was subject to the Act.</li>
+    <li><b>Facts:</b> The San Antonio Metropolitan Transit Authority (SAMTA), a public mass-transit authority that is the major provider of transportation in the San Antonio, Texas, metropolitan area, filed an action in the United States District Court seeking a declaratory judgment that, contrary to the determination of the Wage and Hour Administration of the Department of Labor, its operations are constitutionally immune from the application of the minimum-wage and overtime requirements of the Fair Labor Standards Act (FLSA). It relied on basis from National League of Cities v Usery (1976) 426 US 833, 49 L Ed 2d 245, 98 S Ct 2465, which held that the commerce clause does not empower Congress to enforce such requirements against the states in areas of traditional governmental functions. The District Court entered judgment for SAMTA, holding that municipal ownership and operation of a mass-transit system is a traditional governmental function and thus, under National League of Cities, is exempt from the obligations imposed by the FLSA. On appeal, appellant solicitor general argued that the court erred in extending immunity to appellee.</li>
+    <li><b>Issue:</b> Is SAMTA immune from minimum-wage and overtime provisions of the FLSA?</li>
+    <li><b>Rule:</b> The U.S. Supreme Court overrules the holding in National League of Cities v. Usery, 426 U.S. 833 (1976), that the Commerce Clause does not empower Congress to enforce minimum-wage and overtime provisions of the Fair Labor Standards Act, 52 Stat. 1060, 1067 (1938) against the states in areas of traditional governmental function.</li>
+    <li><b>Conclusion:</b The Court held that SAMTA was not immune from the minimum wage and overtime standards. The Court overturned the previous determination that the Commerce Clausedoes not empower Congress to enforce minimum-wage and overtime provisions of the FLSA because the provisions of FLSA did not destroy state sovereign immunity or violate any constitutional provision.></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Commandeering state governments
+
+#### Case: *[New York v. United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The take title provision of the Low-Level Radioactive Waste Policy Amendments Act of 1985, crossed the line distinguishing encouragement from coercion, and thus violated the Tenth Amendment.</li>
+    <li><b>Facts:</b> Congress, in an effort to combat a burgeoning radioactive waste disposal problem, passed the Low-Level Radioactive Waste Policy Amendments Act of 1985. The Act included monetary incentives, access incentives, and a take title provision, which offered states the option of taking title to and possession of low level radioactive waste generated within their borders and assuming liability for damages that waste generators suffer due to the states' tardiness. New York sued, claiming that the Act violated U.S. Const. amend. X.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> While Congress has substantial powers to govern the nation directly, including in areas of intimate concern to the states, the Constitution has never been understood to confer upon Congress the ability to require the states to govern according to Congress' instructions.</li>
+    <li><b>Conclusion:</b> Affirmed in part and reversed in part; monetary and access incentives were permissible exercises of Congressional power under the commerce, tax, and spending clauses, but the take title provision violated U.S. Const. amend. X because it was coercive.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Congressional Alternatives to Commandeering
+- Spending power
+  - Under spending clause, Congress may condition the payment of relevant federal funds on a state's agreement to take title to waste if it has not already provided a waste disposal facility.
+- Commerce Power
+  - Under Commerce clause, Congress may pass federal legislation directly regulating the private producers of low level radioactive waste to limit their production.
+  - Congress may impose a federal tax on interstate commerce and authorize the states to burden out of state commerce.
+- Conditional Preemption
+  - Congress may threaten to pass federal legislation under the Commerce Clause unless states choose to regulate according to federal standards.
+
+#### Comandeering state executive branch officials
+- Upheld Anticomandeering principles of New York v. United States extension to federal laws directed at state/local executive officals requiring state and locla law enforceent to conduct background checks on prospective handgun purchasers.
+
+#### Case: *[Printz v United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Congressional enactment that temporarily required petitioners, state law enforcement officials, to participate in administration of a federal regulatory scheme for gun control unconstitutionally violated state autonomy.</li>
+    <li><b>Facts:</b> In 1993, Congress amended the Gun Control Act of 1968 by enacting the Brady Handgun Violence Prevention Act ("Brady Act"). The Brady Act mandated the establishment of a national system for instant criminal background checks of proposed handgun transferees. The Brady Act amended a detailed federal scheme that governed distribution of firearms established by the Gun Control Act of 1968. Interim provisions directed state law enforcement officers to participate in administration of a federally enacted regulatory scheme. Petitioners, chief law enforcement officials (CLEO) of their respective counties, objected to being pressed into federal service and contended that congressional action that compelled state officers to execute federal laws was unconstitutional. </li>
+    <li><b>Issue:</b> Can Congress compel states to enact or enforce a federal regulatory program?</li>
+    <li><b>Rule:</b> Congress cannot compel the states to enact or enforce a federal regulatory program. Congress cannot circumvent that prohibition by conscripting the state's officers directly. The federal government may neither issue directives requiring the states to address particular problems, nor command the states' officers, or those of their political subdivisions, to administer or enforce a federal regulatory program. It matters not whether policymaking is involved, and no case-by-case weighing of the burdens or benefits is necessary; such commands are fundamentally incompatible with our constitutional system of dual sovereignty. </li>
+    <li><b>Conclusion:</b> The Supreme Court agreed and held that the interim provisions violated constitutional principles of dual sovereignty and separation of powers. Congress could not compel states to enact or enforce a federal regulatory program. Congress could not circumvent that prohibition by conscripting the state's officers directly. The Brady Act effectively transferred the executive branch's responsibility to administer federal laws to thousands of CLEOs in 50 states, who were left to implement the program without meaningful presidential control.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### States as Objects of Federal Regulation vs. States as Regulators
+- Neither New York nor Printz questioned Congress's ability to regulate the states' own conduct under general laws that also regulate the similar conduct of private actors.
+
+#### Case: *[Reno v. Condon](Link)*
+- Unanimous Court upheld a federal law limiting the commercial vending of personal data by the states.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Driver's Privacy Protection Act of 1994 was constitutional because Congress properly exercised its authority to regulate interstate commerce under Commerce Clause and did not run afoul of federalism principles.</li>
+    <li><b>Facts:</b> The state and its attorney general sued the United States, alleging that the Driver's Privacy Protection Act of 1994 (DPPA) violated U.S. Const. amends. X and XI. The district court granted summary judgment for the State and permanently enjoined the DPPA's enforcement against respondents. On appeal, the appellate court affirmed. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Does the DPPA violate the Tenth Amendment?</li>
+    <li><b>Rule:</b> The Driver's Privacy Protection Act of 1994, 18 U.S.C.S. §§ 2721-2725 (1994 & Supp. III), is a proper exercise of Congress' authority to regulate interstate commerce under the Commerce Clause, U.S. Const., art. I, § 8, cl.3</li>
+    <li><b>Conclusion:</b> The court held the DPPA was a proper exercise of Congress' authority to regulate interstate commerce because drivers' information was an article of commerce and its sale or release into the interstate stream of business was sufficient to support congressional regulation. The court rejected respondents' argument that the DPPA violated the principles of federalism contained in U.S. Const. amend. X since it did not require the South Carolina Legislature to enact any laws or regulations, and it did not require state officials to assist in the enforcement of federal statutes regulating private individuals.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - The DPPA regulates the States as the owners of databases, it does not require the South Carolina Legislature to enact any laws or regulations, and it does not require state officials to assit in the enforcement of federal statutes consistent with the constitutional principles enunciated in New York and Printz
+
+
+### State Sovereign Immunity and The Eleventh Amendment
+- 11th Amendment
+  - The judicial power of the United States shall not be construed to extend to any (suit) commenced or prosecuted against one ofthe United States by Citizens of another State, or by Citizens or Subjects of any Foreign States.
+
+#### Case: *[Seminole Tribe of Florida v. Florida](Link)*
+- Congress, when acting under its Article 1 §8 , commerce power, may not abrogate a state's sovereign immunity without the state's consent.
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The State could not be sued without its consent where a federal statute clearly intended to abrogate the State's sovereign immunity, but the United States Constitution did not grant Congress that power.</li>
+    <li><b>Facts:</b> Petitioner tribe sued the State and its governor, alleging that they refused to enter into any negotiation for the inclusion of gaming activities in a tribal-state compact thereby violating 25 U.S.C.S. § 2710(d)(3). In their unsuccessful motion to dismiss the complaint, the State and the governor asserted that the suit violated the State's sovereign immunity under U.S. Const. amend. XI. The State and the governor took an interlocutory appeal of the decision that denied their motion to dismiss. The appellate court reversed, holding that amend. XI, barred the tribe's suit. On certiorari, the Court affirmed.</li>
+    <li><b>Issue:</b> Did Congress "unequivocally" express its intent to abrogate the immunity?</li>
+    <li><b>Rule:</b> In order to determine whether Congress has abrogated the states' sovereign immunity, we ask two questions: first, whether Congress has unequivocally expressed its intent to abrogate the immunity, and second, whether Congress has acted pursuant to a valid exercise of power.</li>
+    <li><b>Conclusion:</b> The Court affirmed because amend. XI, prohibited Congress from making the State capable of being sued in federal court. Notwithstanding Congress' clear intent to abrogate states' sovereign immunity through the gaming act, the Indian Commerce Clause did not grant Congress that power. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Extending state sovereign immunity from federal to state courts
+
+#### Case: *[Alden v. Main](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> When the State of Maine asserted its immunity from a Fair Labor Standards Act suit, the question was not the primacy of federal law, but the implementation of the law in a manner consistent with the constitutional sovereignty of the states.</li>
+    <li><b>Facts:</b> Petitioner probation officers filed suit against their employer, respondent, the State of Maine, in federal court. Petitioners alleged that respondent violated the overtime provisions of the Fair Labor Standards Act of 1938 (FLSA), 29 U.S.C.S. § 201 et seq., and they sought compensation and liquidated damages. The district court dismissed petitioners' action, and the court of appeals and the state supreme court affirmed. </li>
+    <li><b>Issue:</b> Do the powers delegated to Congress under U.S. Const. Art. I include the power to subject nonconsenting states to private suits for damages in state courts?</li>
+    <li><b>Rule:</b> The Eleventh Amendment makes explicit reference to the states' immunity from suits commenced or prosecuted against one of the United States by citizens of another state, or by citizens or subjects of any foreign state. </li>
+    <li><b>Conclusion:</b> The Court held that the district court rendered the correct decision; hence, it affirmed the dismissal of the petitioners’ action. The Court reasoned that the powers delegated to Congress under U.S. Const. Art. I did not include the power to subject nonconsenting states to private suits for damages in state courts and that respondent did not consent to suits for overtime pay and liquidated damages under the FLSA.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Extending state sovereign immunity to other federal laws.
+
+#### Case: *[Kimel v. Fla Bd. of Regents](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

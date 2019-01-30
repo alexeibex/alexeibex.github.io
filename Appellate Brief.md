@@ -1,3 +1,4 @@
+Name Zuckerberg
 ##  Theory of the Case
 - My Client Should Win Because...
   - Small town farmer the backbone of america.
@@ -5,6 +6,18 @@
     - While the amount of farmland in metropolitan areas increased by nearly fifty percent between 1974 and 1982, the evidence suggests that prime farmland is better utilized in metropolitan areas than outside metropolitan areas.
   - Not a factory farmer
 - It is a simple, factual theory that will help your reader empathize with your client and see the facts in a way that is most favorableto your client.
+
+Case to use:
+- Copart INdus v. Consol Edison Co. of NY
+- Lawrence Wolf, Inc v. Kissing Bridge Corp. (2001)
+- Lichtman v. Nadler, 74 A.D.2d 66 (App. Div. 1980)
+- Nalley v Gren. Elec. Co. (1995)
+- Nuzzo v. Lapan (1959)
+- Scribner v. Summers (1996)
+- Concerned Area Residents of the Env. v. Southview Farm (1993)
+- Pure Air and Water, Inc. of Cheumng County v. Davidson (1998)
+-
+
 ---
 ##  Title Page
 ---
@@ -48,10 +61,10 @@
 3. Search Treatesis in subject area
   1. Find relevant cases
 4. Case Law - https://advance.lexis.com/api/permalink/2db6294c-0fb7-4058-834d-c9ef94fa0144/?context=1000516
-- Cmty. Ass'n for Restoration of the Env't v. Cow Palace, Ltd. Liab. Co., 80 F. Supp. 3d 1180 (E.D. Wash. 2015)
-- Blackwood v. N&M Dairy, No. 5:14-cv-00395-JGB-SP (C.D. Cal. Aug. 28, 2014).
+Notes:
   1. Private Right of Action
-    1. Landowners’ private nuisance action against farm owner arising out of owner’s use of liquid manure as fertilizer is not precluded by § 308, where landowners did not request or obtain opinion of commissioner as to whether use of manure was sound agricultural practice, because statute does not indicate that issuance of such opinion was intended to be prerequisite to suit, but rather, by describing particular circumstance in which agricultural practice will not be considered nuisance, suggests that burden is on party pursuing practice to show it is sound. Concerned Area Residents for the Env't v Southview Farm, 834 F. Supp. 1410, 1993 U.S. Dist. LEXIS 12393 (W.D.N.Y. 1993).
+    1. Landowners’ private nuisance action against farm owner arising out of owner’s use of liquid manure as fertilizer is not precluded by § 308, where landowners did not request or obtain opinion of commissioner as to whether use of manure was sound agricultural practice, because statute does not indicate that issuance of such opinion was intended to be prerequisite to suit, but rather, by describing particular circumstance in which agricultural practice will not be considered nuisance, suggests that burden is on party pursuing practice to show it is sound.
+    - Concerned Area Residents for the Env't v Southview Farm, 834 F. Supp. 1410, 1993 U.S. Dist. LEXIS 12393 (W.D.N.Y. 1993).
   1. Commissioner’s opinions
     1. Opinion issued by Commissioner of Agriculture and Markets, under CLS Agr & M § 308, that farm owner’s manure management program was sound agricultural practice did not have to comply with State Environmental Quality Review Act (SEQRA), because (1) opinion was mere assessment of agricultural practice, not “action” under SEQRA and its implementing regulations, and (2) even if opinion were “action,” SEQRA exempts agricultural farm management practices from review. Pure Air & Water, Inc. v Davidsen, 246 A.D.2d 786, 668 N.Y.S.2d 248, 1998 N.Y. App. Div. LEXIS 294 (N.Y. App. Div. 3d Dep't), app. dismissed, 91 N.Y.2d 955, 671 N.Y.S.2d 716, 694 N.E.2d 885 (N.Y. 1998), app. denied, 92 N.Y.2d 807, 678 N.Y.S.2d 593, 700 N.E.2d 1229, 1998 N.Y. LEXIS 2807 (N.Y. 1998), app. dismissed, 93 N.Y.2d 1013, 697 N.Y.S.2d 567, 719 N.E.2d 928, 1999 N.Y. LEXIS 3941 (N.Y. 1999).
     2. Opinion issued by Commissioner of Agriculture and Markets, under CLS Agr & M § 308, that farm owner’s manure management program was sound agricultural practice was not arbitrary or capricious where (1) associate environmental analyst in Department of Agriculture and Markets conducted investigation of owner’s program that included site review, discussions with 2 neighbors concerned about water quality, and consultations with person who prepared manure management plan and county director of environmental health, who tested water quality in wells in vicinity of farm, (2) there was no evidence of any degradation of water quality in neighboring wells, and (3) analyst also contacted Department of Environmental Conservation, which had no record of water quality violations at farm; § 308 does not contemplate that commissioner will perform independent tests, but rather that he will arrive at his decision in consultation with appropriate state agencies. Pure Air & Water, Inc. v Davidsen, 246 A.D.2d 786, 668 N.Y.S.2d 248, 1998 N.Y. App. Div. LEXIS 294 (N.Y. App. Div. 3d Dep't), app. dismissed, 91 N.Y.2d 955, 671 N.Y.S.2d 716, 694 N.E.2d 885 (N.Y. 1998), app. denied, 92 N.Y.2d 807, 678 N.Y.S.2d 593, 700 N.E.2d 1229, 1998 N.Y. LEXIS 2807 (N.Y. 1998), app. dismissed, 93 N.Y.2d 1013, 697 N.Y.S.2d 567, 719 N.E.2d 928, 1999 N.Y. LEXIS 3941 (N.Y. 1999).
@@ -66,10 +79,65 @@
 ##  Standard of Review
 ---
 ##  Argument
+### Main Heading 1 (2 Subheading)
+- Thesis
+#### Subheading A
+- Optional Thesis
+  - CREAC
+#### Subheading B
+- Optional Thesis
+  - CREAC
+### Main Heading 2 (No Subheadings)
+- Optional Thesis if Complicated
+  - CREAC
 ---
-##  Conclusion
+## Overall Conclusion
+  - Short
+  - Specifies relief being sought
+  - Followed by closing phrase, "respectively"
+    - Sample Brief Example
 ---
-Notes:
+
+## CREAC
+1. Conclusion
+2. Rule Synthesis
+  - Can be persuasive
+    - Do not cite case that came out contrary to desired ruling
+    - Default to cases decided in favor of argument
+    - Phrase rule so that it invokes client in the best light.
+3. Rule Explanation
+  - Binding and harmful case law must be disclosed.
+  - Distinguishing harmful cases narrowly/Analogizing helpful cases broadly
+    - Highest NY State Court = Binding and must be disclosed
+    
+4. Analysis/Argument + Counter Argument
+  - Work of analogizing/distinguishing facts to rules
+  - Stronger facts up front
+  - Minimize unfavorable facts in middle
+  - Finish with stronger facts.
+  - Memorable language
+4a. Counter Argument
+  - Deal implicitly with counter arguments so as to derive own analysis of counter
+  - Do not **set up** counter argument.
+    - Set Up - DO NOT INCLUDE
+      - "It has been argued that awarding a child damages for loss of consortium would result in speculative & uncertain damages."
+    - Counter Set Up - USE ALONE.
+      - However Damages for injuries sustained by the children in this case are no more difficult to ascertain than in other classes of injury involving intangible losses where the courts have allowed recovery.
+  - Distinguish/Minimize effect of bad cases
+    - Mootness/Relevancy
+    - Policy Argument
+      - Legislative Intent
+    - Fist impression
+5. Conclusion
+
+
+
+
+
+# Notes:
+- Federal Court will not be binding on state court issue
+  - Not interpreting federal law only in federal court due to procedure.
+  -
 -NOTE:THE RIGHT TO FARM: HOG-TIED AND NUISANCE-BOUND, 73 N.Y.U.L. Rev. 1694
 Over-application of manure which contains zinc, copper, chromium, arsenic, cadmium and lead from animal feed, builds up and affects fertility of the soil.
 - States have enacted RTFs with the stated purpose of preventing the slow destruction of farmland as a result of expansion of urban areas into traditionally rural land.
@@ -103,3 +171,6 @@ COMMENT: Preserving Our Heritage: Tools to Cultivate Agricultural Preservation i
 - Agriculture produces about $ 3 billion gross cash income for New York State every year. It is the number two industry in the Hudson Valley, second only to tourism, which is itself dependent upon agriculture for its success because agriculture maintains attractive open spaces and rural flavor.
 - "New York is a farm state."
 - A study in Cayuga County found that eighteen percent of non-agricultural business was directly linked to the agriculture industry. 9Link to the text of the note Such businesses include equipment sales, farm centers such as Agway stores, veterinary services and products, and seed and fertilizer dealers.
+
+
+- opinion issued upon request by the commissioner." Defendants note that no such opinion has been requested or issued in this case. The statute, however, does not indicate that the issuance of such an opinion was intended to be a prerequisite to suit. In fact, the language, by describing the particular circumstance in which an agricultural practice will not be considered a nuisance, suggests that the burden is on the party pursuing the practice to show that it is sound.

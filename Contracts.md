@@ -1055,14 +1055,132 @@ Party Autonomy (Squeegee)
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> An employer's exceptions to a judgment in favor of an employee in his action to recover wages were sustained. When the employee treated the employment contract as repudiated, he was entitled to the value of all services less wages that were paid.</li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
+    <li><b>Facts:</b> Under the contract between parties, ∆ were to employ the π for one year and pay him for his services $17 a week. Also without extra pay , to work overtime at said shop not more than two hours in one day and not more than two months in aggregate for the year. ∆ broke the contract by the discharge of the π. </li>
+    <li><b>Issue:</b> Whether π can recover on the doctrine of quantum meruit for the value of only a part of his services rendered in teh extra hours named in the contract?</li>
+    <li><b>Rule:</b> An innocent party can sue on the contract for damages for the breach or he may regard the action of the ∆ as indicating a purpose on their part to repudiate the contract, may accept the repudiation and recover upon a quantum meruit the value of his services as if the special contract had not existed.</li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Unjust Enrichment vs. Quantum Meruit
+- Damages in an unjust enrichment (i.e., implied in law) claim are mea- sured by the benefit conferred. Damages in a quantum meruit claim are measured by the reasonable value of the plaintiff’s services.
+
+
+#### Case: *[Kelley v Hance](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Recovery to a contractor was improper where the contractor willfully abandoned the contract without justification because recovery for benefits conferred was proper only when there was justification for the deviation from the original contract.</li>
+    <li><b>Facts:</b> The property owner entered into a contract with the contractor to excavate dirt. After partial performance, the contractor abandoned all work. The contractor then filed a complaint to recover the value of services rendered before the contractor abandoned performance. Judgment was entered in favor of the contractor.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Recovery can be had for partial performance which has been beneficial only when the benefit has been appropriated by the defendant under circumstances sufficient to raise an implied promise to pay for the reasonable value of what has been received. There can ordinarily be no recovery where the contractor has wilfully abandoned his contract without justification.</li>
+    <li><b>Conclusion:</b> On appeal, the court reversed. The court held that the rule permitting recovery for partial performance was only applicable where the part performance was justified. The court held that the contractor willfully abandoned the contract and was not entitled to recover for benefits conferred on the property owner.</li>
+    <li><b>Notes/Concepts:</b> </li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Britton v. Turner](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Court affirmed jury verdict in favor of plaintiff's compensation claim because defendant actually received the labor, and thereby derived a benefit so as to be responsible for compensating for the labor actually performed.</li>
+    <li><b>Facts:</b> This is a case for breach of contract for labour. Plaintiff agreed to perform work based on certain declarations in exchange for a hundred and twenty dollar compensation from Defendant. The term of the contract is one year from March 1831 but Plaintiff voluntarily terminated his service on December. Plaintiff demanded a reasonable sum for partially performing the service under the principle of quantum meruit. Defendant contended that the service was performed under a special contract, and since plaintiff agreed to work for one year, he is not entitled to recover any thing for failing without good cause to serve the term of the contract. After trial, the jury was satisfied that Plaintiff was entitled to a reasonable value of his service. Defendant appealed a jury award in favor of plaintiff.</li>
+    <li><b>Issue:</b> Whether π can recover a reasonable sum for the services he has actually performed, under the count in quantum meruit?</li>
+    <li><b>Rule:</b> The hired laborer shall be entitled to compensation for the service actually performd, though he do not continue the entire term contracted for, and such contracts must be presumed to made with reference to that understanding, unless an express stipulation shows the contrary. If in a failure to perform a whole contract, the nature of the contract be such that the employer can reject what has been done, and refuse to receive any benefit from the part performance, he is entitled so to do, and in such case is not liable to be charged unless he has before assented to and accepted of what has been done, however much the other party may have done towards the performance. The employer has in such case received nothing, and having contracted to receive nothing but the entire matter contracted for, he is not bound to pay because his express promise was only to pay on receiving the whole. But where the party receives value--takes and uses the materials, or has advantage from the labor, he is liable to pay the reasonable worth of what he has received.</li>
+    <li><b>Conclusion:</b>The π was entitled to recover as much as the labor performed was reasonably worth, and the jury appear to have allowed a pro rata compensation, for the time which the π labored in the ∆s service. The court affirmed the jury verdict, holding that defendant actually received the labor and thereby derived a benefit and advantage so as to be responsible for compensating for the labor actually performed. The labor actually performed furnished new consideration, and the law required a promise to pay to the extent of the reasonable worth of such labor in excess of the damage caused by the breach of contract. The court further stated that if defendant actually sustained damages from plaintiff's failure to complete his contract he would be able to recover in a suit for breach of contract.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[De Leon v. Aldrete](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Appellee defaulting purchaser's right for restitution did not arise upon his breach of contract standing alone; it arose when appellants rejected vendors' remedies at law and abandoned the contract for all purposes.</li>
+    <li><b>Facts:</b> Appellants and appellee entered into a written contract wherein appellee agreed to purchase a tract of land from appellants. Terms regarding amount, manner, and due dates were specifically contracted. Appellee never made a payment on time and failed to render final payment in compliance with the terms of the contract. Appellants, by warranty deed, conveyed the subject land to another purchaser for cash in an amount less than that contracted for with the appellee.</li>
+    <li><b>Issue:</b> Whether plaintiff had no right to recover the payments made by him prior to such "rescission."</li>
+    <li><b>Rule:</b> Where the amount due is ascertainable by application of fixed rules of evidence and known standards of value, interest is recoverable from the date of the accrual of the cause of action. Under such circumstances, the purchaser who is entitled to restitution is entitled to interest on the amount due him</li>
+    <li><b>Conclusion:</b> The court modified the judgment amount and held that appellants were entitled to retain, as compensation for the damages resulting from appellee's breach, the difference between the amount received from the second conveyance and the amount contracted for with appellee.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Watts v. Watts](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Judgment dismissing female cohabitant's suit against male cohabitant was properly reversed because female cohabitant stated a claim upon which relief could be granted that could rest upon a breach of contract, unjust enrichment, or partition theory.</li>
+    <li><b>Facts:</b> The parties' 12-year nonmarital cohabitation relationship produced 2 children. The court held that the female stated a claim upon which relief could be granted that could rest on a contract, unjust enrichment, or partition theory. Neither the Wisconsin Family Code nor public policy precluded the female from asserting an express or implied contractual right to share property accumulated through the parties' joint efforts. The female could raise an unjust enrichment claim in view of the male's alleged unreasonable retention of the parties' jointly acquired property. Facts about the parties' business partnership, joint property purchases, and the female's uncompensated home and business contributions stated a partition claim, which was a proper cause of action in marital cohabitation cases.</li>
+    <li><b>Issue:</b> Whether π could recover based on an implied in fact cohabitation relationship or based on an unjust enrichment doctrine of implied in law for her cohabitation of 12 years with her "husband"</li>
+    <li><b>Rule:</b> Unmarried cohabitants may raise claims based upon unjust enrichment following the termination of their relationships where one of the parties attempts to retain an unreasonable amount of the property acquired through the efforts of both. A claim of unjust enrichment does not arise out of an agreement entered into by unmarried cohabiting parties. An action for recovery based upon unjust enrichment is grounded on the moral principle that one who has received a benefit has a duty to make restitution where retaining such a benefit would be unjust. In Wisconsin, an action for unjust enrichment, or quasi contract, is based upon proof of three elements: (1) a benefit conferred on the defendant by the plaintiff; (2) appreciation or knowledge by the defendant of the benefit; and (3) acceptance or retention of the benefit by the defendant under circumstances making it inequitable for the defendant to retain the benefit. </li>
+    <li><b>Conclusion:</b> The judgment that dismissed the female's action against the male for an accounting and a share of the personal and business assets accumulated during the parties' unmarried cohabitation relationship was reversed. The female stated a claim for which relief could be granted and her claim could rest on contract, unjust enrichment, or partition grounds.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+### Obligation Arising From Promises for Benefit Received
+
+#### Case: *[Mills v. Wyman](Link)*
+- No Past Consdierations
+- Moral obligations do not make promises enforceable. Past consideration is required.
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant's promise to pay for care received by his adult son was not enforceable because there was no consideration for the promise where the care was not provided at his request and he had no obligation to support his adult son.</li>
+    <li><b>Facts:</b>Levy Wyman fell ill in Hartford on return from a voyage from sea. The plaintiff, Daniel Mills, housed him at his expense for 15 days, at which point Wyman died. Wyman’s father promised to pay Mills’s expenses. When Wyman’s father failed to pay, Mills sued. The trial court directed a nonsuit.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> The general position, that a moral obligation is a sufficient consideration for an express promise, is to be limited in its application, to cases where a good or valuable consideration has once existed.</li>
+    <li><b>Conclusion:</b> There was no consideration in the defendant’s promise to pay Mills. Moral obligation is insufficient without consideraion. “ . . . if there was nothing paid or promised for it, the law, perhaps wisely, leaves the execution of it to the conscience of him who makes it. It is only when the party making the promise gains something, or he to whom it is made loses something, that the law gives the promise validity.”</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Restatement (Second) Of Contracts § 82(1)
+- A promise to pay all or part of an antecedent contractual or quasi-contractual indebtedness owed by the promisor is binding if the indebtedness is still enforceable or would be except for the effect of a statute of limitations.
+
+#### Case: *[Webb v. McGowin](Link)*
+- Protection as Consideration
+- Protecting McGowin from injury was sufficient consideration for McGowin’s later promise to pay Webb to be binding
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Injury to plaintiff in saving promisor's life was sufficient legal consideration to enforce the subsequently deceased promisor's promise to pay an amount periodically from defendants for the remainder of plaintiff's life.</li>
+    <li><b>Facts:</b> Webb worked in a lumber company. He was pushing heavy wooden blocks off a ledge. As he was pushing a block, he noticed that McGowin was below. The only way he could prevent the block from crushing McGowin was to fall with it, so he did, and sustained serious injuries and suffered permanent disabilities. McGowin promised to pay Webb $15 every two weeks for the rest of Webb’s life, until McGowin died a few years later. McGowin’s executors refused to keep paying. Webb brought suit</li>
+    <li><b>Issue:</b> Whether a promisee cares for, improves, and preserves the property of the promisor, though done without his request, is it a sufficient consideration for the promisor’s subsequent agreement to pay for the service because of the material benefit received?</li>
+    <li><b>Rule:</b> “Where the promisee cares for, improves, and preserves the property of the promisor, though done without his request, it is sufficient consideration for the promisor’s subsequent agreement to pay for the service, because of the material benefit received.”</li>
+    <li><b>Conclusion:</b> McGowin's express promise to pay appellant for the services rendered was an affirmance or ratification of what appellant had done raising the presumption that the services had been rendered at McGowin's request.The averments of the complaint show that in saving McGowin from death or grievous bodily harm, appellant was crippled for life. This was part of the consideration of the contract declared on. McGowin was benefited. Appellant was injured. Benefit to the promisor or injury to the promisee is a sufficient legal consideration for the promisor's agreement to pay. McGowin’s promise was therefore enforceable.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
 
 ---
 
