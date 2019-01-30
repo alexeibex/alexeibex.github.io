@@ -1222,45 +1222,70 @@ and, later, opposed the 1787 constitution.
   - Cultivation of marijuana when taken into the aggregate affect of economy.
     - Whether for recreational or medicinal purposes
   - Primary purpose of statute is to "control" "supply" of marijuana/drugs
+- The regulation is squarely within Congress' commerce power because production of the commodity meant for home consumption, be it wheat or marijuana, has a substantial effect on supply and demand in the national market for that commodity.
 - Regulation of a "market" falls under pervue of economic activity
   - Liberal Support on decision of Federal Power
 - Scalia Conccuring
   - Possesion != to commerce and cannot be used to aggregate
   - Power to regulate drugs stems from necessary & proper clause
 - O'Connor Dissent
+  - Carving out small subset of the market has no aggregate effect on the total market.
+    - Sickly marijuana growers are such a small subset of market it should be negligible.
   - State experimentation should be encouraged
   - Not economic activity
   - Even assuming economic activity, no evidence of own personal use of medical marijuana affects national commerce.
 
+#### Commerce Clause Review Leading up to the Affordable Care Act
+- Economic v. Noneconomic activity
+- General v. Specific Congressional Schemes.
+- States as "labratories of experiment"
+- State efforts to leagalize federal crimes
+- Federal protection for endangered species
+- The commerce power and the Affordable Care Act
 
 #### Case: *[National Federation of Independent Business v. Sebelius](Link)*
 - Commerce Clause and The Affordable Care Act (Individual Mandate)
+- Mandate was unconstitutional under the Necessary and Proper
+  - Failed Proper
+- Case then examined under the Commerce Clause
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Patient Protection and Affordable Care Act of 2010's individual mandate provision, 26 U.S.C.S. § 5000A, requiring health insurance, was a valid tax under U.S. Const. art. I, § 8, cl. 1. 42 U.S.C.S. § 1396c could not constitutionally be applied to withdraw existing Medicaid funds from states that did not comply with extended coverage requirements.</li>
-    <li><b>Facts:</b> Plaintiffs challenged the individual mandate provision of 26 U.S.C.S. § 5000A, which imposed a “shared responsibility payment” on individuals who failed to maintain health insurance. The Court declined to uphold the individual mandate under the Commerce Clause, U.S. Const. art. I, § 8, cl. 3, or the Necessary and Proper Clause, U.S. Const. art. I, § 8, cl. 18. However, it ruled that the mandate was a valid exercise of the taxing power under U.S. Const. art. I, § 8, cl. 1. Factors such as the manner of collection indicated that the payment was a tax rather than a penalty. Plaintiffs appealed, also challenging the Act's Medicaid expansion provisions.</li>
+    <li><b>Facts:</b> Plaintiffs challenged the individual mandate provision of 26 U.S.C.S. § 5000A, which imposed a “shared responsibility payment” on individuals who failed to maintain health insurance. The Court declined to uphold the individual mandate under the Commerce Clause, U.S. Const. art. I, § 8, cl. 3, or the Necessary and Proper Clause, U.S. Const. art. I, § 8, cl. 18. However, it ruled that the mandate was a valid exercise of the taxing power under U.S. Const. art. I, § 8, cl. 1. Factors such as the manner of collection indicated that the payment was a tax rather than a penalty. Plaintiffs appealed, also challenging the Act's Medicaid expansion provisions. ∆ Governemnt contends the failure to purchase insurance has a substantial and deleterious effect on interstate commerce by creating a cost shifting problem. </li>
     <li><b>Issue:</b> Can Medical Assistance Programs be constitutionally applied to withdraw existing Medicaid funds?</li>
     <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b> n a split decision, the Court held that 42 U.S.C.S. § 1396c could not constitutionally be applied to withdraw existing Medicaid funds from a state for failure to comply with the expanded coverage requirements. The remedy was to bar the federal government from imposing such a sanction, without striking down other portions of the Act.</li>
+    <li><b>Conclusion:</b> n a split decision, the Court held that 42 U.S.C.S. § 1396c could not constitutionally be applied to withdraw existing Medicaid funds from a state for failure to comply with the expanded coverage requirements. Under the commerce clause, The power to regulate commerce presupposes the existence of commercial activity to be regulated. The remedy was to bar the federal government from imposing such a sanction, without striking down other portions of the Act.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Requiring people to "buy" or "do commerce" cannot be regulated under the commerce clause
+  - Activity v. NonActivity
+  - Congress can regulate **mandated** activity (Gibbons v. Ogden)
+- Congress cannot make a law to eat health foods and then charge the people who don't eat the brocolli.
+- 1/6th of the economy to be regulated by the individual mandate
+  - Gora: Per Se = Commerce
+  - Regulating one thing v. an entire problem/issue
+- **2012 - Present: Court looking for ways to limit the Commerce power**
+
+#### Shift in legal consensus leading up to NFIB
+- Barnett - Activity v. Inactivity theory
 
 
 ## The Tenth Amendment as an External Constraint on the Federal Commerce Power
-- Court develoing *external* restraints on the commerce power rooted in two textual sources
-  1. The 10th Amendment
-    - "The Powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.""
-  2. The 11th Amendment
+- Court developing *external* restraints on the commerce power rooted in two textual sources
+  1. Commerce power v. The 10th Amendment
+    - "The Powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people."
+
+  2. Commerce power v. The 11th Amendment
     - "The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosectued against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State"
 - Does it matter?
   - At the end of the day court must determine whether any challenged provision **oversteps the boundry between federal and state authority.**
 
-#### The Rise and Fall of State Autonomy from federal regulation
+#### The Rise and Fall of State Autonomy From Federal Regulation
 - Must be *some* outer limits on federal power to interfere with the core functions implict in state sovereignty.
 
 #### Case: *[Coyle v. Oklahoma](Link)*
@@ -1317,6 +1342,8 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
 
 #### Case: *[National League of Cities v. Usery](Link)*
+- FLSA extended to cover state and local governments
+  - Court struck down statute as violation of 10th amendment.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1331,10 +1358,18 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
-- Overruled by...
+- Overruled by 10th amendment
+- Applied directly to the States and subdivisons of States as employers.
+- Court could not determine what activities of state government were an "integral government function"
+-
 
 #### Case: *[Garcia v. San Antonio Metropolitan Transit Authority](Link)*
 - Holding a municiple transit authority property subjected to the minimum wage and overtime requirements of the FLSA.
+- Blackmun swing vote switches opinion from Usery
+  - Mistake - "Integral government function test is unworkable"
+- New Test: Congress regulation of state governments allowed. Let congress v. states fight it out.
+
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> A summary judgment was reversed in a claim of a municipally-owned transit system of exemption from the Fair Labor Standards Act's wage and hour requirements because a transit system that was a traditional governmental function was subject to the Act.</li>
@@ -1349,9 +1384,23 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
+- Dissent:
+  - The states role in our system of government is a matter of constituional law, not of legislative grace.
+  - Decision that federal political officials invoking the Commerce Clause, are the sole judges of the limits of their own power is inconsistent with the fundamental principles of our consitutional system.
+  - O'Connor - **Federalism Argument**
+    - Abandonment National League of Cities, all that stands between the remaining essentials of state sovereignty and COngress is the latter's undeveloped capacity for self-restraint.
+    - Federal government cannot comandeer the states
+      - States have rights to set their own agenda
+
 #### Commandeering state governments
 
 #### Case: *[New York v. United States](Link)*
+- Adoption fo the Low-Level Radioactive Waste Policy Amendment or else...
+  - Monetary Incentives
+  - Access - Constituional
+  - Take Title Sanctions - Debated
+    - Violation of 10th amendment.
+
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1366,20 +1415,29 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- State legislative process/agenda cannot be comandeered but state can be regulated "as a persons"
+- Constitution does not confer upon Congress the ability simply to compel the States to do so.
+- A choice between unconstituionally coercive regulatory techniques is no choice at all.
+- Although clear "commerce issue"
+  - Violation of state soveriegnty and results in comandeering violating the 10th amendment
+
+
 
 #### Congressional Alternatives to Commandeering
-- Spending power
+- Spending power (Do all this and we will give you money.)
   - Under spending clause, Congress may condition the payment of relevant federal funds on a state's agreement to take title to waste if it has not already provided a waste disposal facility.
 - Commerce Power
   - Under Commerce clause, Congress may pass federal legislation directly regulating the private producers of low level radioactive waste to limit their production.
   - Congress may impose a federal tax on interstate commerce and authorize the states to burden out of state commerce.
-- Conditional Preemption
+- Conditional Preemption (The Federal Government takes over regulation from states)
   - Congress may threaten to pass federal legislation under the Commerce Clause unless states choose to regulate according to federal standards.
 
 #### Comandeering state executive branch officials
 - Upheld Anticomandeering principles of New York v. United States extension to federal laws directed at state/local executive officals requiring state and locla law enforceent to conduct background checks on prospective handgun purchasers.
 
 #### Case: *[Printz v United States](Link)*
+- Comandeering state officials to execute the Brady act - Federal licensing of guns
+  - State and Local Law Enforcement Officials
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1394,6 +1452,8 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
 
 
 #### States as Objects of Federal Regulation vs. States as Regulators
@@ -1419,8 +1479,17 @@ and, later, opposed the 1787 constitution.
 
 
 ### State Sovereign Immunity and The Eleventh Amendment
-- 11th Amendment
-  - The judicial power of the United States shall not be construed to extend to any (suit) commenced or prosecuted against one ofthe United States by Citizens of another State, or by Citizens or Subjects of any Foreign States.
+- **11th Amendment** - State Autonomy
+  - The judicial power of the United States shall not be construed to extend to any (suit) commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign States.
+- Abrogation of Immunity for Civil War Amendments = Fitzpatrick v. Bitzer
+  - Court held that Congress could abrogate the state's 11th amendment immunity and allow states to be sued directly for retrospective damages pusuant to **its enforcement under Section 5 of the 14th Amendment.**
+  - Congress + Amendment abrogated immunity of states.
+- Abrogation of Immunity for all other Amendments like Commerce Power
+  - Congress cannot abrogate immunity under other amendments unless 14th amendment
+    - Violation of 11th amendment
+  - Although private individuals to sue a state, Congress can enforce against states.
+  - Federal Government v. States NOT Private Citizens v. States
+
 
 #### Case: *[Seminole Tribe of Florida v. Florida](Link)*
 - Congress, when acting under its Article 1 §8 , commerce power, may not abrogate a state's sovereign immunity without the state's consent.
@@ -1438,10 +1507,12 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+-
 
-#### Extending state sovereign immunity from federal to state courts
+#### Extending State Sovereign Immunity From Federal to State Courts
 
 #### Case: *[Alden v. Main](Link)*
+- Congress cannot cannot use commerce power to comandeer state courts even if they abrogate their immunity themselves.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1474,3 +1545,19 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Extending state sovereign immunity to federal agency proceedings
+- Federal Maritime Commission v. SOuth Carolina State Ports Authority
+  - Immunity against administratrive regulatory suits brought by private citizens
+
+#### State sovereign immunity and the Art 1 bankruptcy power
+- Central Virginia Community College v. Katz
+- States can be sued under Article 1 Bankruptcy court
+  - Historical intent that bankruptcy proceedings would include states
+  - Intent to have states abrogate immunity for this specific issue.
+
+
+#### Summmary
+- Garcia Case
+  - Allows for regulation of states under federal regulation.

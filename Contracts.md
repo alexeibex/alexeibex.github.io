@@ -1046,17 +1046,20 @@ Party Autonomy (Squeegee)
 
 </details>
 
+- <span style="color:red">**Class Discussion**</span>
+  - No Enforceable Contract
 
 #### Equitable Relief, Quantum Meruit
 - When a contract employee is discharged, the employee may either sue on the contract for damages for the breach, or, if he so elects, he may regard the action of the employer as indicating a purpose on his part to repudiate the contract, may accept the repudiation and recover upon a quantum meruit the value of his services as if the special contract had not existed.
+- Damages in a quantum meruit claim are measured by the reasonable value of the plaintiff’s services.
 
 #### Case: *[Posner v. Seder](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> An employer's exceptions to a judgment in favor of an employee in his action to recover wages were sustained. When the employee treated the employment contract as repudiated, he was entitled to the value of all services less wages that were paid.</li>
-    <li><b>Facts:</b> Under the contract between parties, ∆ were to employ the π for one year and pay him for his services $17 a week. Also without extra pay , to work overtime at said shop not more than two hours in one day and not more than two months in aggregate for the year. ∆ broke the contract by the discharge of the π. </li>
-    <li><b>Issue:</b> Whether π can recover on the doctrine of quantum meruit for the value of only a part of his services rendered in teh extra hours named in the contract?</li>
+    <li><b>Facts:</b> Under the contract between parties, ∆ were to employ the π for one year and pay him for his services $17 a week. Also without extra pay , to work overtime at said shop not more than two hours in one day and not more than two months in aggregate for the year. ∆ broke the contract by the discharge of the π.  </li>
+    <li><b>Issue:</b> Whether π can recover on the doctrine of quantum meruit for the value of only a part of his services rendered in thh extra hours named in the contract?</li>
     <li><b>Rule:</b> An innocent party can sue on the contract for damages for the breach or he may regard the action of the ∆ as indicating a purpose on their part to repudiate the contract, may accept the repudiation and recover upon a quantum meruit the value of his services as if the special contract had not existed.</li>
     <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
@@ -1065,10 +1068,22 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Enforceable Contract
+  - Not at will
+- π contends he wants overtime for the overtime work
+- ∆ argument $17 was a payment for the services for the week and π was paid in full for services rendered.
+- Court:
+  - The Contract is to be taken as a whole
+  - π can sue on the contract or treat the contract as repudiated and sue off the contract cannot mix theories
+    - ON the contract π can get the overtime
+    - OFF the contract for restitution for the overtime
+      - Reasonable value of services for entire time worked and NOT the $17 dollars a week
+    - Benefit conferred with the expectation of payment, the ∆ is unjustly enriched between the discrepency between fair market value of services v. rate negotiated in the contract.
+    - Restitution of services rendered OFF the contract
 
 
 #### Unjust Enrichment vs. Quantum Meruit
-- Damages in an unjust enrichment (i.e., implied in law) claim are mea- sured by the benefit conferred. Damages in a quantum meruit claim are measured by the reasonable value of the plaintiff’s services.
+- Damages in an unjust enrichment (i.e., implied in law) claim are measured by the benefit conferred. Damages in a quantum meruit claim are measured by the reasonable value of the plaintiff’s services.
 
 
 #### Case: *[Kelley v Hance](Link)*
@@ -1077,15 +1092,23 @@ Party Autonomy (Squeegee)
   <ul>
     <li><b>Overview:</b> Recovery to a contractor was improper where the contractor willfully abandoned the contract without justification because recovery for benefits conferred was proper only when there was justification for the deviation from the original contract.</li>
     <li><b>Facts:</b> The property owner entered into a contract with the contractor to excavate dirt. After partial performance, the contractor abandoned all work. The contractor then filed a complaint to recover the value of services rendered before the contractor abandoned performance. Judgment was entered in favor of the contractor.</li>
-    <li><b>Issue:</b></li>
+    <li><b>Issue:</b> Whether the lower court was correct that π can recover under unjust enrichment after materially breaching contract?</li>
     <li><b>Rule:</b> Recovery can be had for partial performance which has been beneficial only when the benefit has been appropriated by the defendant under circumstances sufficient to raise an implied promise to pay for the reasonable value of what has been received. There can ordinarily be no recovery where the contractor has wilfully abandoned his contract without justification.</li>
-    <li><b>Conclusion:</b> On appeal, the court reversed. The court held that the rule permitting recovery for partial performance was only applicable where the part performance was justified. The court held that the contractor willfully abandoned the contract and was not entitled to recover for benefits conferred on the property owner.</li>
+    <li><b>Conclusion:</b> On appeal, the court reversed. The court held that the rule permitting recovery for partial performance was only applicable where the part performance was justified. **The court held that the contractor willfully abandoned the contract and was not entitled to recover for benefits conferred on the property owner**. π cannot recover.</li>
     <li><b>Notes/Concepts:</b> </li>
   </ul>
 
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- π Employer was the injured party in posner
+  - Here π was not the "injured party"
+  - Breaching party can recover under UNJUST ENRICHMENT
+    - Digging whole is part of the job = benefit conferred
+  - ∆ cannot return services rendered here
+  - π also willfully abandoned project/job
+    - No excuse for leaving
+
 
 #### Case: *[Britton v. Turner](Link)*
 
@@ -1094,19 +1117,33 @@ Party Autonomy (Squeegee)
     <li><b>Overview:</b> Court affirmed jury verdict in favor of plaintiff's compensation claim because defendant actually received the labor, and thereby derived a benefit so as to be responsible for compensating for the labor actually performed.</li>
     <li><b>Facts:</b> This is a case for breach of contract for labour. Plaintiff agreed to perform work based on certain declarations in exchange for a hundred and twenty dollar compensation from Defendant. The term of the contract is one year from March 1831 but Plaintiff voluntarily terminated his service on December. Plaintiff demanded a reasonable sum for partially performing the service under the principle of quantum meruit. Defendant contended that the service was performed under a special contract, and since plaintiff agreed to work for one year, he is not entitled to recover any thing for failing without good cause to serve the term of the contract. After trial, the jury was satisfied that Plaintiff was entitled to a reasonable value of his service. Defendant appealed a jury award in favor of plaintiff.</li>
     <li><b>Issue:</b> Whether π can recover a reasonable sum for the services he has actually performed, under the count in quantum meruit?</li>
-    <li><b>Rule:</b> The hired laborer shall be entitled to compensation for the service actually performd, though he do not continue the entire term contracted for, and such contracts must be presumed to made with reference to that understanding, unless an express stipulation shows the contrary. If in a failure to perform a whole contract, the nature of the contract be such that the employer can reject what has been done, and refuse to receive any benefit from the part performance, he is entitled so to do, and in such case is not liable to be charged unless he has before assented to and accepted of what has been done, however much the other party may have done towards the performance. The employer has in such case received nothing, and having contracted to receive nothing but the entire matter contracted for, he is not bound to pay because his express promise was only to pay on receiving the whole. But where the party receives value--takes and uses the materials, or has advantage from the labor, he is liable to pay the reasonable worth of what he has received.</li>
-    <li><b>Conclusion:</b>The π was entitled to recover as much as the labor performed was reasonably worth, and the jury appear to have allowed a pro rata compensation, for the time which the π labored in the ∆s service. The court affirmed the jury verdict, holding that defendant actually received the labor and thereby derived a benefit and advantage so as to be responsible for compensating for the labor actually performed. The labor actually performed furnished new consideration, and the law required a promise to pay to the extent of the reasonable worth of such labor in excess of the damage caused by the breach of contract. The court further stated that if defendant actually sustained damages from plaintiff's failure to complete his contract he would be able to recover in a suit for breach of contract.
-
-</li>
+    <li><b>Rule:</b> The hired laborer shall be entitled to compensation for the service actually performd, though he do not continue the entire term contracted for, and such contracts must be presumed to made with reference to that understanding, unless an express stipulation shows the contrary. If in a failure to perform a whole contract, the nature of the contract be such that the employer can reject what has been done, and refuse to receive any benefit from the part performance, he is entitled so to do, and in such case is not liable to be charged unless he has before assented to and accepted of what has been done, however much the other party may have done towards the performance. The employer has in such case received nothing, and having contracted to receive nothing but the entire matter contracted for, he is not bound to pay because his express promise was only to pay on receiving the whole. **But where the party receives value--takes and uses the materials, or has advantage from the labor, he is liable to pay the reasonable worth of what he has received.**</li>
+    <li><b>Conclusion:</b>The π was entitled to recover as much as the labor performed was reasonably worth, and the jury appear to have allowed a pro rata compensation, for the time which the π labored in the ∆s service. The court affirmed the jury verdict, holding that defendant actually received the labor and thereby derived a benefit and advantage so as to be responsible for compensating for the labor actually performed. The labor actually performed furnished new consideration, and the law required a promise to pay to the extent of the reasonable worth of such labor in excess of the damage caused by the breach of contract. The court further stated that if defendant actually sustained damages from plaintiff's failure to complete his contract he would be able to recover in a suit for breach of contract.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Same facts but court rules differently
+ - π is employee who breached contract and is suing for benefit conferred.
+ - Construction v. Work of Employee
+ - Employer is accepting benefit conferred each time the π employee works
+ - Employee who does part of the work v. employee who does no work
+   - Employee who does most of the work = Employee who works almost nothing.
+   - Fundamentally unfair because employer would be left undamged while employee loses time and effort
+ - Formula
+   - Pay the amount of work that is done - the damages/cost of breaching contract
+     - Ceiling must be = to the contact price so as to incentivze employer for not
+
+#### PRoblem 2-8
+- Legislation prohbits non-payment for the 6 months leading up to Frank's employment
+  - Training contact
+  - Hire as an intern
 
 
 #### Case: *[De Leon v. Aldrete](Link)*
+- Damages incurred from breach of contract of finding a new seller and selling at a lower price than previously agreed.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1127,9 +1164,13 @@ Party Autonomy (Squeegee)
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Judgment dismissing female cohabitant's suit against male cohabitant was properly reversed because female cohabitant stated a claim upon which relief could be granted that could rest upon a breach of contract, unjust enrichment, or partition theory.</li>
+
     <li><b>Facts:</b> The parties' 12-year nonmarital cohabitation relationship produced 2 children. The court held that the female stated a claim upon which relief could be granted that could rest on a contract, unjust enrichment, or partition theory. Neither the Wisconsin Family Code nor public policy precluded the female from asserting an express or implied contractual right to share property accumulated through the parties' joint efforts. The female could raise an unjust enrichment claim in view of the male's alleged unreasonable retention of the parties' jointly acquired property. Facts about the parties' business partnership, joint property purchases, and the female's uncompensated home and business contributions stated a partition claim, which was a proper cause of action in marital cohabitation cases.</li>
+
     <li><b>Issue:</b> Whether π could recover based on an implied in fact cohabitation relationship or based on an unjust enrichment doctrine of implied in law for her cohabitation of 12 years with her "husband"</li>
+
     <li><b>Rule:</b> Unmarried cohabitants may raise claims based upon unjust enrichment following the termination of their relationships where one of the parties attempts to retain an unreasonable amount of the property acquired through the efforts of both. A claim of unjust enrichment does not arise out of an agreement entered into by unmarried cohabiting parties. An action for recovery based upon unjust enrichment is grounded on the moral principle that one who has received a benefit has a duty to make restitution where retaining such a benefit would be unjust. In Wisconsin, an action for unjust enrichment, or quasi contract, is based upon proof of three elements: (1) a benefit conferred on the defendant by the plaintiff; (2) appreciation or knowledge by the defendant of the benefit; and (3) acceptance or retention of the benefit by the defendant under circumstances making it inequitable for the defendant to retain the benefit. </li>
+
     <li><b>Conclusion:</b> The judgment that dismissed the female's action against the male for an accounting and a share of the personal and business assets accumulated during the parties' unmarried cohabitation relationship was reversed. The female stated a claim for which relief could be granted and her claim could rest on contract, unjust enrichment, or partition grounds.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
@@ -1137,12 +1178,24 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Claim of unjust enrichment claim underlies the case
+- Contract v. Unjust Enrichment Claim
+  - Unjust enrichment = Conferred a benefit + unjust for ∆ to retain benefit conferred = restitution of πs services
+  - Damages in an unjust enrichment (i.e., implied in law/implied in fact) claim are measured by the benefit conferred. Damages in a quantum meruit claim are **measured by the reasonable value of the plaintiff’s services**.
+  - Damages in Contract Claim would result in a 50/50 claim on benefits.
+- Implied in Fact v Implied in law:
+  - Filed jointly tax
+  - Co-habitated
+  - Shared Bank Account etc.
+- Contract claim = actions between family members are **presumed to be gifts** LINK
+  - Strongest argument against familial claim = Also performed business other than domestic actions
+
 
 
 ### Obligation Arising From Promises for Benefit Received
 
 #### Case: *[Mills v. Wyman](Link)*
-- No Past Consdierations
+- No Contract - Past Consdierations
 - Moral obligations do not make promises enforceable. Past consideration is required.
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1157,14 +1210,41 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Do we have an enforceable contract?
+  - No bargain for exchange - No consideration, Past Consideration
+  - Gift
+- Problems with unjust enrichment theory
+- π tried to get court to accept moral obligation theory
+  - Moral obligation = **Anyone who received a benefit should feel morally bound to repay for the benefit conferred**
+    - Even though benefit was not asked for.
+    - Moral Obligations that have precedent
+      - Debts incurred on behalf of children
+        - Debt for promise to pay back once an adult is enforceable
+      - Debts incurred in bankruptcy
+        - reaffirmation of debt based on a legally binding contract is enforceable
+      - Deal barred by statute of limitations
+        - although law may say you dont have to pay and you promise to pay it is enforceable
+      - Prior bargain for exchange creates moral obligation once promise is made
+- Moral Obligation lacking in case.
+- [Universally Accepted Theory that verbal promise without consideration cannot be enforced](https://alexeibex.github.io/Contracts#the-substantive-bases-of-contract-liability)
+- Allowing for enforcement of moral obligation theory on this promise would result in people forced to be people of their word.
 
 
 #### Restatement (Second) Of Contracts § 82(1)
 - A promise to pay all or part of an antecedent contractual or quasi-contractual indebtedness owed by the promisor is binding if the indebtedness is still enforceable or would be except for the effect of a statute of limitations.
 
 #### Case: *[Webb v. McGowin](Link)*
+- Opposite Ruling on Moral Obligation Theory
+  - Unjust enrichment
+    - State of mind was not a gift
+      - π spur of the moment action
 - Protection as Consideration
-- Protecting McGowin from injury was sufficient consideration for McGowin’s later promise to pay Webb to be binding
+- Protecting McGowin from injury was sufficient consideration for McGowin’s later subsequent promise to pay Webb to be binding
+- Moral Obligation Facts to weigh in favor of enforcement
+  - ∆ received direct benefit
+  - ∆ already expressly agreed and payed π for benefit received
+  - π and ∆ already worked out payment/amounts
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Injury to plaintiff in saving promisor's life was sufficient legal consideration to enforce the subsequently deceased promisor's promise to pay an amount periodically from defendants for the remainder of plaintiff's life.</li>
@@ -1184,6 +1264,19 @@ Party Autonomy (Squeegee)
 
 ---
 
+## Attack Flow
+- Do we have an enforceable contract?
+  - Agreement with consideraton?
+    - Gift?
+  - Bargain-for-Exchange?
+    - Promise come before or after?
+    - Did detriment induce promise/promise induce the detriment?
+    - Yes/No
+- Did the ∆ engage in Promissory Estoppel
+- Was the ∆ Unjustly Enriched?
+  - ∆ confer a benefit?
+  - Expectation of payment?
+    - Was the benefit thrust upon the ∆?
 
 
 
