@@ -1561,3 +1561,196 @@ and, later, opposed the 1787 constitution.
 #### Summmary
 - Garcia Case
   - Allows for regulation of states under federal regulation.
+
+## The National Taxing and Spending Powers and Their Federalism-Based Limits
+#### The Taxing Power as a Regulatory Device
+- Article 1 § 8
+  - Congress invoking the taxing power when commerce clause seems unusable
+
+#### Case: *[Child Labor Tax Case - Bailey v. Drexel Furniture Co.](Link)*
+- [Hammer v. Dagenhart](link), the Court held unconstitutional Congress's efforts to regulate child labor through exercise of the commerce power.
+  - Congress enabled Child Labor Tax Law - imposing a federal excise tax
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Child Labor Tax was invalidated because it sought to regulate state child labor, an exclusive state function, through imposing a penalty on those such as a manufacturer who failed to act in accordance with Congress' wishes.</li>
+    <li><b>Facts:</b> Plaintiff incurred tax liability under the Child Labor Tax Law (Law), 40 Stat. 1057, 1138 (1919), by permitting a child to work in its factory. After paying the tax bill under protest, plaintiff brought suit challenging the constitutionality of the Law and sought a tax refund. It is contended that the Law regulates employment of child labor which is an exclusively state function. The District Court struck the Child Labor Tax Law for being an invalid exercise of state function. Defendant appealed from the lower court's entry of judgment in favor of plaintiff.</li>
+    <li><b>Issue:</b> Was the Child Labor Tax Law unconstitutional for being an invalid exercise of state power?</li>
+    <li><b>Rule:</b> Where a sovereign enacting a law has power to impose both tax and penalty the difference between revenue production and mere regulation may be immaterial, but not so when one sovereign can impose a tax only, and the power of regulation rests in another. Taxes are occasionally imposed in the discretion of the legislature on proper subjects with the primary motive of obtaining revenue from them and with the incidental motive of discouraging them by making their continuance onerous. They do not lose their character as taxes because of the incidental motive. There comes a time in the extension of the penalizing features of the so-called tax when it loses its character as such and becomes a mere penalty with the characteristics of regulation and punishment.</li>
+    <li><b>Conclusion:</b> The Court on appeal affirmed, holding that the Law was an impermissible attempt to regulate employment of child labor, an exclusive state function reserved under U.S. Const. amend. X. The Court held that the Law was not an allowable federal government excise tax but rather a penalty enacted to coerce state citizens to act in accordance with Congress' views on child labor. The Law was not naturally and reasonably adapted to collection of a tax but an impermissible attempt to achieve a purpose solely within state power.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - Regulation of Child Labor through tax.
+  -
+
+
+
+#### Case: *[United States v. Kahriger](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A decision that an excise tax on wagering was unconstitutional was improper because the tax was not arbitrary and was regulatory in nature.</li>
+    <li><b>Facts:</b> The issue raised by this appeal is the constitutionality of the occupational tax provisions of the Revenue Act of 1951, which levy a tax on persons engaged in the business of accepting wagers, and require such persons to register with the Collector of Internal Revenue. The unconstitutionality of the tax is asserted on two grounds. First, it is said that Congress, under the pretense of exercising its power to tax has attempted to penalize illegal intrastate gambling through the regulatory features of the Act (26 U. S. C. (Supp. V) § 3291) and has thus infringed the police power which is reserved to the states. Secondly, it is urged that the registration provisions of the tax violate the privilege against self-incrimination and are arbitrary and vague, contrary to the guarantees of the Fifth Amendment</li>
+    <li><b>Issue:</b> Is a wagering tax an unconstitutional regulation of matters within the exclusive power of the states and does it violate the guarantee against self-incrimination of the Fifth Amendment?</li>
+    <li><b>Rule:</b> Unless there are provisions extraneous to any tax need, courts are without authority to limit the exercise of the taxing power. The remedy for excessive taxation is in the hands of Congress, not the courts.</li>
+    <li><b>Conclusion:</b> The court found that the excise tax had a regulatory effect, produced revenue, and clearly defined the activities covered and excluded. The court also found that the registration requirements of the excise tax on wagering were not offensive. The court further found that the required data was directly and intimately related to the collection of the tax and were obviously supportable as in aid of a revenue purpose. The court also rejected the taxpayer's argument that the excise tax was a denial of the privilege against self-incrimination. The court determined that under the registration provisions of the excise tax, the taxpayer was not compelled to confess to acts already committed, he was merely informed by the statute that in order to engage in the business of wagering in the future he must fulfill certain conditions. A majority of the Supreme Court, in reversing the dismissal, held, in an opinion by Reed, J., that the wagering tax, since it produced revenue, was not an unconstitutional regulation of matters within the exclusive power of the states; did not violate the guarantee against self-incrimination of the Fifth Amendment, since it did not compel tax registrants to confess to acts already committed; and did not employ arbitrary classification or vague statutory definitions violative of due process.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Regulatory deterrence does not equal penalty
+  - As long as it raises revenue
+  - Typical excise tax
+  - Not a coercive amount of money
+  - Register as "gambler" - (self-incrimination issue?)
+- Jackson Concurring
+  - May impair congress's ability to tax
+- Frankfurter Dissent
+  - Regulatory Punitive
+    - Wrapped legislation in verbal cellophane of a revenue measure.
+
+#### Mandatory health insurance purchase as a tax
+
+#### Case: *[National Federation of Independent Business v. Sebelius](Link)*
+- Review of ACA under Congress's ability to impose a tax.
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Upheld the individual mandate under the taxing power granted to Congress.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Congressional History
+  - "not a tax, not a tax, not a tax"
+- Court Opinion
+  - Tax on those who do not "buy" insurance
+    - Financial Burden
+    - No intent requirement
+    - Enforcement by IRS not regulatory agnecy
+  - The Patient Protection and Affordable Care Act of 2010’s requirement that certain individuals pay a financial penalty for not obtaining health insurance may reasonably be characterized as a tax. Because the Constitution permits such a tax, it is not the United States Supreme Court’s role to forbid it, or to pass upon its wisdom or fairness.
+- Objective Factors examined looks like a tax
+- Court Dissent
+  - Violation of separation of powers
+    - Judicial tax writing is particulary troubling
+  - Penalty > Tax
+    - act adopts the criteria of wrongdoing and then imposes a monetary penalty as the principal consequence on those who transgress its standard it creates a regulatory penalty, not a tax.
+
+
+#### Spending Power as a Regulatory Device
+- Carrot v. Stick
+
+#### Case: *[United States v. Butler](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A cotton tax imposed on receivers under the Agricultural Adjustment Act was an unconstitutional assertion of power by Congress and invaded the reserved rights of the states to regulate and control agricultural production.</li>
+    <li><b>Facts:</b> Under the Agricultural Adjustment Act, the government claimed cotton taxes from respondent receivers and the receivers recommended that the claim be disallowed. The government argued that the Act was valid because Congress was authorized to appropriate and authorize spending for the "general welfare" under U.S. Const. art. I, § 9, cl. 7, and that the Act was an effort to aid farmers during the great depression. The district court found the taxes valid and ordered them paid, but the United States Circuit Court of Appeals reversed on appeal. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Is the Agricultural Adjustment Act valid?</li>
+    <li><b>Rule:</b> U.S. Const. art. I, § 8, cl. 1 confers upon the Congress power to lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States. The true construction of this clause undoubtedly is that the only thing granted is the power to tax for the purpose of providing funds for payment of the nation's debts and making provision for the general welfare.</li>
+    <li><b>Conclusion:</b> The Court held that while the Act might have been within Congress' power if it fell within the ambit of the term "general welfare," the Court did not have to reach the question of the interpretation of that whether it did so because the Act was unconstitutional on other grounds. The Act was clearly designed to regulate agriculture by coercing a non-cooperating minority to a desired action with economic pressure. However, the power to regulate agriculture was not granted to Congress by the Constitution, but rather, was reserved to the States. The tax, the appropriation of the funds raised, and the direction for their disbursement, were possibly permissible means to an unconstitutional end. Thus, Congress had no power to enforce its commands on the farmer to the ends sought by the Act, and it could not indirectly accomplish those ends by taxing and spending to purchase compliance.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Curtail production and receive reward
+- Court Opinion
+  - Act = Coercion by economic pressure.
+  - Enumeration of spending for anything v. power to spend on enumerated rights given to Congress
+  - Cannot justify congracts which are not within federal power
+  - Limits on production != enumerated power outlined in Constitution.
+
+
+#### Case: *[Charles C. Steward Machine Co. v. Davis](Link)*
+- Social Security Compensation
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Helvering v. Davis](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Rehnquist Court's deferential approach to regulatory conditions on spending
+
+#### Case: *[South Dakota v. Dole](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Congress did not overstep its bounds when it passed a law to encourage states to raise their minimum drinking age and if they failed to do so, the Secretary of Transportation was permitted to withhold federal highway funds.</li>
+    <li><b>Facts:</b> The law the state challenged was intended to encourage states to raise their minimum drinking age to 21. In the event a state failed to raise its minimum drinking age to 21, appellee Secretary of Transportation was permitted to withhold a percentage of a state's federal highway funds. The state argued that congress, by enacting the law, impermissibly impaired its exclusive and constitutionally protected right to regulate the consumption of alcoholic beverages. The court stated that congress could have reasonably concluded that the problem of young adults drinking and driving was not a purely local or intrastate concern but rather is a concern of interstate and national proportions. </li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Test
+  - Spending for the General Welfare
+  - Clear conditions to be met
+- Relatedness Test
+  - Highway Funds compared to Interstate Travel and Underage Drinking/Driving
+- Court Dissent
+  - Spending Test Condition
+    - Relatedness test is too weak
+
+
+#### Affordable Care Act and the Revival of Limits on the Spending Power
+#### Case: *[National Federation of Independent Business v. Sebelius](Link)*
+- Struck down coercive nature of Affordable Care Act
+-
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - Coercive nature of act % of funding of state income considered "gun to head"
+    - 10% of a state's overall budge in contrast is economic dragooning that leaves states with no opion but to acquiesce in Medicaid Expansion.
+    - 

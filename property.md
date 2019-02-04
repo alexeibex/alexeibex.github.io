@@ -14,7 +14,7 @@ Supplemental Reading: Gilberts Outline, Sprankling
 
 
 ## 1.0 Introduction
-
+- <span style="color:red">**ENCOURAGE with INCENTIVSE DON;'t Incentivize'**</span>
 #### Class Themes:
 No single unifying theory of property. Numerous older doctrines and rules that pervade modern facts and issues. Resurgent movement to change methodology and provide unfiying theory of property.
 #### Questions
@@ -529,26 +529,28 @@ Reading: Pages 57-69 & 72-82
   3. **Open & Notorious & Visible Possession**
     - Penalizes owner for sleeping on their rights
       - Test is objective
+      - *Scott v. Anderson-Tully*
     - Possessor must unfurl his flag on the land and keep it flying so that the actual owner may see, and if he will, that an enemy has invaded his domains, and planted the standard of conquest. - *Scott v. Anderson-Tully Co.*
   4. **Possession that is continuous for the statutory period**
     - Need not be constant just match average owner's use
   5. **Hostile Possession that is Adverse**
     - Possession is hostile and adverse when the adverse possessor intends to claim title notwithstanding that the claim is made under a mistaken belief that the land is within the class of possessor's deed.
     - Under a claim of right (color of title)
+      - Some piece of paper that makes you think you have a right to the property even if mistaken.
   6. **For the Statutory Time**
+    - Exceptions for disabilities
   7. Optional
     - **Peaceful** (Non-Standard)
     - Sometimes payment of property taxes (Non-Standard)
 
-- Justification of Adverse Possession
-  - . . . the doctrine apparently affords an anomalous instance of maturing
-a wrong into a right . . .
+#### Justification of Adverse Possession
+  - . . . the doctrine apparently affords an anomalous instance of maturing a wrong into a right . . .
   - It’s not about the merit of the possessor, but the demerit of the one out of possession. We want people to use land in a useful way.
   - The purpose of adverse possession is to “automatically quiet all titles which are openly and consistently asserted, to provide proof of meritorious titles, and correct errors in conveyancing.
-- Economics: Holmes was invoking diminishing marginal utility of income.
-- Psychology: Holmes was anticipating prospect theory, which holds that people are more upset by losing something in hand than by forgoing the opportunity to realize an equivalent gain.
-- Morality: the new possessor depends on the property, and it’s wrong for the original owner to establish and then cut off that dependence.
-- Environmental: Assumption that land should be developed when perhaps for environmental purposes land should be left to its own devices.
+- **Economics:** Holmes was invoking diminishing marginal utility of income.
+- **Psychology:** Holmes was anticipating prospect theory, which holds that people are more upset by losing something in hand than by forgoing the opportunity to realize an equivalent gain.
+- **Morality:** the new possessor depends on the property, and it’s wrong for the original owner to establish and then cut off that dependence.
+- **Environmental:** Assumption that land should be developed when perhaps for environmental purposes land should be left to its own devices.
 
 
 #### Case: *[Scott v. Anderson-Tully Co.](https://www.lexisnexis.com/lawschool/resources/p/casebrief-scott-v-anderson-tully-co.aspx)*
@@ -663,6 +665,9 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 - What about Howard? Is he left without property?
 
 ### Ownership of Bodyparts - Personhood
+- Comodification of body parts
+  - Should we comodify?
+    - Comodification of everything
 - Universal Consensus today that people are not a permissible subject of property rights
 - Formal Slavery is abolished + Supreme Court has long invalidated schemes that would permit **peonage** systems of of servitude based on unpaid debts.
   - People are autonomous moral agents
@@ -675,9 +680,56 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
     <li><b>Overview:</b> Physician's use of patient's cells in medical research without the patient's permission did not state a cause of action for conversion because the patient had no ownership interest in the cells after they left his body.</li>
     <li><b>Facts:</b> Review was sought of appellate court's decision, which found plaintiff stated cause of action for conversion when defendants used plaintiff's cells in medical research without permission. The court found plaintiff stated cause of action for breach of physician's disclosure obligations. Physicians seeking patient consent for medical procedures must disclose personal interests unrelated to the patient's health that may affect medical judgment. Defendant did not properly disclose personal interests in plaintiff's cells before he operated, thus plaintiff stated cause of action for breach of disclosure obligations. The court reversed and held use of plaintiff's cells without permission did not state conversion cause of action. Plaintiff did not retain ownership interest in cells after they left his body and thus could not assert conversion claim. Conversion should not lie because it would discourage medical research of cells and patients are adequately protected from abuse because of informed consent laws.
  </li>
-    <li><b>Issue:</b> </li>
+    <li><b>Issue:</b> Does existing law give right to the spleen? Should existing law be extended to give π right to the spleend? </li>
     <li><b>Rule:</b> To establish a conversion, plaintiff must establish an actual interference with his ownership or right of possession. Where plaintiff neither has title to the property alleged to have been converted, nor possession thereof, he cannot maintain an action for conversion. While it ordinarily suffices to allege ownership generally, it is well established that a complaint's contentions or conclusions of law do not bind courts. The Uniform Anatomical Gift Act, Cal. Health and Safety Code § 7150 et seq., permits a competent adult to give all or part of his body for certain designated purposes, including transplantation, therapy, medical or dental education, research, or advancement of medical or dental science. The act does not, however, permit the donor to receive valuable consideration for the transfer.</li>
     <li><b>Conclusion:</b> The court reversed the appellate court's decision, finding plaintiff did not state conversion claim when defendants used plaintiff's cells in medical research without permission because plaintiff had no ownership interest in cells after they left his body; plaintiff did state claim for breach of physician's disclosure obligations.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Body was given voluntarily
+- Ownership != Right of Possession
+  - Conversion requires interference of one or the other.
+  - Moore did not have an intent to possess the removed spleen
+    - Does Moore still **own** the spleen?
+      - No
+    - CA Statute drastically limits patient rights to excised cells
+  - Patient has the right to go to a different doctor if they do not consent to use of cells in research
+  - Under existing law no conversion liability
+    - <span style="color:red">Should it be altered to extend right's to π?</span>
+- Majority
+  - High Social Value in Medical Research
+  - Concerns on disclosure could be handled
+  - Who should decide who should own this?
+    - Policy issues at heart of issue
+- Concurrence
+  - Economic solution
+    - Licensing scheme, fixed rate of profit sharing of economic value
+- Dissent
+  - Ownership to biomedical waste limited by statute is not a concern
+    - Property rights have a large number of restrictions
+      - Ancticipation of bankruptcy
+      - Licensed hunter cannot sell what he kills but he can gives it away
+  - Akin to slavery to allow scientists and industrialists
+    - The right to appropriate and exploit a patient's tissue for their sole economic benefit the right, in other words, to freely mine or harvest valuable physical properties of the patient's body
+  - Disclosure efficacy
+    - Unequal bargaining power between Cancer patient is likely not to drive a hard bargain.
+    - Unjust enrichment - fair share of benefits
+
+### Trespass to Land
+- Central Right of Property Ownership = The Right to Exclude Others
+
+#### Case: *[Jacques v. Steenberg Homes, Inc](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

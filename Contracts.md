@@ -23,7 +23,7 @@
   - Whether enforced by a government, or otherwise, the contract is the basic building block of a free market economy. Over many centuries of cultural evolution has emerged both the concept of contract and principles related to it, encoded into common law.
 
 ### 1.1 Contracts
-- **Contacts** = **Offer** + **Acceptance** + **Consideration**
+- **Contract** = **Offer** + **Acceptance** + **Consideration**
 - Legality of Contracts:
   - Agreements that our legal system will enforce and permit.
 - Considerations required for legal enforcement for Contracts
@@ -1258,8 +1258,247 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Consideration: Although there was no previous request, the subsequent promise obviated that objection, it being equivalent to a previous request.
+
+- Concurring: Law ought not to be separated from justice, where it is most doubtful.
+
+#### Lawyering and Law Professing
+1. Proposition: In all of time there have **never been two cases** exactly alike in facts.
+2. Proposition: If a case in court, it **belongs in court** because **the legal doctrines do not decide it.**
+3. Proposition: **Tools not Rules**. Every legal doctrine exists for the sake of achieving justice.
+  1. Legal doctrines do not decide the case that belong in court; they do however establish the toolery for seeking justice in the case.
 
 
+#### Case: *[Edson v. Poppe](Link)*
+- Different from Webb v. McGown (personal injury)
+  - Business Injury (Economic Injury/Benefits)
+  - Should Edson rule be extended?
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Judgment in favor of a tenant was proper where a subsequent promise of an owner to pay the tenant the reasonable value for digging, and casing a well was binding and supported by sufficient consideration.</li>
+    <li><b>Facts:</b> After the tenant drilled a well upon the premises, the owner, in consideration of the well to him, allegedly ratified the acts of the tenant in having the well drilled and agreed to pay the tenant for the reasonable value for digging the well. Thereafter, the tenant filed an action against the owner to enforce the promise. The trial court, upon a jury verdict, rendered judgment in favor of the tenant. The owner appealed. </li>
+    <li><b>Issue:</b> Whether the subsequent promise of the owner to pay the tenant the reasonable value for digging and casing the well was binding and supported by sufficient consideration?</li>
+    <li><b>Rule:</b> Past services are not a sufficient consideration for a promise to pay therefor, made at a subsequent time, and after such services have been fully rendered and completed; however, a moral obligation, founded on previous benefits received by the promisor at the hands of the promisee, will support a promise by him. </li>
+    <li><b>Conclusion:</b>  The court held that the instructions based on the complaint, and in particular as to the validity of the subsequent promise of the owner, were properly submitted to the jury. Accordingly, the judgment in favor of the tenant was affirmed.
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Consideration = Promise to pay for a benefit that was previously received.
+- ∆ Benefit Receieved = Dug well
+- π Benefit Conferred = Work + Time in digging well.
+
+- **Moral Obligation**
+  - Past services are not a sufficient consideration for a promise to pay therefor, made at a subsequent time, and after such services have been fully rendered and completed; however, a moral obligation, founded on previous benefits received by the promisor at the hands of the promisee, will support a promise by him. (Legal Fiction?)
+
+- **Sufficient Consideration**
+  - An express promise for past services rendered without previous request is supported by a sufficient consideration if the services were beneficial, and were not intended to be gratuitous.
+  - An act done for the benefit of another without his request is deemed a voluntary act of courtesy, for which no action can be sustained, unless after knowing of the service the person benefited thereby promises to pay for it. **However, if the consideration, even without request, moves directly from plaintiff to defendant, and inures directly to defendant's benefit, the promise is binding though made upon a past consideration.**
+    - Acknowledgement of the well v. promise to pay.
+      - Evidence required to demonstrate promise with consideration.
+
+- Examination of Consideration
+  - [Fuller](Link)
+    - Evidentiary Function + Cautionary Function
+    - Henderson - Cautionary function is handled
+      - **The time lag between performance and promise affords an opportunity for deliberation and the exercise of caution as well as the evaluation of price not present in most conventional bargains.**
+- Compared to Gustafson and Penn-o-Tex (link)
+  - Facts perhaps incomplete?
+
+
+### Restatement of Contracts §86
+#### Promise for Benefit Receieved
+1. A promise made in recognition of a benefit previously recieved by the promisor from the promisee is binding to the extent necessary **to prevent injustice** (courts subjective) (oh boy)
+2. A promise is not binding under Subsection (1):
+  1. IF the promisee conferred the benefit as a gift or for other reasons the promisor has not been unjustly enriched;
+  2. To the extent that its value is disproportionate to the benefit.
+##### Comments:
+- Past Consideration: The mere fact of promise has been thought to create a moral obligation, but it is clear that not all promises are enforced. Nor are moral obligations based solely on gratitude or sentiment sufficient of themselves to support a subsequent promise.
+- Rationale: In other cases restitution is denied by virtue of rules designed to guard against false claims, stale claims, claims already litigated, and the like.
+- **Examination of Facts**
+  - Facts such has the definite and substantial character of the benefit received, formality in the making of the promise, part performance of the promise, reliance on the promise, or the probability of such reliance may be relevant to show that no impositon results from enforcement.
+
+### Obligation Arising From A Statutory Warranty
+- Law enforces promises made by sellers, lessors, or others concerning the quality of their performance.
+
+### Statutory Warranty
+
+#### Express Warranties
+- UCC 2-313
+-
+#### Case: *[Keith v. Buchanan](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  A sales brochure that represented that a boat was seaworthy was an express warranty and was presumptively part of the basis of the agreement between the buyer and seller of a boat.</li>
+    <li><b>Facts:</b> Plaintiff buyer purchased a boat from defendant sellers after he reviewed the representations in the sales brochure and spoke with sales representatives. After the boat was delivered, a dispute arose as to the seaworthiness of the boat. Plaintiff brought suit and alleged a breach of an express warranty and breach of an implied warranty. The trial court dismissed the action at the close of plaintiff's case and held that there was no express warranty and there was no implied warranty of fitness. The buyer sought review to the Court of Appeal of California.</li>
+    <li><b>Issue:</b> Are the sellers liable for express warranties? 1. Whether the seller's statements contitutute an affirmation of fact or promise, or description of the goods under CA UCC, or whether it is rather merely the seller's opinion or commendation of the goods under section. 2. Assuming the court finds the language used susceptible to creation of a warranty it must then be determined whether the statement was part of the basis of the bargain. 3. Court must determine whether the warranty was breached. </li>
+    <li><b>Rule:</b> An implied warranty of fitness for a particular purpose arises only where (1) the purchaser at the time of contracting intends to use the goods for a particular purpose, (2) the seller at the time of contracting has reason to know of this particular purpose, (3) the buyer relies on the seller's skill or judgment to select or furnish goods suitable for the particular purpose, and (4) the seller at the time of contracting has reason to know that the buyer is relying on such skill and judgment. </li>
+    <li><b>Conclusion:</b> The court held that the representations regarding the boat's seaworthiness made in sales brochures were affirmations of fact relating to the quality or condition of the vessel. The court stated that a warranty statement made by defendants was presumptively part of the basis of the bargain, and defendants carried the burden to prove that bargain did not rest on the representation. The court held defendants failed to overcome this burden. However, the court affirmed the trial court's holding that there was no implied warranty of fitness because there was substantial evidence that plaintiff did not rely on the skill or judgment defendants in the selection of the vessel in question.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - Tangible Good = Yacht
+  - ∆ claim = Not "affirmation of fact"
+- Test for **Affirmation of Fact**
+  - Test by Industry Custom/Standards
+  - 1. Lack of **specificity** +
+  - 2. Statement made in **equivocal** manner (hedging) +
+  - 3. Statement reveals that the goods are **experimental in nature**
+  - (1 + 2 + 3) = Affirmation of Fact or Promise
+
+- [**Basis of the Bargain**](LINK)
+  - Despite inspection by "experts" seaworthiness test was not inspected
+    - Boat was never put in water
+- Warranty Fit for a Particular Purpose
+  - Buyer must rely on seller's statements
+  - Buyer did not rely, brought his own experts.
+
+#### Implied Warranty of Merchantability
+- UCC 2-316
+- Reasonable and Expected within the **Trade**
+- Standard of goods are fit for the ordinary purposes for which such goods are used
+
+
+#### Case: *[Webster v. Blue Ship Tea Room](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The presence of a fish bone in fish chowder should reasonably have been anticipated and guarded against by plaintiff, a restaurant customer, and was not a breach of implied warranty under the Uniform Commercial Code.</li>
+    <li><b>Facts:</b> Plaintiff was injured when a fish bone lodged in her throat while dining at defendant's restaurant. An action to recover damages for personal injuries was sustained by reason of a breach of implied warranty related to food served in defendant's restaurant. The trial court found for plaintiff. Defendant appealed and asserted that New England fish chowder is a hearty dish, and no chef should be asked to reduce the pieces of fish to miniscule size in an effort to ascertain if they contained any pieces of bone.</li>
+    <li><b>Issue:</b> Was there a breach of implied warranty that plaintiff entitled to damages?</li>
+    <li><b>Rule:</b> The possible presence of a piece of oyster shell in or attached to an oyster is so well known to anyone who eats oysters that the court can say as a matter of law that one who eats oysters can reasonably anticipate and guard against eating such a piece of shell.</li>
+    <li><b>Conclusion:</b> The court found no breach of implied warranty because a restaurant customer such as plaintiff, eating fish chowder, should have anticipated having to remove some fish bones from her bowl. The court even reviewed the history of fish chowder and found no recipes that instructed the cook to ensure that the fish was bone-free. Therefore, the bone which injured plaintiff did not impair the fish chowder's fitness or merchantability. The court sustained defendant's exceptions and entered judgment for defendant.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Merchantability of Chowder
+  - How many bones = unmerchantible
+    - Fillet = Boneless?
+- TEST: Foreign Substance v. Natural Substance
+
+
+### The Statute of Frauds
+- Requires that certain contracts for the sale of goods be **in writing in order to be enforceable.**
+  - Acronym: MY LEGS
+- Compliance with the statute of frauds does not itself prove the existence of a contract.
+  - π will not prevail merely by satisfying the statute of frauds
+    - π must still prove breach of contract
+  - ∆ with a statute of frauds defense will prevail and the π will not recover even if the π proves the contract.
+    - π may be able to recover the value of any benefit conferred via restitution theory. [*Gay v. Mooney*](LINK)
+    - ∆ can admit to an oral agreement yet plead the statute as a bar to recovery by π.
+- Statute of Frauds issues
+  - Does the statute apply "within the statute"?
+  - IF it is within the statute:
+    - Does a memorandum, note, or other writing satisfy the statute?
+  - IF it is within the statute and there is no complying writing:
+    - Does the statute or the case law recognize an exception?
+  - Finally, IF no to all above:
+    - Does any other doctrine mitigate what would otherwise be the effect of non-compliance?
+
+#### Case: *[Howard M. Schoor Associates, Inc. v. Holmdel Heights Construction Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> When a promise to answer for the debt of another furthered a significant pecuniary interest of the promisor, the agreement was outside the scope of the Statute of Frauds because the promise furthered that interest, not that of third party.</li>
+    <li><b>Facts:</b> Plaintiff creditors provided professional services to a business in which defendant debtor held a large interest. They maintained that he personally guaranteed payment. Defendant argued that if there was such an agreement, it was unenforceable under the Statute of Frauds</li>
+    <li><b>Issue:</b> Whether ∆s promise fell within the statute of frauds and required a written contract?</li>
+    <li><b>Rule:</b> Whether or not the Statute of Frauds will apply is then to depend upon whether this consideration was mainly desired for the promisor's benefit or for the benefit of the original debtor. In applying this rule the finder of fact must examine all circumstances bearing upon the transaction, the relationship of the parties to one another and endeavor to discern the intent, purpose and object of the promisor. In undertaking this examination the nature of the consideration will be of great if not paramount importance.</li>
+    <li><b>Conclusion:</b> The court reversed the intermediate appellate court's judgment and reinstated the trial court's judgment in favor of plaintiff creditors in their action to recover monies owed by defendant debtor. The court held that the parties' agreement was not within the Statute of Frauds because defendant's promise to guarantee payment of plaintiffs' services furthered his own pecuniary interests.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- Surity, Promise to pay another's debt
+  - Exception to Statute of Frauds; Leading Object
+    - TEST: Leading Object Rule
+      - Material Self Interest
+      - Proxy for the elimination of writing requirements
+        - Self Intrest makes it probable that the π is not lying
+      - Evidentiary
+- Statue of Frauds give you the opportunity to prove your case
+
+#### Case: *[Sterling v. Taylor](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In a real estate contract case, the signature of a partner for an unidentified partnership complied with the statute of frauds; parol evidence was admissible to identify the partnership and to identify properties described by street address.</li>
+    <li><b>Facts:</b> A document purporting to be a confirmation of a contract of sale, which was signed on behalf of the sellers by a general partner, did not indicate that the general partner was signing on behalf of the partnership. The properties were described by street address, and the purchase price was described as a multiplier of gross income. The parties did not complete the transaction, and the sellers returned deposit checks to the buyers. </li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court reversed the summary judgment and ordered the trial court to vacate its order granting summary judgment and enter a new and different order denying the motion for summary judgment but granting summary adjudication to the sellers as to the fraud claim.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- The statute of frauds applies to agreements for the sale of real property or real property interests.
+- To satisfy the statute of frauds, a writing must be signed by the party to be charged and contain the names of the parties to the agreement, the price to be paid, the terms and manner of payment, and a description of the property.
+
+
+#### Case: *[McIntosh v. Murphy](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Judgment for former employee for employer's breach of a one-year oral employment contract was appropriate because former employee's reliance was such that injustice could only be avoided by enforcement of the contract.</li>
+    <li><b>Facts:</b> Defendant employer challenged a decision entering judgment for plaintiff former employee in an action for breach of a one-year oral employment contract. Plaintiff moved 2200 miles from Los Angeles to Hawaii to take the job and was fired prior to the end of the one-year contractual term. </li>
+    <li><b>Issue:</b> Can injustice be avoided only by enforcement of the promise?</li>
+    <li><b>Rule:</b> A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce the action or forbearance is enforceable notwithstanding the statute of frauds if injustice can be avoided only by enforcement of the promise. The remedy granted for breach is to be limited as justice requires. </li>
+    <li><b>Conclusion:</b> In determining whether injustice can be avoided only by enforcement of the promise, the following circumstances are significant: (a) the availability and adequacy of other remedies, particularly cancellation and restitution; (b) the definite and substantial character of the action or forbearance in relation to the remedy sought; (c) the extent to which the action or forbearance corroborates evidence of the making and terms of the promise, or the making and terms are otherwise established by clear and convincing evidence; (d) the reasonableness of the action or forbearance; (e) the extent to which the action or forbearance was forseeable by the promisor. There is no dispute that the action of the plaintiff in moving 2200 miles from Los Angeles to Hawaii was foreseeable by the defendant. In fact, it was required to perform his duties. The enforcement of the contract and the granting of money damages can only avoid injustice. No other remedy is adequate.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Remedies
+
+#### Case: *[Groves v. John Wunder Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> A man and a corporation entered into a lease contract whereby the corporation agreed to remove sand and gravel and leave the property at a uniform grade, substantially the same as the grade that existed at the roadway. The corporation deliberately breached the contract by removing the richest and best of the gravel and failed to perform and comply with the terms of the lease. The lessor filed a case for breach of contract but was disappointed with the sum that he received for his claim. The case was appealed to the Supreme Court of Minnesota.</li>
+    <li><b>Issue:</b> Was the trial courts determination of damages proper?</li>
+    <li><b>Rule:</b> Even in case of substantial performance in good faith, the resulting defects being remediable, it is error to instruct that the measure of damages is the difference in the value between the house as it was and as it would have been if constructed according to contract. The correct doctrine is that the cost of remedying the defect is the proper measure of damages.</li>
+    <li><b>Conclusion:</b> The court held that a new trial was in order because the cost of remedying the defect was the amount awarded in compensation for failure to render the promised performance. The defendants were liable to the plaintiff for the reasonable cost of doing what the defendants promised to do and willfully declined to do.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Rock Island Improvement Company v. Helmerich & Payne, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Award of damages to improvement company in a breach of contract lawsuit was proper because district court committed harmless error in submitting the issue of the reclamation clause's importance to the jury.</li>
+    <li><b>Facts:</b> Appellant lessee leased two tracts of land in Oklahoma from appellee improvement company for coal mining purposes. The lease contained a reclamation clause, to restore the surface as nearly as possible to its condition prior to said mining operation. Appellant subleased the property to a strip-miner. When the lease period ended, the tracts were not reclaimed to appellee's satisfaction. Appellee filed a lawsuit against appellant for breach of the lease's reclamation provision, seeking damages equal to the amount necessary to reclaim the land.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b>The court affirmed the district court's order granting appellee improvement company judgment and awarding it damages in a breach of contract lawsuit. The district court committed harmless error in submitting the issue of the reclamation clause's importance to the jury.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 
 ---

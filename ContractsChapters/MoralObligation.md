@@ -1,11 +1,29 @@
-## Moral Obligation Theory
-*Mills v. Wyman*
-*Webb v. McGowin*
-*Edson v. Poppe*
-**- Moral Obligation**
-  - Past services are not a sufficient consideration for a promise to pay therefor, made at a subsequent time, and after such services have been fully rendered and completed; however, a moral obligation, founded on previous benefits received by the promisor at the hands of the promisee, will support a promise by him.
-**- Sufficient Consideration**
-  - An express promise for past services rendered without previous request is supported by a sufficient consideration if the services were beneficial, and were not intended to be gratuitous.
-  - An act done for the benefit of another without his request is deemed a voluntary act of courtesy, for which no action can be sustained, unless after knowing of the service the person benefited thereby promises to pay for it. However, if the consideration, even without request, moves directly from plaintiff to defendant, and inures directly to defendant's benefit, the promise is binding though made upon a past consideration.
+# Obligation: Moral Obligation
 
-### Restatement of Contracts §82(1)
+## Moral Obligation Theory
+- Moral obligations do not make promises enforceable.
+- **Past consideration** is required.
+  - Traditionally, there are **three areas** in which a promise to discharge a prior unenforceable obligation is binding:
+    - A promise to pay a debt barred by the statute of limitations.
+    - A promise by an adult to a pay a debt incurred when the person is underage.
+    - A promise to pay a debt that has been discharged by bankruptcy.
+  - Equity can compel courts to depart from the rule [*Webb v. McGown*](https://alexeibex.github.io/Contracts#case-webb-v-mcgowin)
+  - Past Consideration is sometimes binding. Some cases are “gratuitous transactions” (with no consideration) and “quasi-contracts” (with consideration, if justice requires).
+
+#### Case Law:
+- *Mills v. Wyman*
+- *Webb v. McGowin*
+- *Edson v. Poppe*
+
+### Restatement of Contracts §86
+#### Promise for Benefit Receieved
+1. A promise made in recognition of a benefit previously recieved by the promisor from the promisee is binding to the extent necessary to prevent injustice
+2. A promise is not binding under Subsection (1):
+  1. IF the promisee conferred the benefit as a gift or for other reasons the promisor has not been unjustly enriched;
+  2. To the extent that its value is disproportionate to the benefit.
+
+### Example
+- If A confers a benefit on B without B’s prior request, the subsequent relationship could fall into three categories:
+  - B is legally obligated to compensate A under the law of unjust enrichment—for instance, if A paid B money by mistake. The Restatement (Second) adopts this approach, though courts traditionally did not recognize it.
+  - B is morally but not legally obligated to compensate A—for instance, if B has suffered a loss on rescuing A. *Mills v. Wyman.*
+  - B is neither morally nor legally obligated to compensate A— e.g., ordinary gifts.
