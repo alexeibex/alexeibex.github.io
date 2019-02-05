@@ -753,7 +753,7 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 </details>
 
-## Repeated Trespasses
+### Repeated Trespasses
 
 #### Case: *[Baker v. Howard County Hunt](Link)*
 
@@ -771,7 +771,7 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
 
-## Building Encroachments
+### Building Encroachments
 
 #### Case: *[Pile v. Pedrick](Link)*
 
@@ -789,7 +789,7 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
 
-#### Case: *[Case Name](Link)*
+#### Case: *[Golden Press Inc. v. Rylands](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
