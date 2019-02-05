@@ -1361,7 +1361,7 @@ and, later, opposed the 1787 constitution.
 - Overruled by 10th amendment
 - Applied directly to the States and subdivisons of States as employers.
 - Court could not determine what activities of state government were an "integral government function"
--
+
 
 #### Case: *[Garcia v. San Antonio Metropolitan Transit Authority](Link)*
 - Holding a municiple transit authority property subjected to the minimum wage and overtime requirements of the FLSA.
@@ -1376,7 +1376,7 @@ and, later, opposed the 1787 constitution.
     <li><b>Facts:</b> The San Antonio Metropolitan Transit Authority (SAMTA), a public mass-transit authority that is the major provider of transportation in the San Antonio, Texas, metropolitan area, filed an action in the United States District Court seeking a declaratory judgment that, contrary to the determination of the Wage and Hour Administration of the Department of Labor, its operations are constitutionally immune from the application of the minimum-wage and overtime requirements of the Fair Labor Standards Act (FLSA). It relied on basis from National League of Cities v Usery (1976) 426 US 833, 49 L Ed 2d 245, 98 S Ct 2465, which held that the commerce clause does not empower Congress to enforce such requirements against the states in areas of traditional governmental functions. The District Court entered judgment for SAMTA, holding that municipal ownership and operation of a mass-transit system is a traditional governmental function and thus, under National League of Cities, is exempt from the obligations imposed by the FLSA. On appeal, appellant solicitor general argued that the court erred in extending immunity to appellee.</li>
     <li><b>Issue:</b> Is SAMTA immune from minimum-wage and overtime provisions of the FLSA?</li>
     <li><b>Rule:</b> The U.S. Supreme Court overrules the holding in National League of Cities v. Usery, 426 U.S. 833 (1976), that the Commerce Clause does not empower Congress to enforce minimum-wage and overtime provisions of the Fair Labor Standards Act, 52 Stat. 1060, 1067 (1938) against the states in areas of traditional governmental function.</li>
-    <li><b>Conclusion:</b The Court held that SAMTA was not immune from the minimum wage and overtime standards. The Court overturned the previous determination that the Commerce Clausedoes not empower Congress to enforce minimum-wage and overtime provisions of the FLSA because the provisions of FLSA did not destroy state sovereign immunity or violate any constitutional provision.></li>
+    <li><b>Conclusion:</b> The Court held that SAMTA was not immune from the minimum wage and overtime standards. The Court overturned the previous determination that the Commerce Clausedoes not empower Congress to enforce minimum-wage and overtime provisions of the FLSA because the provisions of FLSA did not destroy state sovereign immunity or violate any constitutional provision.></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -1737,7 +1737,8 @@ and, later, opposed the 1787 constitution.
 #### Affordable Care Act and the Revival of Limits on the Spending Power
 #### Case: *[National Federation of Independent Business v. Sebelius](Link)*
 - Struck down coercive nature of Affordable Care Act
--
+
+
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b></li>
@@ -1757,3 +1758,87 @@ and, later, opposed the 1787 constitution.
 ## Federal Limits on State Regulation of Interstate Commerce
 
 ### The Dormant Commerce Clause
+- Court invalidates some "protectionist" state legislation even in the absence of congressional preemption.
+
+#### Nondiscrimination Principle
+- Historical Origins ofthe dormant commerce clause
+  - Prevention of Prisonner's Dilemma between states.
+  - Marshall Decision in Ogden
+    - "Commerce is intercourse"
+
+#### Case: *[Gibbons v. Ogden](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An act of Congress gave full authority to defendants' to navigate steamboats in waters of the United States, and the law of the state of New York prohibiting navigation in the state was repugnant to the Constitution and void.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### The Nascent Dormant Commerce Clause
+- Marshall's dormant commerce clause dicta.
+  - Protection of interstate commerce yet avoid protectionist legislation
+  - State regulation of commerce were prohibited because of the "exclusive" commerce power.
+  - But "police" regulations were constitutional
+
+#### The Taney Court's search for formulations
+- Single standard reached under Cooley v. Board of Wardens
+  - Congress can exercise power but does not need to be exlclusive to Congress
+    - In absence of legislation
+      - No limits on states at all
+    - Some concurrent state regulatory power over commerce
+      - adopted a position that is still in effect.
+    - Determinative factor = the "subject" of regulation
+
+
+#### Case: *[Cooley v. Board of Wardens](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A state law was upheld as constitutional because the constitutional grant to Congress of the power to regulate commerce did not deprive the states of the power to regulate pilots.</li>
+    <li><b>Facts:</b> Pilots brought writs of error and sought to be exempted from the payment of half-pilotage fees, which they were required to pay pursuant to a state law that required certain ships to either receive a pilot or pay a fee. They contended that the state law contravened provisions of the Constitution. They also complained that the state law was repugnant to the provision of the Constitution that provided that Congress had the power to regulate commerce with foreign nations and among the several states. The Supreme Court of Pennsylvania found the state law constitutional and valid. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Is a state regulation involving the regulation of pilots constitutional and valid?</li>
+    <li><b>Rule:</b> The grant of a power to Congress, does not imply a prohibition on the states to exercise the same power. It is not the mere existence of such a power, but its exercise by Congress, which may be incompatible with the exercise of the same power by the states, and the states may legislate in the absence of congressional regulations. </li>
+    <li><b>Conclusion:</b> The Court affirmed the finding that the state law was valid and not in conflict with any provisions of the Constitution. The Court found that the grant to Congress of the power to regulate commerce did not deprive the states of the power to regulate pilots. Although Congress was granted such power, nothing required that it should be exercised exclusively by Congress.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Aftermath of Cooley and the rise and fall of the direct/indirect distinction
+- Difficult National v. Local Distinction
+
+
+#### Modern Categories of Dormant Commerce Clause Challenge
+- Increasing focus on form and purpose of state law.
+  - State laws that facially discriminate against out-of-state commerce are always struck down
+  - State laws that are facially neutral as between in-state and out of state interests but have an impermissibly protectionist pupose or effect to favor local economic interests
+  - Facially neutral but have a disproportionate adverse effect on interstate commerce
+
+
+### Facial Discrimination Against Out-of-State Commerce
+
+#### Case: *[Philadelphia v. New Jersey](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Statute permitting four categories of waste to enter state and excluding parties it had previous waste agreements with was unconstitutional because it was not a law directed at legitimate local concerns with incidental effects on interstate commerce.</li>
+    <li><b>Facts:</b> Plaintiffs, landfill operators, brought an action against defendants, state and department, arguing that N.J. Stat. Ann. 13:1I-10 was unconstitutional because it permitted four categories of waste to enter the state, and excluded plaintiffs. The trial court granted summary judgment in favor of plaintiffs, and the lower appellate court reversed, finding that the statute advanced vital health and environmental objectives with no economic discrimination against interstate commerce. The Supreme Court reversed the lower appellate court's decision.</li>
+    <li><b>Issue:</b> Does the statutory prohibition violate the Commerce Clause of the United States Constitution?</li>
+    <li><b>Rule:</b> Where the statute regulates evenhandedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative local benefits. </li>
+    <li><b>Conclusion:</b> The statute was a protectionist measure and not a law directed to legitimate local concerns, with effects upon interstate commerce that are only incidental. The court concluded that no matter what defendant's ultimate purpose was, it could not be accomplished by discriminating against articles of commerce coming from outside the state unless there was some reason, apart from their origin, to treat them differently. The court concluded that the contested statute both on its face and in its plain effect violated the principle of nondiscrimination because on its face, it imposed on out-of-state commercial interests the full burden of conserving the state's remaining landfill space.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
