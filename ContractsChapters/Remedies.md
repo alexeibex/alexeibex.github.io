@@ -5,8 +5,9 @@
   - [*White v. Bukowski*](https://alexeibex.github.io/Contracts#case-white-v-benkowski)
 
 ---
+## Measure of Damages when Breach
 
-## Expectations
+## Measure of Expectations Damages
   - Puts promisee in the position he would have been in **if the contract had performed**.
     - You get what you bargained for.
   - Expectation Damages are the difference between **promised performance and actual performance**
@@ -14,13 +15,17 @@
       - Two remedies
         - **Cost of Completion**
           - If a contracter leaves a job unfinished, the client can recover **cost of completion**.
-        - Diminuation in Value
-          - Where cost of performance exceeds diminuation in value, courts are likely to award damages only for diminuation in value.
+
     - Breach of Contract for the Sale of Goods
       - UCC Governs
         - Seller's Breach
           - Specfic Relief & Damages
-  - [*Hawkins v. McGee*](LINK)
+    - [*Hawkins v. McGee*](LINK)
+  - Objective v. Subjective Reward of Expectation Damages
+    - [Groves v. John Wunder Co.](Link)
+    - Diminuation in Value
+      - Where cost of performance exceeds diminuation in value, courts are likely to award damages only for diminuation in value.
+      -
 ---
 
 ## Reliance

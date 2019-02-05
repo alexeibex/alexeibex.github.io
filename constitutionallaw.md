@@ -1753,4 +1753,7 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
   - Coercive nature of act % of funding of state income considered "gun to head"
     - 10% of a state's overall budge in contrast is economic dragooning that leaves states with no opion but to acquiesce in Medicaid Expansion.
-    - 
+
+## Federal Limits on State Regulation of Interstate Commerce
+
+### The Dormant Commerce Clause

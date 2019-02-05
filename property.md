@@ -721,15 +721,101 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 ### Trespass to Land
 - Central Right of Property Ownership = The Right to Exclude Others
 
-#### Case: *[Jacques v. Steenberg Homes, Inc](Link)*
+#### Case: *[Jacque v. Steenberg Homes, Inc](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Punitive damage award of $ 100,000, which was given to property owners for intentional trespass to land, was sustained although the jury awarded $ 1.00 in nominal damages.</li>
+    <li><b>Facts:</b> Defendant’s mobile home was delivered by passing through the land owned by his neighbor despite the latter’s refusal to allow such passage. Plaintiff filed an action for trespass and was awarded nominal and punitive damages. Defendant opposed the award of punitive damages due to prior jurisprudence ruling otherwise. Punitive damages may be awarded in the discretion of the jury. Because the property owners' legal right to exclude all others from their land was involved, the court noted that the law recognized that actual harm occurred in every trespass. In the case of intentional trespass to land, the nominal damage award represented the recognition that actual harm had occurred. The decision, which carved an exception to precedent, applied to the trespasser as a reward to the property owners who persevered in attacking an unsound rule. The court also held that the amount of punitive damages was not excessive because the trespasser's conduct was egregious and deceitful.</li>
+    <li><b>Issue:</b> Whether an award of nominal damages for intentional tresspass to land may support a punitive damage award for intentional trespass?</li>
+    <li><b>Rule:</b> To determine whether, as a matter of law, the question of punitive damages should have been submitted to the jury, the reviewing court reviews the record de novo.</li>
+    <li><b>Conclusion:</b> The award of punitive damages is subject to the jury’s discretion and should not rely entirely on judicial precedent. Furthermore, the facts of each case involving claims for such damages should be reviewed de novo. Society has an interest in punishing and deterring intentional trespassers beyond that of protecting the interests of the individual landowner. Society has an interest in preserving the integrity of the legal system. Private landowners should feel confident that wrongdoers who trespass upon their land will be appropriately punished. The fact that the actor knows that his entry is without the consent of the possessor and without any other privilege to do so, while not necessary to make him liable, may affect the amount of damages recoverable against him, by showing such a complete disregard of the possessor's legally protected interest in the exclusive possession of his land as to justify the imposition of punitive in addition to nominal damages for even a harmless trespass, or in addition to compensatory damages for one which is harmful.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - The actual harm is not the damage done to the land, which may be minimal, but in the loss of the individual's right to exclude others from his or her property and the court impled that this right may be punished by a large damage award despite the lack of measurable harm.
+    - Essential sticks in the bundle of rights that are commonly characterized as property.
+
+#### Case: *[Hinman v. Pacific Air Transport](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b></li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b>The landowner filed suit against the airlines seeking injunctive relief and damages for alleged trespasses of airline flights over his land. The court affirmed the district court's dismissal of the landowner's bills. The court held that the landowner did not allege an injury by trespass that was legally sufficient. </li>
+    <li><b>Issue:</b> Does traversing the airspace above appellants' land considered trespassing?</li>
+    <li><b>Rule:</b> We own so much of the space above the ground as we can occupy or make use of, in connection with the enjoyment of our land. This right is not fixed. It varies with our varying needs and is coextensive with them. The owner of land owns as much of the space above him or her as is used, but only so long as he or she uses it. All that lies beyond belongs to the world.</li>
+    <li><b>Conclusion:</b> The case differs from the usual case of enjoining a trespass. Ordinarily, if a trespass is committed upon land, the plaintiff is entitled to at least nominal damages without proving or alleging any actual damage. In the instant case, traversing the airspace above appellants' land is not, of itself, a trespass at all, but it is a lawful act unless it is done under circumstances which will cause injury to appellants' possession. Appellants do not, therefore, in their bill state a case of trespass, unless they allege a case of actual and substantial damage. The bill fails to do this. It merely draws a naked conclusion as to damages without facts or circumstances to support it. It follows that the complaint does not state a case for injunctive relief.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+## Repeated Trespasses
+
+#### Case: *[Baker v. Howard County Hunt](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Dismissal of a trespass complaint against fox hunters for damages their hounds had caused was improper. An injunction was a proper remedy when there were repeated actions, the destruction of property, and irreparable injury.</li>
+    <li><b>Facts:</b> Defendant fox hunters repeatedly crossed the plaintiff landowners' property with their hounds while in pursuit of a fox. The hounds killed and harassed the plaintiffs' livestock and disrupted experiments that he was conducting. Plaintiff brought a trespass to land action and sought an injunction. The trial court dismissed the complaint and on appeal, the court reversed.</li>
+    <li><b>Issue:</b> Were plaintiffs entitled to injunctive relief?</li>
+    <li><b>Rule:</b> Equity will relieve against continuing or repeated trespasses, committed in pursuance of a single plan or purpose. Although an injunction will not be granted to restrain a trespasser merely because he is a trespasser, equity will interfere where the injury is irreparable or where full and adequate relief cannot be granted at law, or where the trespass goes to the destruction of the property as it had been held and enjoyed, or to prevent multiplicity of suits. </li>
+    <li><b>Conclusion:</b> The court held that the rights of the fox hunters were subordinate to the rights of the landowners, and that, if a hunter went on the lands of another against the owner's will, he was a trespasser. Similarly, the fox hunters were liable for the actions of the hounds when the evidence showed that they knew of the dogs' actions. An injunction was a proper remedy to avoid a multiplicity of actions, where the injury was irreparable or the trespass destroyed property. An injunction was appropriate against the fox hunters.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+## Building Encroachments
+
+#### Case: *[Pile v. Pedrick](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> It was proper to require an encroacher to remove a foundation wall that extended into a neighbor's property by one and three-eighths inches for a length of 50 feet because the encroacher was trespassing on the neighbor's property.</li>
+    <li><b>Facts:</b> The encroacher's foundation wall extended over the neighbor's property by one and three-eight's inches for a length of fifty feet. The encroacher contended that it should be permitted to enter the neighbor's land to remove the wall. The neighbor objected to paying one half of the costs. The court affirmed the judgment and permitted the encroacher one year to remove the wall. The court held that the encroacher had no choice but to remove the wall as ordered because the encroacher was trespassing on the neighbor's property. The court also affirmed the allocation of costs because it was within the trial court's discretion to allocate the costs.</li>
+    <li><b>Issue:</b> Is the encroachment considered a party wall?</li>
+    <li><b>Rule:</b> There is at common law no right to build a party wall over a neighbor's land: Barlow v. Norman, 2 W. Bl. 959; Bloch v. Isham, 7 Am. Law. Reg., N.S. 10; Weston v. Arnold, L.R. 8 Chan. App. 1084.</li>
+    <li><b>Conclusion:</b> The court held that the wall in controversy was not a party wall. It was not intended to be. The defendants were building a factory and under the advice of their architect decided to build within their own lines in order to avoid the danger of injury to others from vibration which might result from the use of their machinery. They called upon the district surveyor to locate their line and built within it as so ascertained. Subsequent surveys by city surveyors have determined that the line was not accurately located at first but was about one and a half inches over on the plaintiffs' property. This leaves the ends of the stones used in the foundation wall projecting into the plaintiffs' lands below the surface one and three eighths inches. This unintentional intrusion into the plaintiffs' land is the narrow foundation on which this bill in equity rests. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Case Name](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A mandatory injunction requiring removal of a building should have been denied where the surveying error, if any, was not in bad faith, only the underground footings of the building were encroaching, and there was no impact on the subject property.</li>
+    <li><b>Facts:</b> Plaintiffs' action sought an injunction and damages for the encroachment of defendant's building onto their property. The jury returned a verdict for defendant, but the court set aside the verdict, entered a mandatory injunction in favor of plaintiffs, and ordered a new trial on damages. Defendant appealed and the court reversed the injunction, but permitted plaintiffs to proceed with an action for damages. </li>
+    <li><b>Issue:</b> Is the denial of the mandatory injunction on the removal of a building encroachment valid?</li>
+    <li><b>Rule:</b> Where an encroachment of a building was deliberate and constituted a willful and intentional taking of another's land, equity may well require its restoration regardless of the expense of removal as compared with damage suffered therefrom; but where the encroachment was in good faith, the court should weigh the circumstances so that it shall not act oppressively. While the mere balance of convenience is not the proper test, relative hardship may properly be considered and the court should not become a party to extortion. Where defendant's encroachment is unintentional and slight, and plaintiff's use was not affected, mandatory injunction may be denied when the damage is small and the cost of removal would cause grave hardship.</li>
+    <li><b>Conclusion:</b> It was conceded that only the footings of the building encroached and that encroachment was only a few inches. There was a conflict concerning the survey and the location of the footings, but the court held that the encroachment was not done in bad faith. The court noted that there was no impact on plaintiffs' present use of their property. The only potential impact would be if plaintiffs also decided to build on the property line, and even then the impact would be minimal. The encroachment was very slight, but the remedial cost would be high. The court also reversed the portion of the injunction requiring defendant to remove signs that may have mislead visitors and caused them to trespass on plaintiffs' property. That portion of the injunction was too indefinite.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Mistaken Improver
+
+#### Case: *[Producers Lumber & Supply Co. v. Olney Building Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  A company that had erroneously constructed a building on another's lot was required to pay the lot owner the value of the building after the company demolished the building without the knowledge or consent of the lot owner.</li>
+    <li><b>Facts:</b> Appellee erroneously constructed a building on a lot owned by appellant. Appellee subsequently demolished the building. Appellant instituted an action against appellee to recover damages therefore. A jury in the court below found that appellee had acted maliciously in demolishing the building because it did so without the consent or knowledge of appellant. Finally, the jury found that appellant was entitled to receive $ 300 in exemplary damages. The parties stipulated that the building had a value of $ 5,000 and that the building had enhanced the value of the lot by $ 5,000. The court below awarded appellant $ 600, which was the amount the jury found it would cost to restore the lot to the same condition it was in immediately before the construction commenced. On appeal, the court amended the lower court's judgment to permit appellant to recover the sums of $ 5,000 and $ 300 in addition to the $ 600 awarded by the court below.</li>
+    <li><b>Issue:</b> Is an improver authorized to go upon the land of another, without his knowledge and consent, and demolish the improvements that he has through mistake placed thereon?</li>
+    <li><b>Rule:</b> It is only where a person places permanent improvements upon land belonging to another in a good faith belief that he is the owner of the land, that he has any remedy at all. Where he has built such improvements in good faith, he has a somewhat limited right to go into court, and upon proof of such good faith ask the court to grant him equitable relief. Under such circumstances, a court of equity may grant relief in several ways. If the building can be removed without great injury to the building or to the land, the court may permit the improver to move the building. Where the building cannot well be removed the court or jury can find the market value of the land before and after the making of the improvement, and allow the improver to recover for the amount of this enhanced value, if any. The landowner will first be permitted to pay the enhanced value and keep the land, but if he is unable or unwilling to do so, then the improver may be permitted to pay the value of the land before the improvements were placed thereon, and thus become the owner of the land and the improvements.</li>
+    <li><b>Conclusion:</b> The court found that appellant was entitled to the value of the building because appellee committed waste when it demolished the building without the knowledge or consent of appellant. The lower court's judgment was affirmed as amended.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

@@ -1421,7 +1421,7 @@ Party Autonomy (Squeegee)
 
 - <span style="color:red">**Class Discussion**</span>
 - Surity, Promise to pay another's debt
-  - Exception to Statute of Frauds; Leading Object
+  - **Exception** to Statute of Frauds; Leading Object
     - TEST: Leading Object Rule
       - Material Self Interest
       - Proxy for the elimination of writing requirements
@@ -1449,7 +1449,8 @@ Party Autonomy (Squeegee)
 
 
 #### Case: *[McIntosh v. Murphy](Link)*
-
+- Strict v. Broad Interpretation of SoF barring recovery?
+  - Promissory estoppel exception allows for claim to be argued.
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Judgment for former employee for employer's breach of a one-year oral employment contract was appropriate because former employee's reliance was such that injustice could only be avoided by enforcement of the contract.</li>
@@ -1463,9 +1464,42 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Within the statute of frauds.
+  - Within 1 year of the agreement being made.
+  - Long Term Contracts
+    - Parties may have changed circumstances.
+    - Statute of Frauds seeks to enforce creation of contract to make future into present
+  - Contract formed on phone 2 days prior
+    - Trial Court discounted weekend for the 1 year window.
+      - Jury instructions outside SoF
+      - Upheld by appeal but denied reasoning
+  - Court created exception
+    - Promissory Estoppel exception
+- Dissent
+  - “I cannot agree, as intimated by this court, that we should circumvent the Statute of Frauds by the exercise of the equity powers of courts * * *. Thus, if the Statute of Frauds is too harsh as intimated by this court, and it brings about undue hardship, it is for the legislature to amend or repeal the statute and not for this court to legislate.”
+  - Reliance may not prove the promise at all trial basis v. 1 year promise
+    - Time as an important factor (Duration)
 
-### Remedies
+#### Case: *[Dumas v. Infinaty Broad Corp.](Link)*
+- Ineffective Contract through Promissory Estoppel does not satisfy SoF and therefore will fail as an enforceable contract.
+-
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
 
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+### Theory of Remedies
+#### Measure of Loss Expectancy Damages
 #### Case: *[Groves v. John Wunder Co.](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -1481,11 +1515,33 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
-
+- No focus on economic waste or intentionallity
+- Historical Context
+  - Sand & Gravel for Money
+  - Leave property at uniform grade after completion of removal
+  - π claim ∆ did not level land after departure
+    - Breach established
+    - Calculation of Damages
+- Opinion
+  - Both Majority & Dissent Agree:
+    - "The summit from which to reckon damages for that wrong is the hypothetical peak of accomplishment (not value) which would have been reached had the work been done as demanded by contract."
+      - Lost Expectancy
+      - π cannot recover more than what he expected
+    - Dissent
+      - Also agrees with Lost Expectancy
+  - Differences in Opinion
+    - Majority
+      - π gets Cost of Completion
+    - Dissent
+      - π entitled to money which will permit him to complete, unless the cost of completion is grossly and unfairly out of proportion to the good to be attained.
+      - **The measure of differences is in value.**
+      - π must demonstrate intent for personal use as opposed to intent to sell for economic value
+        - Dissent concerned about unjust enrichment of π.
 
 
 #### Case: *[Rock Island Improvement Company v. Helmerich & Payne, Inc.](Link)*
-
+- Contrast to Groves Case
+  - Instead π is given diminished value
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Award of damages to improvement company in a breach of contract lawsuit was proper because district court committed harmless error in submitting the issue of the reclamation clause's importance to the jury.</li>
@@ -1499,7 +1555,13 @@ Party Autonomy (Squeegee)
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Examines intent of parties
+- Dissent argues π had explicit demands for restoration of land
+- Delta between restorative amount 300 to 29,000
+  - Court sees as windfall
+- Exactly what you contracted for versus fixing harm done.
 
+- Which is 
 
 ---
 
