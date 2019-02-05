@@ -1842,3 +1842,19 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Dean Milk Co. v. Madison](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A city ordinance prohibiting the sale of milk in the city unless it was pasteurized within five miles of the city was unconstitutional because it imposed an undue burden on interstate commerce and reasonable and adequate alternatives were available.</li>
+    <li><b>Facts:</b> Appellant corporation, a milk distributor, was denied a license to sell its products within the city based upon the fact that the corporation's pasteurization plants were more than five miles away from the city, as mandated by a Wisconsin ordinance. Appellant brought a suit against the appellee city, represented by Health Commissioner of Madison, challenging the statute's constitutionality.  The Supreme Court of Wisconsin affirmed the constitutionality of the ordinances. On review, the Court reversed the decision of the lower court, vacated the lower court's judgment on the issue of the five-mile provision, and remanded the case for further proceedings with respect to the ordinance containing the 25-mile inspection provision.</li>
+    <li><b>Issue:</b> Did the ordinance unjustifiably discriminate against interstate commerce, in violation of the Commerce Clause of the Federal Constitution?</li>
+    <li><b>Rule:</b> A city cannot discriminate against interstate commerce, even in the exercise of its unquestioned power to protect the health and safety of its people, if reasonable nondiscriminatory alternatives, adequate to conserve legitimate local interests, are available.</li>
+    <li><b>Conclusion:</b> The Court determined that, under the Commerce Clause, § 7.21 imposed an undue burden on interstate commerce because, in effect, the ordinance excluded from distribution in the city wholesale milk produced and pasteurized in an adjoining state. The Court found that the city had erected an economic barrier protecting a major local industry against competition from outside the state, plainly discriminating against interstate commerce. Furthermore, reasonable and adequate health standard alternatives were available. Accordingly, the Court held that § 7.21 violated the Commerce Clause. Because the state supreme court had found it unnecessary to pass on the validity of the separate 25-mile inspection limitation in Madison, Wis., Gen. Ordinances § 7.11 (1949), the Court remanded for further proceedings.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

@@ -770,6 +770,14 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Continuous v. Continually
+- Equitable relief = "Clean Hands"
+  - ∆ argues π does not have clean hands
+    - Shooting at dog != clean hands
+    - Court disregards because act was in defense of property
+  - π has clean hands
+- π entitled to money damages
+  - Quanitfying damages
 
 ### Building Encroachments
 
@@ -788,6 +796,9 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Issue 1: Court Costs
+  - Who would be required to pay for costs
+- Issue 2: Injunction on Permananent Trespass
 
 #### Case: *[Golden Press Inc. v. Rylands](Link)*
 
