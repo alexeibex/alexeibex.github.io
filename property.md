@@ -14,9 +14,19 @@ Supplemental Reading: Gilberts Outline, Sprankling
 
 
 ## 1.0 Introduction
-- <span style="color:red">**ENCOURAGE with INCENTIVSE DON;'t Incentivize'**</span>
+- <span style="color:red">**ENCOURAGE with INCENTIVSE DON'T Incentivize'**</span>
+
+- Lee's theory of judgement: Attempt to provide results to the "parties before them"
+  - Not actual maximization of social efficiency
+  - Judges getting into the judging business = fairness
+  - Sympethetic πs.
+    - [Producers Lumber & Supply Co. v. Olney Building Co.](Link)
+
+
 #### Class Themes:
 No single unifying theory of property. Numerous older doctrines and rules that pervade modern facts and issues. Resurgent movement to change methodology and provide unfiying theory of property.
+
+
 #### Questions
 - Does an element of time matter?
 - How long ago was it acquired?
@@ -52,7 +62,7 @@ Reading: Pages 57–69 & 72–82​
   <li><b>Overview:</b>Hunter had no rights to a fox merely because he was chasing it, and did not suffer injury or damage when interceptor shot the fox, even though he knew it was being chased by hunter.</li>
   <li><b>Facts:</b>Post(∆) in possession of dogs and hounds was in pursuit of a fox on a wild, uninhabited, waste land called the beach. Pierson (π) knowing fox was so hunted and pursued, chased after fox and killed it, carrying it off.</li>
   <li><b>Issue:</b>Whether Post(∆) by pursuit with his hounds in the manner alleged in his declaration, acquired such a right to/property in the fox. Narrow question is what amounts to occupancy of acquiring right to wild animals? What constitutes posession?</li>
-  <li><b>Rule:</b></li>
+  <li><b>Rule:</b> Possession if either the person has BOTH mortally wounded the animal + not abandoned pursuit, OR trapped the animal depriving of natural liberty</li>
   <li><b>Conclusion:</b>Judgement Reversed. A fox is a ferae naturae (wild by nature) and that property of animals is acquired by <b>occupancy only</b> aka posession.</li>
   <ul>
     <li>Majority Opinon: Preserving peace and order in society.</li>
@@ -833,6 +843,23 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Traditional Rule: Building on another's land becomes a **fixture**
+  - "If it is fixed to the soil, it goes with the soil"
+  - Formerly movable chattels
+    - Example: Chandeliers
+  - **Exception to Rule**
+    - If Improver built in good faith belief **remedies to consoldiate both:**
+      - Move Fixture
+      - Recover Market Value to improver by selling fixture to land owner
+      - Improver can also buy land from land owner
+      - Court ordered sale of both fixture and land and splitting proceeds by %
+    - Improver cannot collect unless they have "clean hands"
+- Dissent:
+  - π entitled to original amount
+    - No prior precedent
+  - Texas law allows for "removal of improvement"
+    - Moving v. "Tearing Down Removal"
+
 
 ### Trespass to Chattels
 
@@ -870,13 +897,15 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
-- The common law rule allowed the landlord to resort to self-help in reentering, but he risked criminal penalties for forcible entry.
-- One criticism of the trend away from allowing self-help is that landlord will pass the costs of litigating against deadbeat tenants on to tenants who pay their bills on time.
+  - The common law rule allowed the landlord to resort to self-help in reentering, but he risked criminal penalties for forcible entry.
+  - One criticism of the trend away from allowing self-help is that landlord will pass the costs of litigating against deadbeat tenants on to tenants who pay their bills on time.
+  - Should self-help be allowed for commercial but not residential leases? Should the parties be allowed to negotiate in the lease whether self-help is available?
+  - Does self-help violate due process?
+- Risk of Violence = not peaceful/peacable
 - Should self-help be allowed for commercial but not residential leases? Should the parties be allowed to negotiate in the lease whether self-help is available?
-- Does self-help violate due process?
 
 
-#### Case: *[Williams v. Ford Motor Credit Company](Link)*
+#### Case: *[Williams v. Ford Motor Credit Company](https://advance.lexis.com/document/?pdmfid=1000516&crid=a9acd0fc-bacc-454e-bced-aaa4f5af7c39&pddocfullpath=%2Fshared%2Fdocument%2Fcases%2Furn%3AcontentItem%3A3S4X-3J00-003B-G55N-00000-00&pddocid=urn%3AcontentItem%3A3S4X-3J00-003B-G55N-00000-00&pdcontentcomponentid=6392&pdshepid=urn%3AcontentItem%3A7XW6-V0G1-2NSD-W0B0-00000-00&pdteaserkey=sr1&pditab=allpods&ecomp=byvLk&earg=sr1&prid=227b80a9-e219-4d2f-a7e1-c2550b47ebac)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>

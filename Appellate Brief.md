@@ -17,6 +17,9 @@ Case to use:
 - Concerned Area Residents of the Env. v. Southview Farm (1993)
 - Pure Air and Water, Inc. of Cheumng County v. Davidson (1998)
 
+
+
+
 https://books.google.com/books?id=KYWSuLbANLgC&pg=PA2&lpg=PA2&dq=Copart+Indus+v.+Consol+Edison+Co.+of+NY+brief&source=bl&ots=sm98lfWpXP&sig=ACfU3U0PnDoHAg4VA8rDsCWSC-3RXUx3rA&hl=en&sa=X&ved=2ahUKEwjgjpXEsqXgAhUKU98KHX_vCVcQ6AEwB3oECAQQAQ#v=onepage&q=Copart%20Indus%20v.%20Consol%20Edison%20Co.%20of%20NY%20brief&f=false
 
 

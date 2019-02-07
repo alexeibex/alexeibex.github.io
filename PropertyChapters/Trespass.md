@@ -9,16 +9,23 @@
 - Facts in both cases
   - Both cases the "trespass" causes no damage to the land in question
     - Both owners were not actually using the land for any purpose
+
+
 ### Repeated Trespass
+- Injuntive Relief
 - *[Baker v. Howard County Hunt]*
 
 
 ### Building Encroachment
-- *[Pile v. Pedrick]*
+- Continuous Trespass
+- Damages v. Injunction/Specific Performance
+- *[Pile v. Pedrick](Link)*
+- *[Golden Press Inc. v. Rylands](Link)*
+
 ### Mistaken Improver
+- *[Producers Lumber & Supply Co. v. Olney Building Co.](Link)*
 
-
-# Limits on the Right to Exclude
+# Limits & Enforcements on the Right to Exclude
 ## Criminal Action
 ### Criminal Laws Protecting Real Property
 - Originally Common-law crime until statutory creation.
@@ -45,6 +52,7 @@
 - Civil: Trespass
   - Protect the interest in exclusive possesion of land.
     - Trespass = Used to vindicate the interest that a person in actual possession has in exclusive possession of land
+- Civil: Ejectment
     - Ejectment = Used to vindicate the interest of a person who has title to land against a person wrongfully in possession.
       - Example: Building Encroachment
         - Tenant in possession is the only one who can bring an action in trespass.
@@ -73,13 +81,18 @@
 - Controversial when it involves the use of force as opposed to passive devices like fences and locks.
   - Person in possession can generally use reasonable force "to prevent/terminate an unlawful entry or other trespass upon land or a tresspass against the unlawful carrying away of tangible, movable property"
 - Self-Help Eviction
-  - *[Berg v. Wiley](link)*
     - The common law allowed landlords to resort to peaceable self help, but the court here held that the landlord had to use a judicial process.
-  - In jurisdictions that still permit self-help, recovery of possession must be accomplished without a breach of the peace.
+      - *[Berg v. Wiley](link)*
+    - In jurisdictions that still permit self-help, recovery of possession (personal) must be accomplished without a **breach of the peace**.
+      - Breach of Peace = Without a signifcant threshold of violence
+      - *[Williams v. Ford Motor Credit Company](link)*
+    - The modern rule is that self-help is never available to dispossess a tenant who is in possession and has not abandoned or voluntarily surrendered the premises.
+    - Modern Trend Allows for Self-Help in regards to Commercial Leases.
+
 
 # Exception to the Right to Exclude
 - Necessity
-  - *[Ploof v. Putnam]*(Link)
+  - *[Ploof v. Putnam](Link)*
   - Shifting of Rights
     - Conditions of necessity shift the right to exclude from the landowner to the person entering under conditions of necessity.
   - Suspension of Rights for Damages
