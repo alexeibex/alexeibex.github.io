@@ -833,3 +833,95 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+### Trespass to Chattels
+
+#### Case: *[Intel Corporation v. Hamidi](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Berg v. Wiley](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The court held that a plaintiff tenant was entitled to damages for wrongful eviction where the defendant landlord locked the plaintiff out of leased premises when plaintiff had been cited for health code violations.</li>
+    <li><b>Facts:</b> A restaurant had been cited for health code violations. The owner of the restaurant failed to comply with his landlord’s request to remedy the matters and put up a sign saying the restaurant was closed. As a result, the landlord locked the his tenant out, claiming breach of the lease. The jury found that the tenant did not abandon or surrender the premises and the trial court found landlord's reentry forcible and wrongful as a matter of law. The case was appealed to the Supreme Court of Minnesota.</li>
+    <li><b>Issue:</b> Did the landlord commit forcible entry?</li>
+    <li><b>Rule:</b> The forcible entry and unlawful detainer statutes are intended to prevent parties from taking the law into their own hands during the eviction process. To further discourage self-help, the legislature has provided treble damages for forcible evictions, Minn. Stat. §§ 557.08 and 557.09, and has provided additional criminal penalties for intentional and unlawful exclusion of a tenant. Minn. Stat. § 504.25.</li>
+    <li><b>Conclusion:</b> The Court held the modern rule is that judicial proceedings, including the summary procedures provided in unlawful detainer statutes, are the exclusive remedy by which a landlord may remove a tenant claiming possession. A landlord's reentry in the tenant's absence by picking the locks and locking the tenant out, although accomplished without actual violence, is forcible as a matter of law. Furthermore, Minnesota has historically followed the common-law rule that a landlord may rightfully use self-help to retake leased premises from a tenant in possession without incurring liability for wrongful eviction provided two conditions are met: (1) The landlord is legally entitled to possession, such as where a tenant holds over after the lease term or where a tenant breaches a lease containing a reentry clause; and (2) the landlord's means of reentry are peaceable. Under the common-law rule, a tenant who is evicted by his landlord may recover damages for wrongful eviction where the landlord either had no right to possession or where the means used to remove the tenant were forcible, or both.</li>
+    <li><b>Notes/Concepts:</b></li>
+
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- The common law rule allowed the landlord to resort to self-help in reentering, but he risked criminal penalties for forcible entry.
+- One criticism of the trend away from allowing self-help is that landlord will pass the costs of litigating against deadbeat tenants on to tenants who pay their bills on time.
+- Should self-help be allowed for commercial but not residential leases? Should the parties be allowed to negotiate in the lease whether self-help is available?
+- Does self-help violate due process?
+
+
+#### Case: *[Williams v. Ford Motor Credit Company](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant was properly granted judgment notwithstanding the verdict in plaintiff's action for wrongful repossession of her vehicle as evidence showed repossession done without any incident that might have provoked violence.</li>
+    <li><b>Facts:</b> Plaintiff and her husband purchased an automobile, subject to a security agreement that was assigned to defendant. After plaintiff and her husband divorced, plaintiff was granted title in the automobile, but her husband was required to make payments for a certain time. When plaintiff's husband defaulted, he signed a voluntary repossession authorization for defendant. Plaintiff was informed of the delinquency. Subsequently, respondent caused plaintiff's automobile to be repossessed. Plaintiff testified that the repossessing party neither threatened nor caused plaintiff to fear physical harm. In plaintiff's action for wrongful repossession under Ark. Code Ann. § 85-9-503, a jury found for plaintiff. On defendant's motion, it was granted judgment notwithstanding the verdict. On appeal, the court affirmed holding that the repossession was accomplished without any incident which might have provoked violence, it was a legal repossession under state law and that the evidence did not support the verdict of the jury.</li>
+    <li><b>Issue:</b> Whether the takings was a legal repossession under the laws of the State of Arkansas?</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> Judgment notwithstanding the verdict affirmed; defendant's repossession of plaintiff's vehicle was accomplished without any incident which might have tended to provoke violence; the taking was a legal repossession under state laws, and the evidence did not support the verdict of the jury in favor of plaintiff.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Exceptions to the Right to Exclude
+#### Necessity
+#### Case: *[Ploof v. Putnam](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In an action for damages resulting from the unmooring of plaintiff's sloop from defendant's dock, plaintiff's declaration was sufficient to implicate that defendant's servant was acting within the scope of his employment.</li>
+    <li><b>Facts:</b> Defendant was the owner of a dock attached to an island. Plaintiff was sailing in a loaded sloop with his wife and children. A storm arose and plaintiff moored the sloop to defendant's dock to avoid danger to their lives and to their property. Defendant's servant unmoored the sloop, and the sloop was driven upon the shore by the storm and destroyed. Plaintiff sued defendant alleging that defendant by his servant negligently unmoored the sloop. Defendant demurred to both counts, which the trial court denied. On appeal, the supreme court affirmed the trial court's denial of defendant's general demurrers.</li>
+    <li><b>Issue:</b> Were the plaintiff’s actions reasonably necessary to save the lives of the sloop’s occupants?</li>
+    <li><b>Rule:</b> The doctrine of necessity applies with special force to the preservation of human life. One assaulted and in peril of his life may run through the close of another to escape from his assailant. One may sacrifice the personal property of another to save his life or the lives of his fellows.</li>
+    <li><b>Conclusion:</b> The allegations are, in substance, that the stress of a sudden and violent tempest compelled the plaintiff to moor to defendant's dock to save his sloop and the people in it. The condition of necessity is complete, for it covers not only the necessity of mooring, but the necessity of mooring to the dock.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[McConico v. Singleton](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Action of Trespass brought by π that he had warned and ordered the ∆ not to hunt on his land and that the ∆ had notwithstanding, rode over and hunted deer on his unenclosed and unimproved lands. The verdict was that each party should pay their own costs and the π now moves for a new trial on the grounds.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Riding over the unenclosed and unimproved lands is in law a trespass, for which an action will lie, when it is contrary to the express orders of the owner.</li>
+    <li><b>Conclusion:</b> That a right which the law gives can be defeated at the mere will and caprice of an indvidual.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
