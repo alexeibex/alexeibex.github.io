@@ -1500,6 +1500,7 @@ Party Autonomy (Squeegee)
 
 ### Theory of Remedies
 #### Measure of Loss Expectancy Damages
+#### Cost to Complete
 #### Case: *[Groves v. John Wunder Co.](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -1538,6 +1539,24 @@ Party Autonomy (Squeegee)
       - π must demonstrate intent for personal use as opposed to intent to sell for economic value
         - Dissent concerned about unjust enrichment of π.
 
+#### Diminuation in Value
+#### Case: *[Peevyhouse v. Garland Coal & Mining Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
 
 #### Case: *[Rock Island Improvement Company v. Helmerich & Payne, Inc.](Link)*
 - Contrast to Groves Case
@@ -1560,8 +1579,80 @@ Party Autonomy (Squeegee)
 - Delta between restorative amount 300 to 29,000
   - Court sees as windfall
 - Exactly what you contracted for versus fixing harm done.
+- Environ
 
-- Which is 
+
+#### Case: *[Radford v. De Froberville](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> π was the owner of a house which had broken into separate flats leased to tenants.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Expectancy Interest in Various Contexts
+
+#### Case: *[Thorne v. White](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In an action for breach of contract, it was error to have found that an owner's damages was the amount that a company's contract exceeded an original contractor's price where the evidence showed that the two contracts were not substantially alike.</li>
+    <li><b>Facts:</b> Appellee homeowner contracted for appellant contractor to put a new roof on his residence. Appellant began work but never finished the job. Appellee contracted with a roofing company to have the work completed. The cost of the company’s work was $ 357.26 more than the amount of appellant’s contract. Appellee sued appellant for the difference alleging breach of contract. The trial court entered judgment in appellee’s favor. On appeal, the appellate court reversed the judgment with instructions to grant a new trial on the issues of damages.</li>
+    <li><b>Issue:</b> Did the trial court err in awarding appellee homeowner damages representing the difference between the contract price with appellant contractor and the amount paid to the roofing company for the completion of the work?</li>
+    <li><b>Rule:</b> A party damaged by a breach of contract may only recover for losses which are the natural consequence and proximate result of that breach. Damages are awarded for the purpose of compensation and the injured party shall not be placed in a better position than he would have been in had no breach occurred. In such cases, the successful plaintiff shall only be allowed to recover what it has cost him to complete the same work, over and above the original contract price.</li>
+    <li><b>Conclusion:</b> There was no error in the finding that appellant contractor had breached the contract. However, the trial court erred in holding that the two contracts were substantially the same and that the damages were the amount that the roofing company's contract exceeded the appellant's price. The evidence clearly showed that appellee homeowner had received more from the roofing company than he was to have received from appellant. Thus, an improper measure of damages was applied.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have Services Performed
+
+#### Case: *[Warner v. Mclay](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Handicapped Children's Education Board of Sheboygan County v. Lukaszweski](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A teacher, who resigned for reasons other than her health, breached her employment contract with the school board, and the board was entitled to recover damages sustained by having to hire a more qualified replacement at a higher rate of pay.</li>
+    <li><b>Facts:</b> Defendant teacher resigned before her contract with the plaintiff school board expired, claiming that health problems prevented her continued employment. The board was forced to hire a more qualified replacement at a higher rate of pay. The board brought an action for breach of contract and the trial court awarded damages, finding that the teacher had breached her contract because she resigned for reasons other than her health. The appellate court affirmed that part of the decision but revered the damages, finding that the board suffered no damage for the breach. </li>
+    <li><b>Issue:</b> May an employee's purported health condition be excuse for her breach of employment contract where the health condition was brought about by her conduct?</li>
+    <li><b>Rule:</b> Damages in breach of contract cases are ordinarily measured by the expectations of the parties. The nonbreaching party is entitled to full compensation for the loss of his or her bargain, that is, losses necessarily following from the breach which are proven to a reasonable certainty and were within contemplation of the parties when the contract was made.</li>
+    <li><b>Conclusion:</b> The trial court's findings of fact, specifically those that indicated that Defendant teacher's health problems were a result of the stress condition she had created by an attempted repudiation of her contract and that she had resigned for reasons other than her health, were not against the great weight and clear preponderance of the evidence. When more than one reasonable inference can be drawn from the credible evidence, the reviewing court must accept the inference drawn by the trier of fact.  Damages for breach of contract are measured by the expectations of the parties. The Board expected to receive the services of a speech therapist with the teacher's education and experience at the salary agreed upon. It neither expected nor wanted a more experienced therapist who had to be paid an additional $ 1,026.64 per year. The teacher's breach forced the Board to hire the replacement and, in turn, to pay a higher salary. Therefore, the Board lost the benefit of its bargain.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
 
 ---
 

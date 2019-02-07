@@ -4,28 +4,89 @@
   - No punitive damages recognized
   - [*White v. Bukowski*](https://alexeibex.github.io/Contracts#case-white-v-benkowski)
 
+
 ---
 ## Measure of Damages when Breach
 
 ## Measure of Expectations Damages
   - Puts promisee in the position he would have been in **if the contract had performed**.
     - You get what you bargained for.
+  - Compensatory Damages
+    - Monetary Damages
+    - Courts will generally not order specific performance when money damages are adequate
   - Expectation Damages are the difference between **promised performance and actual performance**
     - Breach of Contract to Perform Services
+
+
       - Two remedies
         - **Cost of Completion**
           - If a contracter leaves a job unfinished, the client can recover **cost of completion**.
-
     - Breach of Contract for the Sale of Goods
       - UCC Governs
         - Seller's Breach
           - Specfic Relief & Damages
     - [*Hawkins v. McGee*](LINK)
-  - Objective v. Subjective Reward of Expectation Damages
+
+### Objective v. Subjective Reward of Expectation Damages
+- **Cost-to-Complete**
+  - Cost-of-completion damages will sometimes put the owner in a better economic position than he would have been in if the contract had been fully performed. The factfinder should determine whether the owner is likely to pocket the difference or actually put it towards repairs.
+  - If a contractor leaves a job unfinished, the client can recover cost of completion damages.
     - [Groves v. John Wunder Co.](Link)
-    - Diminuation in Value
-      - Where cost of performance exceeds diminuation in value, courts are likely to award damages only for diminuation in value.
-      -
+  - Environmental Statutes
+    - [Rock Island Improvement Company v. Helmerich & Payne, Inc.](Link)
+  - Intent of π to use funds won to complete said contract
+    - Begins to look like specific performance
+    - [Radford v. De Froberville](Link)
+
+
+- **Diminuation in Value**
+  - Where cost of performance exceeds diminuation (grossly dispraportionate) in value, courts are likely to award damages only for diminuation in value. (subjective value)
+  - "The cost of remedying the defects is grossly proportionate to the benefits . . .”
+  - The court affirmed Peevyhouse, despite recent statutory revisions. “ . . . where the cost is grossly disproportionate to the cost of reclamation as in Peevyhouse, a review of recent case law suggests that courts are adhering to the diminution in value award"
+    - [Peevyhouse v. Garland Coal & Mining Co.](Link)
+  - Diminished value damages should be measured at the date of the breach, not the original date of the contract.
+- **Cost-of-completion and diminished-value** damages are not the only possibilities.
+  - The measure should be “the loss truly suffered by the promisee.”
+- **Factors to Consider and Influence Damages**
+  - Asthetics + Good-Faith
+    - When the damages are aesthetically important, and when the builder does not act in good faith, the diminution in value rule does not apply. Rather, the owner can recover the full cost of repair.
+  - Waste
+    - Paying the full cost of restoration would be “a useless and wasteful expenditure of funds . .
+  - Residential v. Commercial
+    - . . . a distinction exists between a contract to construct a dwelling for the owner who plans to live therein and a contract to construct a commercial structure where the aesthetic taste of the owner is not so deeply involved.
+  - Pleasure and Amenity
+    - Cost-of-completion and diminished-value damages are not the only possibilities. The measure should be “the loss truly suffered by the promisee.”
+
+
+### Formulas for Measuring Damages
+- There are two formulae for calculating a contractor’s damages from the owner’s breach:
+ - (a) Contractor’s expenses + contractor’s lost profits - amount paid by owner prior to breach. Aiello.
+ - Contract price - cost of completion that the contractor saved - amount paid by owner prior to breach.
+   - (Restatement Second § 346.)
+ - The two are algebraically equivalent, but courts usually use the second.
+- Owner’s damages for builder’s breach
+  -Reasonable Cover - Contract Price
+    - [Thorne v. White](Link)
+  - The amount the builder owes the owner = (total cost of completion) - (total original contract price - amount the owner already paid builder).
+    - [Morello v. J.H. Hogan, Inc.](Link)
+- Profit Damages
+  - Contract price - cost of completion that the contractor saved - amount paid by owner prior to breach.
+    - Restatement Second § 346.
+  - Profit rewarded because of implied in the reliance of party on the contract
+
+
+#### Examination of actual benefit for determining Damages
+  - Measure of Damages != Cost of performance v. Extent of harm by non-performance
+    - [Freund v. Washington Square Press]
+      - Cost to publish books v. Injury to the party was loss of royalties
+        - Revise contract "I want the books published" v. "I want the royalties of the books sold that are published"
+
+
+### Restatement Second § 347: Measure of Damages in General
+- A contracts to build a house for B for $100,000. B breaches halfway through. A would have to spend $60,000 to finish. A’s damages are the contract price ($100,000) - cost of completion that the contractor saved ($60,000) = $40,000. A can recover $40,000 minus any payments already made.
+
+
+
 ---
 
 ## Reliance

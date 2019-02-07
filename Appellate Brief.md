@@ -16,7 +16,18 @@ Case to use:
 - Scribner v. Summers (1996)
 - Concerned Area Residents of the Env. v. Southview Farm (1993)
 - Pure Air and Water, Inc. of Cheumng County v. Davidson (1998)
+
+https://books.google.com/books?id=KYWSuLbANLgC&pg=PA2&lpg=PA2&dq=Copart+Indus+v.+Consol+Edison+Co.+of+NY+brief&source=bl&ots=sm98lfWpXP&sig=ACfU3U0PnDoHAg4VA8rDsCWSC-3RXUx3rA&hl=en&sa=X&ved=2ahUKEwjgjpXEsqXgAhUKU98KHX_vCVcQ6AEwB3oECAQQAQ#v=onepage&q=Copart%20Indus%20v.%20Consol%20Edison%20Co.%20of%20NY%20brief&f=false
+
+
+## Facts of Case
+- Legally Significant and Sympathetic Background
+- Historical Background of parties
+  -
+- Historical Context of Properties
+- Distance Between School and Lagoon
 -
+
 
 ---
 ##  Title Page
@@ -27,11 +38,13 @@ Case to use:
 ---
 ##  Question Presented
 1. Define the specific question asked.
-  - Private Nuisance: Whether ∆ Hagrid's construction of a million-gallon manure lagoon on his dairy farm next to π McGonagall's private school property has substantially interfered with her and her student's use and enjoyment of the property?
-  - **Private Nuisance = A condition that interferes with a person's enjoyment of property, but does not involve a trespass.**
-    - Blacks Law Dictionary
-  - Right-to-Farm: Whether ∆ Hagrid has a defense to private nuisance under New York Right-to-Farm Statute?
+  - Private Nuisance:
+    - Private Nuisance: Whether ∆ Hagrid's construction of a million-gallon manure lagoon on his dairy farm next to π McGonagall's private school property has substantially interfered with her and her student's use and enjoyment of the property?
+    - **Private Nuisance = A condition that interferes with a person's enjoyment of property, but does not involve a trespass.**
+      - Blacks Law Dictionary
+    - Right-to-Farm: Whether ∆ Hagrid has a defense to private nuisance under New York Right-to-Farm Statute?
 
+2. Right to Farm Defense:
 
 <details><summary>§ 308 Right to Farm - New York</summary>
   <ol>
@@ -56,7 +69,7 @@ Case to use:
 
 </details>
 
-
+3. Right to Farm 1300c
 
 3. Search Treatesis in subject area
   1. Find relevant cases
@@ -79,7 +92,7 @@ Notes:
 ##  Standard of Review
 ---
 ##  Argument
-### Main Heading 1 (2 Subheading)
+### Private Nusiance Main Heading 1 (2 Subheading)
 - Thesis
 #### Subheading A
 - Optional Thesis
@@ -87,7 +100,10 @@ Notes:
 #### Subheading B
 - Optional Thesis
   - CREAC
-### Main Heading 2 (No Subheadings)
+### §308 Main Heading 2 (No Subheadings)
+- Optional Thesis if Complicated
+  - CREAC
+### §1300 Main Heading 2 (No Subheadings)
 - Optional Thesis if Complicated
   - CREAC
 ---
@@ -99,17 +115,22 @@ Notes:
 ---
 
 ## CREAC
-1. Conclusion
-2. Rule Synthesis
+1. Conclusion/Topic Sentence
+  1. Not Case Based
+2. Rule Synthesis Broad to Narrow
   - Can be persuasive
     - Do not cite case that came out contrary to desired ruling
     - Default to cases decided in favor of argument
     - Phrase rule so that it invokes client in the best light.
+    - "This Court has held"
 3. Rule Explanation
+  1. Facts
+  2. Holding
+  3. Reasoning
   - Binding and harmful case law must be disclosed.
   - Distinguishing harmful cases narrowly/Analogizing helpful cases broadly
     - Highest NY State Court = Binding and must be disclosed
-    
+
 4. Analysis/Argument + Counter Argument
   - Work of analogizing/distinguishing facts to rules
   - Stronger facts up front
@@ -118,6 +139,7 @@ Notes:
   - Memorable language
 4a. Counter Argument
   - Deal implicitly with counter arguments so as to derive own analysis of counter
+    - Support with Legal Analysis and Fact Comparison
   - Do not **set up** counter argument.
     - Set Up - DO NOT INCLUDE
       - "It has been argued that awarding a child damages for loss of consortium would result in speculative & uncertain damages."
@@ -129,6 +151,7 @@ Notes:
       - Legislative Intent
     - Fist impression
 5. Conclusion
+  1. Specific to issue from 1st overall conclusion.
 
 
 

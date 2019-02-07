@@ -1771,11 +1771,14 @@ and, later, opposed the 1787 constitution.
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> An act of Congress gave full authority to defendants' to navigate steamboats in waters of the United States, and the law of the state of New York prohibiting navigation in the state was repugnant to the Constitution and void.</li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b> A state act gave an exclusive right to certain individuals to use steam navigation in all the waters of New York for 30 years from 1808. An injunction was issued restraining defendants from navigating steamboats in the waters within the state because of this exclusive privilege, which defendants violated. Defendants contended that the privilege violated an act of Congress which regulated the licensing of ships and vessels in the coasting trade and fisheries and was repugnant to the Constitution and laws of the United States. The state court found in favor of the plaintiff, and defendants appealed.</li>
+    <li><b>Issue:</b> Was the law of the state of New York prohibiting navigation in the waters of the state valid?</li>
+    <li><b>Rule:</b>
+    In regulating commerce with foreign nations, the power of Congress does not stop at the jurisdictional lines of the several states. The commerce of the United States with foreign nations, is that of the whole United States. Because Congress has the power to regulate commerce, that power must be exercised whenever the subject exists. If a foreign voyage may commence or terminate at a port within a state, then the power of Congress may be exercised within a state.</li>
+    <li><b>Conclusion:</b> The court reversed, finding that the act of Congress gave full authority to defendants' vessels to navigate the waters of the United States. The law of the state of New York, prohibiting the vessels from navigating the waters of the state, was repugnant to the Constitution and void.</li>
     <li><b>Notes/Concepts:</b></li>
+    - Commerce undoubtedly is traffic, but it is something more, it is intercourse.
+    - The Commerce power is the power to regulate, that is to prescribe the rule by which commerce is to be governed.
   </ul>
 
 </details>
@@ -1852,6 +1855,149 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Did the ordinance unjustifiably discriminate against interstate commerce, in violation of the Commerce Clause of the Federal Constitution?</li>
     <li><b>Rule:</b> A city cannot discriminate against interstate commerce, even in the exercise of its unquestioned power to protect the health and safety of its people, if reasonable nondiscriminatory alternatives, adequate to conserve legitimate local interests, are available.</li>
     <li><b>Conclusion:</b> The Court determined that, under the Commerce Clause, § 7.21 imposed an undue burden on interstate commerce because, in effect, the ordinance excluded from distribution in the city wholesale milk produced and pasteurized in an adjoining state. The Court found that the city had erected an economic barrier protecting a major local industry against competition from outside the state, plainly discriminating against interstate commerce. Furthermore, reasonable and adequate health standard alternatives were available. Accordingly, the Court held that § 7.21 violated the Commerce Clause. Because the state supreme court had found it unnecessary to pass on the validity of the separate 25-mile inspection limitation in Madison, Wis., Gen. Ordinances § 7.11 (1949), the Court remanded for further proceedings.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[C & A Carbone v. Town of Clarkstown ](Link)*
+- Dormant Commerce Clause
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A local ordinance requiring all solid waste generated within a town to go to the town's recycling center actually impacted interstate commerce and violated the United States Constitution's Commerce Clause.</li>
+    <li><b>Facts:</b> Respondent built a solid waste recycling center and passed an ordinance that required all solid waste generated in the town to pass through its new center. This was done so that the town could assess a handling fee and recoup its cost to build the center. Petitioner was in the business of processing solid waste and did not use respondent's facility. Petitioner was cited for violating the town's ordinance, and petitioner filed suit in federal court challenging it. The town filed a state court action, and the ordinance was ruled constitutional. The state appellate courts affirmed that ruling. The court reversed because the ordinance violated the Commerce Clause, U.S. Const. art. I, § 8, cl. 3, as it favored local enterprises and discriminated against non-local entities.</li>
+    <li><b>Issue:</b> Does the town ordinance violate the Federal Constitution's commerce clause?</li>
+    <li><b>Rule:</b> In determining whether a flow control ordinance is valid despite its undoubted effect on interstate commerce, there are two lines of analysis: first, whether the ordinance discriminates against interstate commerce; and second, whether the ordinance imposes a burden on interstate commerce that is clearly excessive in relation to the putative local benefits. </li>
+    <li><b>Conclusion:</b> The state court decision was reversed and remanded because local government could not use its regulatory powers to favor local enterprises and discriminate against non-local entities.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[United Haulers Ass'n v. Oneida-Herkimer Solid Waste Mgmt. Auth.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Counties' flow control ordinances, which required delivery of all solid waste to processing facilities operated by a public entity, did not violate the Commerce Clause, U.S. Const. art. I, § 8, cl. 3; the ordinances did not discriminate against interstate commerce, as they benefitted a public facility while treating all private businesses the same.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Differential Taxation of Municipal Bonds
+#### Case: *[Department of Revenue of Kentucky v. Davis](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+### The Market Participant Exception
+
+#### Case: *[South-Central Timber Development, Inc. v, Wunnicke](Link)*
+- Line between state as a regulator v. state as a market participant
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Alaska's requirement that timber taken from state lands be processed within the state prior to export was not implicitly authorized by Congress' adoption of a similar policy with respect to federal lands in Alaska.</li>
+    <li><b>Facts:</b> Petitioner was an Alaska corporation engaged in the business of purchasing and logging timber and shipping the logs into foreign commerce. It did not operate a mill in Alaska and usually sold unprocessed logs. Respondent state of Alaska had a requirement that timber taken from state lands be processed within the state prior to export. Petitioner sought an injunction, arguing that the requirement violated the negative implications of the Commerce Clause. The trial court agreed, but the appellate court reversed, finding it unnecessary to reach the question whether, standing alone, the requirement would violate the Commerce Clause because it found implicit congressional authorization for the state requirement in the existence of a federal policy imposing a similar requirement on timber taken from federal lands in Alaska. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Was the decision of the appellate court proper?</li>
+    <li><b>Rule:</b> Although the Commerce Clause is by its text an affirmative grant of power to Congress to regulate interstate and foreign commerce, the Clause is also recognized as a self-executing limitation on the power of the states to enact laws imposing substantial burdens on such commerce.</li>
+    <li><b>Conclusion:</b> The court reversed and remanded, holding that Alaska's requirement for in-state processing of timber prior to its export was not authorized by Congress. Mrreover, the Court held that there was insufficient evidence of congressional intent. Because Congress had acted only with respect to federal lands, the court concluded that it could not infer that Congress intended to authorize a similar policy with respect to state lands. The court failed to reach a majority decision on the question of whether, in the absence of congressional authorization, the requirement could still be found not to violate "dormant" Commerce Clause requirements.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Facially Neutral Laws with Protectionist Purpose or Effect
+
+#### Case: *[Baldwin v. G. A. F. Seelig, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> State officials were precluded from extending the system of minimum prices set up by the New York Milk Control Act to milk that had been obtained by a milk dealer in another state.</li>
+    <li><b>Facts:</b> The New York Milk Control Act (Act), 1933 N.Y. Laws 158, 1934 N.Y. Laws 126, established a system of minimum prices to be paid by milk dealers to producers in New York. The milk dealer bought its milk in Vermont at prices lower than the New York minimum and refused to agree to conform to the New York statute and regulations in the sale of the imported product. The milk dealer was thus unable to obtain a New York business license. Eventually, the milk dealer sought to restrain state officials from prosecuting it for selling milk imported from Vermont without a license in New York. </li>
+    <li><b>Issue:</b> Is it valid for a New York state law to prohibit sale of milk imported from Vermont if it does not conform to a pricing criteria?</li>
+    <li><b>Rule:</b> A state tax upon merchandise brought in from another state, or upon its sales, whether in original packages or not, after it has reached its destination and is in a state of rest, is lawful only when the tax is not discriminating in its incidence against the merchandise because of its origin in another state. In brief, the test of the original package is not an ultimate principle. It is an illustration of a principle. It marks a convenient boundary and one sufficiently precise save in exceptional conditions. What is ultimate is the principle that one state in its dealings with another may not place itself in a position of economic isolation. Formulas and catchwords are subordinate to this overmastering requirement. Neither the power to tax nor the police power may be used by the state of destination with the aim and effect of establishing an economic barrier against competition with the products of another state or the labor of its residents. </li>
+    <li><b>Conclusion:</b> The Court held that the district court properly restrained the enforcement of the Act in its application to sales in the original packages but erred in refusing to grant an injunction with respect to milk in bottles. The form of the packages was immaterial. New York's attempt to regulate the price to be paid for milk acquired in Vermont had the same unconstitutional effect as a customs duty. The Court rejected the state officials' arguments that the purpose of the Act was not to protect its farmers from competition but to ensure an adequate supply of milk and to avoid tempting farmers to save the expense of sanitary precautions. Allowing a health exception would have destroyed the rule, and the relation was too indirect to obstruct interstate commerce.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[H.P. Hood & Sons v. Du Mond](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A New York statute which required a milk processor to receive a license for a receiving plant was unconstitutional as applied. The statute violated the Commerce Clause because its purpose was to restrain competition.</li>
+    <li><b>Facts:</b> Petitioner milk processor sought certiorari review of the judgment of the Court of Appeals, which affirmed the decision of respondent New York Commissioner of Agriculture and Markets denying an extension of the milk processor's license. The milk processor contended that N.Y. Agric. & Mkts. Law Section 258-c, which authorized the license requirement, violated the Commerce Clause of the United States Constitution. The milk processor was a Massachusetts corporation that received milk in New York and shipped it to Massachusetts for processing. The New York Commissioner denied the milk processor's application for an additional receiving facility in New York.</li>
+    <li><b>Issue:</b> Whether a commissioner's rejection of an out of state corporation's application for an in-state milk processing facility was a violation of the commerce clause of the United States Constitution?</li>
+    <li><b>Rule:</b> Our system, fostered by the Commerce Clause, is that every farmer and every craftsman shall be encouraged to produce by the certainty that he will have free access to every market in the nation, that no home embargoes will withhold his exports, and no foreign state will by customs duties or regulations exclude them. Likewise, every consumer may look to the free competition from every producing area in the nation to protect him from exploitation by any. Such was the vision of the Founders; such has been the doctrine of the Supreme Court which has given it reality.</li>
+    <li><b>Conclusion:</b> The court held that the licensing statute violated the Commerce Clause. The court held that the statute was an attempt ot protect New York's commercial interests by restricting the export of milk to milk processors in other states that competed with New York milk processors. The statute's primary purpose was not regulation with a view to safety but the prohibition of competition. The court held that the Agricultural Marketing Agreement Act did not authorize the unconstitutional licensing scheme. Although the act authorized federal officials to confer with and enter into agreements with state authorities regarding the marketing of milk and several such agreements were in effect, no such agreement or order authorized the licensing scheme.The judgment upholding the decision of the New York Commissioner of Agriculture and Markets was reversed, and the case remanded.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Facially Neutral Laws with a Disproportionate Adverse Effect on Commerce
+
+#### Case: *[Kassel v. Consol. Freightways Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Iowa state, claiming that double trailers were less safe than single tractor-trailers, enacted a law that banned the use of 65-foot long double trailers from its interstate highways; exemptions were granted to border cities, farm vehicles, and trucks manufactured and mobile homes moved within the state Because of the statutory ban, the trucking firm was required either to divert its trucks from Iowa or detach trailers to shuttle them separately through the state. The lower courts declared the statute unconstitutional under the Commerce Clause. On appeal, the court affirmed.</li>
+    <li><b>Issue:</b> Was the state law constitutional?</li>
+    <li><b>Rule:</b> A state's power to regulate commerce is never greater than in matters traditionally of local concern. For example, regulations that touch upon safety, especially highway safety, are those that the United States Supreme Court is most reluctant to invalidate. Indeed, if safety justifications are not illusory, the court will not second-guess legislative judgment about their importance in comparison with related burdens on interstate commerce. Those who would challenge such bona fide safety regulations must overcome a "strong presumption of validity."</li>
+    <li><b>Conclusion:</b> The state failed to present any persuasive evidence that double trailers were in fact less safe than single ones and found that the statute deferred to local interests while substantially burdening the flow of interstate goods. It noted that although normally state highway safety regulations were given deference by the courts and were presumptively valid, that presumption was overcome where the negative impact on interstate commerce was substantial and the alleged safety reasons for enacting the statute were unproven.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+# Congressional Ordering of Federal-State Relationships by Preemption and Consent
+
+#### Case: *[Pac. Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A state statute that placed a moratorium on nuclear plants due to economical concerns of long-term storage of spent fuel rods was not preempted by the Atomic Energy Act's pervasive regulation of the radiological safety aspects of nuclear plants.</li>
+    <li><b>Facts:</b> A California statute provides that, before additional nuclear power plants may be built, the state energy commission must determine on a case-by-case basis that there will be adequate capacity for storage of a plant's spent fuel rods at the time such nuclear facility requires such storage. Another section of the statute imposes a moratorium on the certification of new nuclear plants until the energy commission finds that there has been developed and that the United States through its authorized agency has approved and there exists a demonstrated technology or means for the disposal of high level nuclear waste. Two electric utility companies brought an action, requesting that the two sections of the California statute be declared invalid under the supremacy clause of the United States Constitution(Art VI, cl 2) because they are pre-empted by the Atomic Energy Act of 1954 (42 USCS 2011 et seq.). The United States District Court for the Eastern District of California held that the utility companies had standing to challenge the two sections, that the issues were ripe for adjudication, and that the two provisions were void because they were pre-empted by and in conflict with the Atomic Energy Act (489 F Supp 699). The United States Court of Appeals for the Ninth Circuit affirmed the District Court's ruling that the utility companies had standing and also agreed on the ripeness for review of the challenge to the provision imposing a moratorium on certification until the energy commission finds that there exists a demonstrated technology or means for the disposal of high level nuclear waste. The Court of Appeals concluded, however, that the challenge to the provision requiring the energy commission to determine on a case-by-case basis that there will be adequate capacity for storage of a plant's spent fuel rods was not ripe for review. The Court of Appeals held on the merits that the nuclear moratorium provisions that were ripe for adjudication were not pre-empted (659 F2d 903).</li>
+    <li><b>Issue:</b> Can a federal law preempt a state law even if they are not mutually exclusive?</li>
+    <li><b>Rule:</b> Within constitutional limits Congress may pre-empt state authority by so stating in express terms. Absent explicit language, Congress' intent to supersede state law altogether may be found from a scheme of federal regulation so pervasive as to make reasonable the inference that Congress left no room for the states to supplement it, because the Act of Congress may touch a field in which the federal interest is so dominant that the federal system will be assumed to preclude enforcement of state laws on the same subject, or because the object sought to be obtained by the federal law and the character of obligations imposed by it may reveal the same purpose. Where Congress has not entirely displaced state regulation in a specific area, state law is pre-empted to the extent that it actually conflicts with federal law, which arises when compliance with both federal and state regulations is a physical impossibility, or where state law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress. </li>
+    <li><b>Conclusion:</b> The Court held that Cal. Pub. Res. Code § 25524.2 was not preempted by the ACE because § 25524.2 was concerned with the costs of long-term storage, while the ACE pervasively regulated the radiological safety aspects of the construction and operation of nuclear plants. Therefore, § 25524.2 did not interfere with the objectives of the ACE. In sum, Congress has not required States to "go nuclear," in whole or in part. The Atomic Energy Act's twin goals were to promote the development of a technology and to ensure the safety of that technology. Although that Act reserves to the NRC decisions about how to build and operate nuclear plants, the Court reads too much into the Act in suggesting that it also limits the States' traditional power to decide what types of electric power to utilize. Congress simply has made the nuclear option available, and a State may decline that option for any reason. Rather than rest on the elusive test of legislative motive, therefore, it was concluded that the decision whether to build nuclear plants remains with the States. A ban on construction of nuclear powerplants would be valid even if its authors were motivated by fear of a core meltdown or other nuclear catastrophe.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
