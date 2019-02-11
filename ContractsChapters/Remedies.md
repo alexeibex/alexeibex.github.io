@@ -16,15 +16,13 @@
     - Courts will generally not order specific performance when money damages are adequate
   - Expectation Damages are the difference between **promised performance and actual performance**
     - Breach of Contract to Perform Services
-
-
-      - Two remedies
-        - **Cost of Completion**
-          - If a contracter leaves a job unfinished, the client can recover **cost of completion**.
-    - Breach of Contract for the Sale of Goods
-      - UCC Governs
-        - Seller's Breach
-          - Specfic Relief & Damages
+  - Two remedies
+      - **Cost of Completion**
+        - If a contracter leaves a job unfinished, the client can recover **cost of completion**.
+  - Breach of Contract for the Sale of Goods
+    - UCC Governs
+      - Seller's Breach
+        - Specfic Relief & Damages
     - [*Hawkins v. McGee*](LINK)
 
 ### Objective v. Subjective Reward of Expectation Damages

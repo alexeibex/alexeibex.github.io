@@ -1233,7 +1233,7 @@ Party Autonomy (Squeegee)
 #### Restatement (Second) Of Contracts § 82(1)
 - A promise to pay all or part of an antecedent contractual or quasi-contractual indebtedness owed by the promisor is binding if the indebtedness is still enforceable or would be except for the effect of a statute of limitations.
 
-#### Case: *[Webb v. McGowin](Link)*
+  #### Case: *[Webb v. McGowin](Link)*
 - Opposite Ruling on Moral Obligation Theory
   - Unjust enrichment
     - State of mind was not a gift
@@ -1652,6 +1652,27 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Tongish v. Thomas](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The correct method of calculating damages for breach of sales contract was the difference between market price and contract price because it was a more specific statutory remedy that controlled over the general damage provision.</li>
+    <li><b>Facts:</b> Appellee seller had a contract to sell sunflower seeds to appellant cooperative. Appellee delivered a portion of the seeds, but when the market price of sunflower seeds doubled, he stopped delivering to appellant and sold the seeds to defendant buyer. Defendant paid appellee for approximately one-half of the seeds and appellant filed an action to collect the balance. Appellant intervened in the action, seeking damages for breach of contract. The trial court awarded damages to appellant based on its loss of expected profits. The intermediate appellate court reversed, holding that the difference between market price and contract price was the proper measure of damages pursuant to Kan. Stat. Ann. § 84-2-713 because it was more specific than the general damages provision of Kan. Stat. Ann. § 54-1-106. On appeal, the court affirmed.</li>
+    <li><b>Issue:</b> Is the difference between market price and contract price the proper measure of damages?</li>
+    <li><b>Rule:</b> The market damages remedy as contained in Kan. Stat. Ann. § 84-2-713 should be followed as the preferred measure of damages. While application of the rule may not reflect the actual loss to a buyer, it encourages a more efficient market and discourages the breach of contracts. </li>
+    <li><b>Conclusion:</b> The difference in market price and contract price was the correct method of measuring intervenor's damages. In addition to adopting the intermediate court's rationale, it held that damages computed under § 84-2-713 encouraged the honoring of contracts and market stability.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
 
 
 ---

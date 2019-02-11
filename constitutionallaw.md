@@ -1987,7 +1987,7 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
-# Congressional Ordering of Federal-State Relationships by Preemption and Consent
+### Congressional Ordering of Federal-State Relationships by Preemption and Consent
 
 #### Case: *[Pac. Gas & Elec. Co. v. State Energy Res. Conservation & Dev. Comm'n](Link)*
 
@@ -1998,6 +1998,93 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Can a federal law preempt a state law even if they are not mutually exclusive?</li>
     <li><b>Rule:</b> Within constitutional limits Congress may pre-empt state authority by so stating in express terms. Absent explicit language, Congress' intent to supersede state law altogether may be found from a scheme of federal regulation so pervasive as to make reasonable the inference that Congress left no room for the states to supplement it, because the Act of Congress may touch a field in which the federal interest is so dominant that the federal system will be assumed to preclude enforcement of state laws on the same subject, or because the object sought to be obtained by the federal law and the character of obligations imposed by it may reveal the same purpose. Where Congress has not entirely displaced state regulation in a specific area, state law is pre-empted to the extent that it actually conflicts with federal law, which arises when compliance with both federal and state regulations is a physical impossibility, or where state law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress. </li>
     <li><b>Conclusion:</b> The Court held that Cal. Pub. Res. Code § 25524.2 was not preempted by the ACE because § 25524.2 was concerned with the costs of long-term storage, while the ACE pervasively regulated the radiological safety aspects of the construction and operation of nuclear plants. Therefore, § 25524.2 did not interfere with the objectives of the ACE. In sum, Congress has not required States to "go nuclear," in whole or in part. The Atomic Energy Act's twin goals were to promote the development of a technology and to ensure the safety of that technology. Although that Act reserves to the NRC decisions about how to build and operate nuclear plants, the Court reads too much into the Act in suggesting that it also limits the States' traditional power to decide what types of electric power to utilize. Congress simply has made the nuclear option available, and a State may decline that option for any reason. Rather than rest on the elusive test of legislative motive, therefore, it was concluded that the decision whether to build nuclear plants remains with the States. A ban on construction of nuclear powerplants would be valid even if its authors were motivated by fear of a core meltdown or other nuclear catastrophe.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+# Separation of Powers
+
+#### Case: *[Youngstown Sheet & Tube Co. v. Sawyer](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The President's military and executive powers did not give the President constitutional authority to issue an order directing the seizure of the nation's steel mills; the seizure could not stand because the President did not have lawmaking power.</li>
+    <li><b>Facts:</b> A labor dispute between the steel industry and its employees was referred by the President to the Federal Wage Stabilization Board. The Board's recommendation resulted in no settlement. When the union gave notice of a nation-wide strike, an executive order was issued directing the Secretary of Commerce to take possession of most of the nation's steel mills. The steel companies obeyed the orders but brought proceedings against the government, charging that the seizure was not authorized by an act of Congress or by any constitutional provision. The district court granted a preliminary injunction restraining the government's continued seizure and possession of the mills, and the court of appeals stayed the injunction.</li>
+    <li><b>Issue:</b> Is the presidential order directing the government to take possession of the plants within the President's constitutional authority?</li>
+    <li><b>Rule:</b> The President's power, if any, to issue an order must stem either from an act of Congress or from the United States Constitution itself. There is no statute that expressly authorizes the President to take possession of property to settle a labor dispute. Nor is there any act of Congress from which such a power can fairly be implied.</li>
+    <li><b>Conclusion:</b> The Court held that the presidential power exerted here could not be sustained as an exercise of the President's military power nor under the several constitutional provisions that granted executive power. The seizure could not stand because Congress had the exclusive constitutional authority to make laws necessary and proper to carry out the powers vested by the Constitution. Accordingly, the district court's judgment was affirmed.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Zivotofsky v. Kerry](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The power to recognize or decline to recognize a foreign state and its territorial bounds resided in the President alone. Pub. L. No. 107-228, § 214(d), 116 Stat. 1350, 1366 (2002), was unconstitutional as it was a mandate that the President contradict his prior recognition determination in an official document issued by the Secretary of State.</li>
+    <li><b>Facts:</b> In 2002, Manachem Zivotofsky was born in Jerusalem to parents who were United States citizens. Manachem's parents requested that the U.S. State Department record his place of birth on his passport as "Israel," in accordance with Section 214(d) of the Foreign Relations Authorization Act of 2003 (Act). The State Department refused, and instead, issued Manachem a passport that listed "Jerusalem" as his place of birth. His parents sued the Secretary of State on his behalf and sought the enforcement of Section 214(d). The district court dismissed the case on the ground that it presented a non-justiciable political question. The U.S. Supreme Court, in Zivotofsky v. Clinton, reversed that holding and remanded the case. On remand, the district court held that Section 214(d) "impermissibly intereferes" with the President's exclusive power to recognize foreign states. The U.S. Court of Appeals for the District of Columbia Circuit affirmed and held that the section goes beyond the scope of Congress's passport power to affect United States foreign policy, which is a realm that the Constitution reserves for the executive branch.</li>
+    <li><b>Issue:</b> Does a federal statute that directs the Secretary of State to record the birthplace of an American citizen born in Jerusalem as "Israel," if requested to do so, impermissibly infringe on the President's power to recognize foreign states?</li>
+    <li><b>Rule:</b> The text and structure of the United States Constitution grant the President the power to recognize foreign nations and governments. The question is whether that power is exclusive. The various ways in which the President may unilaterally effect recognition, and the lack of any similar power vested in Congress, suggest that it is. So, too, do functional considerations. Put simply, the Nation must have a single policy regarding which governments are legitimate in the eyes of the United States and which are not. Foreign countries need to know, before entering into diplomatic relations or commerce with the United States, whether their ambassadors will be received; whether their officials will be immune from suit in federal court; and whether they may initiate lawsuits here to vindicate their rights. These assurances cannot be equivocal.</li>
+    <li><b>Conclusion:</b> The Court held that, although the Constitution does not explicitly address the issue of recognition of foreign nations, the Reception Clause in Article II of the Constitution, which states that the President will receive foreign ambassadors, grants the President the power to recognize foreign states. The fact that Article II also vests the President with the power to make treaties and appoint ambassadors gives the President further control over recognition decisions. Although Congress has a role to play in other aspects of foreign policy, often by granting the President’s formal recognition practical effect, Congress has no such power to initiate international diplomacy without involving the President. Because the question of whether the American government recognizes a foreign nation must have only one answer, the President’s power is assumed to be exclusive, and therefore, Congress cannot act in a manner that contradicts Executive branch policy regarding recognition. The Court also held that precedent and history support the view that the formal recognition power belongs exclusively to the President. Because the Executive branch has maintained a neutral position by not recognizing any nation’s sovereignty over Jerusalem, the federal statute in question unconstitutionally infringes on the President’s recognition power.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[United States v. Belmont](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> State and federal public policy against acts of confiscation could not prevail against international compact between U.S. and Soviet Union in which Soviet Union assigned to U.S. its claims against U.S. nationals for expropriated property.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Governmental power over internal affairs is distributed between the national government and the several states. Governmental power over external affairs is not distributed, but is vested exclusively in the national government. Plainly, the external powers of the United States are to be exercised without regard to state laws or policies. Within the field of its powers, whatever the United States rightfully undertakes, it necessarily has warrant to consummate. And when judicial authority is invoked in aid of such consummation, state constitutions, state laws, and state policies are irrelevant to the inquiry and decision. It is inconceivable that any of them can be interposed as an obstacle to the effective operation of a federal constitutional power.</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Dames & Moore v. Regan](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Executive orders having the effect of nullifying a company's claims against Iran were authorized by the Trade With the Enemy Act. The President was authorized to suspend pending claims against Iran because Congress consented.</li>
+    <li><b>Facts:</b> Petitioner company filed an action against defendants, the Government of Iran and Iranian banks, seeking money owed for services performed. The district court issued orders of attachment directed against the property of defendants. Petitioner was granted summary judgment. However, pursuant to an unrelated hostage agreement, American hostages in Iran were released. The U.S. President issued executive orders to implement the agreement. The orders nullified all non-Iranian interests in Iranian assets and suspended all settlement claims. Petitioner filed an action for declaratory relief against the government, alleging that the actions of the President was beyond his statutory power. The district court dismissed the complaint. Petitioner then sought a writ of certiorari.</li>
+    <li><b>Issue:</b> Whether the President has the authority to nullify all attachments obtained on Iranian assets.</li>
+    <li><b>Rule:</b> Congressional purpose in authorizing blocking orders is to put control of foreign assets in the hands of the President.</li>
+    <li><b>Conclusion:</b> The order of the President nullifying all attachments obtained on Iranian assets after the blocking order of November 14, 1979, was authorized by 1702(a)(1)(B) of the International Emergency Economic Powers Act (50 USCS 1702(a)(1)(B)), which empowers the President to "compel," "nullify," or "prohibit" any "transfer" with respect to, or transactions involving, any property subject to the jurisdiction of the United States, in which any foreign country has any interest, the President's action being supported by the strongest presumption and the widest latitude of judicial interpretation, since it was taken pursuant to specific congressional authorization, and the corporation had not sustained the heavy burden of persuasion placed upon those attacking the President's action, since the attachment obtained after the blocking order was subject to revocation and specifically made subordinate to further actions which the President might take under the Act, and (2) the order of the President suspending all claims against the government of Iran which may be presented to the Claims Tribunal and providing that such claims shall have no legal effect in any action pending in any court of the United States was within the authority of the President, since Congress had enacted legislation, such as the Economic Powers Act and the Hostage Act (22 USCS 1732), in the area of the President's authority to deal with international crises, and since Congress had implicitly approved the longstanding practice of claims settlements by executive agreement, the President, by suspending the claims, not having circumscribed the jurisdiction of the United States courts in violation of Article III of the Constitution.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Medellin v. Texas](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> International Court of Justice decision that a violation of the Vienna Convention on Consular Relations, Apr. 24, 1963, 21 U.S.T. 77, 596 U.N.T.S. 261, entitled a state inmate to reconsideration of his conviction was not directly enforceable, nor could the President unilaterally give the decision domestic effect.</li>
+    <li><b>Facts:</b> Medellin had been convicted and sentenced in Texas state court for murder, was one of the 51 Mexican nationals named in a decision of the International Court of Justice (ICJ) as being entitled to reconsideration of their convictions based on violations of Vienna Convention on Consular Relations art. 36(1)(b), Apr. 24, 1963, 21 U.S.T. 77, 596 U.N.T.S. 261. The President issued a memorandum determining that state courts were to give effect to the ICJ decision. Relying on the ICJ's decision and the President's Memorandum, Medellin filed an application for a writ of habeas corpus in state court. The Texas Court of Criminal Appeals dismissed Medellin's application as an abuse of the writ under state law, given Medellin's failure to raise his Vienna Convention claim in a timely manner under state law. </li>
+    <li><b>Issue:</b> Does the decision of the International Court of Justice and the subsequent memorandum of the President constitute directly enforceable federal law that pre-empts state limitations on the filing of successive habeas petitions?</li>
+    <li><b>Rule:</b> Not all international law obligations automatically constitute binding federal law enforceable in United States courts. A distinction is recognized between treaties that automatically have effect as domestic law, and those that--while they constitute international law commitments--do not by themselves function as binding federal law. A treaty is equivalent to an act of the legislature, and hence self-executing, when it operates of itself without the aid of any legislative provision. When, in contrast, treaty stipulations are not self-executing they can only be enforced pursuant to legislation to carry them into effect. In sum, while treaties may comprise international commitments, they are not domestic law unless Congress has either enacted implementing statutes or the treaty itself conveys an intention that it be "self-executing" and is ratified on those terms. What is meant by "self-executing" is that the treaty has automatic domestic effect as federal law upon ratification. Conversely, a "non-self-executing" treaty does not by itself give rise to domestically enforceable federal law. Whether such a treaty has domestic effect depends upon implementing legislation passed by Congress. </li>
+    <li><b>Conclusion:</b> The Supreme Court held that neither the ICJ decision nor the President's memorandum constituted directly enforceable federal law that would preempt state limitations on the filing of successive habeas petitions. The pertinent international agreements, including the Optional Protocol Concerning the Compulsory Settlement of Disputes to the Vienna Convention, Apr. 24, 1963, 21 U.S.T. 325, T.I.A.S. No. 6820 and the United Nations Charter, did not provide for direct enforcement of ICJ judgments. Nor could the President unilaterally execute a non-self-executing treaty by giving it domestic effect, as the power to implement such a treaty fell to Congress.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
