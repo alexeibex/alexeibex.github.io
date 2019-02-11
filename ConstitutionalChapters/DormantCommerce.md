@@ -1,4 +1,7 @@
 # The Dormant Commerce Clause
+- Set of doctrines developed from Common Law designed to support the principles of the commerce clause
+  - No preferring your own state's business over out of state business.
+    - Excpetions
 
 ## Facial Discrimination Against Out-of-State Commerce
 - Courts treat as "virtually per se invalid" laws that facially dscriminate against interstate commerce
@@ -178,13 +181,19 @@
   - *Hines v. Davidowitz*
     - Barring enforcement of PA Alien Registration Act of 1939 because of the Federal Alien Registration Act of 1940
       - Where the federal government in the exercise of its superior authority in this field has enacted a complete scheme of regulation and has therein provided a standard for the registration of aliens, states cannot, inconsistently with the purpose of Congress, or interfere with, curtail, or complement, the federal law or enforce auxiliary regulations.
-  - *Florida Lime & Avocado Growers, Inc. v. Paul
+  - *Florida Lime & Avocado Growers, Inc. v. Paul*
     - Compliance with both federal and state regulation is a physical impossibility.
   - *Gade v. National Solid Wastes Management Ass'n*
     - Conflict Preemption because the federal scheme forbade duplicative regulation.
+    - Complying with state law will violate federal regulation
+    - *PG & E Co. v. State Energy Resources Conservation & Development Comm'n.*
+      - Federal Regulaton - preempts on nuclear safety issues
+      - State legislation is not preempted on nuclear economic issues
+
 #### Preemption and the Foreign Affairs Power
   - *Crosby v. National Foreign Trade Council*
     - Court struck down MA law barring state entities from buying goods or services from companies doing business with Burma.
+
 #### Federal Development Grants and Local-Hire Rules
   - *White v. Massachusetts Construction Council*
     - Court upholding an executive order by the Mayor reserving 50% of jobs on public work projects to Boston residents

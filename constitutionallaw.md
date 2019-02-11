@@ -1672,7 +1672,7 @@ and, later, opposed the 1787 constitution.
   - Enumeration of spending for anything v. power to spend on enumerated rights given to Congress
   - Cannot justify congracts which are not within federal power
   - Limits on production != enumerated power outlined in Constitution.
-
+  - Market participlation does work for the purposes of avoiding the privilieges and immunities clause. The right to work for a private contracter that has
 
 #### Case: *[Charles C. Steward Machine Co. v. Davis](Link)*
 - Social Security Compensation
@@ -2005,7 +2005,76 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
+## The Interstate Privileges and Immunities Clause of Article IV
 
+#### Case: *[United Building & Construction Trades Council v. Mayor and Council of Camden](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Privileges and Immunities Clause imposed a direct restraint on state action in the interests of interstate harmony. It was discrimination against out-of-state residents in employment, a matter of fundamental concern, which triggered the clause.</li>
+    <li><b>Facts:</b> A municipal ordinance required that at least 40 percent of the employees of contractors and subcontractors working on city construction projects be city residents. The council challenged the ordinance as ultra vires and as unconstitutional under the Commerce Clause, the Privileges and Immunities Clause, and the Equal Protection Clause. The state supreme court declined to apply the Privileges and Immunities Clause in the context of a municipal ordinance that had identical effects upon out-of-state citizens and state citizens not residing in the municipal locality. The council appealed, raising the same three challenges. The council abandoned the Commerce Clause challenge, and the 40 percent quota was changed to a hiring goal.</li>
+    <li><b>Issue:</b> Did the ordinance violate the Privileges and Immunities Clause?</li>
+    <li><b>Rule:</b> The Commerce Clause acts as an implied restraint upon state regulatory powers. Such powers must give way before the superior authority of congress to legislate on, or leave unregulated matters involving interstate commerce. When the state acts solely as a market participant, no conflict between state regulation and federal regulatory authority can arise. The Privileges and Immunities Clause, on the other hand, imposes a direct restraint on state action in the interests of interstate harmony. This concern with comity cuts across the market regulator-market participant distinction that is crucial under the Commerce Clause. It is discrimination against out-of-state residents on matters of fundamental concern, which triggers the Clause, not regulation affecting interstate commerce.</li>
+    <li><b>Conclusion:</b> The Court concluded that the challenged ordinance was properly subject to the strictures of the Privileges and Immunities Clause. The ordinance was not immune from constitutional review at the behest of out-of-state residents merely because some in-state residents were similarly disadvantaged. The Court, therefore, reversed the judgment of the state supreme court and remanded the case for a determination of the validity of the ordinance under the appropriate constitutional standard.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - Fundamental right to work in private industry but what about state?
+  - Was the city working as a market participant?
+  - Bottom line
+    - Same thing to do when you are a market participant is fine under the Dormant Commerce cluase
+    - Market participant protection doesnt work for purposes of avoiding the privileges and immunities clause.
+    - Right to work in private industry, in inbetweenn, still
+  - Holding:
+    - Right to live in the commmunity
+    - Right to work
+    - No Privilige to work for the government
+    -
+
+
+
+
+- Gora Case:
+  - Old State bar exams
+    - Every state required that you need to be the resident of the state
+
+#### Case: *[Supreme Court of New Hampshire v. Piper](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Residency requirements, which denied appellee the opportunity to be admitted to the New Hampshire bar, and which were alleged to protect the state's interests, violated the Privileges and Immunities Clause of the Constitution.</li>
+    <li><b>Facts:</b> Appellee applied and passed the New Hampshire bar. Appellant New Hampshire Supreme Court informed her that she would have to establish a home address in New Hampshire prior to being sworn in pursuant to H. Sup. Ct. R. 42, that excluded nonresidents from the bar. Appellee filed an action, alleging that the rule violated the privileges and immunities clause of the United States Constitution, Article IV 2. The district court ruled in appellee’s favor. The appellate court affirmed the judgment. On further appeal, the Supreme Court of the United States affirmed the appellate court’s decision.</li>
+    <li><b>Issue:</b> Did appellant New Hampshire Supreme Court’s bar residency requirement violate the privileges and immunities clause of the United States Constitution, Article IV 2?</li>
+    <li><b>Rule:</b> The Privileges and Immunities Clause, U.S. Const. art. IV, §2, does not preclude discrimination against nonresidents where (i) there is a substantial reason for the difference in treatment; and (ii) the discrimination practiced against nonresidents bears a substantial relationship to the state's objective.</li>
+    <li><b>Conclusion:</b> Bar residency requirements violated the Constitution because appellee's interest in practicing law was protected by the Privileges and Immunities Clause and the state's reasons for discriminating were not substantial. In the instant case, it was considered whether the discrimination bore a close or substantial relationship to the state's objectives and considered the availability of less restrictive means. The means chosen did not bear the necessary relationship to the state's objectives. Appellee would have been accepted to the bar of New Hampshire had appellee established a home address in New Hampshire</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+### Preemption
+
+#### Case: *[PG & E Co. v. State Energy Resources Conservation & Development Comm'n.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 # Separation of Powers
 

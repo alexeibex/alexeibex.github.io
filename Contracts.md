@@ -1671,9 +1671,70 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Case: *[Neri v. Retail Marine Corp. ](Link)*
 
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> After buyer repudiated a contract to purchase boat from a seller, the seller was entitled to the profits he would have made plus incidentals because the UCC provided for damages to put the seller in as good a position as performance would have done.</li>
+    <li><b>Facts:</b> A buyer contracted to purchase a boat, for which he made a deposit of $ 4,250. However, he rescinded the contract after the boat had already been ordered from the manufacturer and was delivered to the retail dealer. As a result, the retail dealer declined to refund the buyer's deposit on the ground that his profit from the sale  would have been $ 2,579 and he incurred $ 674 of incidental expenses during the period the boat remained unsold. An action to recover their deposit was commenced with the buyer in the trial court. The retail dealer counterclaimed, alleging breach of the contract and damages. The trial court held that the retail dealer was entitled to damages, but these damages had not been properly determined. Under § 2-708, the correct measure of damages was the loss of profits and incidental damages. On appeal, the trial court's decision was affirmed. The case was appealed to the Court of Appeals of New York.</li>
+    <li><b>Issue:</b> Was the trial court's determination of damages proper?</li>
+    <li><b>Rule:</b> N.Y. U.C.C. Law § 2-718(2)(a)-(b) provides, among other things, that the buyer, despite his breach, may have restitution of the amount by which his payment exceeds: (a) reasonable liquidated damages stipulated by the contract or (b) absent such stipulation, 20 percent of the value of the buyer's total performance or $ 500, whichever is smaller.</li>
+    <li><b>Conclusion:</b> The Court held that under the Uniform Commercial Code, the correct measure of damages was the loss of profits and incidental damages. Prior law had limited damages to the difference between the contract price and the market price. Under new provisions of the law, if the measure of damages under the difference in price was inadequate to put the seller in as good a position as performance would have done, then the seller was entitled to its profit together with any incidental damages.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
 
+</details>
 
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Hadley v. Baxendale](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Miller sough to recover the profits lost from the clsoing of the mill as a result of a carrier's failure to make timely delivery of a broken crank shaft to an enfineering firm where it was to be used as a model for a replacement.</li>
+    <li><b>Facts:</b> π carried on an extensive milling operation. Mill was stopped by a breakage of the crank shaft by which the mill was worked. π sent their servent to the office of a well known carrier company. π servant told clerk it must be sent immediately. ∆ answer was that if it was sent up by 12pm any day it would be delivered the following day. Delivery of shaft was delayed by some neglect. π did not receive shaft for several days after they would have otherwise done, working on the mill was delayed and they lost profits.</li>
+    <li><b>Issue:</b> Whether π is entitled to the lost profits caused by the delays in shipping?</li>
+    <li><b>Rule:</b> Where 2 parties have made a contract which one of them has broken the damages which the other party ought to receive in respect to such breach of contract should be as may fairly and reasonably be considered either arising naturally, according to the usual course of things, from such breach of contract itself, or such as may be reasonably be supposed to have been in the contemplation of both parties at the time they made the contract. If special cirumstances were made and communicated to and known to both parties, the damages resulting from a breach of contract under these circumstances would be the amount of injury which would ordinarily follow from a breach of contract.</li>
+    <li><b>Conclusion:</b> The loss of profits really arose from not sending down the new shaft in proper time, and that this arose from the delay in delivering the broken one to serve as a model. Special circumstances were never communicated by the πs to the ∆s. Loss of profits cannot reasonably be considered such a consequence of the breach of contract as could have been fairly and reasonably contemplated by both parties when they made the contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Spang Industries Inc. v. Aetna Casualty & Surety Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Armstrong v. Bangor Mill Supply Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> “crankshaft repair shop liable for lost profits after defective repairs”</li>
+    <li><b>Facts:</b> ∆ failyre to repair a crankshaft from the πs mill in a workmanlike manner. π sent a broken crankshaft to ∆ machine shop for repairs. In making repairs, ∆ left the shaft out of alignment requiring its return for realignment. π mill was shut down for six days with lost earning and expenses of maintenance. Losses and expenses are **incidental to the crankshaft repairs**</li>
+    <li><b>Issue:</b> Whether ∆ is liable for πs incidental loses?</li>
+    <li><b>Rule:</b> Law implies an undertaking on its part to perform the work in a reasonably skillful and workmanlike manner.</li>
+    <li><b>Conclusion:</b> Damages awarded to π were not excessive, mill was impeded in its efficient operation by the ∆s failure to fulfill the obligation impliedly imposed by its contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - “In addition, an insurance company should know that its insured may suffer loss of its business when the company sells the insured business interruption coverage.”
 
 ---
 
