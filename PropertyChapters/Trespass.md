@@ -13,7 +13,7 @@
 
 ### Repeated Trespass
 - Injuntive Relief
-- *[Baker v. Howard County Hunt]*
+- *[Baker v. Howard County Hunt](Link)*
 
 
 ### Building Encroachment
@@ -25,8 +25,9 @@
 ### Mistaken Improver
 - *[Producers Lumber & Supply Co. v. Olney Building Co.](Link)*
 
-# Limits & Enforcements on the Right to Exclude
-## Criminal Action
+## Limits & Enforcements on the Right to Exclude
+
+### Criminal Action
 ### Criminal Laws Protecting Real Property
 - Originally Common-law crime until statutory creation.
   - Modesty of penalties raises questions about the function of laws.
@@ -46,8 +47,7 @@
     - Burglary
       - "Enters a building or structure..."
 
-## Civil Actions
-
+### Civil Actions
 ### Civil Actions Protecting Real Property
 - Civil: Trespass
   - Protect the interest in exclusive possesion of land.
@@ -90,9 +90,11 @@
     - Modern Trend Allows for Self-Help in regards to Commercial Leases.
 
 
-# Exception to the Right to Exclude
-- Necessity
+## Exception to the Right to Exclude
+### Necessity
   - *[Ploof v. Putnam](Link)*
+    - A traveler on a highway, who finds it obstructed from a sudden and temporary cause, may pass upon the adjoining land without becoming a trespasser, because of the necessity.
+    - An entry upon land to save goods which are in danger of being lost or destroyed by water or fire is not a trespass.
   - Shifting of Rights
     - Conditions of necessity shift the right to exclude from the landowner to the person entering under conditions of necessity.
   - Suspension of Rights for Damages
@@ -100,9 +102,46 @@
     - Necessity suspends other modes of protection the landowner can ordinarily invoke such as the privilege of self help and the right to obtain an injunction.
   - Unjust enrichment
     - Necessity defense negates any liability in tort for trespass, and the damages are a form of restitution for unjust enrichment to the intruder.
-- Custom
-  - *[McConico v. Singleton]*
-- Public Accommodations Laws
-  - Owners of public accommodations, in contrast have a much more qualified right to exclude.
-  - Subject to a general duty of nondiscrimination among customers
-    - Must provide services to customers on a first come, first served basis + must charge reaonable rates for the services provide
+
+
+### Custom
+-  Custom can be mandatory or default. In reaction against land-owner power in England, early  American courts were  inclined  to enforce a custom of access for hunters over unenclosed land. Some early versions of this custom were not avoidable by notifying a hunter that he was unwelcome (orally or by a sign).
+  - See *[McConico v. Singleton](LINK)*
+    - Necessity Exception?
+      - Hunters need to hunt in order to feed and provide clothes their families
+    - Public Policy Perspective
+      - Concerned regarding free standing militias
+
+### Public Accomodation Laws
+- Owners of public accommodations, in contrast have a much more qualified right to exclude.
+- Set of defined duties to the general public
+  - Specific examples include traveling accomodations (Ferries, Hotels, Restaurants)
+    - Monopoloy Concerns?
+- Duties of Owners to Public Accomodations
+  - Duty of Nondescrimination
+    - First come, first served, unless there was good cause to exclude a potential patron
+  - Reasonable Charge
+    - Which could vary by customer as long as it was in the range of reasonableness
+- Discrimination & Civil Rights Laws
+  - Civil Rights Act
+    - Title  II  of the Civil Rights Act of 1964 contains a very broad definition of “public accommodation.” Included are (1)  inns, hotels, and motels, unless there are five or fewer rooms and the  owner  lives  on  the  premises; (2) any  restaurant, cafeteria, or lunch counter ; (3) “any motion picture house, the-ater, concert hall, sports arena, stadium or other place of exhibition or entertainment.” Private clubs or other establishments “not open to the public” are  excluded.
+
+### Laws for Owner Protections
+- The conflict between owner sovereignty and other values in the law of criminal trespass is well illustrated
+  - See *[State v. Shack](LINK)*
+    -  A farmer invoked the law of criminal  trespass  to  exclude  two  aid  workers who wanted to consult unsupervised with migrant farm workers  temporarily living on the farmer’s land.
+    - The  New  Jersey  Supreme  Court,  noting  that  property  serves  human  values,  held  that  the  owner’s right to exclude did not go this far — An owner could not use the law of trespass to isolate the workers.
+    - The court came down for balancing the right to exclude against the interests of migrant work-ers in maintaining contact with the outside world.
+      - "Property rights serve human values. They are recognized to that end, and are limited by it. HN3 Title to real property cannot include dominion over the destiny of persons the owner permits to come upon the premises."
+- **Rules v. Standards**
+  - No clear rule for which visitors can be excluded and who cannot.
+    - General Distinction between rule and standards.
+      - Both forms of decision making
+        - Rules = Simple and General and Low Cost (Speed Limits)
+          - Cons: Inflexible, One Size Fits All, Optimal = Expensive
+        - Standards = Interprative and Flexible (Drive Safely)
+          - More Sensitive to a given situation
+          - Cheap to create, Broadly applicable
+          - Cons: Higher Cost & Complexity to interprete, many different interactions can result in complexity and difficulty
+  - Rule Based: *[Jacques v. Steemburg Homes](LINK)*
+  - Standards Based: *[State v. Shack](LINK)*

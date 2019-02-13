@@ -1617,6 +1617,10 @@ Party Autonomy (Squeegee)
 
 - <span style="color:red">**Class Discussion**</span>
 
+
+#### Morello Case
+
+
 Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have Services Performed
 
 #### Case: *[Warner v. Mclay](Link)*
@@ -1636,6 +1640,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Limitation on Cover Type Damages
 
 #### Case: *[Handicapped Children's Education Board of Sheboygan County v. Lukaszweski](Link)*
 
@@ -1652,7 +1657,10 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+- Reasonableness in cover
+- Efficient Breach
 
+#### Problem 3-2
 
 #### Case: *[Tongish v. Thomas](Link)*
 
@@ -1670,8 +1678,17 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+- π Seller = Tongish
+- ∆ Buyer = Thomas -$.55 handling fee K-> Resale to Bambino
+- K = Growing and Sale of Sunflower Seeds for $
+  - 116.8 Acres
+  - $13 per hundredweigh for large seeds
+  - $8 per hundredweight for small seeds
+- Facts: Tongish Breach of Contract, Coop intervened to recoup damages from Thomas who paid.
+  - Under UCC 305 put nonbreaching party in the place they would have been should the contract have occurred.
+  - District court awards  455.51 handling fee that was negotiated
 
-#### Case: *[Neri v. Retail Marine Corp. ](Link)*
+#### Case: *[Neri v. Retail Marine Corp.](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -1735,6 +1752,26 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
   - “In addition, an insurance company should know that its insured may suffer loss of its business when the company sells the insured business interruption coverage.”
+
+
+#### Case: *[Clark v. Marsiglia](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Owner had the right to countermand his instructions for the restorer to clean and repair his paintings and the restorer could not complete the work and recover the whole value of his labor and for the materials furnished.</li>
+    <li><b>Facts:</b> π was hired to clean and repair paintings at a certain price for each. 1st parcel delivered was for $75 dollars, no defense was offered. 2nd parcel was for $156 dollars. ∆ gave evidence to show that after the π commenced work upon them he desired him not to go on because he did not want the cleaning to go on. π continued to clean and repair the paintings and claimed to recover for the whole  and for materials furnished. Trial Court instructed jury that π had commenced the work before the order was revoked, he had a right to finish it, and to recover the whole value of his labor and for the materials furnished. Jury found for π. </li>
+    <li><b>Issue:</b> Was the trial court correct in its jury instructions and allocation of damages to π for the breach even with evidence of a countermade of the contract.</li>
+    <li><b>Rule:</b> Damages should include a recompense for the labor done and the materials used, and damages upon legal principles be assessed for the breach of the contract. π had no right to persist in the work in order to make the penalty greater than it would otherwise have been.</li>
+    <li><b>Conclusion:</b> To hold that one who employs another to do a piece of work is bound to suffer it to be done at all events would sometimes lead to great injustice. The party employed cannot persist in working, though he is entitled to the damages consequent upon his disappointment. Judgement reversed.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
 
 ---
 

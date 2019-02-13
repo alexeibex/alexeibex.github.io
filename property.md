@@ -939,12 +939,13 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Custom
 #### Case: *[McConico v. Singleton](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Action of Trespass brought by π that he had warned and ordered the ∆ not to hunt on his land and that the ∆ had notwithstanding, rode over and hunted deer on his unenclosed and unimproved lands. The verdict was that each party should pay their own costs and the π now moves for a new trial on the grounds.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> Right to hunt was an embedded right of hunters for a long time in the area. </li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b> Riding over the unenclosed and unimproved lands is in law a trespass, for which an action will lie, when it is contrary to the express orders of the owner.</li>
     <li><b>Conclusion:</b> That a right which the law gives can be defeated at the mere will and caprice of an indvidual.</li>
@@ -954,3 +955,25 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Laws for Owner Protections
+#### Case: *[State v. Shack](Link)*
+
+<span style="color:red">**Important Case**</span>
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendants did not trespass on farmer's property to provide governmental and charitable services to migrant farmworker because traditional state law property principles did not give right to deny migrant workers access to the services.</li>
+    <li><b>Facts:</b> Defendants, an attorney and health service worker, entered on private property to aid a migrant farmworker housed there. The owner-employer said he would allow defendants to meet with the migrant workers they sought, but only in his presence in his office. When defendants asserted they had a right to meet alone with the worker, the owner summoned the police to remove them for trespass. </li>
+    <li><b>Issue:</b> Can government service workers be barred from entering property under the concept of trespass on real property?</li>
+    <li><b>Rule:</b> Title to real property cannot include dominion over the destiny of persons the owner permits to come upon the premises.</li>
+    <li><b>Conclusion:</b> The court found the owner did not have the right to bar governmental services available to the workers, hence there was no trespass. The court indicated it was unthinkable that the employer could assert a right to isolate the migrant worker in a way significant to the worker's well being as here.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - Property rights subservient to human values.
+  - 

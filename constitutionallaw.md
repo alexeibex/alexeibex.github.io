@@ -2094,12 +2094,12 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
-
+#### Foreign Policy
 #### Case: *[Zivotofsky v. Kerry](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b> The power to recognize or decline to recognize a foreign state and its territorial bounds resided in the President alone. Pub. L. No. 107-228, § 214(d), 116 Stat. 1350, 1366 (2002), was unconstitutional as it was a mandate that the President contradict his prior recognition determination in an official document issued by the Secretary of State.</li>
+    <li><b>Overview:</b> The power to recognize or decline to recognize a foreign state and its territorial bounds resided in the President alone. Congress's law was unconstitutional as it was a mandate that the President contradict his prior recognition determination in an official document issued by the Secretary of State.</li>
     <li><b>Facts:</b> In 2002, Manachem Zivotofsky was born in Jerusalem to parents who were United States citizens. Manachem's parents requested that the U.S. State Department record his place of birth on his passport as "Israel," in accordance with Section 214(d) of the Foreign Relations Authorization Act of 2003 (Act). The State Department refused, and instead, issued Manachem a passport that listed "Jerusalem" as his place of birth. His parents sued the Secretary of State on his behalf and sought the enforcement of Section 214(d). The district court dismissed the case on the ground that it presented a non-justiciable political question. The U.S. Supreme Court, in Zivotofsky v. Clinton, reversed that holding and remanded the case. On remand, the district court held that Section 214(d) "impermissibly intereferes" with the President's exclusive power to recognize foreign states. The U.S. Court of Appeals for the District of Columbia Circuit affirmed and held that the section goes beyond the scope of Congress's passport power to affect United States foreign policy, which is a realm that the Constitution reserves for the executive branch.</li>
     <li><b>Issue:</b> Does a federal statute that directs the Secretary of State to record the birthplace of an American citizen born in Jerusalem as "Israel," if requested to do so, impermissibly infringe on the President's power to recognize foreign states?</li>
     <li><b>Rule:</b> The text and structure of the United States Constitution grant the President the power to recognize foreign nations and governments. The question is whether that power is exclusive. The various ways in which the President may unilaterally effect recognition, and the lack of any similar power vested in Congress, suggest that it is. So, too, do functional considerations. Put simply, the Nation must have a single policy regarding which governments are legitimate in the eyes of the United States and which are not. Foreign countries need to know, before entering into diplomatic relations or commerce with the United States, whether their ambassadors will be received; whether their officials will be immune from suit in federal court; and whether they may initiate lawsuits here to vindicate their rights. These assurances cannot be equivocal.</li>
@@ -2110,16 +2110,18 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+  - Lowest Ebb Interpretaton
+  -
 
 #### Case: *[United States v. Belmont](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> State and federal public policy against acts of confiscation could not prevail against international compact between U.S. and Soviet Union in which Soviet Union assigned to U.S. its claims against U.S. nationals for expropriated property.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> The United States recognized the Soviet Union in exchange for the Soviet Union assigning to  the  United  States  its  interests  in  a  Russian  insurance  company  in New York. The Soviet Union had nationalized the interest in this insurance company in 1918 and 1919. The United States would use theseassets to pay claims that it and others had against the Soviet Union</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b> Governmental power over internal affairs is distributed between the national government and the several states. Governmental power over external affairs is not distributed, but is vested exclusively in the national government. Plainly, the external powers of the United States are to be exercised without regard to state laws or policies. Within the field of its powers, whatever the United States rightfully undertakes, it necessarily has warrant to consummate. And when judicial authority is invoked in aid of such consummation, state constitutions, state laws, and state policies are irrelevant to the inquiry and decision. It is inconceivable that any of them can be interposed as an obstacle to the effective operation of a federal constitutional power.</li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Conclusion:</b> the Court  stated that “in  the  case  of all international compacts and agreements ... complete power over   international affairs is in the national government and is not and cannot be subject to any curtailment or interference on the part of the several states.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -2127,7 +2129,7 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
-
+#### Executive Agreements
 #### Case: *[Dames & Moore v. Regan](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -2154,6 +2156,23 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Does the decision of the International Court of Justice and the subsequent memorandum of the President constitute directly enforceable federal law that pre-empts state limitations on the filing of successive habeas petitions?</li>
     <li><b>Rule:</b> Not all international law obligations automatically constitute binding federal law enforceable in United States courts. A distinction is recognized between treaties that automatically have effect as domestic law, and those that--while they constitute international law commitments--do not by themselves function as binding federal law. A treaty is equivalent to an act of the legislature, and hence self-executing, when it operates of itself without the aid of any legislative provision. When, in contrast, treaty stipulations are not self-executing they can only be enforced pursuant to legislation to carry them into effect. In sum, while treaties may comprise international commitments, they are not domestic law unless Congress has either enacted implementing statutes or the treaty itself conveys an intention that it be "self-executing" and is ratified on those terms. What is meant by "self-executing" is that the treaty has automatic domestic effect as federal law upon ratification. Conversely, a "non-self-executing" treaty does not by itself give rise to domestically enforceable federal law. Whether such a treaty has domestic effect depends upon implementing legislation passed by Congress. </li>
     <li><b>Conclusion:</b> The Supreme Court held that neither the ICJ decision nor the President's memorandum constituted directly enforceable federal law that would preempt state limitations on the filing of successive habeas petitions. The pertinent international agreements, including the Optional Protocol Concerning the Compulsory Settlement of Disputes to the Vienna Convention, Apr. 24, 1963, 21 U.S.T. 325, T.I.A.S. No. 6820 and the United Nations Charter, did not provide for direct enforcement of ICJ judgments. Nor could the President unilaterally execute a non-self-executing treaty by giving it domestic effect, as the power to implement such a treaty fell to Congress.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Trump v. Hawaii](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A presidential proclamation placing entry restrictions on nationals from eight foreign states was a valid exercise of presidential authority under 8 U.S.C.S. § 1182(f) where the President found that their entry was detrimental to the United States' interests.</li>
+    <li><b>Facts:</b> Under the Immigration and Nationality Act, foreign nationals seeking entry into the United States undergo a vetting process to ensure that they satisfy the numerous requirements for admission. The Act also vests the President with authority to restrict the entry of aliens whenever he finds that their entry “would be detrimental to the interests of the United States.” Relying on that delegation, the President concluded that it was necessary to impose entry restrictions on nationals of countries that do not share adequate information for an informed entry determination, or that otherwise present national security risks. Presidential Proclamation No. 9645, 82 Fed. Reg. 45161 (2017) (Proclamation). Respondents, the State of Hawaii, individuals with relatives affected by the entry suspension, and the Muslim Association of Hawaii, challenged the application of those entry restrictions to certain aliens abroad.</li>
+    <li><b>Issue:</b> Did the President have authority under the Act to issue the Proclamation, and did the entry policy violate the Establishment Clause of the First Amendment?</li>
+    <li><b>Rule:</b> The rational basis standard of review considers whether the entry policy of Presidential Proclamation No. 9645 is plausibly related to the government’s stated objective to protect the country and improve vetting processes. As a result, the court may consider extrinsic evidence, but will uphold the policy so long as it can reasonably be understood to result from a justification independent of unconstitutional grounds. </li>
+    <li><b>Conclusion:</b> The presidential proclamation placing entry restrictions on nationals from eight foreign states was a valid exercise of presidential authority under 8 U.S.C.S. § 1182(f)where the President found that their entry was detrimental to the United States' interests; [2]-Even if judicial review of those findings was appropriate, the proclamation described the process, agency evaluations, and recommendation underlying the chosen restrictions and made clear that its conditional restrictions remained in force only so long as necessary to address the identified inadequacies and risks within those nations. Although three individuals had standing to challenge the exclusion of relatives under the Establishment Clause, on rational basis review the proclamation was facially legitimate in that it, inter alia, aimed to prevent the entry of nationals who could not be adequately vetted.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
