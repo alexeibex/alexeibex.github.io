@@ -11,6 +11,7 @@
       - Has Congress Acted and Expressly Addressed the subject?
       - Black: This is a job for the Nation's lawmakers, not for its military authorities
     2. **Adverse Possession & Gloss Theory**: Justice FrankFurter
+      - Pattern or practice of Executive action without Congressional Challenege.
       - "It is an inadmissibly narrow conception and to disregard the **gloss**" which life has written upon them. In short a systematic, unbroken, executive practice, long purused to the knowledge of the Congress and never before questioned, engaged in by Presidents who have also sworn to uphold the Consitution, making as it were such exercise of power part of the structure of our government may be treated as a gloss on "executive" Power
     3. Legislative Accountability: Justice Jackson
       1. **Power At Apex**
@@ -29,6 +30,7 @@
       - The executive as  subject  only  to  the  people,  and,  under the Constitution, bound to serve the people affirmatively in cases where the Constitution does not explicitly forbid him to render the service
 
 ## Foreign Policy
+- Express & Implied Powers over Foreign Policy
 - See *[Zivotofsky v. Kerry](Link)*
   - Executive Presidential Powers Analysis of **Lowest Ebb Tier**
     - Executive Alone okay if Congress not.
@@ -44,13 +46,51 @@
     - Adopting Frankfurter's Adverse Possession Approach
       - Well established these are permitable
       - Congress expressly rejected an amendment which would have served to prevent executive agreements against treaties
+      - Executive Power had taken a "gloss from history" - Power adopted from "adverse possession"
 - Executive Power over the States Pursuant to Treaty Power
+
+
 - Executive Power, Immigration, National Security, and Religious Bias
-  - See *[Trump v. International Refugee Assistance Project](link)*
+  - Broad & Planery Power so long as facially neutral
+  - See *[Trump v. Hawaii International Refugee Assistance Project](link)*
     - Court interprets using a Rational Basis
     - Power over immigration has long been an executive power
       - Executive examination of facts is entitled to the appropriate weight.
     - Dissent: Focus on practical applications of proclomations
       - Statements of Trump before the election
-      -
-      -
+
+## Presidential Power and the War on Terrorism
+- Constitutional Authority: President = The Commander in Chief v. Congress = "Raise and Support Armies and navies"
+
+- Presidential War Powers
+  1. Must Take Action
+  2. Must send report to the House of Representatives
+  3. Termination after 60 days unless Congress has acted to extend or declared war
+
+- Emergency Constiutionalism
+  - Linconln's Suspension of Habeas Corpus
+    - Taney critical but allows the suspension to continue
+  - "All the Laws but one..."
+- Habeas Corpus, Military Tribunals & Detention and Trial of "Enemy Combatants"
+  - See *[Ex Parte Milligan](Link)*
+    - Constitution must be followed even in the hardest of times.
+  - See *[Ex Parte Quirin](Link)*
+    - Enemy combatants can be tried in front of a military tribunal
+      - Congress has provided power consistant with the "Law of War"
+      - Lawful Combatant = Solider on the battlefield, in uniform, must be treated as PoW & Repatriated after the war
+      - Unlawful Combatant = Spies & Sabateurs, blending with civilians, targeting industry and civilians, can be prosecuted for "war crimes" and punished.
+  - See *[Johnson v. Eisentrager](Link)*
+    - No Habeas Corpus for foreigners abroad utside the United States
+  - See *[Rasul v. Bush](Link)*
+    - Extension of Habeas Corpus to Guantanamo Bay
+      - Sovereign Part of the United States
+- Guantanmo Bay, Habeas Corpus & The Interplay between the executive, legislative and judicial branches.
+  - See *[Hamdi v. Rumsfeld](link)*
+    - Jackson's Youngstown Category 1
+  - See *[Hamdan v. Rumsfeld](Link*)
+    - Legality of Military Tribunals created persuant to the "special commission" was found to be illegal
+    - Court's interpretation of the Uniform Code of Military Justice
+  - See *[Boumediene v. Bush](Link)*
+    - Jackson's Youngstown Category 1
+-
+  -

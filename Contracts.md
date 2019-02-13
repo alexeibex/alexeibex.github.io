@@ -1771,7 +1771,58 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Duty to Mitigate Damages
 
+#### Case: *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Court erred in awarding any damages in light of the retailer's failure to mitigate damages following a customer's breach of a contract for the purchase from the retailer of a mobile home.</li>
+    <li><b>Facts:</b> The principal issue involved a retailer's duty to mitigate damages following a customer's breach of a contract for the purchase from the retailer of a mobile home. The retailer asserted that it was entitled to recover lost profits and greater incidental damages. The breaching party cross-appealed, contending inter alia that the lower court erred in awarding any damages in light of the retailer's failure to mitigate. The court denied the appeal and sustained the cross-appeal. The determinative issue concerned the retailer's alleged failure to mitigate damages. The law made it incumbent upon a person for whose injury another is responsible, to use ordinary care and take all reasonable measures within his knowledge and power to avoid the loss and render the consequences as light as may be and would not permit the retailer to recover for such losses as by such care and means might have been prevented.</li>
+    <li><b>Issue:</b> Whether retailer has a duty to mitigate damages following a customers breach of contract for the purchase of a mobile home?</li>
+    <li><b>Rule:</b> When a contract is breached, non-breaching party has an affirmative duty to take reasonable steps to mitigate damages.</li>
+    <li><b>Conclusion:</b> Father was willing to purchase the property, π had a party willing to pay full amount for the home. The court denied the appeal and sustained the cross-appeal and remanded.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Parker v. 20th Century Fox Film Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Plaintiff was entitled to damages after defendant's breach because defendant's failure to show that a role in a different movie was comparable to one plaintiff had agreed to do quashed its mitigation of damages argument.</li>
+    <li><b>Facts:</b> Shirley MacLaine Parker (plaintiff) contracted with Twentieth Century-Fox Film Corp. (defendant) in the film of a musical review. Defendant decided not to produce the picture, notified plaintiff of its intent not to comply with the obligations of its contract, and offered to employ plaintiff as the female lead in a "western type" movie, at the same rate of compensation but under certain terms that varied from the original contract of employment. Plaintiff did not accept the offer of substitute employment and the offer lapsed. Plaintiff then sought recovery of the agreed guaranteed compensation, pleading two causes of action, one for money due under the contract and the other for damages resulting from defendant's breach of contract. Defendant admitted the anticipatory breach of the contract and pleaded, as an affirmative defense, plaintiff's deliberate failure to mitigate damages, asserting that she unreasonably refused to accept the offer of substitute employment. The trial court entered summary judgment for plaintiff for the agreed compensation, plus interest. </li>
+    <li><b>Issue:</b> Did plaintiff's failure to take an alternative role in a different motion picture result in her unreasonable refusal to mitigate damages?</li>
+    <li><b>Rule:</b> The general rule is that the measure of recovery by a wrongfully discharged employee is the amount of salary agreed upon for the period of service, less the amount which the employer affirmatively proves the employee has earned or with reasonable effort might have earned from other employment. However, before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee's rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages.</li>
+    <li><b>Conclusion:</b> The Supreme Court pointed out that before projected earnings from other employment opportunities not sought or accepted by a discharged employee can be applied in mitigation of damages, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee was deprived by wrongful discharge. The court held that the trial court correctly ruled plaintiff's failure to accept defendant's tendered substitute employment in the "western" could not be applied in mitigation of damages; the offer was of employment both different and inferior to a musical review calling on plaintiff's talents as a dancer and actress; and additionally, the substitute offer proposed to eliminate or impair the director and screenplay approvals accorded to plaintiff under the original contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[In Re WorldCom, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 ---
 

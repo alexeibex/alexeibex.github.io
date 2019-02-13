@@ -2179,3 +2179,127 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### The President and the War on Terror
+
+
+#### Case: *[Ex Parte Milligan](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Prisoner's rights were infringed upon by a military commission because the military commission did not have jurisdiction to try and sentence him. Therefore, the proper remedy was to issue his writ of habeas corpus and release him from prison.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Habeas Corpus & Enemy Combatants
+#### Case: *[Ex Parte Quirin](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> President had the authority under the Constitution to try petitioners for war crimes before a military tribunal, instead of a civil proceeding, since petitioners were accused of being unlawful belligerents under the Articles of War.</li>
+    <li><b>Facts:</b> Eight German-born U.S. residents were captured by the United States as they tried to enter the country during war time, for the purpose of sabotage, espionage, hostile or warlike acts, or violations under the law of war. The President of the United States held that petitioners were to be tried before a military tribunal under the Articles of War. The 8 captured residents challenged the President's authority, arguing that under the U.S. Constitution they had a right to demand a jury trial in the civil courts. </li>
+    <li><b>Issue:</b> Did belligerents caught entering the United States during wartime have the right to demand a jury trial in the civil courts?</li>
+    <li><b>Rule:</b> By universal agreement and practice, the law of war draws a distinction between the armed forces and the peaceful populations of belligerent nations and also between those who are lawful and unlawful combatants. Lawful combatants are subject to capture and detention as prisoners of war by opposing military forces. Unlawful combatants are likewise subject to capture and detention, but in addition they are subject to trial and punishment by military tribunals for acts which render their belligerency unlawful. The spy who secretly and without uniform passes the military lines of a belligerent in time of war, seeking to gather military information and communicate it to the enemy, or an enemy combatant who without uniform comes secretly through the lines for the purpose of waging war by destruction of life or property, are familiar examples of belligerents who are generally deemed not to be entitled to the status of prisoners of war, but to be offenders against the law of war subject to trial and punishment by military tribunals.</li>
+    <li><b>Conclusion:</b> The court found that petitioners were alleged to be unlawful belligerents, and that under the Articles of War, they were not entitled to be tried in a civil proceeding, nor by a jury. The court also determined that trying petitioners before a military court was not illegal and did not violate the U.S. Const. amends. V and VI relating to "crimes" and "criminal prosecutions." Thus, the court affirmed the President's authority to try petitioners before a military tribunal without a jury.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### No Habeas Corpus Does not apply abroad
+#### Case: *[Johnson v. Eisentrager](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Rejecting the US Government's Argument authorizing district courts to entertain habeas applications by persons claiming to be held in custody in violation of their rights.
+#### Case: *[Rasul v. Bush](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Hamdi v. Rumsfeld](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Although the Government was authorized to detain a citizen-detainee who was allegedly an enemy combatant, he was entitled to a meaningful opportunity to contest the factual basis for that detention before a neutral decisionmaker.</li>
+    <li><b>Facts:</b> Yaser Hamdi is an American citizen who was apprehended  in Afghanistan and brought to Guantánamo Bay. There it was discovered that he is an American citizen and he was taken to a military prison in South Carolina. He has been held as an enemy combatant and never has  been  charged with any crime. His situation is identical to that of John Walker Lindh, excep that Lindh was indicted and pled guilty  to crimes.</li>
+    <li><b>Issue:</b>  Does  the federal  government  have  the  authority  to  hold  an  American  citizen apprehended  in  a  foreign  country  as  an  enemy  combatant?  Was the petition for habeas corpus properly dismissed? What,  if  any,  process  mustbe  accorded  to  Hamdi?</li>
+    <li><b>Rule:</b> Regarding the tension that often exists between the autonomy that the Government asserts is necessary in order to pursue effectively a particular goal and the process that a citizen contends he is due before he is deprived of a constitutional right, the ordinary mechanism that the United States Supreme Court uses for balancing such serious competing interests, and for determining the procedures that are necessary to ensure that a citizen is not deprived of life, liberty, or property, without due process of law, Mathews dictates that the process due in any given instance is determined by weighing the private interest that will be affected by the official action against the Government's asserted interest, including the function involved and the burdens the Government would face in providing greater process. The Mathews calculus then contemplates a judicious balancing of these concerns, through an analysis of the risk of an erroneous deprivation of the private interest if the process were reduced and the probable value, if any, of additional or substitute safeguards.</li>
+    <li><b>Conclusion:</b> Hamdi's detention was authorized pursuant  to  an  Act  of  Congress:  the  Authorization  for  Use  of  Military Force that was passed after September 11. Justice O'Connor stated thatthis  constituted  sufficient  congressional  authorization  to  meet  the requirements  of  the  Non-Detention  Act  and  to  permit  detaining  anAmerican  citizen  apprehended  in  a  foreign  country  as  an  enemy combatant. Hamdi  is  entitled  to  have  his  habeas  corpus  petition heard  in  federal  court  and  that  imprisoning  a  person  is  obviously  the most basic form of deprivation of liberty. Thus, due process is requiredand  the  procedures  required  are  to  be  determined  by  applying  the three-part  balancing  test  under Mathews  v.  Eldridge, which  instructscourts  to  weigh  the  importance  of  the  interest  to  the  individual,  theability  of  additional  procedures  to  reduce  the  risk  of  an  erroneous deprivation, and the government's interests.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Hamdan v. Rumsfeld](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The  Court,  in  a  5-3  opinion,  found  that  the military tribunals were not authorized by act of Congress and that they violated   the   Uniform   Code   of   Military   Justice   and   the   Geneva Conventions.  The  Court  especially  emphasized  the  ability  to  exclude  a defendant  during  the  presentation  of  evidence,  and  even  to  prevent the defendant from being told of this evidence. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Boumediene v. Bush](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Alien detainees were entitled to seek a writ of habeas corpus to challenge their detention at Guantanamo Bay, Cuba. 28 U.S.C.S. § 2241(e) violated U.S. Const. art. I, § 9, cl. 2, as the procedures of the Detainee Treatment Act, 109 Pub. L. No. 148, 119 Stat. 2680, were not an adequate and effective substitute for habeas corpus.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b> In light of the statutes passed by Congress, do the petitioners, aliens detained at Guantanamo, have the constitutional privilege of habeas corpus?</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> We hold that Art. I, §9, cl. 2, of the Constitutionhas  full  effect  at  Guantánamo  Bay.  If  the  privilege  of  habeas  corpus  isto  be  denied  to  the  detainees  now  before  us,  Congress  must  act  inaccordance   with   the   requirements   of   the ​Suspension   Clause. The Court held that petitioners have the constitutional privilege of habeas corpus. They are not barred from seeking the writ or invoking the Suspension Clause's protections because they have been designated as enemy combatants or because of their presence at Guantanamo. According to the Court,  a brief account of the writ's history and origins shows that protection for the habeas privilege was one of the few safeguards of liberty specified in a Constitution that, at the outset, had no Bill of Rights; in the system the Framers conceived, the writ has a centrality that must inform proper interpretation of the Suspension Clause. That the Framers considered the writ a vital instrument for the protection of individual liberty is evident from the care taken in the Suspension Clause to specify the limited grounds for its suspension: The writ may be suspended only when public safety requires it in times of rebellion or invasion. The Clause is designed to protect against cyclical abuses of the writ by the Executive and Legislative Branches. It protects detainee rights by a means consistent with the Constitution's essential design, ensuring that, except during periods of formal suspension, the Judiciary will have a time-tested device, the writ, to maintain the "delicate balance of governance.”</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

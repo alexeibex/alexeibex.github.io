@@ -6,9 +6,9 @@
 
 
 ---
-## Measure of Damages when Breach
+## Measure of Damages for a Breach of Contract
 
-## Measure of Expectations Damages
+### Measure of Expectations Damages
   - Puts promisee in the position he would have been in **if the contract had performed**.
     - You get what you bargained for.
   - Compensatory Damages
@@ -100,13 +100,23 @@
 
 
 #### Recovery for Lost Profits under the UCC
-- [Neri v. Retail Marine Corp.]
+- See *[Neri v. Retail Marine Corp.](link)*
   - **Lost Volume Seller: Measure of Damages = Contract Price - Construction Costs - Expenses  + Profit**
     - A lost volume seller has the capacity to meet every potential sales order.
     - Read literally, the last clause of 2-708(2)—“due credit for payments or proceeds of resale” — prevents a seller from recovering from a buyer in breach if the seller can sell the item to another buyer for the same price.
     - However, in transactions with lost volume sellers, the buyer should not be credited with proceeds from the second sale, because the lost volume seller would have been able to make two profits instead of one.
     - What is the proper definition of “lost volume seller”? Courts often assume that a lost volume seller is one with “the capacity to supply the breached units in addition to what it actually sold.” But courts should also focus on whether it would be profitable for the seller to produce both units. At some point, it no longer becomes profitable for the lost volume seller to produce additional units. Thus, in some cases, awarding lost profits to lost volume sellers will result in overcompensation.
 
+#### Duty to Mitigate Damages
+- "The duty to mitigate damages requires an injured party to act reasonably after breach”
+  - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
+- "Before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee’s rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages.""
+  - See *[Parker v. Twentieth Century Fox Film Corp](link)
+- Lost Volume Sellers Duty to Mitigate
+  - See *[In Re WorldCom, Inc.](link)*
+
+
+Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornbook Series).” Apple Books.
 
 
 ### Restatement Second § 347: Measure of Damages in General
@@ -153,6 +163,10 @@
 ## Nominal
   - Small amount of award where the ∆ is in breach but the π has suffered no quantifiable loss.
     - Legal record of who is at fault
+
+
+
+
 
 ---
 
