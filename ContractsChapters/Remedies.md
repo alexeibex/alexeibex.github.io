@@ -99,19 +99,60 @@
     - UCC 2-714: Measure 1 = Breach of Contract Warranty - Accepted Value of goods
 
 
-#### Recovery for Lost Profits under the UCC
+#### Recovery for Lost Profits under the UCC 708
 - See *[Neri v. Retail Marine Corp.](link)*
-  - **Lost Volume Seller: Measure of Damages = Contract Price - Construction Costs - Expenses  + Profit**
-    - A lost volume seller has the capacity to meet every potential sales order.
-    - Read literally, the last clause of 2-708(2)—“due credit for payments or proceeds of resale” — prevents a seller from recovering from a buyer in breach if the seller can sell the item to another buyer for the same price.
+  - **Lost Volume Seller: Measure of Damages = Contract Price - Construction Costs - Expenses + Profits**
+  - A lost volume seller has the capacity to meet every potential sales order.
+    - Read literally, the last clause of 2-708(2)—“due credit for payments or proceeds of resale”
+      — Prevents a seller from recovering from a buyer in breach if the seller can sell the item to another buyer for the same price.
+      - Intended for Junk value when it is manifestly useless to complete the operation of manufacture.
     - However, in transactions with lost volume sellers, the buyer should not be credited with proceeds from the second sale, because the lost volume seller would have been able to make two profits instead of one.
-    - What is the proper definition of “lost volume seller”? Courts often assume that a lost volume seller is one with “the capacity to supply the breached units in addition to what it actually sold.” But courts should also focus on whether it would be profitable for the seller to produce both units. At some point, it no longer becomes profitable for the lost volume seller to produce additional units. Thus, in some cases, awarding lost profits to lost volume sellers will result in overcompensation.
+    - What is the proper definition of “lost volume seller”? Courts often assume that a lost volume seller is one with “the **capacity to supply the breached units** in addition to what it actually sold.”
+      - But courts should also focus on whether it would be profitable for the seller to produce both units. At some point, it no longer becomes profitable for the lost volume seller to produce additional units. Thus, in some cases, awarding lost profits to lost volume sellers will result in overcompensation.
+
+### Availability of Lost Expectancy Damages, Qualifications and Limits
+
+- Limits on Expectancy Damages
+  - See *[See Hadley v. Baxendale](Link)*
+    - **Hadley Rules: Two Rules**
+      - General Damages = Market value of the very thing promised at the time of performance
+      - Consequentail Damages = Damages that would **reasonably foreseeable** so known and communicated at the time the contract is formed.
+        - Application of reasonable knowledge
+          - See *[Armstrong v. Bangor Mill Supply Corp.](link)*
+            - Mill repair man could reasonably foresee that broken mill crank would inhibit mill from working and generating profits.
+    - Creates an incentive to fully disclose information at the time of K formation
+    - Codified in UCC 2-715(2)(a)
+    - Restatement §351 Limit on Hadley Rule
+      - Court may limit damages for foreseeable loss by exluding recover for loss of profits
+        - Allowing recovery only for loss incurred in reliance or if it concludes that as justice requires to avoid **disproportionate compensation**
+- Mitigation of Damages as a result of the breach
+  - See *[Clark v. Marsiglia](Link)*
+    - K = Profit + Expenses
+      - Damages should not be awarded for expenses and labor occuring after the breach
+      - Foundation for mitigation of losses by **acting reasonably**
+- Mitigation of Lost Volume Seller
+  - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
+    - Must take **reasonable steps to mitigate** != Must selling to the ∆
+    - Evidence must show that they at least **tried**
+    - Not a lost volume seller because sale to father was a substitution in lieu of son's default
+    - "The duty to mitigate damages requires an injured party to act reasonably after breach”
+  - See *[Parker v. Twentieth Century Fox Film Corp](link)
+    - "Before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee’s rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages."
+    - Reasonableness of mitigation for employee to take comperable and substantially similar
+      - Dissent Test: Differences should be for the **kind of employment** v. **mere circumstances**
+
+
+
+
+
+
+
 
 #### Duty to Mitigate Damages
-- "The duty to mitigate damages requires an injured party to act reasonably after breach”
+
   - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
-- "Before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee’s rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages.""
-  - See *[Parker v. Twentieth Century Fox Film Corp](link)
+
+
 - Lost Volume Sellers Duty to Mitigate
   - See *[In Re WorldCom, Inc.](link)*
 
@@ -124,6 +165,8 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 
 
 
+
+
 ---
 
 ## Reliance
@@ -133,6 +176,38 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
       - (Performance of the contract as promised) - (the Actual Performance) = Cost Incurred
     - When there are no **measureable lost profits** reliance may be the only way to avoid injustice.
   - [Sullivan v. O'Connor](https://alexeibex.github.io/Contracts#case-sullivan-v-oconnor)
+
+### Liquidation Damages
+
+
+- Agreed Estimation of Damages/Remedies made at the time of the contract formation.
+  - Most courts apply some variation of two tests, both of which must be satisfied. (Restatement § 339)
+    - First, the agreed damages must be **a reasonable forecast of just compensation** of just compensation for the harm that is caused by the breach.
+    - Second, the harm that is caused by the breach is one that is incapable or very difficult of accurate estimation.
+    - See *[H. J. McGrath Co. v. Wisner](Link)*
+    - See *[Vanderbilt University v. DiNardo](Link)*
+- Performance in Good faith
+  - See *[Truck Rent-A-Center, Inc. v. Puritan Farms 2nd, Inc.](link)*
+- Underliquidated Damages
+  - Under liquidated damages — anamount less than actual estimated damages are usually enforced.
+    - Justified because you are taking a risk. you could get more you could also get less.
+- Policy Reasons
+  - "Compeling" performances so that parties do not breach contract but must not "coerce"
+- See *[H. J. McGrath Co. v. Wisner ](Link)*
+
+- Limitation Damages v. Liquidation Damages
+-
+  - Hillman: Let parties contract and enjoy freedom of contracts
+
+
+#### Monetary Remedies Where the Theory of Obligation is Promissory Estoppel
+- Restatement § 90
+- See *[Goodman v. Dicker](Link)*
+  - No profits awarded because π did not demonstrate any expectation of potential sales.
+- See *[Walters v. Marathon Oil Co.](Link)*
+  - Foregone opportunity doctrine
+- See *[Walters v. Marathon Oil Co.](Link)*
+  - The Walters reasonably relied on Marathon’s promise to let them open a dealrship. The court awarded remedies to put the Walters in the position they would have been in if the contract had been performed (expectation damages).
 ---
 
 ## Restitution
@@ -150,6 +225,36 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
     - " . . . a party injured by breach of contract is entitled to retain nothing in excess of that sum which compensates him for the loss of his bargain.”
 ---
 
+## Specific Performance
+#### Restatement of Contracts §363
+- Specific performance or an injunction will be refused if a substantial part of the agreed exchange has been unperformed and its performance is not secured to the satisfaction of the court.
+- According to general view today, buyer of land is entitled to specific performance (absent a defense). Land is inherently unique an damages cannot be an adequate remedy.
+  - See *[Kitchen v. Herring]*(link)
+- Sale of Goods/Chattels
+  - Distinction between land and goods, specific performance contracts over goods in certain conditions
+- Damages at law & Jurisdiction of Specific Performance Depends on grounds that damages will not afford a complete remedy.
+  - See *[Curran v. Barefoot](link)*
+
+#### UCC 2-716 Buyers Right to Specific Performance or Replevin
+- 1. Specific Performance may be decreed where the goods are unique or in other proper circumstances
+- 2. The decree for specific performance may include such terms and conditions as to payment of the price, damages, or other relief as the court may deem just.
+
+#### Unique Goods
+- Uniquness is not the sole basis of the remedy under UCC 2-716
+  - Relief may also be granted in other proper circumstances.
+  - Scarcity of good/chattel considered whether specific performance will be granted.
+- Courts determine whether good is replaceable as a practical matter
+  - Difficulty obtaining good on open market.
+
+#### Defenses to Specific Performance
+- Courts will not grant Specific Performance for personal services
+- Employee-Employer context, specific performance generally precluded to either party
+  - See *[Pratt Furniture Co. v. McBee](link)*
+  -
+
+
+---
+
 ## The Universal Commercial Code
   - UCC tries to make promisee whole + incurred costs “for goods”
   - Article 1 - Remedies to be liberally Administered
@@ -163,6 +268,8 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 ## Nominal
   - Small amount of award where the ∆ is in breach but the π has suffered no quantifiable loss.
     - Legal record of who is at fault
+
+---
 
 
 

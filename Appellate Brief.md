@@ -80,6 +80,8 @@ https://books.google.com/books?id=KYWSuLbANLgC&pg=PA2&lpg=PA2&dq=Copart+Indus+v.
 Notes:
   1. Private Right of Action
     1. Landowners’ private nuisance action against farm owner arising out of owner’s use of liquid manure as fertilizer is not precluded by § 308, where landowners did not request or obtain opinion of commissioner as to whether use of manure was sound agricultural practice, because statute does not indicate that issuance of such opinion was intended to be prerequisite to suit, but rather, by describing particular circumstance in which agricultural practice will not be considered nuisance, suggests that burden is on party pursuing practice to show it is sound.
+
+
     - Concerned Area Residents for the Env't v Southview Farm, 834 F. Supp. 1410, 1993 U.S. Dist. LEXIS 12393 (W.D.N.Y. 1993).
   1. Commissioner’s opinions
     1. Opinion issued by Commissioner of Agriculture and Markets, under CLS Agr & M § 308, that farm owner’s manure management program was sound agricultural practice did not have to comply with State Environmental Quality Review Act (SEQRA), because (1) opinion was mere assessment of agricultural practice, not “action” under SEQRA and its implementing regulations, and (2) even if opinion were “action,” SEQRA exempts agricultural farm management practices from review. Pure Air & Water, Inc. v Davidsen, 246 A.D.2d 786, 668 N.Y.S.2d 248, 1998 N.Y. App. Div. LEXIS 294 (N.Y. App. Div. 3d Dep't), app. dismissed, 91 N.Y.2d 955, 671 N.Y.S.2d 716, 694 N.E.2d 885 (N.Y. 1998), app. denied, 92 N.Y.2d 807, 678 N.Y.S.2d 593, 700 N.E.2d 1229, 1998 N.Y. LEXIS 2807 (N.Y. 1998), app. dismissed, 93 N.Y.2d 1013, 697 N.Y.S.2d 567, 719 N.E.2d 928, 1999 N.Y. LEXIS 3941 (N.Y. 1999).

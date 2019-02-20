@@ -30,8 +30,10 @@
       4. Alice Expectancy Damages = $200
         1. Expecting Piano for $1200 now can recoup $200 to buy Market Value piano for $1400
   1. Market Price Damages = **General Damages**
-    1. Measures use the market value of the very thing promised, at the time of performance, as a basis for calculation
-  1. Search Costs anything else = **Consequential Damages**
+    1. Measure the market value of the very thing promised, at the time of performance, as a basis for calculation
+  1. Special Damages (Search Costs) = **Consequential Damages**
+    1. Measure of reasonably foreseeable damages, known and communicated at the time of contract formation.
+    1. “A measure larger than expectancy would discourage them from making contracts because they would be wary of the extent of their liability for breach.”
   1. Why Have Expectancy Damages?
     1. Reliance on contract creation which benefits society.
     1. Parties can rely on their K assured that they will recieve either the equivilant in compensation for performance or the equiviant in compensation for nonperformance.
@@ -45,4 +47,4 @@
       1. Some courts will award damages based on the injured parties subjective perspective
       2. Other Courts will award based on objective measure
         1. See [Groves v. John Wunder Co.](link)
-      1. 
+      1.

@@ -2303,3 +2303,322 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+### Congressional Authority to Restrain and Enable the Executive
+
+#### Nondelegation Doctrine
+#### Case: *[United States v. Curtiss-Wright Export Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendants' demurrer to charges that they violated a joint resolution of Congress which barred arms sales to nations designated by the President was improperly granted despite the President's repeal of his proclamation barring arms sales to Bolivia.</li>
+    <li><b>Facts:</b> A joint resolution of Congress authorized the President to declare the sale of arms to certain countries illegal. Though the President initially issued a proclamation that declared that sales to Bolivia were unlawful, the President later revoked his proclamation. Defendants allegedly sold arms to Bolivia before the revocation of the proclamation, and demurred to the charges against them on the ground that the revocation of the proclamation precluded their prosecution. Trial court granted the demurrer.</li>
+    <li><b>Issue:</b> May Congress delegate to the president authority to promulgate laws in matters of foreign affairs?</li>
+    <li><b>Rule:</b> The very delicate, plenary and exclusive power of the President as the sole organ of the federal government in the field of international relations is a power which does not require as a basis for its exercise an act of Congress, but which, of course, like every other governmental power, must be exercised in subordination to the applicable provisions of the United States Constitution. If, in the maintenance of international relations, embarrassment - perhaps serious embarrassment - is to be avoided and success for national aims achieved, congressional legislation which is to be made effective through negotiation and inquiry within the international field must often accord to the President a degree of discretion and freedom from statutory restriction which would not be admissible were domestic affairs alone involved. Moreover, he, not Congress, has the better opportunity of knowing the conditions which prevail in foreign countries, and especially is this true in time of war. He has his confidential sources of information. He has his agents in the form of diplomatic, consular and other officials. Secrecy in respect of information gathered by them may be highly necessary, and the premature disclosure of it productive of harmful results.</li>
+    <li><b>Conclusion:</b> The President is the representative of the country in discussing matters of foreign affairs. It is found that the President is better to address and identify issues of the country on a national level, most especially because the President has access to confidential information that has to do with consular, diplomatic and foreign affairs. Moreover, the President had broad discretion to determine the benefit of enforcing a joint resolution on international relations. The power to make decisions regarding international affairs was vested in the President, especially in areas that could lead to embarrassment of or security issues for the nation. Defendants' argument that the power to declare certain arms sales illegal was invalidly delegated to the President was unjustified. The revocation of the proclamation did not change defendants' violation of the joint resolution; the revocation only stopped the joint resolution from being enforced against sales to Bolivia in the future. The judgment granting defendants' demurrer was reversed and the cause was remanded for further proceedings.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Case: *[INS v. Chadha](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> It was unconstitutional for one House of Congress to take action that was legislative in character and form without acting in conformity with the express constitutional procedures for enacting legislation.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Clinton v. New York](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The cancellation provisions of the Line Item Veto Act violate U.S. Const. art. I, § 7, cl. 2. </li>
+    <li><b>Facts:</b> The Line Item Veto Act, which gave the President of the United States authority to cancel certain spending and tax benefit measures after the President had signed such measures into law, contained an expedited-review provision which authorized any individual" adversely affected by the Line Item Veto Act to bring a declaratory judgment action alleging that any provision of the Line Item Veto Act. After the President exercised his authority under the Line Item Veto Act to cancel certain measures, several actions that sought declaratory judgment that the Line Item Veto Act was unconstitutional and thus that a particular cancellation was invalid were brought against the President and other federal officials .The United States District Court for the District of Columbia determined that the Line Item Veto Act violated the Constitution's presentment clause, Art I, 7, cl 2, and the doctrine of separation of powers.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> RULE: The Line Item Veto Act (Act),  U.S.C.S. § 692, which authorizes expedited review, evidences an unmistakable congressional interest in a prompt and authoritative judicial determination of the constitutionality of the Act. Subsection 692(a)(2) requires that copies of any complaint filed under subsection 692(a)(1) "shall be promptly delivered" to both Houses of Congress, and that each House shall have a right to intervene. </li>
+    <li><b>Conclusion:</b> The United States Supreme Court affirmed that the cancellation procedures set forth in the Act violated the Presentment Clause of the Constitution,U.S. Const. art. I, § 7, cl. 2 . The Court held that constitutional silence on the subject of unilateral Presidential action that either repeals or amends parts of duly enacted statutes is equivalent to an express prohibition. Thus, cancellations pursuant to the Act had no legal force or effect and failed to satisfy the procedures set out in Article I, § 7.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Congressional Constraints on Apppintment and Removal of Exectuve Officers
+#### Case: *[Buckley v. Valeo](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Recess Appointments
+#### Case: *[NLRB v. Noel Canning](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Removal of Executive Officers
+
+#### Case: *[Bowsher v. Synar](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Fettering Executive Removal Power
+#### Case: *[Myers v. United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> President was empowered to remove postmaster from his appointment, notwithstanding the specific provision for his removal only with advice of the Senate, on the ground that the power of removal inhered in the power to appoint.</li>
+    <li><b>Facts:</b> Appellant, the administratrix of postmaster's estate, sought review of a judgment that rejected a claim for the postmaster's salary where he was removed from office before the expiration of his term by an order of the President, without the Senate's approval, in contravention of § 6 of the Act of Congress, 19 Stat. 80 (1876). The lower court's judgment was premised on a finding that the postmaster had lost his right of action because of his delay in suing. The Supreme Court held he had not lost his right to sue where he acted conscientiously in asserting his rights. In the absence of a constitutional or statutory provision otherwise, the President could by virtue of his general power of appointment remove an officer on the ground that the power of removal inhered in the power to appoint, even though he was appointed by and with the advice and consent of the Senate, and notwithstanding specific provisions for his removal for cause. Thus, the Court held that § 6 of the Act under which the unrestricted power to remove first class postmasters was denied to the President, violated the Constitution was invalid.</li>
+    <li><b>Issue:</b> Under the Constitution, does the President have the exclusive power of removing executive officers of the United States whom he has appointed by and with the advice and consent of the Senate?</li>
+    <li><b>Rule:</b> In the absence of a Constitutional or statutory provision otherwise, the President can by virtue of his general power of appointment remove an officer, though appointed by and with the advice and consent of the Senate, and not-withstanding specific provisions for his removal for cause, on the ground that the power of removal inhered in the power to appoint. This is an indication that many statutes are to be reconciled to the unrestricted power of the President to remove, if he chooses to exercise his power. </li>
+    <li><b>Conclusion:</b> The judgment denying request for postmaster's salary by appellant, admistratrix of postmaster's estate, was affirmed because the President was empowered to remove postmaster from his appointment, even though postmaster was appointed by and with the advice and consent of the Senate, and notwithstanding the specific provision for his removal for cause, on the ground that the power of removal inhered in the power to appoint.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### The Constitutionality of Independent Counsel
+
+#### Case: *[Morrison v. Olsen](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Ethics in Government Act of 1978 was not invalid. It did not violate the Appointments Clause, Article III of the United States Constitution, or the separation-of-powers principle by impermissibly interfering with the executive branch.</li>
+    <li><b>Facts:</b> The Special Division appointed appellant as independent counsel to investigate appellees (Olson) for violations of federal criminal laws pursuant to the Ethics in Government Act of 1978, 28 U.S.C.S § 591 et seq. Appellant caused a grand jury to issue and serve subpoenas on appellees. All three appellees moved to quash the subpoenas, claiming that the independent counsel provisions of the Act were unconstitutional. The court upheld the Act's constitutionality, denied the motions, and later ordered that appellees be held in contempt for continuing to refuse to comply with the subpoenas. The trial court dismissed appellees' motions, but the appellate court reversed the decision when it found that the Act violated the Appointments Clause of the Constitution.  </li>
+    <li><b>Issue:</b> Is the power granted to the Special Division an encroachment on Executive power?</li>
+    <li><b>Rule:</b> The various powers delegated by the Ethics in Government Act to the Division are not supervisory or administrative, nor are they functions that the Constitution requires be performed by officials within the Executive Branch. The Act does give a federal court power to review the Attorney General's decision to remove an independent counsel, but this is a function that is well within the traditional power of the Judiciary.</li>
+    <li><b>Conclusion:</b> Article III of the Constitution does not absolutely prevent Congress from vesting certain miscellaneous powers in the Special Division under the Act. One purpose of the broad prohibition upon the courts' exercise of executive or administrative duties of a nonjudicial nature is to maintain the separation between the Judiciary and the other branches of the Federal Government by ensuring that judges do not encroach upon executive or legislative authority or undertake tasks that are more properly accomplished by those branches. Here, the Division's miscellaneous powers -- such as the passive powers to "receive" (but not to act on or specifically approve) various reports from independent counsel or the Attorney General -- do not encroach upon the Executive Branch's authority. The Act simply does not give the Division power to "supervise" the independent counsel in the exercise of counsel's investigative or prosecutorial authority. And, the functions that the Division is empowered to perform are not inherently "Executive," but are directly analogous to functions that federal judges perform in other contexts.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+#### Other interbranch Appointments
+#### Case: *[Mistretta v. United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Sentencing Reform Act was found to be constitutional because Congress had not delegated excessive legislative power or upset the constitutionally mandated balance of powers among the branches of government.</li>
+    <li><b>Facts:</b> Petitioner and respondent both requested certiorari before judgment was rendered to consider the constitutionality of the Sentencing Guidelines promulgated by the United States Sentencing Commission. The trial court rejected petitioner's contention that the Act was unconstitutional. On appeal, petitioner's first contention was that Congress had granted the Commission excessive legislative discretion. The Supreme Court did not agree. </li>
+    <li><b>Issue:</b> Did the Congress grant excessive legislative discretion to the Commission?</li>
+    <li><b>Rule:</b> In determining what Congress may do in seeking assistance from another branch, the extent and character of that assistance must be fixed according to common sense and the inherent necessities of the government co-ordination. So long as Congress shall lay down by legislative act an intelligible principle to which the person or body authorized to exercise the delegated authority is directed to conform, such legislative action is not a forbidden delegation of legislative power. </li>
+    <li><b>Conclusion:</b> The Sentencing Guidelines are constitutional, since Congress neither (1) delegated excessive legislative power to the Commission nor (2) violated the separation-of-powers principle by placing the Commission in the Judicial Branch, by requiring federal judges to serve on the Commission and to share their authority with nonjudges, or by empowering the President to appoint Commission members and to remove them for cause. The Constitution's structural protections do not prohibit Congress from delegating to an expert body within the Judicial Branch the intricate task of formulating sentencing guidelines consistent with such significant statutory direction as is present here, nor from calling upon the accumulated wisdom and experience of the Judicial Branch in creating policy on a matter uniquely within the ken of judges.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Multiple Layers of Tenure Protection
+#### Case: *[Free Enterprise Fund v. Public Company Accounting Oversight Board](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> 15 U.S.C.S. §§ 7211(e)(6) and 7217(d)(3) were held to be unconstitutional and invalid because the multilevel protection from removal of members of the Public Company Accounting Oversight Board was contrary to U.S. Const. art. II's vesting of the executive power in the President and contravened the Constitution's separation of powers.</li>
+    <li><b>Facts:</b> The Free Enterprise Fund, a non-profit organization, brought suit challenging the constitutionality of Title I of the Sarbanes-Oxley Act. It alleged that the creation of the Public Company Oversight Board (the Board) by the Act violated the Appointments Clause because it deprived the President from exercising adequate control over the Board. However, the Board itself was under the direct supervision of the Securities and Exchange Commission (SEC), all of whose commissioners are appointed by and can be removed by the President.</li>
+    <li><b>Issue:</b> Did the statutes providing for judicial review of Commission action prevent the District Court from considering petitioners' claims?</li>
+    <li><b>Rule:</b> Provisions for agency review do not restrict judicial review unless the statutory scheme displays a fairly discernible intent to limit jurisdiction, and the claims at issue are of the type Congress intended to be reviewed within the statutory structure. But courts presume that Congress does not intend to limit jurisdiction if a finding of preclusion could foreclose all meaningful judicial review; if the suit is wholly collateral to a statute's review provisions; and if the claims are outside the agency's expertise. </li>
+    <li><b>Conclusion:</b> The Court held that the dual for-cause limitations on the removal of Board members contravened the Constitution's separation of powers. The Sarbanes-Oxley Act not only protected Board members from removal except for good cause, but withdrew from the President any decision on whether that good cause existed. That decision was vested instead in other tenured officers--Securities and Exchange Commissioners--none of whom was subject to the President's direct control. The result was a Board that was not accountable to the President, and a President who was not responsible for the Board. The unconstitutional tenure provisions were severable from the remainder of the statute. Concluding that the removal restrictions imposed by 15 U.S.C.S. §§7211(e)(6) and 7217(d)(3) were invalid left the Board removable by the Commission at will, and left the President separated from Board members by only a single level of good-cause tenure. The Sarbanes-Oxley Act remained fully operative as a law with those tenure restrictions excised. The Appointments Clause challenges had no merit</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Congressional War and Treaty Powers, and the Implied Power over Foreign Affiars
+
+#### Case: *[Woods v. Cloyd W. Miller Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Injunctive relief against a landlord under the Housing and Rent Act was proper. Congress, in enacting the law, was authorized to control rents even after the cessation of hostilities, in order to control the deficits in housing created by war.  </li>
+    <li><b>Facts:</b> The Housing and Rent Act, 28 U.S.C.S. § 349, became effective on July 1, 1947. The following day, the landlord demanded of its tenants increases of 40 percent and 60 percent for rental accommodations in a city defense-rental area. That was an admitted violation of the Act and regulations adopted pursuant thereto. The housing expediter thereupon instituted the proceeding under § 206(b) of the Act to enjoin the violations, and a preliminary injunction was issued. The injunction was reversed after a hearing. On appeal, the Court reversed. The Court held that the war power sustained the legislation.</li>
+    <li><b>Issue:</b> Was the continuation of the rent control by the Housing and Rent Act of 1947, enacted after the termination of hostilities, a valid exercise of the war power?</li>
+    <li><b>Rule:</b> Section 204(b) (28 U.S.C.S. § 349(a)) of the Housing and Rent Act of 1947 provides that no person shall demand, accept, or receive any rent for the use or occupancy of any controlled housing accommodations greater than the maximum rent established under the authority of the Emergency Price Control Act of 1942, as amended, and in effect with respect thereto on June 30, 1947.</li>
+    <li><b>Conclusion:</b> The Court held that the war power sustained the legislation. The legislative history of the Act made abundantly clear that there had not yet been eliminated the deficit in housing that, in considerable measure, was caused by the heavy demobilization of veterans and by the cessation or reduction in residential construction during the period of hostilities. Since the war effort contributed heavily to that deficit, Congress had the power even after the cessation of hostilities to act to control the forces that a short supply of the needed article created.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Case: *[Missouri v. Holland](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A State's constitutional challenge to a federal migratory bird treaty was dismissed because, in pursuance of a valid treaty, the federal government had the authority to not only make treaties but also regulate migratory birds.</li>
+    <li><b>Facts:</b> The State brought a bill in equity, which challenged the Migratory Bird Treaty Act of July 3, 1918, 40 Stat. 755, and the regulations made by the Secretary of Agriculture in pursuance of the same, claiming that the treaty was an unconstitutional interference with appellant's sovereign rights under the 10th Amendment , which included absolute control of wild game and birds within the State's borders. The State also alleged a pecuniary interest, as owner of the wild birds within its borders. The district court dismissed the action on the ground that the act of Congress was constitutional. On appeal to the United States Supreme Court, the Court affirmed the dismissal, concluding that the power to make the treaty had been expressly delegated to the United States under U.S. Const. art. II, § 2 and art. VI. The Court noted that the treaty did not contravene any prohibitory words found in the federal constitution, nor was the subject matter, the regulation of migratory birds, forbidden by some invisible radiation from the general terms of the 10th Amendment.</li>
+    <li><b>Issue:</b> Are the treaty and statute considered void as an interference with the rights reserved to the States?</li>
+    <li><b>Rule:</b> By U.S. Const. art. II, § 2, the power to make treaties is delegated expressly, and by U.S. Const. art. VI treaties made under the authority of the United States, along with the Constitution and laws of the United States made in pursuance thereof, are declared the supreme law of the land. If the treaty is valid there can be no dispute about the validity of the statute implementing the treaty under U.S. Const. art. I, § 8, as a necessary and proper means to execute the powers of the government.</li>
+    <li><b>Conclusion:</b> The State as we have intimated founds its claim of exclusive authority upon an assertion of title to migratory birds, an assertion that is embodied in statute. No doubt it is true that as between a State and its inhabitants the State may regulate the killing and sale of such birds, but it does not follow that its authority is exclusive of paramount powers. To put the claim of the State upon title is to lean upon a slender reed. Wild birds are not in the possession of anyone; and possession is the beginning of ownership. The whole foundation of the State's rights is the presence within their jurisdiction of birds that yesterday had not arrived, tomorrow may be in another State and in a week a thousand miles away. If we are to be accurate we cannot put the case of the State upon higher ground than that the treaty deals with creatures that for the moment are within the state borders, that it must be carried out by officers of the United States within the same territory, and that but for the treaty the State would be free to regulate this subject itself. Here a national interest of very nearly the first magnitude is involved. It can be protected only by national action in concert with that of another power. The subject-matter is only transitorily within the State and has no permanent habitat therein. But for the treaty and the statute there soon might be no birds for any powers to deal with. We see nothing in the Constitution that compels the Government to sit by while a food supply is cut off and the protectors of our forests and our crops are destroyed. It is not sufficient to rely upon the States. The reliance is vain, and were it otherwise, the question is whether the United States is forbidden to act. We are of opinion that the treaty and statute must be upheld. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Reid v. Covert](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Respondent civilians, each tried by court-martial and convicted of murder, were ordered released from custody. Under the Constitution, the courts of law alone had the power to try civilians for their offenses against the United States.</li>
+    <li><b>Facts:</b> Following trials by court-martial, several civilians, wives of members of the United States military, were convicted of murder and sentenced to life imprisonment. However, the first district court ordered a civilian released from custody. This was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Should the civilians be released from custody?</li>
+    <li><b>Rule:</b> The United States is entirely a creature of the Constitution of the United States. Its power and authority have no other source. It can only act in accordance with all the limitations imposed by the Constitution. When the government reaches out to punish a citizen who is abroad, the shield, which the Bill of Rights and other parts of the Constitution provide, to protect his life and liberty, should not be stripped away just because he happens to be in another land.</li>
+    <li><b>Conclusion:</b> The Court held that respondent civilians, each tried by court-martial and convicted of murder, should be released from custody, because under the Constitution of the United States, the courts of law alone had the power to try civilians for their offenses against the United States. The Constitution in its entirety applied to the trials of respondents, and their court-martials did not meet the requirements of U.S. Const. art. III, § 2 or U.S. Const. amends. V and VI. Further, U.S. Const. art. I, § 8, cl. 14 did not encompass persons who could not fairly be said to be "in" the military service. Respondents, wives of members of the United States military, could not fairly be said to be "in" the military service. Respondents did not lose their civilian status and their right to a civilian trial because the government helped them live as members of a soldier's family. The Court stated that it should not break faith with the nation's tradition of keeping military power subservient to civilian authority, a tradition which was firmly embodied in the Constitution.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Bond v. United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> 18 U.S.C.S. § 229(a), implementing the Chemical Weapons Convention Implementation Act, did not cover a wholly in-state use of an arsenic-based compound and a commonly used photography chemical because Congress had not been utterly clear that it intended to intrude on the principles of federalism inherent in the federal constitutional structure.</li>
+    <li><b>Facts:</b> Petitioner Bond sought revenge against Myrlinda Haynes--with whom her husband had carried on an affair--by spreading two toxic chemicals on Haynes's car, mailbox, and doorknob in hopes that Haynes would develop an uncomfortable rash. On one occasion Haynes suffered a minor chemical burn that she treated by rinsing with water, but Bond's attempted assaults were otherwise entirely unsuccessful. Federal prosecutors charged Bond with, among other things, possessing and using a chemical weapon. Bond moved to dismiss the chemical weapons charges on the ground that the Act violates the Tenth Amendment. When the District Court denied her motion, she pleaded guilty but reserved the right to appeal. On appeal, the Third Circuit initially held that Bond lacked standing to raise her Tenth Amendment challenge and that the Act was necessary and proper to carry into effect the Convention on the Prohibition of the Development, Production, Stockpiling, and Use of Chemical Weapons and on Their Destruction..</li>
+    <li><b>Issue:</b> Did the Act violate Bond’s Tenth Amendment rights?</li>
+    <li><b>Rule:</b> The global need to prevent chemical warfare does not require the federal government to reach into the kitchen cupboard, or to treat a local assault with a chemical irritant as the deployment of a chemical weapon. There is no reason to suppose that Congress, in implementing the Convention on the Prohibition of the Development, Production, Stockpiling, and Use of Chemical Weapons and on Their Destruction, thought otherwise.</li>
+    <li><b>Conclusion:</b> The Court held that because the federal constitutional structure left local criminal activity primarily to the states, judicial precedent generally declined to read federal law as intruding on that responsibility, unless Congress clearly indicated that the law should have had such reach. The Chemical Weapons Convention Implementation Act contained no such clear indication where the general definition of chemical weapon, although defined broadly, was not a clear statement that Congress meant the statute to reach local criminal conduct. The chemicals used by Bond were not of the sort that an ordinary person would have associated with instruments of chemical warfare. Moreover, state laws were sufficient to prosecute petitioner. Thus, § 229 was read consistent with the principles of federalism inherent in the federal constitutional structure. The case was remanded for further proceedings.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Does the Constitution Follow the Flag?
+
+#### Case: *[Downes v. Bidwell](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The island of Puerto Rico was considered a territory, but not a state, of the United States so that duties could constitutionally be imposed upon imports from the island.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Executive Privileges, Imunities and Congress's Power of Impeachment
+
+#### Case: *[United States v. Nixon](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Executive Privilege did not protect President from complying with third-party subpoena duces tecum because generalized privilege was asserted; prosecution showed specific need for recordings and documents of meeting with persons charged with crimes.</li>
+    <li><b>Facts:</b> The President of the United States invoked executive privilege to avoid compliance with a third-party subpoena duces tecum that required the production of tape recordings and documents. A special prosecutor sought to obtain information concerning meetings between the President and certain individuals charged with obstruction of justice, conspiracy, and other offenses. The President's motion to quash the subpoena was denied and the court directed the President of the United States to produce certain tape recordings and documents relating to his conversations with aides and advisers. The case was elevated to the Supreme Court of the United States on certiorari.</li>
+    <li><b>Issue:</b> Is the President exempt from complying with a subpoena duces tecum?</li>
+    <li><b>Rule:</b> A subpoena for documents may be quashed if their production would be "unreasonable or oppressive," but not otherwise. A subpoena duces tecum in criminal cases is not intended to provide a means of discovery; its chief innovation is to expedite the trial by providing a time and place before trial for the inspection of subpoenaed materials. In order to require production prior to trial, the moving party must show: (1) that the documents are evidentiary and relevant; (2) that they are not otherwise procurable reasonably in advance of trial by exercise of due diligence; (3) that the party cannot properly prepare for trial without such production and inspection in advance of trial and that the failure to obtain such inspection may tend unreasonably to delay the trial; and (4) that the application is made in good faith and is not intended as a general "fishing expedition." </li>
+    <li><b>Conclusion:</b> Holding that the President's general privilege of confidentiality did not extend to an absolute privilege of immunity from all judicial process, the U.S. Supreme Court affirmed the denial of the motion to quash. Issues relating to the production of documents in a pending criminal case were justiciable and were properly heard on interlocutory appeal in a case involving the President. Because the special prosecutor had demonstrated a specific need for the evidence sought by way of subpoena and had complied with the requirements of Fed. R. Crim. P. 17(c), it was proper to compel production and to examine the material in camera. The legitimate needs of the judicial process outweighed executive privilege.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Nixon v. Fitzgerald](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Clinton v. Jones](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The doctrine of separation of powers does not require federal courts to stay all private actions against the President of the U.S. until he leaves office.</li>
+    <li><b>Facts:</b> A private citizen sought to recover damages against the President of the United States for actions that allegedly took place before his term began. The President sought a motion to dismiss and argued that in all but the most exceptional cases, the U.S. Constitution requires federal courts to delay such litigation until the President's term ends. The district court denied the motion to dismiss but postponed the trial. On appeal, the United States Court of Appeals affirmed the district court to deny the motion to dismiss and reversed district court's order postponing the trial until the petitioner leaves office. The Supreme Court of the United States granted certiorari.</li>
+    <li><b>Issue:</b> Was it proper for the district court postpone trial?</li>
+    <li><b>Rule:</b> The district court has broad discretion to stay proceedings as an incident to its power to control its own docket.</li>
+    <li><b>Conclusion:</b> The Court ruled that the doctrine of separation of powers does not require federal courts to stay all private actions against the President of the United States until he leaves office. When defining the scope of an immunity for acts clearly taken within an official capacity, the Supreme Court has applied a functional approach. Thus, an official's absolute immunity should extend only to acts in performance of particular functions of his office. Immunities are grounded in the nature of the function performed, not the identity of the actor who performed it.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

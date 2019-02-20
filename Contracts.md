@@ -1712,7 +1712,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
     <li><b>Facts:</b> π carried on an extensive milling operation. Mill was stopped by a breakage of the crank shaft by which the mill was worked. π sent their servent to the office of a well known carrier company. π servant told clerk it must be sent immediately. ∆ answer was that if it was sent up by 12pm any day it would be delivered the following day. Delivery of shaft was delayed by some neglect. π did not receive shaft for several days after they would have otherwise done, working on the mill was delayed and they lost profits.</li>
     <li><b>Issue:</b> Whether π is entitled to the lost profits caused by the delays in shipping?</li>
     <li><b>Rule:</b> Where 2 parties have made a contract which one of them has broken the damages which the other party ought to receive in respect to such breach of contract should be as may fairly and reasonably be considered either arising naturally, according to the usual course of things, from such breach of contract itself, or such as may be reasonably be supposed to have been in the contemplation of both parties at the time they made the contract. If special cirumstances were made and communicated to and known to both parties, the damages resulting from a breach of contract under these circumstances would be the amount of injury which would ordinarily follow from a breach of contract.</li>
-    <li><b>Conclusion:</b> The loss of profits really arose from not sending down the new shaft in proper time, and that this arose from the delay in delivering the broken one to serve as a model. Special circumstances were never communicated by the πs to the ∆s. Loss of profits cannot reasonably be considered such a consequence of the breach of contract as could have been fairly and reasonably contemplated by both parties when they made the contract.</li>
+    <li><b>Conclusion:</b> The loss of profits really arose from not sending down the new shaft in proper time, and that this arose from the delay in delivering the broken one to serve as a model. Special circumstances were never communicated by the πs to the ∆s. Loss of profits cannot reasonably be considered such a consequence of the breach of contract as could have been fairly and reasonably contemplated by both parties when they made the contract. Jury instructions were not given and should have been given to calculate the damages. Trial court should have not taken the loss profits into consideration. </li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -1741,7 +1741,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> “crankshaft repair shop liable for lost profits after defective repairs”</li>
-    <li><b>Facts:</b> ∆ failyre to repair a crankshaft from the πs mill in a workmanlike manner. π sent a broken crankshaft to ∆ machine shop for repairs. In making repairs, ∆ left the shaft out of alignment requiring its return for realignment. π mill was shut down for six days with lost earning and expenses of maintenance. Losses and expenses are **incidental to the crankshaft repairs**</li>
+    <li><b>Facts:</b> ∆ failure to repair a crankshaft from the πs mill in a workmanlike manner. π sent a broken crankshaft to ∆ machine shop for repairs. In making repairs, ∆ left the shaft out of alignment requiring its return for realignment. π mill was shut down for six days with lost earning and expenses of maintenance. Losses and expenses are **incidental to the crankshaft repairs**</li>
     <li><b>Issue:</b> Whether ∆ is liable for πs incidental loses?</li>
     <li><b>Rule:</b> Law implies an undertaking on its part to perform the work in a reasonably skillful and workmanlike manner.</li>
     <li><b>Conclusion:</b> Damages awarded to π were not excessive, mill was impeded in its efficient operation by the ∆s failure to fulfill the obligation impliedly imposed by its contract.</li>
@@ -1823,6 +1823,193 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+### Reliance Remedies
+#### Liquidation Damages
+#### Case: *[H. J. McGrath Co. v. Wisner](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Buyer of goods was entitled to set-off against contract price for the goods delivered by seller, who breached the contract by failing to deliver the entire quantity required under the contract.</li>
+    <li><b>Facts:</b> Plaintiff farmer sued defendant cannery to recover $ 300, the balance of the contract price for his tomatoes. The cannery alleged that the farmer did not deliver his whole crop to the cannery as required under the contract and, therefore, he was liable for $ 300 as liquidated damages. The cannery appealed from the order of the Superior Court for Baltimore City (Maryland), which entered judgment for the farmer in the sum of $ 300. On appeal, the court held that the contract's liquidated damages provision was not enforceable because it was a penalty. The specified damages were not proportionate to the possible extent of the prospective breach. Further, the prospective damage for failure to deliver tomatoes having a ready market was not incapable or difficult of ascertainment. However, it did not follow that the cannery was precluded from showing damages by way of recoupment. Upon his own showing, the farmer received $ 275 in excess of the contract price for the tomatoes he sold on the open market. Presumably, the cannery was obliged to purchase an equivalent amount in the open market to replace those the farmer diverted. Thus, the cannery was entitled to deduct the amount of its loss from its payment to the farmer for the delivered tomatoes. The verdict should have been for the farmer in the amount of $ 25.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Whether a particular clause in a contract should be construed as liquidated damages or a penalty is a question of law. Clauses fixing damages per diem for delay in the performance of building contracts are frequently sustained, where not out of proportion to the damages that might reasonably be anticipated. The tendency of the more recent cases is to sustain agreements for liquidated damages where actual damages are difficult of ascertainment. But where the sum fixed is the same for a total as for a partial breach, such a clause is generally construed as a penalty. Where the agreement has been partially performed, it is the policy of the courts to regard the damages as a penalty, and allow the plaintiff to recover only such damages as he has actually sustained.</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Testing the validity of Liquidation Damages
+#### Case: *[Truck Rent-A-Center, Inc. v. Puritan Farms 2nd, Inc. ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Lessor was entitled to liquidated damages that had been agreed upon by the parties in advance because lessee terminated their agreement early without justification.</li>
+    <li><b>Facts:</b> Defendant lessee furnished milk products to customers using new delivery trucks leased under an agreement with plaintiff lessor. The agreement provided that an early termination of the lease through defendant's breach would entitle plaintiff to 50 percent of rents that would have come due until the date of normal expiration. Defendant terminated early, complaining that plaintiff had not repaired and maintained the trucks as provided in the agreement. Plaintiff commenced a suit for payment of the liquidated damages, and defendant counterclaimed for return of its security deposit. </li>
+    <li><b>Issue:</b> Whether the liquidated damages provision is enforceable</li>
+    <li><b>Rule:</b> Liquidated damages constitute the compensation which, the parties have agreed, should be paid in order to satisfy any loss or injury flowing from a breach of their contract.</li>
+    <li><b>Conclusion:</b> The court affirmed the judgment in favor of plaintiff lessor because it substantially performed its obligations and defendant lessee was not justified in terminating the lease agreement early. The court held that it was permissible for the parties to agree in advance what the liquidated damages would be for a breach.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- “In effect, a liquidated damage provision is an estimate, made by the parties at the time they enter into their agreement, of the extent of the injury that would be sustained as a result of breach of the agreement”
+- "Liquidated damages provision enforceable in part because damages at the time of contracting were uncertain”
+
+
+#### Unquantifiable damages and Reasonableness
+#### Case: *[Vanderbilt University v. DiNardo](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The liquidated damages provision of the employment contract of appellant coach was enforceable; where appellant wanted counsel to approve a contract extension, the issue of whether the approval was a condition precedent prevented summary judgment.</li>
+    <li><b>Facts:</b> Appellant coach sought review of an order of the United States District Court for the Middle District of Tennessee, entering judgment for appellee university in appellee's action for breach of contact. The employment contract of appellant football coach contained a liquidated damages provision. Appellant signed an addendum to the contract, a two-year extension, stating that he wished his attorney to approve it before it was finalized. When appellant resigned, appellee university sued for breach of contract, demanding that appellant pay liquidated damages for the one year remaining upon the original contract and for the two years of the addendum. The district court granted appellee's summary judgment motion.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Parties to a contract may include consequential damages and even damages not usually awarded by law in a liquidated damage provision provided that they were contemplated by the parties. Under Tennessee law, a party may not recover liquidated damages when it is responsible for or has contributed to the delay or nonperformance alleged as the breach.</li>
+    <li><b>Conclusion:</b> The court affirmed the grant of summary judgment regarding the liquidated damages provision of the original contract as the provision was enforceable; the court reversed the summary judgment regarding the addendum, and remanded as a fact; issue remained as to whether the attorney's acceptance of the addendum was a condition precedent.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Monetary Remedies Where the Theory of Obligation is Promissory Estoppel
+#### Case: *[Goodman v. Dicker](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The reviewing court held justice and fair dealing required estoppel to prevent appellants from denying a contract existed and that appellees recover for loss sustained by expenditures made in reliance on appellants' assurances.</li>
+    <li><b>Facts:</b> Appellees sued appellants for breach of contract. The trial court found appellants, by their representations and conduct, induced appellees to incur expenses in preparing for business under a franchise that was never granted. The trial court held even though no contract had been proven, appellants were estopped from denying one existed, and judgment was entered for appellees for the amount covering their cash outlays and anticipated profits from the sale of radios. Appellants sought review of the decision.</li>
+    <li><b>Issue:</b> Does a representation of a company to grant franchise, which it does not later grant after the franchisee assumed expenses, give rise to a claim for damages?</li>
+    <li><b>Rule:</b> He who by his language or conduct leads another to do what he would not otherwise have done, shall be liable to that other person after disappointing the expectations upon which he acted. This remedy is always so applied as to promote the ends of justice.</li>
+    <li><b>Conclusion:</b> Any misrepresentation by a party deceiving another causing detrimental reliance is liable for damages. Judgment that appellants wee estopped from denying that a contract existed was affirmed. However, the court modified damage judgment to include only the loss sustained by expenditures made in reliance on the assurance of the franchisor, not the anticipated loss of profits on the sale of the goods.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Walters v. Marathon Oil Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Gas station owners were validly awarded lost profits in a promissory estoppel based judgment as to a seller agreement with an oil company due to a reasonable expectation of profiting from investments that relied on a promise to supply oil.</li>
+    <li><b>Facts:</b> Appellant oil company challenged an order of the United States District Court for the Southern District of Indiana, Indianapolis Division, which held that appellee gas station owners were entitled to an award of lost profits as to appellant's refusal to enter a seller agreement. The trial court determined that appellee gas station owners were entitled to an award of lost profits regarding appellant oil company's refusal to enter a seller agreement. The court affirmed that judgment on appeal. The court found that the record showed that the trial court's determination that appellees exercised the ordinary care of a person in the same circumstances to mitigate their damages was not clearly erroneous. The court also held that the fact the trial court's judgment was based on promissory estoppel did not preclude awarding lost profits to appellees because it was reasonable to assume that they anticipated a return of profits from the investment of time and funds that they made in reliance on appellant's promise to supply them with gasoline and that they relinquished the opportunity to make an alternate investment. The court also determined that the record showed that appellees would have received the anticipated net profits that they were awarded if appellant fulfilled its promise.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Since promissory estoppel is an equitable matter, the trial court has broad power in its choice of a remedy, and it is significant that the ancient maxim that equity does not suffer a wrong to be without a remedy has long been the law in the State of Indiana.</li>
+    <li><b>Conclusion:</b> The court affirmed an award of lost profits to appellee gas station owners as to appellant oil company's refusal to enter a seller agreement. The court held that the record supported a finding that appellees used the ordinary care of a similarly situated person to mitigate their damages and that basing the judgment on promissory estoppel did not bar recouping lost profits because appellant's promise led to a reasonable profit expectation.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+### Restitution Damages
+#### Case: *[United States for Use of Susi Contracting Co. v. Zara Contracting Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Court affirmed judgment for plaintiff construction companies in suit for wrongful termination of subcontract and increased recovery for value of rental equipment by services and equipment used to complete part performance.</li>
+    <li><b>Facts:</b> Both parties cross appealed from an order of the District Court of the United States for the Northern District of New York entering judgment in favor of plaintiff construction companies in suit seeking recovery under the Miller Act, 40 U.S.C.S. §270a et seq., for wrongful termination of a subcontract. Defendants asserted that plaintiffs breached the contract. Plaintiffs asserted the rental allowance granted was too small. Plaintiff construction companies entered into a subcontract with defendant construction company to build an extension to an airport as called for by a main contract with the United States. Plaintiffs encountered unexpected soil conditions which made progress of their work difficult, and required work not called for by the contract. Plaintiffs made demands on defendant for extra money, which was denied. Plaintiffs brought suit against defendant company and surety under the Miller Act, 40 U.S.C.S. § 270a et seq., for wrongful termination of subcontract. Plaintiffs sought recovery for the reasonable cost and value of the actual work performed, and the fair and reasonable rental value of the equipment for the period of use.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> Court affirmed judgment for plaintiff construction companies in suit seeking recovery for wrongful termination of subcontract and modified equipment allowance to provide an increase for plaintiffs' fair rental value of equipment. Court held that plaintiffs' recovery should be valued by the amount of services and materials used for part performance. Court denied defendant construction company and surety's appeal as lacking in substance.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Osteen v. Johnson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Breach of oral contract. π had paid the sum of 2500 in exchange to "promote" their daughter as a singer and composer of country western music. - K =  $2500 -Oral Contract-> 1 Year of Promotion, record several songs, two records, promote via DJ. ∆ = Agreed to advertise through mailings for a period of 1 year. ∆ did arrange for recording sessions. Trial court had found that ∆ had substantially performed the agreement. Judgement was entered in favor of π for $1.00 on basis that ∆ had wrongfull caused the name of another party to appear on the label of the record as co-author of the song which had been written soley by singer. </li>
+    <li><b>Issue:</b> Whether any breach onthe part of the ∆ is substantial enough to justify the remedy of restitution?</li>
+    <li><b>Rule:</b> Restitution will not be enforced unless the π returns in some way what he has received as part performance by the ∆.</li>
+    <li><b>Conclusion:</b>Failure of ∆ to mail out copies of the second record after first was met with sucess constituted a breach of contract and justifies the remedy of restitution.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Where the π has conferred a benefit but the contract is invalid, frustrated, or otherwise unenforceable
+- Restitution may be granted to a party whose agreement is unenforceable.
+
+
+#### Where the π has Materially Broken the Contract after Conferring a benefit
+- A π who has committed an uncured material breach of contract cannot recover on a contract theory (agreement with consideration).
+  - π may have conferred a benefit on the ∆ and it may be unjust for the ∆ to retain the benefit in whole or in part.
+  - Law permits that π has restitutionary relief premised on the prevention of unjust enrichment
+    - See *[Britton v. Turner](Link)*
+
+### Specific Performance
+
+#### Case: *[Kitchen v. Herring](Link)*
+- Contract Law assumes that land is unique, Courts Grant Specific Performance when a seller of land breaks a contract.
+  - Theory = that land is inherently unique and so damages cannot be adequate remedy.
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The principle of specific performance was adopted, not because land was fertile or rich in minerals or timber, but simply because it was land, and specific performance was granted when an agreement was sufficiently certain to identify the land.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Land, whether rich or poor, cannot be taken to pay debts until the personal property is exhausted. Contracts concerning land must be in writing. Land must be sold at the courthouse, must be conveyed by deeds duly registered, and other instances "too tedious to mention." The principle is that land is assumed to have a peculiar value, so as to give equity for a specific performance, without reference to its quality or quantity</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Curtice Brothers Co. v. Catts](Link)*
+- Court ordered to perform contract
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Complainant is engaged in the business of canning tomatoes and seeks the specific performance of a contract wherein defendant agreed to sell to complainant the entire product of certain land planted with tomatoes. Defendant contests the power of this court to grant equitable relief.</li>
+    <li><b>Issue:</b> Does the court have authority to grant the relief sought in order to enforce a valid contract?</li>
+    <li><b>Rule:</b> Where no adequate remedy at law exists, specific performance of a contract by defendants will be decreed on their refusal to sell tomatoes grown on certain land, as agreed, where it leaves the company helpless, except to whatever extent an uncertain market may supply the deficiency.</li>
+    <li><b>Conclusion:</b> The condition which arises from the breach of the contracts is not merely a question of the factory being compelled to pay a higher price for the product; losses sustained in that manner could, with some degree of accuracy, be estimated. The condition which occasions the irreparable injury by reason of the breaches of the contracts is the inability to procure at any price at the time needed and of the quality needed the necessary tomatoes to insure the successful operation of the plant. If it should be assumed as a fact that upon the breach of contracts of this nature other tomatoes of like quality and quantity could be procured in the open market without serious interference with the economic arrangements of the plant, a court of equity would hesitate to assume to interfere, but the very existence of such contracts proclaims their necessity to the economic management of the factory. The aspect of the situation bears no resemblance to that of an ordinary contract for the sale of merchandise in the course of an ordinary business. The business and its needs are extraordinary in that the maintenance of all of the conditions prearranged to secure the pack are a necessity to insure the successful operation of the plant. The breach of the contract by one planter differs but in degree from a breach by all.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Defense To Specific Performance
+#### Case: *[Pratt Furniture Co. v. McBee](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
 
 ---
 
