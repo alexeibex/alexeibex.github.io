@@ -60,3 +60,4 @@
 - State of Law Today
   - Oral License for entry to property accepted today
   - Licenses are **revocable at anytime**
+    - Tickets to a show/game
