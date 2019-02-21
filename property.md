@@ -976,4 +976,59 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
   - Property rights subservient to human values.
-  - 
+
+
+
+## Abandonment & Transfer
+#### Gift Causa Mortis
+#### Case: *[Foster v. Reiss](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant was not entitled to items by a valid gift causa mortis even though his wife's donative intent was clear in letter because there was no delivery of the items sufficient to divest her of complete dominion and control.</li>
+    <li><b>Facts:</b> Defendant, the deceased's husband, claimed he was entitled to cash, a savings account, and a building and loan book through a gift causa mortis by his wife. The deceased had written a note which indicated her intent for him to have these items and told him where they could be found in their home. Plaintiff trustees of the estate objected, claiming a valid gift causa mortis had not taken place. Plaintiffs appealed the judgment in defendant's favor in the latter's action to recover items taken.  The court reversed the judgment which awarded items to defendant because there was no valid gift causa mortis when no delivery of the items had taken place.</li>
+    <li><b>Issue:</b> Was there a valid gift causa mortis?</li>
+    <li><b>Rule:</b> To constitute a valid gift causa mortis, the gift must be made in view of the donor's impending death, the donor must die of the disorder or peril and there must be a delivery of the thing given. The donor must be competent to make the gift. There must be an intent upon his part to do so and an acceptance by the donee. The delivery must be such as is actual, unequivocal, and complete during the lifetime of the donor, wholly divesting him of the possession, dominion, and control thereof. </li>
+    <li><b>Conclusion:</b> The court found that gifts causa mortis are not favored. The court determined a gift causa mortis required donative intent, which the letter indicated, and delivery. The court found the two requirements are separate and distinct and the informal letter did not constitute both. The court found no delivery of the intended gifts sufficient to constitute complete divesting of the deceased's control. The court determined there was no affirmative action on the deceased's part to satisfy the delivery requirement. An informal writing does not satisfy the separate and distinct requirement of delivery, but rather there must be such delivery of the property that the donor stands absolutely deprived of his control over it. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+  - Dissent:
+    - Delivery is archaic. Husband would have had to actually deliver items to the owner to then give them back.
+
+#### Delivery Requirement for Real Property
+#### Case: *[Gilbert v. McSpadden](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Dad executed 2 deeds to daughter McSapdden & other daughter but kept them in his possession. kept both deeds in his possession and continued to exercise dominion over the land. Died intestate & estate in debt; kids didn’t want to get in line before other creditors. Adminstratrix Wife needed $.</li>
+    <li><b>Issue:</b> Was there a real property transfer when deeds executed?</li>
+    <li><b>Rule:</b> Delivery may be effected by any act or word manifesting an unequivocal intention to surrender the instrument so as to deprive the grantor of all authority over it or of the right of recalling it. If deed remains within grantor’s control and liable to be recalled, there is NO delivery!</li>
+    <li><b>Conclusion:</b> No, there was not a property transfer b/c no delivery.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### License v. Grants
+#### Case: *[Woods v. Leadbitter](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Plaintiff purchased a ticket to watch horse races on property owned by Lord Eglintoun. While the race was taking place, Eglintoun’s servant, Defendant, forcibility removed Plaintiff from the property. Plaintiff brought suit against Defendant alleging false imprisonment and assault. The jury held for the Defendant.</li>
+    <li><b>Facts:</b> Wood bought a ticket to attend horse races that were schedule to take place on property owned by Lord Eglintoun. With the ticket,Plaintiff would be permitted to enter Eglintoun’s property and stay there while the races took place. For reasons that are unknown, Eglintoun decided to remove Plaintiff from the property while one of the races were taking place. Lead bitter, Eglintoun’s servant, forcibly removed Plaintiff from the property. Plaintiff brought suit against Defendant alleging assault and false imprisonment. Thereafter, the trial court instructed the jury that Eglintoun was authorized to remove Plaintiff from his property, regardless of Eglintoun’s reason. Also, the trial court instructed the jury that Eglintoun did not have a duty to reimburse Plaintiff with the money Plaintiff paid for the ticket.Plaintiff alleged that his ticket granted him an irrevocable license to remain on Eglintoun’s property while the races took place. The jury held for Defendant.</li>
+    <li><b>Issue:</b> Whether a license to enter the land is revocable, unless there is a grant that permits a license holder to remove property from the land.</li>
+    <li><b>Rule:</b> Unless there is a grant that permits a license holder to remove property from the land, a license to enter the land is revocable. </li>
+    <li><b>Conclusion:</b> Unless there is a grant that permits a license holder to remove property from the land, a license to enter the land is revocable. Here, Plaintiff’s right to enter Eglintoun’s land is contingent on the type of right Plaintiff has to the land. Licenses are deemed to be revocable because licenses do not transfer a property right, but merely authorize the licensee to lawfully be present on the land. However, a grant is deemed irrevocable because grants authorize an individual to carry property away from land. Moreover, a license is revocable irrespective of whether the license is orally given, in writing, or combined with a “pretended grant” that has not been granted by deed. However, a license joined with a grant becomes irrevocable. Specifically, a written or verbal license to hunt is revocable because it particularly permits the act of hunting. Nonetheless, a license to hunt or remove away deer from property is irrevocable because it authorizes the license holder with a grant to remove deer, property, from the property. Lastly, even if one pays for a license does not automatically create an irrevocable license. Therefore, the trial court properly instructed the jury. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

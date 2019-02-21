@@ -211,29 +211,63 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 ---
 
 ## Restitution
-  - Restores to the promisee any benefit he conferred to the promisor.
-  - The non-breaching party will sometimes be satisfied with rescission of the contract and restitution of any value conferred on the breaching party. The purpose of restitution is to prevent unjust enrichment.
-  - Restitution damages are based on benefit incurred.
-  - [**Unjust enrichment**](Link): measured by the benefit the plaintiff conferred on the defendant.
-  - [Quantum meruit](Link): measured by the value of the plaintiff’s services. The plaintiff can recover even if performance of the contract would have resulted in a loss.
-  - Restitution vs. Quantum meruit
-    - Example: Bank Error in your favor
-      - Under Restitution: You must give the money back. Otherwise, Unjust enrichment
-      - Quantum meruit: The bank can recover nothing because it did not render any service of value.
-  - Modern Trend to allow breaching party to recover for benefit conferred (minus actual injury)
-    - “ . . . the breaching party is entitled to the reasonable value of its services less any damages caused by the breach.”
-    - " . . . a party injured by breach of contract is entitled to retain nothing in excess of that sum which compensates him for the loss of his bargain.”
+- Restores to the promisee any benefit he conferred to the promisor.
+- The non-breaching party will sometimes be satisfied with rescission of the contract and restitution of any value conferred on the breaching party. The purpose of restitution is to prevent unjust enrichment.
+- Restitution damages are based on benefit incurred.
+- [**Unjust enrichment**](Link): measured by the benefit the plaintiff conferred on the defendant.
+- [Quantum meruit](Link): measured by the value of the plaintiff’s services. The plaintiff can recover even if performance of the contract would have resulted in a loss.
+- Restitution vs. Quantum meruit
+  - Example: Bank Error in your favor
+    - Under Restitution: You must give the money back. Otherwise, Unjust enrichment
+    - Quantum meruit: The bank can recover nothing because it did not render any service of value.
+- Modern Trend to allow breaching party to recover for benefit conferred (minus actual injury)
+  - “ . . . the breaching party is entitled to the reasonable value of its services less any damages caused by the breach.”
+  - " . . . a party injured by breach of contract is entitled to retain nothing in excess of that sum which compensates him for the loss of his bargain.”
+
+
+#### Restatement Contracts §371
+- a. the reasonable value to the other party of what he received in terms of what it would have cost him to obtain it from a person in the claimant's position or
+- b.
+
+- The Promisee upon breach has the option to forego any suit of contract and claim only reasonable value of their performance.
+- See *[United States For Use of Susi Contracting Co. v. Zara Contracting Co.](link)*
+  - Remedy on the contract v. remedy based on restitution
+  - The contract price or the unit price per cubic yard of a construction or excavation contract does not limit recovery. A plaintiff may well have completed the hardest part of a job for which an average cost had been set. With the breach fall all the other parts of the contract. Hence it is clear that plaintiffs are not limited to the contract prices in the situation disclosed here.
+  - The measure of recovery by way of restitution, though often confused with recovery on the contract, should not be measured or limited thereby; but he does point out that the contract may be important evidence of the value of the performance to the defendant, as may also the cost of the labor and materials.
+  - It is to be valued, not by the extent to which the defendant’s total wealth has been increased thereby, but by  the  amount  for which such services  and materials as  constituted  the part performance could have been purchased from one in the plaintiff’s position at the time they were rendered.
+- Exception to Restitution (Exception to Susi Rule)
+  - The remedy of restitution in money is not available to one who has (**essentially**) fully performed his part of a contract, if the only part of the agreed exchange for such performance that has not be rendered by the defendant is a sum of money constituting a liquidated debt.
+  - Anomolous Results in that the less work done = the more recovery can be entitled to when breaching and suing off the contract with restitution.
+    - See *[Oliver v. Campbell](link)*
+
+### Losing Contract
+- A  plaintiff  may  recover  from  a  defaulting  defendant  the  cost  of  labor  and  materials  less payments made, although such cost exceeds the price fixed in the contract.
+- Where the owners breached the contractby refusing to make required payments to builder, builder was entitled to recover the reasonable value of their services, but the contract price constituted a ceiling on their recovery of restitution. Courts are divided over the question of whether restitution should be limited by the contract.
+  - See *[City of Philadelphia v. Tripple](link)*
+
+Problem 3-15
+
+- The non-breaching party will sometimes be satisfied with rescission of the contract and restitution of any value conferred on the breaching party. The purpose of restitution is to prevent unjust enrichment.
+  - See *[Osteen v. Johnson](link)*
+
+
 ---
 
 ## Specific Performance
 #### Restatement of Contracts §363
 - Specific performance or an injunction will be refused if a substantial part of the agreed exchange has been unperformed and its performance is not secured to the satisfaction of the court.
 - According to general view today, buyer of land is entitled to specific performance (absent a defense). Land is inherently unique an damages cannot be an adequate remedy.
-  - See *[Kitchen v. Herring]*(link)
+  - See *[Kitchen v. Herring](link)*
 - Sale of Goods/Chattels
   - Distinction between land and goods, specific performance contracts over goods in certain conditions
+    - Timing, Quality, Quantity
+    - Reputation Damages
+      - See *[Curtice Brothers Co. v. Catts](link)*
+    -
 - Damages at law & Jurisdiction of Specific Performance Depends on grounds that damages will not afford a complete remedy.
+- The remedy for a breach of contract for the sale of personal property is an action at law, where  damages  are  awarded.  However,  there  are  recognized  exceptions.  Jurisdiction  to enforce  specific  performance  rests,  not  on  the  distinction  between  real  and  personal property, but on the ground that damages at law will not afford a complete remedy.
   - See *[Curran v. Barefoot](link)*
+
 
 #### UCC 2-716 Buyers Right to Specific Performance or Replevin
 - 1. Specific Performance may be decreed where the goods are unique or in other proper circumstances
@@ -248,6 +282,9 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 
 #### Defenses to Specific Performance
 - Courts will not grant Specific Performance for personal services
+  - Performance of K may be less than a complete performance
+  - Equivilant to indentured servitude
+  - Surveillance and oversight of Court
 - Employee-Employer context, specific performance generally precluded to either party
   - See *[Pratt Furniture Co. v. McBee](link)*
   -

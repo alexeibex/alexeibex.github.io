@@ -1927,7 +1927,18 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
-
+- π seeking increased amount of money for increased amount of work after encountering harder dirt to dig.
+- ∆ contends breach of damages section 5 of contract addresses the increased amount of work.
+  - Lower court allowed for recovery of extra work. Appellate court agreed with result but wrong reasoning.
+    - Result = Reasoning
+- ∆ billed US for the extra work done by π, π sought remedy for the extra work done.
+- But appellate court says trial court resoning was wrong.
+  - Recovery based on the contract would not include the extra work that were addressed in the contract clause
+  - Appellate Court then must examine recovery on restitution.
+- If contract had been perfomed as agreed
+- The contract price or the unit price per cubic yard of a construction or excavation contract does not limit recovery. A plaintiff may well have completed the hardest part of a job for which an average cost had been set. With the breach fall all the other parts of the contract. Hence it is clear that plaintiffs are not limited to the contract prices in the situation disclosed here.
+- The measure of recovery by way of restitution, though often confused with recovery on the contract, should not be measured or limited thereby; but he does point out that the contract may be important evidence of the value of the performance to the defendant, as may also the cost of the labor and materials.
+- It is to be valued, not by the extent to which the defendant’s total wealth has been increased thereby, but by  the  amount  for which such services  and materials as  constituted  the part performance could have been purchased from one in the plaintiff’s position at the time they were rendered.
 
 #### Case: *[Osteen v. Johnson](Link)*
 
