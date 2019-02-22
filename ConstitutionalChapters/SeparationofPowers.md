@@ -1,33 +1,55 @@
 # Separation of Powers
 
 ## Executive Assertions of Power
-- See *[Youngstown Sheet & Tube Co. v. Sawyer](Link)*
-  - Results in Different Approaches
-    1. **No Inherent Presidential Power**: Majority: Justice Black
-      - There is no inherent presidential power; the president may act only if there is express constitutional/statutory authority
-        - In a written government of limited powers and specifically delegated authority, the idea of "implied" or "inherent" Presidential Authority is inconsistent.
-        - Congress MUST give the Executive branch power to act; the power to enforce the laws is just that; **to enforce the laws that are passed**
-        - Laws must be passed not just debated
-      - Has Congress Acted and Expressly Addressed the subject?
-      - Black: This is a job for the Nation's lawmakers, not for its military authorities
-    2. **Adverse Possession & Gloss Theory**: Justice FrankFurter
-      - Pattern or practice of Executive action without Congressional Challenege.
-      - "It is an inadmissibly narrow conception and to disregard the **gloss**" which life has written upon them. In short a systematic, unbroken, executive practice, long purused to the knowledge of the Congress and never before questioned, engaged in by Presidents who have also sworn to uphold the Consitution, making as it were such exercise of power part of the structure of our government may be treated as a gloss on "executive" Power
-    3. Legislative Accountability: Justice Jackson
-      1. **Power At Apex**
-        - Level of Power = Express of Implied Grant of Congressional Authority
-        - Constitutionality = So long as the power does not violate another constituional provision it will be accepted.
-        - Congressional Action = Has Congress Acted?
-      2. **Twilight Zone**
-        - Level of Power = No Grant or denial of inherent powers + Twilight of concurrent interests
-        - Constitutionality = Depends on the imperatives of events and contemporary imperatives. Highly dependant on Situation Context.
-        - Congressional Action = Discussion with no action, Any full congress action? Any Reluctance/Eagerness?
-      3. **Lowest Ebb**
-        - Level of Power = Express or Implied Denial
-        - Constitutionality = Congress's law must be unconstitutional for president to violate federal law OR power is purely, expressly given to Pres by Constitutuion.
-        - Congressional Action = Has Congress Acted?
-    4. Broad Inherent Authority: Dissent: Chief Justice Vinson
-      - The executive as  subject  only  to  the  people,  and,  under the Constitution, bound to serve the people affirmatively in cases where the Constitution does not explicitly forbid him to render the service
+- Inherent Presidential Power
+    - Article II - The executive Power shall bevested  in  a  President  of  the  United  States  of  America.”
+- 4 Approaches to Presidential Powers
+  - See *[Youngstown Sheet & Tube Co. v. Sawyer](Link)*
+      1. New Dominant Test: Justice Jackson
+        1. **Power At Apex**
+          - "when the President acts pursuant to an express or implied authorization of Congress, his authority is at its maximum, for it includes all that he possesses in his own right plus all that Congress can delegate."
+          - Level of Power = Express of Implied Grant of Congressional Authority
+          - Constitutionality = So long as the power does not violate another constituional provision it will be accepted.
+          - Congressional Action = Has Congress Acted?
+        2. **Twilight Zone**
+          - when the President acts in absence of either a congressional grant or denial of authority, he can only rely upon  his own independent powers, but there is a **zone of twilight** in which he and Congress may have concurrent authority, or in  which its distribution is uncertain.
+          - Level of Power = No Grant or denial of inherent powers + Twilight of concurrent interests
+          - Constitutionality = Depends on the imperatives of events and contemporary imperatives. Highly dependant on Situation Context.
+          - Congressional Action = Discussion with no action, Any full congress action? Any Reluctance/Eagerness?
+        3. **Lowest Ebb**
+          - “when  the  President  takes  measuresincompatible with the expressed or implied will of Congress, his poweris  at  its lowest ebb."
+          - Because  the  president  is  disobeying  a  federallaw, such presidential actions will be allowed only if the law enacted byCongress is unconstitutional.
+          - Level of Power = Express or Implied Denial
+          - Constitutionality = Congress's law must be unconstitutional for president to violate federal law OR power is purely, expressly given to Pres by Constitutuion.
+          - Congressional Action = Has Congress Acted?
+      2. Majority Opinion - Justice Black: **No Inherent Presidential Power**
+        - There is no inherent presidential power; the president may act only if there is express constitutional/statutory authority
+          - In a written government of limited powers and specifically delegated authority, the idea of "implied" or "inherent" Presidential Authority is inconsistent.
+          - Congress MUST give the Executive branch power to act; the power to enforce the laws is just that; **to enforce the laws that are passed**
+          - Laws must be passed not just debated
+        - Has Congress Acted and Expressly Addressed the subject?
+        - Black: This is a job for the Nation's lawmakers, not for its military authorities
+      3. Legislative Acountability - **Adverse Possession & Gloss Theory**: Justice FrankFurter
+        - Pattern or practice of Executive action without Congressional Challenge.
+        - "It is an inadmissibly narrow conception and to disregard the **gloss**" which life has written upon them. In short a systematic, unbroken, executive practice, long purused to the knowledge of the Congress and never before questioned, engaged in by Presidents who have also sworn to uphold the Consitution, making as it were such exercise of power part of the structure of our government may be treated as a gloss on "executive" Power
+      4. Interstitial Executive Power: Justice Douglas
+        - The president may act without express statutory or constitutional authority so long as the president is not usurping  the powers of another branch of government or keeping another branch from performing its duties.
+      5. Broad Inherent Authority: Dissent: Chief Justice Vinson
+        - The executive as  subject  only  to  the  people,  and,  under the Constitution, bound to serve the people affirmatively in cases where the Constitution does not explicitly forbid him to render the service
+
+### Presidential Vetoes
+#### Line Item Vetos
+
+- *[Clinton v. New York](Link)*
+  - Examining the Constitutionality of a federal statute that created authority for a presidential line-item veto.
+  - The statute empowered the president  to  veto  (or  more  precisely  to  “cancel”  particular  parts  of appropriation bills while allowing the rest to go into effect.
+  - Executive must take law as he gets it, "Hermtically Sealed"
+    - Whole bill or veto the bill.
+    - Majority of Positoin
+    - Cannot edit the bill (Formal Appraco)
+    - Breyer Dissnet
+      - Functionality over process.
+
 
 ## Foreign Policy
 - Express & Implied Powers over Foreign Policy
@@ -118,15 +140,7 @@
     - The destructive scope of the Court's Bidding,
 
 
-#### Presidential Vetoes
-#### Line Item Vetos
-- *[Clinton v. New York](Link)*
-  - Executive must take law as he gets it, "Hermtically Sealed"
-    - Whole bill or veto the bill.
-    - Majority of Positoin
-    - Cannot edit the bill (Formal Appraco)
-    - Breyer Dissnet
-      - Functionality over process.
+
 
 ### Congressional Constraints on Appointment and Removal
 

@@ -2347,10 +2347,10 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b> The cancellation provisions of the Line Item Veto Act violate U.S. Const. art. I, § 7, cl. 2. </li>
+    <li><b>Overview:</b> The cancellation provisions of the Line Item Veto Act violates U.S. Const. art. I, § 7, cl. 2. </li>
     <li><b>Facts:</b> The Line Item Veto Act, which gave the President of the United States authority to cancel certain spending and tax benefit measures after the President had signed such measures into law, contained an expedited-review provision which authorized any individual" adversely affected by the Line Item Veto Act to bring a declaratory judgment action alleging that any provision of the Line Item Veto Act. After the President exercised his authority under the Line Item Veto Act to cancel certain measures, several actions that sought declaratory judgment that the Line Item Veto Act was unconstitutional and thus that a particular cancellation was invalid were brought against the President and other federal officials .The United States District Court for the District of Columbia determined that the Line Item Veto Act violated the Constitution's presentment clause, Art I, 7, cl 2, and the doctrine of separation of powers.</li>
     <li><b>Issue:</b></li>
-    <li><b>Rule:</b> RULE: The Line Item Veto Act (Act),  U.S.C.S. § 692, which authorizes expedited review, evidences an unmistakable congressional interest in a prompt and authoritative judicial determination of the constitutionality of the Act. Subsection 692(a)(2) requires that copies of any complaint filed under subsection 692(a)(1) "shall be promptly delivered" to both Houses of Congress, and that each House shall have a right to intervene. </li>
+    <li><b>Rule:</b> The Line Item Veto Act (Act),  U.S.C.S. § 692, which authorizes expedited review, evidences an unmistakable congressional interest in a prompt and authoritative judicial determination of the constitutionality of the Act. Subsection 692(a)(2) requires that copies of any complaint filed under subsection 692(a)(1) "shall be promptly delivered" to both Houses of Congress, and that each House shall have a right to intervene. </li>
     <li><b>Conclusion:</b> The United States Supreme Court affirmed that the cancellation procedures set forth in the Act violated the Presentment Clause of the Constitution,U.S. Const. art. I, § 7, cl. 2 . The Court held that constitutional silence on the subject of unilateral Presidential action that either repeals or amends parts of duly enacted statutes is equivalent to an express prohibition. Thus, cancellations pursuant to the Act had no legal force or effect and failed to satisfy the procedures set out in Article I, § 7.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
@@ -2616,6 +2616,83 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Was it proper for the district court postpone trial?</li>
     <li><b>Rule:</b> The district court has broad discretion to stay proceedings as an incident to its power to control its own docket.</li>
     <li><b>Conclusion:</b> The Court ruled that the doctrine of separation of powers does not require federal courts to stay all private actions against the President of the United States until he leaves office. When defining the scope of an immunity for acts clearly taken within an official capacity, the Supreme Court has applied a functional approach. Thus, an official's absolute immunity should extend only to acts in performance of particular functions of his office. Immunities are grounded in the nature of the function performed, not the identity of the actor who performed it.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+## The Post-Civil War Amendments and the "Incorporation of Fundamental Rights"
+
+#### Individual Rights Before the Civil War
+
+#### Case: *[Barron v. Mayor and City Council of Baltimore](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A wharf owner was not entitled to damages from a city because the Fifth Amendment, which inhibited the taking of private property for public use without just compensation, was not applicable to the legislation of the states.</li>
+    <li><b>Facts:</b> The city diverted water from its' accustomed and natural course. The alleged consequence was that the water in the harbor was rendered so shallow as to make the owner's wharf useless. The wharf owner brought action against the city to recover damages for injuries to the wharf property. The trial court entered judgment for the owner. The court of appeals reversed, and the owner sought review. The Court dismissed the cause for want of jurisdiction.</li>
+    <li><b>Issue:</b> Was the provision in the Fifth Amendment to the Constitution of the United States, declaring that private property shall not be taken for public use without just compensation, intended solely as a limitation on the exercise of power by the government of the United States and is thus inapplicable to the legislation of the states?</li>
+    <li><b>Rule:</b> If amendments to the Constitution contain no expression indicating an intention to apply them to the state governments the court cannot so apply them.</li>
+    <li><b>Conclusion:</b> The Court found that the provision in the Fifth Amendment declaring that private property should not be taken for public use without just compensation was intended solely as a limitation on the exercise of power by the government of the United States and was not applicable to the legislation of the states.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Slavery
+#### Case: *[Dred Scott v. Sandford](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  The Supreme Court did not have jurisdiction over a slave's assault action against his owner because the slave was of African descent, and not permitted citizenship under the laws of the United States or of any individual state.</li>
+    <li><b>Facts:</b> Petitioner was a slave of African descent. He brought suit in the federal court against respondent, his owner, for assault. Certiorari was granted from the Circuit Court of the United States for the District of Missouri finding that respondent was not liable to petitioner for assault. The Court held that petitioner was not a citizen of Missouri as asserted in his original complaint because he was not permitted to become a citizen, and no state had the power to grant him citizenship. The judgment finding that respondent was not liable to petitioner for assault was reversed and the case was remanded with an order to dismiss the action for lack of jurisdiction. The Supreme Court held that petitioner was not a citizen and could not bring the action in the court because petitioner was a slave of African descent.</li>
+    <li><b>Issue:</b> Did the Circuit Court of the United States have jurisdiction to hear and determine the case between these parties?</li>
+    <li><b>Rule:</b> The rights of property are united with the rights of person, and placed on the same ground by the Fifth Amendment, which provides that no person shall be deprived of life, liberty, and property, without due process of law. An act of Congress that deprives a citizen of the United States of his liberty or property, merely because he came himself or brought his property into a particular territory of the United States, and who has committed no offense against the laws, can hardly be dignified with the name of due process of law.</li>
+    <li><b>Conclusion:</b> The Court held that petitioner did not gain his freedom by being transferred into a territory of the United States declared free by Congress because Congress's power to make rules and regulations for territories only applied to those territories belonging to the United States when the constitution was drafted. Therefore, the law making the territory free was unconstitutional. Finally, the Court held that petitioner did not gain his freedom by being taken into the free state of Illinois because the property laws of one state could not grant petitioner's freedom. Therefore, the Court held that judgment against respondent was to be vacated and the case dismissed because the Court did not have jurisdiction over petitioner's complaint.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### The Post-Civil War Amendments
+
+#### Case: *[Slaughter-House Cases](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The dismissal of plaintiff's action was affirmed where a state statute regulating the slaughtering of animals was not unconstitutional since the state had exclusive rights under its police power to regulate such slaughtering.</li>
+    <li><b>Facts:</b> Plaintiffs, butchers of New Orleans, contended that a state statute was unconstitutional in that it violated U.S. Const. amend. XIV and U.S. Const. amend. XIII and and an unlawful restraint on the butcher trade. The statute was passed to protect the health of the city and forbade the slaughtering of animals for food within the city, giving a single company the sole privilege of slaughtering animals. Plaintiffs also argued that the statute created a monopoly and deprived the butchers of the city the right to exercise their trade. The state court decided in favor of the company.</li>
+    <li><b>Issue:</b> Was the state statute constitutional?</li>
+    <li><b>Rule:</b> The police power extends to the protection of the lives, limbs, health, comfort, and quiet of all persons, and the protection of all property within the state; and persons and property are subjected to all kinds of restraints and burdens in order to secure the general comfort, health, and prosperity of the state. Of the perfect right of the legislature to do this no question ever can be made, so far as natural persons are concerned.</li>
+    <li><b>Conclusion:</b> The Court held that the state had the exclusive right under its police power to determine the localities where slaughtering for the city could be conducted, and the laws of the federal Constitution did not apply. Additionally, the law only restricted the butchers as to where they could slaughter, but not from butchering, thus it did not restrain their trade.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Saenz v. Roe](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A statute mandating residency requirements of a certain duration before becoming entitled to receive benefits violated the privileges and immunities clause in improperly discriminating against citizens on the basis of their length of residency.</li>
+    <li><b>Facts:</b> Respondents filed suit challenging the durational residency requirements of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, contending that the residency requirements imposed an unconstitutional burden on a certain class of citizens based upon their length of residency. The district court issued a temporary restraining order enjoining the statute's implementation after concluding that it placed a penalty on new citizens and failed to treat them on an equal basis with existing residents. After the appellate court affirmed, petitioners sought further review.</li>
+    <li><b>Issue:</b> Can a state limit the availability of welfare benefits to families residing in the state for less than twelve months with regard to the Privileges and Immunities Clause?</li>
+    <li><b>Rule:</b> The right to travel embraces at least three different components. It protects the right of a citizen of one state to enter and to leave another state, the right to be treated as a welcome visitor rather than an unfriendly alien when temporarily present in the second state, and, for those travelers who elect to become permanent residents, the right to be treated like other citizens of that state. </li>
+    <li><b>Conclusion:</b> The Supreme Court noted the protections afforded to citizens under U.S. Const. amend. XIV imposed a limitation on the states' powers and concluded that the statute impermissibly affected the rights of newly arrived citizens as to the same privileges and immunities enjoyed by other citizens of the same state, in violation of U.S. Const. amend. XIV. The statute discriminated against citizens new to the state, and since the right to travel embraced a citizen's right to be treated equally in his or her new state of residence, the discriminatory classification was itself a penalty.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

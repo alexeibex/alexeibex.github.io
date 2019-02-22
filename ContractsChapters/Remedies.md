@@ -1,11 +1,163 @@
-# Remedies & Damages
-
+# Damages Remedies
+## Damages
 - Damages compensate parties for actual losses.
-  - No punitive damages recognized
-  - [*White v. Bukowski*](https://alexeibex.github.io/Contracts#case-white-v-benkowski)
+### Expectation (Benefit of the Bargain)
+  - Put Promisee in the Position he would have been in had the contract been performed.
+  - (Measure of Expectation Remedies) = (Wealth of promisee if promise had been performed) - (Actual Wealth)
+
+### Reliance (Loses Incurred due to expectation)
+  - Put promisee in the position he would have been in had the contract never been made
+
+### Restitution (Down Payment, Deposit)
+  - Put the promisor back in the position he would have been in had the promise never been made.
+
+### Second Restatement §347 Measure of Damages in General
+   - Subject to limitation from §350-53; injured party has a right to damages based on his expectation measured by:
+     - the loss in the value to him of the other party's performance caused by its failure or deficiency, plus
+     - any other loss, including incedental or consequential loss, caused by the breach, less
+     - any cost or other loss that he had avoided by not having to perform
+
+### Punitive Damages
+ - No punitive damages recognized in contract law
+   - See [*White v. Bukowski*](https://alexeibex.github.io/Contracts#case-white-v-benkowski)
+
+#### Restatement (Second) of Contracts, §355: Punitive Damages
+- Punitive damages are not recoverable for breach of contract unless conduct constituting the breach is also a tort for which punitive damages are recoverable
+
+
+### Case Law:
+- Damages = Value of Perfect/Promised Hand - Value of hand π ended up with
+  - In a proper case, π would also be entitiled to lost profits or other positive harms done
+  - See *[Hawkins v. McGee](link)*
+- True expectation damages would be lost profits (handling fee)
+  - See *[Tongish v. Thomas](link)*
+
+### Applicable UCC
+- UCC §1-106 = Remedies to be liberally adminstered so as to put Promisee in position he would be in had the contract been performed (General Expectancy)
+- UCC §2-712 = Cost of substitution to Promisee minus Contract Price (Cover)
+- UCC §2-713 = Market price minus Contract plus incidental damages
+- UCC §2-717 = On notice to promisor, promisee may deduct damages caused by breach from any part of the price still due under the same contract
+
+
 
 
 ---
+
+
+## Limitations on Damages
+
+### Remoteness & Foreseeability of Harm
+#### Information Sharing & Foreseeability/Reasonableness
+  - Promisor is only liable for damages foreseen or which could have been reasonably foreseen (by both parties) at the time when the agreement was made.
+  - If special circumstances are present, and are unknown to breaching party, that party is only liable for amount of injury he could foresee to arise generally.
+  - Encourages high-value shippers to self-identify and contract around the default rule of low-value damages
+    - See *[Hadley v. Baxendale](link)*
+
+#### Second Restatement §351 Unforeseeability & Related Limitations on Damages
+- (1) Damages are not recoverable for loss that the party in breach did not have reason to foresee as a probable result of the breach when the contract was made.
+- (2) Loss may be foreseeable as a probable result of a breach because it follows from the breach
+  - (a) in the ordinary course of events, or
+  - (b) as a result of special circumstances, beyond the ordinary course of events, that the party in breach had reason to know.
+- (3) A court may limit damages for foreseeable loss by excluding recovery for loss of profits, by allowing recovery only for loss incurred in reliance, or otherwise if it concludes that in the circumstances justice so requires in order to avoid disproportionate compensation.
+
+#### Second Restatement §346 Availability of Damages
+- The injured party has a right to damages for any breach by a party against whomthe contract is enforceable unless the claim for damages has been suspended or discharged.
+- If the breach caused no loss or if the amount of the loss is not proved under the rules stated in this Chapter, a small sum fixed without regard to the amount of loss will be awarded as nominal damages. (Nominal Damages)
+
+#### Second Restatement §349 Damages Based on Reliance Interest
+- As an alternative to the measure of damages stated in § 347, the injured party has a right to damages based on his reliance interest, including expenditures made in preparation for performance or in performance, less any loss that the party in breach can prove with reasonable certainty the injured party would have suffered had the contract been performed.
+
+#### Second Restatement §352 Uncertainty as a Limitation on Damages
+- Damages are not recoverable for loss beyond an amount that the evidence permits to be established with reasonable certainty.
+
+___
+
+## Avoidability of Harm & Mitigation
+- NonBreaching party who refuses to mitigate will not be able to recover full expectation damages.
+- They can only recover expectation MINUS what would have been saved had they mitigated.
+- Law's attempt to prevent waste
+- Vis-a-vis [efficient breach](link)
+
+#### Mitigation of Damages as a result of the breach
+  - K = Profit + Expenses
+    - Damages should not be awarded for expenses and labor occuring after the breach
+    - Foundation for mitigation of losses by **acting reasonably**
+      - See *[Clark v. Marsiglia](Link)*
+
+
+#### Mitigation of Lost Volume Seller
+  - Must take **reasonable steps to mitigate** != Must selling to the ∆
+  - Evidence must show that they at least **tried**
+  - Not a lost volume seller because sale to father was a substitution in lieu of son's default
+  - "The duty to mitigate damages requires an injured party to act reasonably after breach”
+    - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
+#### Avoidability
+- here was no obligation to mitigate, because there is no opportunity to mitigate
+- The―lost volume doctrine applies when there is a theoretically limitless supply of boats, i.e., it is correct that he would have sold two boats, and it is correct that there was no opportunity to mitigate
+- Must subtract one-time-only preparation costs for the boat
+  - See [Neri v. Retail Marine Corp.]
+
+#### UCC 2-706 Seller's Resale (Statement of Neri Rule)
+- (1) Seller should re-sell, then (subject to good faith) recover the difference between the resale price and the contract price + incidental damages – expenses saved by breach
+
+#### UCC 2-710 Incidental Damages
+- Incidental damages to an aggrieved seller: commercially reasonable charges, expenses or commissions incurred in stopping delivery, in the transportation, care/custody of goods after breach, return/resale costs.
+
+---
+
+## Liquidation Damages
+- Liquidated damages clauses must reasonably approximate anticipated or actual damages.
+- Liquidates damages were traditionally frowned upon because they could be punitive. But today, there’s a resurgence, especially among law and economics scholars, because the parties are in the best posi- tion to calculate damages
+- Underliquidated damages—an amount less than actual estimated damages—are usually enforced.
+- To be enforceable, Liquidated Damages must be:
+  - (1) Reasonable measure of estimated damages [ex ante], and;
+  - (2) Parties reasonably expect that calculation of actual damages will be difficult [ex ante]
+- Economic argument
+  - Penalties discourage Efficient Breach
+    - Cost of performance (breacher) is $2,000;
+    - Value of performance to breachee is $1,000.
+    - LD are $3,000.
+    - Efficient breach says do not perform, pay $1,000.
+    - Under LD, breacher will perform (at cost of $2,000) rather than pay LD ($3,000)
+- Penalties discouraged because parties should only recover for the actual loss(es) suffered
+- Two principles at tension for Contractual Enforcement
+  - Contractual institutions should aim to ensure that agreements are performed, as opposed to
+  - It is enough that the law provide compensation for the loss suffered by failure to perform.
+
+
+#### UCC 2-718 Liquidation Damages
+
+#### §356, Liquidated Damages and Penalties
+  - Liquidated damages can be agreed upon as long as the amount is reasonable in light of anticipated or actual loss caused by breach, and difficulty of proving such a loss.
+  - Unreasonably large liquidated damages are unenforceable, on grounds of public policy, as a penalty
+  - Term in bond providing for money as penalty for non-occurrence of condition of bond [i.e., the old way of doing it] is unenforceable to the extent that the amount exceeds actual loss caused by breach
+
+
+
+
+
+- Agreed Estimation of Damages/Remedies made at the time of the contract formation.
+  - Most courts apply some variation of two tests, both of which must be satisfied. (Restatement § 339)
+    - First, the agreed damages must be **a reasonable forecast of just compensation** of just compensation for the harm that is caused by the breach.
+    - Second, the harm that is caused by the breach is one that is incapable or very difficult of accurate estimation.
+    - See *[H. J. McGrath Co. v. Wisner](Link)*
+    - See *[Vanderbilt University v. DiNardo](Link)*
+- Performance in Good faith
+  - See *[Truck Rent-A-Center, Inc. v. Puritan Farms 2nd, Inc.](link)*
+- Underliquidated Damages
+  - Under liquidated damages — anamount less than actual estimated damages are usually enforced.
+    - Justified because you are taking a risk. you could get more you could also get less.
+- Policy Reasons
+  - "Compeling" performances so that parties do not breach contract but must not "coerce"
+- See *[H. J. McGrath Co. v. Wisner ](Link)*
+
+- Limitation Damages v. Liquidation Damages
+-
+  - Hillman: Let parties contract and enjoy freedom of contracts
+
+
+
+
 ## Measure of Damages for a Breach of Contract
 
 ### Measure of Expectations Damages
@@ -125,17 +277,10 @@
     - Restatement §351 Limit on Hadley Rule
       - Court may limit damages for foreseeable loss by exluding recover for loss of profits
         - Allowing recovery only for loss incurred in reliance or if it concludes that as justice requires to avoid **disproportionate compensation**
-- Mitigation of Damages as a result of the breach
-  - See *[Clark v. Marsiglia](Link)*
-    - K = Profit + Expenses
-      - Damages should not be awarded for expenses and labor occuring after the breach
-      - Foundation for mitigation of losses by **acting reasonably**
-- Mitigation of Lost Volume Seller
-  - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
-    - Must take **reasonable steps to mitigate** != Must selling to the ∆
-    - Evidence must show that they at least **tried**
-    - Not a lost volume seller because sale to father was a substitution in lieu of son's default
-    - "The duty to mitigate damages requires an injured party to act reasonably after breach”
+
+
+
+
   - See *[Parker v. Twentieth Century Fox Film Corp](link)
     - "Before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee’s rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages."
     - Reasonableness of mitigation for employee to take comperable and substantially similar
@@ -177,27 +322,6 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
     - When there are no **measureable lost profits** reliance may be the only way to avoid injustice.
   - [Sullivan v. O'Connor](https://alexeibex.github.io/Contracts#case-sullivan-v-oconnor)
 
-### Liquidation Damages
-
-
-- Agreed Estimation of Damages/Remedies made at the time of the contract formation.
-  - Most courts apply some variation of two tests, both of which must be satisfied. (Restatement § 339)
-    - First, the agreed damages must be **a reasonable forecast of just compensation** of just compensation for the harm that is caused by the breach.
-    - Second, the harm that is caused by the breach is one that is incapable or very difficult of accurate estimation.
-    - See *[H. J. McGrath Co. v. Wisner](Link)*
-    - See *[Vanderbilt University v. DiNardo](Link)*
-- Performance in Good faith
-  - See *[Truck Rent-A-Center, Inc. v. Puritan Farms 2nd, Inc.](link)*
-- Underliquidated Damages
-  - Under liquidated damages — anamount less than actual estimated damages are usually enforced.
-    - Justified because you are taking a risk. you could get more you could also get less.
-- Policy Reasons
-  - "Compeling" performances so that parties do not breach contract but must not "coerce"
-- See *[H. J. McGrath Co. v. Wisner ](Link)*
-
-- Limitation Damages v. Liquidation Damages
--
-  - Hillman: Let parties contract and enjoy freedom of contracts
 
 
 #### Monetary Remedies Where the Theory of Obligation is Promissory Estoppel
@@ -308,9 +432,23 @@ Problem 3-15
 
 ---
 
-
-
-
+## Capstone Case
+- See [Pratt Furniture Co. v. McBee]
+  -  Remedies
+    - Specific Performance the creation of the chairs
+      - Court denied not unique personal property
+    - Restitution to restore value of a benefit unjustly conferred by ∆
+      - Court denied because the benefit conferred to ∆ is not applicable to π.
+    - Punitive Damages for Willful and Deliberate
+      - Deterrence on creation of contracts
+    - General Damages - Lost Expectancy Damages
+      - Posner (Posnier) - Economic Efficiency
+        - Awarded based on economic resource allocation and favoring efficient breach
+      - Fuller (Rawlz) - Morality
+        - Laws consistent with != efficient breach
+        - Contract law should be encouraging performance
+        - Favoring restitution, profit of ∆ should be given to π
+- Breach is for Suckers
 
 ---
 

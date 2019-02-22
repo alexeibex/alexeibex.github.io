@@ -1708,7 +1708,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b> Miller sough to recover the profits lost from the clsoing of the mill as a result of a carrier's failure to make timely delivery of a broken crank shaft to an enfineering firm where it was to be used as a model for a replacement.</li>
+    <li><b>Overview:</b> Miller sought to recover the profits lost from the clsoing of the mill as a result of a carrier's failure to make timely delivery of a broken crank shaft to an enfineering firm where it was to be used as a model for a replacement.</li>
     <li><b>Facts:</b> π carried on an extensive milling operation. Mill was stopped by a breakage of the crank shaft by which the mill was worked. π sent their servent to the office of a well known carrier company. π servant told clerk it must be sent immediately. ∆ answer was that if it was sent up by 12pm any day it would be delivered the following day. Delivery of shaft was delayed by some neglect. π did not receive shaft for several days after they would have otherwise done, working on the mill was delayed and they lost profits.</li>
     <li><b>Issue:</b> Whether π is entitled to the lost profits caused by the delays in shipping?</li>
     <li><b>Rule:</b> Where 2 parties have made a contract which one of them has broken the damages which the other party ought to receive in respect to such breach of contract should be as may fairly and reasonably be considered either arising naturally, according to the usual course of things, from such breach of contract itself, or such as may be reasonably be supposed to have been in the contemplation of both parties at the time they made the contract. If special cirumstances were made and communicated to and known to both parties, the damages resulting from a breach of contract under these circumstances would be the amount of injury which would ordinarily follow from a breach of contract.</li>
@@ -2008,6 +2008,48 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
+    <li><b>Overview:</b>Appeal denying specific performance, granting general damages, striking punitive damages & restitution.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+- π asking for multiple remedies
+
+---
+
+
+
+
+## Agreements and Promises
+### The Nature of Assent
+
+#### Intention of Agreement
+#### Case: *[Embry v. Hargadine, McKittrick Dry Goods Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Contracts generally require a meeting of the minds, but intent is irrelevant if the other party could not reasonably know the other’s intent.</li>
+    <li><b>Facts:</b> π had a 1 year contract paid $2,000 working for ∆. 1 year contract was approaching deadline. P employee claimed that he had verbal understanding with D employer that his contract would be extended by a year. ∆ fired P and π sued. π approached ∆ to ask about the contract, and ∆ told him "Go ahead, you‘re all right; get your men out and don‘t let that worry you. π took this as contract</li>
+    <li><b>Issue:</b> Whether the oral agreement made over the phone constituted a contract between the parties to pay π for another years the sum of $2,000? Did this constitute a contract of reemployment, regardless of ∆s intentions?</li>
+    <li><b>Rule:</b> To constitute a contract there must be a meeting of the minds of the parties, and both must agree to the same thing in the same sense.</li>
+    <li><b>Conclusion:</b>The law impurtes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressions and excludes all questions in regard to his unexpressed intention. If his words or acts judged by a reasonable standard, manifrest an intention to agree in regard to the matter in question, that agreement is established, and it is immaterial what may be the real, but unexpressed state of his mind on the subject. Holding that though ∆ may not have intended to employ π by what transpired between them according to the latter's testimony, yet if what ∆ said would have been taken by a a reasonble man to be an employment and π so understood it, **it constituted a valid contract of employment for the ensuing year.**</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Hotchkiss v. National City Bank of New York](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
     <li><b>Overview:</b></li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
@@ -2019,6 +2061,96 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### Objective Intent
+#### Case: *[Lucy v. Zehmer](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Contract existed where defendants' words and actions warranted plaintiffs' reasonable belief that a contract had been formed to sell defendants' land despite defendants' claim that contract was intended as a joke.</li>
+    <li><b>Facts:</b> Defendant husband wrote and signed a contract to sell his farm to plaintiffs and persuaded defendant wife to sign by telling her the contract was a joke on plaintiffs. When plaintiffs attempted to finalize sale, defendants attempted to deny contract on the grounds that defendant husband was drunk when making the contract and the contract was a joke on plaintiffs. Plaintiffs sued for specific performance. The trial court found for defendants. </li>
+    <li><b>Issue:</b> Was there a valid contract?</li>
+    <li><b>Rule:</b> The mental assent of the parties is not requisite for the formation of a contract. If the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party.</li>
+    <li><b>Conclusion:</b> The Court held that the Defendants' true intent in agreeing to sell their farm was not determinative so long as their words and actions warranted a reasonable person's belief that a contract was intended. Under the objective theory of contracts, plaintiffs reasonably believed the sale contract was a serious business transaction. The evidence suggested defendant husband was not too drunk to know what he was doing.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Morrow v. Morrow](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Plaintiffs were not entitled to recover for services rendered to decedent mother because there was a presumption that such family arrangements were not contractual in nature and plaintiffs failed to prove otherwise.</li>
+    <li><b>Facts:</b> In an action by plaintiffs, a decedent's son and his wife, against defendant, another of the decedent's sons, for services rendered to the decedent and to set aside defendant's conveyance of mineral interests, plaintiffs appealed an order of the District Court of Roger Mills County (Oklahoma), which denied the claims for services, but set aside the mineral conveyance, and ordered the mineral rights distributed among the decedent's children. Plaintiffs brought an action to recover for services rendered to the decedent, a mother, and to set aside a defendant's conveyance to his son of certain mineral interests, which had been acquired from the decedent by warranty deed. The trial court found the evidence insufficient to support the claim for services, ordered the mineral conveyance set aside, and the mineral rights and the proceeds of a surface sale set aside and evenly distributed among the decedent's children. The trial court found that defendant had received the property in trust for the purpose of taking care of the decedent and that there was no clear and convincing evidence that there was an agreement that plaintiffs would be paid for their services. The court affirmed. The court found that any contract between the parties regarding services to the decedent only had to be proven by a preponderance of the evidence and that family arrangements were not normally expected to be contractual in nature unless there was evidence that the parties expected to be legally bound. Plaintiffs failed to sustain their burden that the parties intended for their arrangement to be contractual.</li>
+    <li><b>Issue:</b> Whether there was a contract is a matter as to which the party asserting the contract has the burden.</li>
+    <li><b>Rule:</b> Family arrangements are not presumed to be attendant with contractual consequences. This is a factual presumption always susceptible to rebuttal, but is not a rule of law. An oral contract need only be proven by a preponderance of evidence. </li>
+    <li><b>Conclusion:</b> The court affirmed an order of the trial court, which set aside defendant's conveyance of mineral rights and ordered that the mineral rights be evenly distributed among the decedent's children. The court affirmed the denial of plaintiffs' claims to recover for services rendered to the decedent.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Tilbert v. Eagle Lock Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An employee's wife was entitled to the funds under a certificate of benefit from an employer after the employee died, even though he died the day the benefit was to be cancelled, because the employee died before the employer gave final notice.</li>
+    <li><b>Facts:</b> Plaintiff, an employee's wife, filed an action against defendant employer to recover on a certificate of benefit after the employee died. The employee worked for the employer for several years. The employee became ill and subsequently died. The employee's wife then presented the employer with a benefit certificate. The employer claimed that the certificate had been cancelled the day the employee died and refused payment. The wife filed an action against the employer and the employer filed a demurrer to the complaint. The trial court reserved judgment for the court. The court found that the employer had sent notices to its employees that the benefit plan was to be cancelled at the issuance of the next paycheck. Furthermore, the employee died the morning that the checks were to be distributed. Therefore, the employee died before the final notice was given to the employees. The court concluded that the policy was still in effect when the employee died. Therefore, the wife was entitled to benefits.</li>
+    <li><b>Issue:</b> Whether or not there was consideration? </li>
+    <li><b>Rule:</b> The entire day upon which a contract expires is open for compliance with it.</li>
+    <li><b>Conclusion:</b> The court found in favor of the wife.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Cargill Comm’n Co. v. Mowery](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Case: *[Raffles v. Wichelhaus](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Defendants agreed to buy cotton from the Plaintiffs from a ship named Peerless arriving at Liverpool from Bombay. Another ship named Peerless arrived at Liverpool from Bombay. Defendants refused to pay because it was the wrong ship.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> Multiple ships of the same name and origin created a “latent ambiguity.” In light of that ambiguity, the court accepted evidence that the defendants meant one Peerless and the plaintiffs another. Held for the defendants.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
 
 
 
