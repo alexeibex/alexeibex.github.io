@@ -2593,11 +2593,11 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Overview:</b> Petitioner, a former United States President, had absolute immunity from liability based upon official acts; thus, respondent former government employee's suit for retaliatory discharge was dismissed.</li>
+    <li><b>Facts:</b> Respondent, a former government employee, filed a suit against petitioner, a former United States President, for retaliatory discharge. After petitioner's motion to dismiss based upon a claim of absolute immunity was denied, petitioner filed a motion for a writ of certiorari. In reversing the lower court's decision, the Court noted that a grant of absolute immunity to the President would not leave the President with unfettered power. The Court stated that there were formal and informal checks on presidential action that did not apply with equal force to other executive officials. The Court observed that the President was subjected to constant scrutiny by the press. It noted that vigilant oversight by Congress would also serve to deter presidential abuses of office, as well as to make credible the threat of impeachment. The court determined that other incentives to avoid misconduct existed, including a desire to earn reelection, the need to maintain prestige as an element of presidential influence, and a President's traditional concern for his historical stature.</li>
+    <li><b>Issue:</b> Is the President of the United States entitled to absolute immunity from damages liability predicated on his official acts?</li>
+    <li><b>Rule:</b> A former President of the United States is entitled to absolute immunity from damages liability predicated on his official acts. This immunity is a functionally mandated incident of the President's unique office, rooted in the constitutional tradition of the separation of powers and supported by history. </li>
+    <li><b>Conclusion:</b> This case presents the claim that the President of the United States is shielded by absolute immunity from civil damages liability. In the case of the President the inquiries into history and policy, though mandated independently by our cases, tend to coverage. Because the Presidency did not exist through most of the development of common law, any historical analysis must draw its evidence primarily from our constitutional heritage and structure. Historical inquiry thus merges almost at its inception with the kind of "public policy" analysis appropriately undertaken by a federal court. This inquiry involves policies and principles that may be considered implicit in the nature of the President's office in a system structured to achieve effective government under a constitutionally mandated separation of powers. However, the existence of alternative remedies and deterrents establishes that absolute immunity will not place the President "above the law."  For the President, as for judges and prosecutors, absolute immunity merely precludes a particular private remedy for alleged misconduct in order to advance compelling public ends.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

@@ -4,6 +4,7 @@
 - Inherent Presidential Power
     - Article II - The executive Power shall bevested  in  a  President  of  the  United  States  of  America.”
 - 4 Approaches to Presidential Powers
+  - Limitation on Presidential Powers
   - See *[Youngstown Sheet & Tube Co. v. Sawyer](Link)*
       1. New Dominant Test: Justice Jackson
         1. **Power At Apex**
@@ -22,10 +23,10 @@
           - Level of Power = Express or Implied Denial
           - Constitutionality = Congress's law must be unconstitutional for president to violate federal law OR power is purely, expressly given to Pres by Constitutuion.
           - Congressional Action = Has Congress Acted?
-      2. Majority Opinion - Justice Black: **No Inherent Presidential Power**
+      2. **Majority Opinion** - Justice Black: **No Inherent Presidential Power**
         - There is no inherent presidential power; the president may act only if there is express constitutional/statutory authority
           - In a written government of limited powers and specifically delegated authority, the idea of "implied" or "inherent" Presidential Authority is inconsistent.
-          - Congress MUST give the Executive branch power to act; the power to enforce the laws is just that; **to enforce the laws that are passed**
+          - Congress **MUST** give the Executive branch power to act; the power to enforce the laws is just that; **to enforce the laws that are passed**
           - Laws must be passed not just debated
         - Has Congress Acted and Expressly Addressed the subject?
         - Black: This is a job for the Nation's lawmakers, not for its military authorities
@@ -51,7 +52,8 @@
       - Functionality over process.
 
 
-## Foreign Policy
+## Executive Action Over Foreign Policy
+- Generally Court has recognized broad powers for executive office in regards to foreign affairs.
 - Express & Implied Powers over Foreign Policy
 - See *[Zivotofsky v. Kerry](Link)*
   - Executive Presidential Powers Analysis of **Lowest Ebb Tier**
@@ -61,7 +63,7 @@
       3. Has Congress Historically interfered?
       4. What power did Congress have to pass the Law
   - Justice Scalia Dissent: *Constitution gives both President & Congress foreign policy powers; Not exclusive*
-    - COngress may make laws necessary and proper for carrying into execution the President's powers, but hte President *must* take care that COngress's legislation "be faithfull executed"
+    - Congress may make laws necessary and proper for carrying into execution the President's powers, but hte President *must* take care that Congress's legislation "be faithfull executed"
 - See *[United States v. Belmont](Link)*
 - Executive Agreements
   - See *[Dames & Moore v. Regan](Link)*
@@ -75,57 +77,60 @@
 - Executive Power, Immigration, National Security, and Religious Bias
   - Broad & Planery Power so long as facially neutral
   - See *[Trump v. Hawaii International Refugee Assistance Project](link)*
-    - Court interprets using a Rational Basis
+    - Court interprets using a Rational Basis - Is there a rational basis for the action?
     - Power over immigration has long been an executive power
       - Executive examination of facts is entitled to the appropriate weight.
     - Dissent: Focus on practical applications of proclomations
       - Statements of Trump before the election
 
 ## Presidential Power and the War on Terrorism
-- Constitutional Authority: President = The Commander in Chief v. Congress = "Raise and Support Armies and navies"
-
-- Presidential War Powers
+- Constitutional Authority: President = The Commander in Chief v. Congress = "Raise and Support Armies and Navies"
+  - Broad Shared Powers for both Congress and Executive Office
+- Presidential War Powers often used.
   1. Must Take Action
   2. Must send report to the House of Representatives
   3. Termination after 60 days unless Congress has acted to extend or declared war
-
-- Emergency Constiutionalism
-  - Linconln's Suspension of Habeas Corpus
-    - Taney critical but allows the suspension to continue
-  - "All the Laws but one..."
-- **Habeas Corpus**, Military Tribunals & Detention and Trial of "Enemy Combatants"
-  - See *[Ex Parte Milligan](Link)*
-    - Constitution must be followed even in the hardest of times.
-  - See *[Ex Parte Quirin](Link)*
-    - Enemy combatants can be tried in front of a military tribunal
-      - Congress has provided power consistant with the "Law of War"
-      - Lawful Combatant = Solider on the battlefield, in uniform, must be treated as PoW & Repatriated after the war
-      - Unlawful Combatant = Spies & Sabateurs, blending with civilians, targeting industry and civilians, can be prosecuted for "war crimes" and punished.
-  - See *[Johnson v. Eisentrager](Link)*
-    - No Habeas Corpus for foreigners abroad utside the United States
-  - See *[Rasul v. Bush](Link)*
-    - Extension of Habeas Corpus to Guantanamo Bay
-      - Sovereign Part of the United States
-- Guantanmo Bay, Habeas Corpus & The Interplay between the executive, legislative and judicial branches.
-  - See *[Hamdi v. Rumsfeld](link)*
-    - Jackson's Youngstown Category 1
-  - See *[Hamdan v. Rumsfeld](Link)*
-    - Legality of Military Tribunals created persuant to the "special commission" was found to be illegal
-    - Court's interpretation of the Uniform Code of Military Justice
-  - See *[Boumediene v. Bush](Link)*
-    - Jackson's Youngstown Category 1
+- **War Powers Cases:**
+  - Emergency Constiutionalism
+    - Linconln's Suspension of Habeas Corpus
+      - Taney critical but allows the suspension to continue
+    - "All the Laws but one..."
+  - **Habeas Corpus**, Military Tribunals & Detention and Trial of "Enemy Combatants"
+    - See *[Ex Parte Milligan](Link)*
+      - Constitution must be followed even in the hardest of times.
+    - See *[Ex Parte Quirin](Link)*
+      - Enemy combatants can be tried in front of a military tribunal
+        - Congress has provided power consistant with the "Law of War"
+        - Lawful Combatant = Solider on the battlefield, in uniform, must be treated as PoW & Repatriated after the war
+        - Unlawful Combatant = Spies & Sabateurs, blending with civilians, targeting industry and civilians, can be prosecuted for "war crimes" and punished.
+    - See *[Johnson v. Eisentrager](Link)*
+      - No Habeas Corpus for foreigners abroad utside the United States
+    - See *[Rasul v. Bush](Link)*
+      - Extension of Habeas Corpus to Guantanamo Bay
+        - Sovereign Part of the United States
+  - Guantanmo Bay, Habeas Corpus & The Interplay between the executive, legislative and judicial branches.
+    - See *[Hamdi v. Rumsfeld](link)*
+      - Jackson's Youngstown Category 1
+    - See *[Hamdan v. Rumsfeld](Link)*
+      - Legality of Military Tribunals created persuant to the "special commission" was found to be illegal
+      - Court's interpretation of the Uniform Code of Military Justice
+    - See *[Boumediene v. Bush](Link)*
+      - Jackson's Youngstown Category 1
+  - Context is key: World War 2 deference to Presidential Powers/ Post 9/11 World & Terrorism
+    - Courts have gravitated to less deference to Presidential powers since WW2.
 
 ## Congressional Authority to Restrain and Enable the Executive
 - Push and Pull of power between branches
   - The Policy v. Who gets to Make the Policy
-
-
+]
 ### Congressional Control Over the Actions of the Executive Branch
 #### Nondelegation Doctrine
-  - See *[INS v. Chadha](Link)*
-    - Court's first full enocounter with the problem of legislative vetos.
-    - Out the window for the legislative veto
-    - Procedure is not in line with Constitution
+- See *[United States v. Curtiss-Wright Export Corp.](Link)*
+  - Early 1930's view giving president a "blank check"
+- See *[INS v. Chadha](Link)*
+  - Court's first full enocounter with the problem of legislative vetos.
+  - Out the window for the legislative veto
+  - Procedure is not in line with Constitution
 - Last Real Chance Doctrine/ Legislative Mechanism
   - Constitutional Shortcut to avoid lawmaking again
   - Legislative Veto Provision
@@ -138,25 +143,25 @@
     - Concurring v. Dissent
   - Justice White Dissent
     - The destructive scope of the Court's Bidding,
-
-
-
+- Line Item Vetos are shortuctting the Consitution
+  - See *[Clinton v. New York](link)*
 
 ### Congressional Constraints on Appointment and Removal
-
-- Art. II §2, Cl.2
-  - President shall nominate, and by and with the Adivce and Consent of the Senate, shall appoint Ambassadors, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by law...
+- The Appointment Power
+  - Art. II §2, Cl.2
+    - President shall nominate, and by and with the Adivce and Consent of the Senate, shall appoint Ambassadors, Judges of the Supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by law...
 
 #### Appointment of Executive Officers
 - Congress cannot appoint itself
   - See *[Buckley v. Valeo](Link)*
 
 #### Recess Appointments
-- See *[NLRB v. Noel Canning](Link)*
+- Court upholds some appointments of officials during a congressional recess.
+  - See *[NLRB v. Noel Canning](Link)*
 
 #### Removal of Executive Office
 - See *[Bowsher v. Synar](link)*
-  - Congress cannot give itself the  power  to  remove  executive  officials who are performing executive functions.
+  - Congress cannot give itself the executive power to remove executive officials who are performing executive functions.
   - Justice White Dissent:
     - Functionalist Approach
       - The question to be answered is whether there is a genuine threat of "encroachment or aggrandizement of one branch at the expense of the other"
@@ -173,13 +178,14 @@
 #### The Constitutionality of the Independent Counsel
 - See *[Morrison v. Olsen](Link)*
   - Upheld the constitutionality of limits on the president's ability to remove the independent counsel.
-    - A "small"
-  - Time would prove Scalia Dissent
+    - A "small" encroachment of executive power and its important enough to warrant.
+  - Time would prove **Scalia Dissent**
     - Encroachment of the executive power and against the letter of the Constitution.
       - Who to blame for rogue independent counsel
     - 20 year sunset on law
       - 3 judges chosen to oversee independent counsel = too much power
       - Law was not renewed
+      - Replaced with Special Counsel
 #### Aftermath of Morrison
 - The Fate of the Independent Counsel
   - Office of Special Counsel
@@ -187,7 +193,7 @@
     - Appointed by Attorney General
     - Still Politically Very Powerful
 
-#### Other interbranch appointments
+#### Other Interbranch Appointments
 - See *[Mistretta v. United States](link)*
   - Survival of the US Sentencing Commission
   - Creature of Congress establishing sentencing guidelines
@@ -203,7 +209,7 @@
   - 5-4 Split upholding Presidential Power
 
 ### Congressional War and Treaty Powers, and the Implied Power over Foreign Affiars
-  - Early Trend was that treaties and War allowed Congress more power
+  - Early Trend was that treaties and War allowed Executive more power
   - Modern Court has begun to resist the notion. No blank check because of war/treaties
   - Congress granted certain powers over war and treaty isues traditionally under executive control.
     - Federal Government Control over basic things
@@ -230,7 +236,7 @@
         - Dissent:
           - Overly broad statute covers case.
           - Treaty power is not a substantive power over laws of United States, it is just a process by which the US Government enters into the agreement.
-        -
+
 
 #### Congressional power over "foreign affairs"
 - Court has recognized the power of Congress to regulate Foreign Affairs.
@@ -260,14 +266,14 @@
         - Presidential Autonomy - Political Question Decision is with the President
         - If wrong about above, Absolute Privilege against revealing documents that would discredit office of President
     - Court's Response - We Make The Call
-      - Can you sue the President?
+      - Can you sue the President? - Yup in certain cases
         - President is amenable to lawsuit
       - Courts Decide on Executive Privilege and Political Question
       - Separation of Powers and Presidential Confidentiality balance against demands of due process and judicial process.
     - Unless subject is Military, Diplomatic or National Security
 - Unanswers Questions
   - Case covers scope of Courts requirement of information, what happens if Congress asks for information?
--
+
 #### The Scope and Limits of Executive Privilege
 
 #### Presidential and Other executive officials' amenability to judicial process
@@ -275,7 +281,7 @@
 #### The Scope of Executive Privilege
 
 #### Presidential Immunity from Civil Damages Liability for offical actions
-- Absolute immunity from civil liability under some official circumstances
+- Absolute immunity from civil liability & damages under some official circumstances
   - See *[Nixon v. Fitzgerald](Link)*
 
 
@@ -285,10 +291,11 @@
 - No immunity from suit while you are president.
   - Rejecting postponement from lawsuit until after Presidency.
   - Will not be a big distraction from presidency.
+- President can be sued on conduct done prior to presidency while sitting as President
   - See *[Clinton v. Jones](link)*
     - Justice Breyer Concurrence
       - Reads as dissent
-
+- Court has the "final Word" on determining the immunities and privileges of executive officials
 
 #### Aftermath and Implications of Clinton v. Jones
 
@@ -296,10 +303,35 @@
 
 #### Dangers of Distortion v. Distraction
 
-#### May a Sitting President Be Criminally Indicted?
+#### May a President Be Criminally Indicted?
+- Limited precedent on issue, generally requires impeachment first of sitting President.
+- Former presidents enjoy no special immunity from criminal prosecution.
+- **Not sovereign citizens**
 
 #### Impeachment of the President
 - Article II §4: **"...shall be removed from Office on Impeachment for and Conviction of, Treason, Bribery, or other Crimes and Misdemeanors..."**
   - Vague interpretation and TBD what clause entails
     - Trump impeachment?
       - What crimes could be defined as impeachable offense?
+
+
+#### [President Trump & Proclomation of Trump's Wall](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-declaring-national-emergency-concerning-southern-border-united-states/)
+- Proclamaton
+  - "Emergency at the Southern Border"
+    - Security of the border
+- Section 1
+  - Sending the armed forces to support and aid Homeland Security at the Border
+- Section 2
+  - Transfer and acceptance of jurisdiction over border lands
+- Section 3
+  - No creation of right or benefit substantive or procedural enforcable in law and equity by any party against the United States...
+- Notes:
+  - Power grab by President?
+  - Use of emergency powers to regulate foreign affairs v. regulation of local steel industries in PA
+  - Takings clause & Emminant Domain
+  - Federalism issues regarding State Rights
+  - Argument that Congress says no?
+    - No difinitive answer given statutory interpretation
+    - Emergency Statute passed in 1976
+      - Still had legislative veto as a check on Presidential Proclamation Action
+    - If Congress passes a joint resolution, places executive action in 3rd prong of Youngstown test

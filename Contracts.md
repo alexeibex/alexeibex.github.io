@@ -2140,7 +2140,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
     <li><b>Overview:</b></li>
     <li><b>Facts:</b> Defendants agreed to buy cotton from the Plaintiffs from a ship named Peerless arriving at Liverpool from Bombay. Another ship named Peerless arrived at Liverpool from Bombay. Defendants refused to pay because it was the wrong ship.</li>
     <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
+    <li><b>Rule:</b> If there are “latent ambiguities” (e.g., multiple ships named “Peerless”), courts will accept additional evidence of the parties’ intent. If there was no meeting of the minds, there was no contract.</li>
     <li><b>Conclusion:</b> Multiple ships of the same name and origin created a “latent ambiguity.” In light of that ambiguity, the court accepted evidence that the defendants meant one Peerless and the plaintiffs another. Held for the defendants.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
@@ -2150,11 +2150,98 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### The Offer
+#### Unilateral Offer
+#### Case: *[Lefkowitz v. Great Minneapolis Surplus Store, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Great Minneapolis published a newspaper ad naming prices for goods on a “first come, first served” basis. Lefkowitz arrived first, but Great Minneapolis refused to sell to him because he was not a woman. Lefkowitz argued that the ad constituted a unilateral offer.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> When the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, accepetance of which will complete the contract.</li>
+    <li><b>Conclusion:</b> A binding obligation arises from newspaper ads if “the facts show that some performance was promised in positive terms for something requested. “ . . . where the offer is clear, definite, and explicit, and leaves nothing open
+for negotiation, it constitutes an offer, acceptance of which will complete the contract. The offer by the ∆ of the sale for fur was clear, definite, and explicit and left nothing open for negotiation. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Limits on Unilateral Offers
+
+#### Case: *[Courteen Seed Co. v. Abraham](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A telegram sent by a grain dealer asking for a price per pound of seeds did not constitute an express offer to sell the seeds to the corporation and the grain dealer's motion for nonsuit in the corporation's breach action should have been granted.</li>
+    <li><b>Facts:</b> The parties entered into several negotiations regarding the sale of clover seeds to the corporation. The grain dealer sent the corporation a telegram which read: "I am asking 23 cents per pound for the car of red clover seed from which your sample was taken. No. 1 seed, practically no plantain whatever. Have an offer 22-3/4 per pound, f. o. b. Amity." The corporation responded with an acceptance. After the grain dealer refused to ship the seeds, the corporation filed an action for damages based on the alleged contract. The trial court entered judgment in favor of the corporation.</li>
+    <li><b>Issue:</b> Was there a perfected contract of sale?</li>
+    <li><b>Rule:</b> Information or invitation to negotiate does not constitute an offer.</li>
+    <li><b>Conclusion:</b> The court held that, giving due consideration to every word contained in the grain dealer's telegram to the corporation, it was not prepared to say that the telegram constituted an express offer to sell, as it asked for a price per pound, not offered one. The court reversed and remanded, holding that as there was no contract, the grain dealer's motion for nonsuit should have been granted. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Ardente v Horan](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Where a buyer's letter in response to the sellers' offer was only a conditional acceptance, he was not entitled to specific performance of the real estate sales contract because it served as a rejection of the offer and created no binding obligation.</li>
+    <li><b>Facts:</b> The buyer executed and returned the sellers' sales contract for the purchase of real estate accompanied by a letter that indicated he desired for certain items to remain a part of the land. The sellers refused to agree to sell the listed items or sign the sales contract, so the buyer filed an action for specific performance of the sales contract. The trial court, however, granted the sellers' motion for summary judgment on the ground that the letter constituted only a conditional acceptance of the sellers' offer to sell the property, therefore it was a counteroffer that the sellers had not accepted, which was insufficient to have formed a binding contract. The case was appealed.</li>
+    <li><b>Issue:</b> Is an response with a condition considered to be a valid acceptance of a contract offer?</li>
+    <li><b>Rule:</b> Summary judgment is a drastic remedy and should be cautiously applied; nevertheless, where there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law, summary judgment properly issues. On appeal the court is bound by the same rules as the trial court.</li>
+    <li><b>Conclusion:</b>The court ruled that the delivery of the sales contract to the buyer was an offer, but that the buyer's letter in response was not a definite and equivocal acceptance of that offer because it imposed additional conditions on the offer. In light of this construction, the court ruled that the trial court had properly held that the buyer's response was a rejection of the sellers' offer, therefore no genuine issue of material fact existed as to whether there was a binding agreement. The court affirmed the judgment of the trial court that granted the sellers' motion for summary judgment in the buyer's action for specific performance of a real estate sales contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Bergey v. HSBC Bank USA](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An acceptance via email of a purchase offer results in a valid, enforceable contract so long as the offer does not specifically prescribe a particular manner in which the acceptance is to be made.</li>
+    <li><b>Facts:</b> Bergey tried to purchase a home and filed a complaint seeking damages, an injunction, and specific relief for a breach of contract and interference with a contract. Bergey submitted a proposed purchase agreement for the property. Later asked to submit his highest bid and Bergey offered $55,101 all cash. Highest offer was 56,000 but required financing as opposed to Bergey who was paying all cash. HSBC agent informed Bergey initially that his offer had been accepted and that she would send addenda and instructions. HSBC  then authorized the higher bid for the purchase of the property. Agent messaged Bergey saying she had "jumped the gun"</li>
+    <li><b>Issue:</b> Whether an acceptance via email of a purchase offer results in a valid, enforceable contract so long as the offer does not specifically prescribe a particular manner in which the acceptance is to be made.</li>
+    <li><b>Rule:</b> An acceptance via email of a purchase offer results in a valid, enforceable contract so long as the offer does not specifically prescribe a particular manner in which the acceptance is to be made.</li>
+    <li><b>Conclusion:</b> The trial court’s ruling is reversed and the case is remanded for further proceedings consistent with this opinion. An acceptance via email of a purchase offer results in a valid, enforceable contract so long as the offer does not specifically prescribe a particular manner in which the acceptance is to be made.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 
+#### Case: *[White v. Corlies](Link)*
 
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> </li>
+    <li><b>Facts:</b> ∆ furnished the π with specifications for fitting up a suit of offices and requested him to make an estimate of the cost of doing the work. On Sept 28th left the estimate with the ∆ and they were to consider upon it and inform the π of their conclusions. On Same day ∆ made a change in their specifications and sent a copy of the same now changed spec to the π for his assent under the estimate. π asserted by signing the same and returning it to the ∆. ∆ Book-keeper wrote the π "Upon an agreement to finish the fitting up of offices 57 Broadway in two weeks from date, you can begin at once" No reply to the note was ever made</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Silence and inaction do not amount to an acceptance of an offer, generally speaking, mere silence or failure to reject an offer when it is made does not consitute an acceptance.</li>
+    <li><b>Conclusion:</b> The note did not make an agreement, it was a proposition and must have been accepted by the π before either party was bound in contract to the other. The acceptance of the offer must be manifested by some appropriate act. But the manifestation need not be brought to his knowledge before he becomes bound, he is not bound, if that manifestation is not put in a proper way to be in the usual course of events in some reasonable time communicated to him. A mental determination not indicated by speech or put in course of indication by act to the other party is not an acceptance which will bind the other.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 ---
+
+
+
 
 ## Attack Flow
 - Do we have an enforceable contract?
