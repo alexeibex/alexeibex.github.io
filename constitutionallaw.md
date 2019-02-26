@@ -2699,3 +2699,73 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+### The "Incorporation" of the Bill of Rights ThroughThe Due Process Clause
+
+#### Case: *[Palko v. Connecticut](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> State law allowing State to appeal criminal case did not violate Fourteenth Amendment by subjecting defendant to double jeopardy on retrial; retrial did not violate fundamental principles of liberty and justice when ensuring an error-free trial.</li>
+    <li><b>Facts:</b> Defendant appealed a decision by the Supreme Court of Errors of Connecticut, which sustained a death sentence imposed for first degree murder. Defendant claimed that Conn. Gen. Stat. § 6494, which allowed the State to appeal in a criminal case, violated the Fourteenth Amendment because it allowed defendant to be tried twice and thus subjected him to double jeopardy in violation of Fifth Amendment. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Were petitioner's rights violated?</li>
+    <li><b>Rule:</b> Where the Fourteenth Amendment has absorbed privileges and immunities from the federal bill of rights, the process of absorption has had its source in the belief that neither ordered liberty nor justice would exist if they were sacrificed.</li>
+    <li><b>Conclusion:</b> The United States Supreme Court affirmed, holding that not all U.S. Const. amend. V rights were applicable to the states through U.S. Const. amend. XIV, and the state could choose not to adopt a right if it was not of the very essence of a scheme of ordered liberty, and its abolishment would not violate a principle of justice so rooted in the traditions and conscience of the American people as to be ranked as fundamental. The Court ruled that the state statute did not deny petitioner due process of law because allowing a retrial did not violate fundamental principles of liberty and justice where it was only done to ensure a trial free from substantial legal error.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Adamson v. California](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A state law that allowed comment on defendant's failure to testify did not violate his right to due process when it was not construed as an admission of the evidence, defendant was presumed innocent, and the burden of proof remained upon the state.</li>
+    <li><b>Facts:</b> Defendant contended that he could not take the stand to deny the evidence against him because he would be subjected to a cross-examination as to former crimes to impeach his veracity and the evidence so produced could have brought about his conviction. Such cross-examination was allowable in California under Cal. Penal Code § 1323 and Cal. Const. art. I, § 13, and defendant contended that they denied him due process.</li>
+    <li><b>Issue:</b> Is the Fifth Amendment privilege against self-incrimination incorporated into the Fourteenth Amendment?</li>
+    <li><b>Rule:</b> The clause of the Fifth Amendment, protecting a person against being compelled to be a witness against himself, is not made effective by the Fourteenth Amendment as a protection against state action because freedom from testimonial compulsion is a right of national citizenship; it is a personal privilege or immunity secured by the Federal Constitution as one of the rights of man that are listed in the Bill of Rights.</li>
+    <li><b>Conclusion:</b> The due process clause did not protect defendant's freedom from giving testimony by compulsion in state trials. The Fourteenth Amendment prevented a state from abridging the privileges and immunities of citizens of the United States, but a state was free to abridge, within the limits of the due process clause, the privileges and immunities flowing from state citizenship. Failure of defendant to testify was not an admission of the truth of the adverse evidence. Instructions told the jury that the burden of proof remained upon the state and the presumption of innocence remained with defendant. Comment on failure to deny proven facts did not in California tend to supply any missing element of proof of guilt.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Duncan v. Louisiana](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In a case where defendant was charged in state court with a misdemeanor simple battery offense that carried a maximum two-year sentence, he was entitled to a jury trial because it was not a petty offense.</li>
+    <li><b>Facts:</b> Defendant was charged with simple battery, a misdemeanor punishable by a maximum of two years imprisonment and a $ 300 fine. Defendant sought trial by jury, but because the Louisiana Constitution grants jury trials only in cases in which capital punishment or imprisonment at hard labor may be imposed, the trial court denied the request. Defendant was convicted and sentenced to serve 60 days in the parish prison and pay a fine of $ 150. After the state supreme court denied his petition for a writ of certiorari, defendant sought review in the federal court.</li>
+    <li><b>Issue:</b> Was the State of Louisiana obligated to provide a trial by jury in this case?</li>
+    <li><b>Rule:</b> The Fourteenth Amendment guarantees the right to a jury trial in all criminal cases which, were they to be tried in a federal court, would come within the Sixth Amendment's guarantee.</li>
+    <li><b>Conclusion:</b> The Court held that a crime punishable by two years in prison was a serious crime and not a petty offense. Consequently, defendant was entitled to a jury trial and the trial court erred in denying it. In so ruling, the Court opined that the right to trial by jury guaranteed defendants in criminal cases in federal courts by the U.S. Const. art. III and by the Sixth Amendment was also guaranteed by the Fourteenth Amendment to defendants tried in state courts.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[McDonald v. City of Chicago](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> With regard to whether municipalities could ban possession of handguns, the Second Amendment was fully applicable to the states and protected the right to keep and bear arms -- including handguns -- for the purpose of self-defense. The framers of the Fourteenth Amendment considered the right to keep and bear arms to be fundamental.</li>
+    <li><b>Facts:</b> Petitioners filed suits against respondent municipalities for effectively banning possession of handguns by private citizens. The district court upheld the ordinances, and the United States Court of Appeals for the Seventh Circuit affirmed. The Supreme Court granted certiorari.</li>
+    <li><b>Issue:</b> Are the municipal ordinances violations of the Second Amendment?</li>
+    <li><b>Rule:</b> The Second Amendment is incorporated through the Due Process Clause of the Fourteenth Amendment and is thus protected from infringement from state or local governments.</li>
+    <li><b>Conclusion:</b> The Court held that the Second Amendment protected the right to keep and bear arms for the purpose of self-defense and that the Second Amendment was fully applicable to the states. Self-defense was a basic right and was the central component of the Second Amendment right, and the Court had recognized that the Second Amendment right applied to handguns, which were the preferred firearm to keep and use for protection of one's home and family. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

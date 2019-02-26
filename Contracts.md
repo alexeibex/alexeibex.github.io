@@ -2134,11 +2134,13 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 
 #### Case: *[Raffles v. Wichelhaus](Link)*
-
+- K = Contract for Cotton arriving on a ship.
+- π contends wrong peerless and arrived late
+- ∆ contends timing had nothing to do with contract. Fulfilled the K, timing no part of the contract.
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
-    <li><b>Facts:</b> Defendants agreed to buy cotton from the Plaintiffs from a ship named Peerless arriving at Liverpool from Bombay. Another ship named Peerless arrived at Liverpool from Bombay. Defendants refused to pay because it was the wrong ship.</li>
+    <li><b>Overview:</b>Conctract to sell cotton from a boat named "Peerless", issue arose out of cotton arriving from a different ship named "peerless" at a different time</li>
+    <li><b>Facts:</b> Defendants agreed to buy cotton from the Plaintiffs from a ship named Peerless arriving at Liverpool from Bombay. Another ship named Peerless arrived at Liverpool from Bombay. Defendants refused to pay because it was the wrong ship. Two separate ships named peerless arriving at two different times. Buyer wanted the goods in a timely manner</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b> If there are “latent ambiguities” (e.g., multiple ships named “Peerless”), courts will accept additional evidence of the parties’ intent. If there was no meeting of the minds, there was no contract.</li>
     <li><b>Conclusion:</b> Multiple ships of the same name and origin created a “latent ambiguity.” In light of that ambiguity, the court accepted evidence that the defendants meant one Peerless and the plaintiffs another. Held for the defendants.</li>
@@ -2156,12 +2158,11 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b>Publishing an advertisement in a newspaper constituted a valid offer because it was clear, definite, and explicit.</li>
     <li><b>Facts:</b> Great Minneapolis published a newspaper ad naming prices for goods on a “first come, first served” basis. Lefkowitz arrived first, but Great Minneapolis refused to sell to him because he was not a woman. Lefkowitz argued that the ad constituted a unilateral offer.</li>
-    <li><b>Issue:</b></li>
+    <li><b>Issue:</b> Whether an advertisement constituted an offer?</li>
     <li><b>Rule:</b> When the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, accepetance of which will complete the contract.</li>
-    <li><b>Conclusion:</b> A binding obligation arises from newspaper ads if “the facts show that some performance was promised in positive terms for something requested. “ . . . where the offer is clear, definite, and explicit, and leaves nothing open
-for negotiation, it constitutes an offer, acceptance of which will complete the contract. The offer by the ∆ of the sale for fur was clear, definite, and explicit and left nothing open for negotiation. </li>
+    <li><b>Conclusion:</b> A binding obligation arises from newspaper ads if “the facts show that some performance was promised in positive terms for something requested. “ . . . where the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, acceptance of which will complete the contract. The 1st offer was not considered an offer because the items were deemed "specultive" BUT, the 2nd offer by the ∆ of the sale for fur was clear, definite, and explicit and left nothing open for negotiation. </li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -2187,6 +2188,7 @@ for negotiation, it constitutes an offer, acceptance of which will complete the 
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Manifestation of an Acceptance
 #### Case: *[Ardente v Horan](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -2237,6 +2239,23 @@ for negotiation, it constitutes an offer, acceptance of which will complete the 
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Ducommun v. Johnson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Silence does not constitute an acceptance</li>
+    <li><b>Facts:</b>Contract of sale was mailed to the seller for her approval, but nothing was heard from her for over thirty days. Agent claimed that the seller accepted by failing to object to the erms of the sale.</li>
+    <li><b>Issue:</b> Whether a Real estate agent's right to a fee depended on whether one of the sellers had accepted the terms of the sale</li>
+    <li><b>Rule:</b> General rule of law that silence and inaction do not amount to an acceptance of an offer.</li>
+    <li><b>Conclusion:</b> Seller was not obligated to say one way or the other whether she approved. Passage of time would be more inclined to express disapproval than approval.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
 
 ---
 

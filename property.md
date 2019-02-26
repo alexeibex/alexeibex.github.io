@@ -1032,3 +1032,57 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+## Easements
+
+#### Case: *[Baseball Publishing Co. v. Bruton](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Agreement between advertiser and building owner was not a license but was an easement even though it was not under seal because equity created the easement where the agreement was agreed upon for consideration.</li>
+    <li><b>Facts:</b> Plaintiff was engaged in the business of controlling locations for billboards and signs and contracting with advertisers for the exhibition of their placards and posters. Defendant gave plaintiff a writing signed but not sealed by defendant whereby for consideration defendant agreed to give plaintiff the exclusive right to maintain a sign on a building owned by defendant. It was provided that all signs placed on the premises remained the personal property of plaintiff. The writing was headed as a lease. Plaintiff accepted by sending defendant a check in the amount of the agreed consideration. Defendant returned the check. Plaintiff erected the contemplated sign. Defendant caused the sign to be removed. Plaintiff brought a bill for specific performance, contending the writing was a lease. The trial judge entered a final decree for specific performance for plaintiff. The supreme judicial court affirmed holding an easement in equity was created.</li>
+    <li><b>Issue:</b> Was the right given to plaintiff a mere license?</li>
+    <li><b>Rule:</b> A license merely excuses acts done by one on land in possession of another that without the license would be trespasses, conveys no interest in land, and may be contracted for or given orally.</li>
+    <li><b>Conclusion:</b> The trial court did not err in awarding specific performance even though the agreement was not under seal because equity created an easement on the part of plaintiff. The writing in the present case, however, seems to us to go beyond a mere license. It purports to give "the exclusive right and privilege to maintain" a certain sign on the defendant's wall. So far as the law permits, it should be so construed as to vest in the plaintiff the the right which it purports to give.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Creation of Easements
+
+#### Case: *[Schwab v. Timmons](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Petitioner landowners were not entitled to easement by implication or necessity; the private road petitioners sought to extend had never extended to petitioners' parcels and petitioners' grantor had not severed a landlocked portion of property.</li>
+    <li><b>Facts:</b> Petitioner landowners brought a declaratory judgment action against respondent landowners for a determination that petitioners were entitled to an easement by necessity or implication so that they could gain access to their landlocked property. The circuit court denied the petition on the basis that the circumstances did not fit the typical situation from which ways of necessity were implied and that even if they did, the easement would not have survived because it was not recorded. The court of appeals affirmed. On appeal, the state supreme court affirmed, holding that petitioners failed to establish an easement by implication because the private road petitioners sought to extend did not and had never extended to petitioners' properties. </li>
+    <li><b>Issue:</b> Did the court err in denying petitioners claim of easement by implication or by necessity over the respondents' properties?</li>
+    <li><b>Rule:</b> An easement is a liberty, privilege, or advantage in lands, without profit, and existing distinct from the ownership of the land. With an easement, there are two distinct property interests-the dominant estate, which enjoys the privileges granted by an easement, and the servient estate that permits the exercise of those privileges. An easement can be used only in connection with the real estate to which it belongs.</li>
+    <li><b>Conclusion:</b> The petitioners failed to establish a claim for an easement by implication.  While a landlocked parcel may satisfy the necessity element, it is apparent from the amended complaint that the private road the petitioners seek to extend does not and has never extended to the petitioners' properties. They failed to allege that any use by the United States was so obvious, manifest or continuous as to show that it was meant to be permanent.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Holbrook v. Taylor](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Where homeowners, as licensees, made improvements on their property and an access road with the approval of licensor landowners, the trial court correctly found that homeowners had established an irrevocable right to use the road by estoppel.</li>
+    <li><b>Facts:</b> Appellee homeowners built a residence on property adjoining the appellant landowners' property. With the permission of the landowners, the homeowners used and maintained an access road owned by the landowners during the period of home construction. After the construction, the homeowners continued to use the roadway to access the public highway. The homeowners claimed a right to the use of the roadway by prescription and by estoppel. The trial court (Kentucky) determined that a right to the use of the roadway by prescription had not been established, but that it had been established by estoppel. The landowners appealed. The Supreme Court affirmed judgment.</li>
+    <li><b>Issue:</b> Did appellee’s acquire the right to use the roadway by estoppel?</li>
+    <li><b>Rule:</b> An easement may be created by express written grant, by implication, by prescription, or by estoppel. An easement, such as a right of way, is created when the owner of a tenement to which the right is claimed to be appurtenant, or those under whom he claims title, have openly, peaceably, continuously, and under a claim of right adverse to the owner of the soil, and with his knowledge and acquiescence, used a way over the lands of another for as much as 15 years.</li>
+    <li><b>Conclusion:</b> The use of the roadway by the homeowners to get to their home from the public highway, the use of the roadway for the construction of the residence, the general improvement of the premises, and the maintenance of the roadway, all with the actual consent of the landowners or at least with their tacit approval, clearly established that the license to use the subject roadway could not have been revoked.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

@@ -49,3 +49,29 @@
 - Privileges & Immunities to protect the right to travel
   - The free movement among the free States is acknowledged as a basic liberty.
   - See *[Saenz v. Roe](link)*
+
+### The "Incorporation" of the Bill of Rights Through the Due Process Clause
+- Articulating the case for "selective" incorporation,
+  - See *[Palko v. Connecticut](link)*
+
+#### Incorporation Since Duncan
+- The Scope of Incorporated Rights
+  - See *[Duncan v. Louisiana](link)*
+- What Rights have been incorporated?
+- Incorporation and the Right to Keep and Bear Arms
+  - Court vacating the convictions of members of a white mob for dispossessing African-Americans of their guns & holding that the 2nd Amendment did not apply except as against the federal government.
+    - See *[United States v. Cruikshank](link)*
+  - Upholding the conviction under the National Firearms Act, holding that the regulated weapons lacked any "reasonable relationship to the preservation or efficiency of a well regulated militia"
+    - See *[United States v. Miller](link)*
+  - First tiem court enforced the Amendment expressly as a matter of individual rights,
+  - Holding that Miller did not foreclose "adoption of the original understanding of the Second Amendment" Court invalidated a DC law that effectively banned the possession of handguns.
+  - Reasoned that because DC is governed by the federal government, the Court did not need to reach the question whether the 2nd amedment is incorporated under due process so as to apply to state or city gun ordinances.
+  - See *[District of Columbia v. Heller](link)*
+
+#### The Second Amendment and the Due Process Clause
+  - Holding that the Due Process Clause of the 14th Amendment incorporates the 2nd Amendment Right recognized in Heller
+    - See *[McDonald v. City of Chicago](link)*
+#### Meaning and Implications of Heller and McDonald
+- History and Incorporation
+- Guns and American History
+- The level of scrutiny for the Second Amendment Claims

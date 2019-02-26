@@ -3,6 +3,7 @@
 - Contract = **Agreement** + [Consideration](link)
 
 ### The Nature of Assent: Subjectivity v. Objectivity
+- Agreements = Offer + Meeting of the Minds + Acceptance
 #### The Objective Nature of Assent
 
 - Intention of Agreements
@@ -21,6 +22,7 @@
     - Conduct gave rise to a reasonable interpretation that there was no intent to sell.
     - Even with very little reliance, Contract was considered valid
       - Whittier: To hold one for the merely careless use of language which causes no damage whatever to the party to whom the language is addressed is certainly inconsistent with principles generally applied.
+      - Must look to the outward expression of a person as manifesting his intention rather than to his secret and unexpressed intention.
       - See *[Lucy v. Zehmer](link)*
 
 
@@ -33,10 +35,11 @@
   - Promise inducing performance = K when expecting something from party
     - See *[Tilbert v. Eagle Lock Co.](link)*
 
-- Mistake in Contract
+- Mistake in Contract & Misunderstanding
+  - Reasonable and Objective Standard
   - See *[Cargill Commission Co. v. Mowery](link)*
 
-- Interpretation
+- Interpretation of Contract
   - Restatement (Second) of Contracts §20 Effects of Misunderstanding
     - There is no manifestation of mutual assent to an exchange if the parties attach materially different meanings to their manifestations and
       - **neither party knows or has reason to know the meaning attached by the other; or
@@ -46,9 +49,16 @@
       - that party has no reason to know of any different meaning attached by the other, and the other has reason to know the meaning attached by the first party;
   - Restatement § 201
     - The issue is, what is chicken?”
-      - If both parties are found to have each acted in good faith and that neitehr had areason to know of the difference in meaning, both claims fail.
+      - If both parties are found to have each acted in good faith and that neither had a reason to know of the difference in meaning, both claims fail.
   - When both parties to a contract are mistaken as to an essential element of the contract, the Court will attempt to find a reasonable interpretation from the context of the agreement before it will void it.
-    - See *[Raffles v. Wichelhaus](link)*
+    - Latent ambiguity resulted in "no contract" since both parties intended two speparate things.
+      - Subjective interpration within the K (two reasonable interpretations of "Peerless") v. an Objective term (35,000 bushels when you mean 3,500)
+      - Mutual Misunderstanding = No Meeting of the Minds = No K
+        - See *[Raffles v. Wichelhaus](link)*
+- Mismatch of Parties understanding
+  - Attempting to encourage communication
+    - See *[Dickey v. Hurd](Link)*
+
 
 ### The Offer
 #### Corbin on Contracts
@@ -56,36 +66,64 @@
     - Contract law must determine whether a reasonable person, acquainted with all the circumstances, would believe that the author of the communication alleged to be an offer intended to be bound upon assent(acceptance) by the other party.
 
 #### Unilateral Offers
-- Where the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, acceptance of which will complete the contract.
+- **Where the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, acceptance of which will complete the contract.**
 - Store intended to be held to the offer
+  - Objective theory of legitimate offer? Examine Circumstances
+    - Attmpting to draw women into the store to shop
   - See *[Lefkowitz v. Great Minneapolis Surplus Store, Inc.](link)*
 
 #### Limits on Unilateral Offers
-- Advertisements are generally invitations. Targeted to mass of individuals.
+- Advertisements are generally invitations. Targeted to mass of individuals. Generally stores do not have enough product for "everyone"
+- Considered invitations to protect merchants
   - See *[Ford Motor Credit Co. v. Russell](link)*
     - A reasonable person would understand that not every person qualifies for financing.
     - A reasonable person also knows there are not an unlimted amount of cars being sold
 
 ### The Acceptance
+#### Preliminary Negotiations
 - General Approach is to look for a particular communication that constitutes an offer and another communication that constitues an acceptance.
--
+  - Question:
+    - "Wire firm offer?" - Court still rules no acceptance
+    - Ambiguity in corespondence, Court tips the scale on scales
+      - See *[Courteen Seed Co. v. Abraham](link)*
+
+#### Uniform Commercial Code §2-204(3)
+- Even if one or more terms are left open a cotnract for sale does not fail the indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.
+
+
 #### Corbin Offer and Acceptance
   - An acceptance is a voluntary act of the offeree whereby he exercises the power conferred upon him by the offer and thereby creates the set of legal relations called a contract.
+
+##### Unrealistic Offers
+- See *[Leondard v. Pepsico Inc.](link)*
+  - Advertisement showing 7 million Pepsi points for a Harrier Jet
+    - Unreasonable to believe that Harrier jet was a real offer.
+      - Ad did not amount to an offer of goods
+      - No objective person could reasonably have concluded that the commercial actually offered consumers a Harrier Jet
+      - The alleged contract could not satisfy the New York Statute of Frauds
+  - 93 Rock Tattoo on Forehead
+
 
 #### Acceptance of an Offer
 - Uniform Commercial Code §2-206(1)(a)
   - Unless otherwise unambiguously indicated by the language or circumstances
-    - **an offer to make a contract shall be construed as inviting acceptance in any manner and by any medium reasonable in the circumstances**
+    - **an offer to make a contract shall be construed as inviting acceptance in any *manner and by any medium* reasonable in the circumstances**
 - Restatement (Second of Contracts) §32 - Invitation of Promsie or Performance
   - In case of doubt an offer is interpreted as inviting the offeree to accept either by promising to perform what the offer requests or by rendering the performance, as the offeree chooses.
-- See *[Bergey v. HSBC Bank USA](link)*
+  - See *[Bergey v. HSBC Bank USA](link)*
 
-#### Qualified Acceptance
+#### Qualified Acceptance & Manifestations of Acceptance
 - Conditions on an agreement are considered qualified agreements and are not agreements at all.
-  - See *[Ardente v Horan](Link)*
+- Offer is a manifestation of an intent to enter into a legal agreement.
+- “We must be concerned only with the language actually used, not the language the offeree thought he was using or intended to use.”
+- Mirror Image Rule - **Acceptance must mirror the offer that was made otherwise becomes a new offer.**
+  - Exception: Counter Inquiry - Acceptance may be valid despite conditional language if the acceptance is clearly indpendent of the condition.
+    - See *[Ardente v Horan](Link)*
 
 
 #### Acceptance by Silence or Partial Performance
+- No acceptance by Silence
+  - See *[Ducommun v. Johnson](link)*
 - Partial Performance
   - See *[White v. Corlies](link)*
 - Restatement §69 Acceptance by silence or exercise of dominion
