@@ -61,3 +61,50 @@
   - Oral License for entry to property accepted today
   - Licenses are **revocable at anytime**
     - Tickets to a show/game
+
+#### Bailments
+- Bailments
+  - Bailor = Person giving the item/property
+  - Bailee = Person receiving the item/property
+    - Example: Dropping off suit at dry cleaning
+- Creation of Bailment
+  - A bailment is created when there is an indication that the property will be protected when not in the owner’s possession.
+    - Policy argument: Parking lot owners were better situated to protect the car.
+      - Spreading the cost and economies of scale for car secruity. Cheapest, efficient provider of security.
+  - Dissent:
+  - See *[Allen v. Hyatt Regency-Nashville Hotel](link)*
+- The Bailee's Duty of Care
+  - Duty to Exercise Care
+    - Comesurate to who gets the benefit of the bailment
+  - Historical Distinction by Story
+    - Sole benefit of the bailor, the law requires only slight diligence on the part of the bailee
+    - When the bailment is for the sole benefit of the bailee, the law requires great diligence on the part of the bailee and makes him responsible for slight neglect.
+    - Reciprocal: When the bailment is reciprocally beneficial to both parties, the law requires ordinary diligence on the part of the bailee, and makes him responsible for ordinary neglect.
+  - Modern Duty:
+    - Duty to exercise **reasonable care**
+      - Examine all relevant circumstances
+        - Compensation to Bailee
+        - Bailee's benefit
+    - Helmholz - Court's actually still use the Story analysis despite reasonable care standard
+      - Stricter of misdelivery of goods then about theft, loss, or destruction
+- Involuntary Bailee
+    - An involuntary bailee is only liable if the bailee was **negligent** in delivering the goods to the wrong person. The courts impose strict liability on the ordinary bailee because he is in breach of contract when he misdelivers, but an involuntary bailee has no contract and has a lesser liability.
+      - Bailee has a duty to use reasonable care to return bailment with respect to conduct.
+    - Argument arise over the duty of care
+      - See *[Cowen v. Pressprich](link)* (OVERRULED)
+        - "No Rule is better settled than that it is the duty of the bailee to deliver the bailed article ot the right person, and that delivery to the wrong person is not capable of being excused by any possible showing of care or good faith or innocence."
+        - Dissent: Involuntary Bailment. Windown slot was an invitation to receive voluntary bailments not involuntary bailments.
+          - No duty imposed by giving ∆ something
+        - Holding for the π but later reversed and overruled
+          - Dissent Becomes majority on appeal
+
+
+#### Servitudes
+- Property is a **Bundle of Rights**
+  - Bundle of "sticks" (Rights)
+    - Conveyance of rights can be traded, shared, moved while still retaining the "bundle"
+      - Property owners are entitled to the proverbial "bundle of rights" in their property. Included within the bundle are, among other things, the rights to (1) possess for some period of time, (2) mortgage, (3) exclude, (4) sell, (5) gift, and (6) devise by will
+  - Servitudes = 1 Stick in the Bundle
+    - Can run with the land = Can apply to successive owners of land
+      - [Easements](link)
+      - Right to Exclude

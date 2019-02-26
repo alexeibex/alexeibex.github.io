@@ -1033,6 +1033,44 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
 
+## Bailments
+
+#### Case: *[Allen v. Hyatt Regency-Nashville Hotel](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Bailment is created at Park and Lock when there exists attendants.</li>
+    <li><b>Facts:</b> P parked in D’s garage though not as a guest of D; single entrance and exit to the garage which allowed entry upon retrieval of a ticket; exit manned by attendant in booth; keys given to attendant two security guards patrolled the lot</li>
+    <li><b>Issue:</b> Whether or not a bailment was created when π left his car at ∆'s parking lot.</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> A  bailment is created when there is an indication that the property will be protected when not in the owner’s possession. Here, the bailee took the keys (delivery) and had two  security  guards  patrolling  the  lot  so  such  thefts could be prevented and since there’s a bailment with the key delivery, there’s a presumption of negligence on D’s part.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Involuntary Bailee
+#### Case: *[Cowen v. Pressprich](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> When the recipient of a securities bond received a bond by mistake, giving the bond to the deliverer's purported messenger, an impostor, subjected the recipient to liability for conversion because it had a duty to return it to the proper owner.</li>
+    <li><b>Facts:</b> Cowen and Pressprich are stockbrokers. Cowen’s agent brings abearer bond to Pressprich’s office, and drops it through a letter slot in adoor. Pressprich’s clerk picks it up, sees it is the wrong bond, opens the door,and calls for Cowen’s agent. X, who is not Cowen’s agent, responds promptlyand the clerk, not knowing Cowen’s agent, hands the faker the bond. As aninvoluntary bailee, Pressprich can be liable only if negligence is shown.</li>
+    <li><b>Issue:</b> Did the recipient, an involuntary bailee, owe the same duty of care as a voluntary bailee, such that he had a duty to return the goods to the right person?</li>
+    <li><b>Rule:</b> The involuntary bailee, as long as his lack of volition continues, is not under the slightest duty to care for or guard the subject of the bailment, and cannot be held, in respect of custody, for what would even be the grossest negligence in the case of a voluntary bailment, but in case the involuntary bailee shall exercise any dominion over the thing so bailed, he becomes as responsible as if he were a voluntary bailee.</li>
+    <li><b>Conclusion:</b> The court held that an involuntary bailee that exercised dominion over an item owed the same duty of care as a voluntary bailee, to deliver the bailed article to the right person. The delivery of an item in mistake for one that was ordered, the fact that the recipient could not see the messenger when the bond was delivered, and the relative ease with which the recipient could have called the deliverer or had its own messenger return the bond to the deliverer itself, gave rise to a duty on the part of the recipient to deliver the bond to its proper owner. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+## Servitudes
+
+
 ## Easements
 
 #### Case: *[Baseball Publishing Co. v. Bruton](Link)*
