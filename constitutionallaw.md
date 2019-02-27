@@ -2769,3 +2769,76 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Timbs v. Indiana](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Incorporation of the 8th Amendment "excessive fines" under the Due Process Clause </li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+## Due Process
+### Substantive Due Process & Economic Liberties
+
+#### Case: *[Lochner v. New York](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Law prohibiting employers from allowing employees to work more than 10 hours in one day was an unconstitutional exercise of the state's police powers because it unnecessarily interfered with the contract rights of individuals.</li>
+    <li><b>Facts:</b> The State of New York enacted a statutes which restricted employers from allowing employees to work more than 10 hours a day or 60 hours a week. The State Supreme Court found that Lochner violated a New York labor law.  The employer allowed his employee, a baker, to work more than 60 hours in one week. The State Supreme Court upheld the labor law as a constitutional exercise of the state's police power. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b> Does the Statute limiting employees hours constitute a legitimate exercise of state police powers?</li>
+    <li><b>Rule:</b> The right to contract ones labor is at the "liberty of the individual" and the State cannot interfere by passing a statute limiting a persons ability to contract. However, the State may still have a legitimate reason to regulate certain industries if the health of the employees is at risk.</li>
+    <li><b>Conclusion:</b> The labor law that was enacted was not a legitimate exercise of the police power of the State, but an unreasonable, unnecessary and arbitrary interference with the right and liberty of the individual to contract, in relation to labor, and as such it is in conflict with, and void under, the Federal Constitution. The statute was not necessary as a health law to safeguard the public health or the health of the individuals who labored as bakers. The trade of a baker was not an unhealthy one to such a degree that would authorize the legislature to interfere with the right to labor and the right of free contract on the part of the individual. Various regulations already governed the cleanliness of the quarters in which bakeries were to be conducted. Restricting the number of hours that a baker could work would not further the purpose of those regulations. It was not possible to discover the connection between the number of hours a baker could work and the quality of the bread that he produced.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Nebbia v. New York](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant's conviction for selling milk at a price below that allowed by an order of the state board pursuant to the Milk Control Law was proper as the statute did not discriminate unfairly against defendant or violate his due process rights.</li>
+    <li><b>Facts:</b> The New York Legislature passed a Milk Control Law that established a Milk Control Board with the power to fix minimum and maximum retail prices charged by stores to consumers for milk. Defendant was a storekeeper who was found to have sold milk for less than the price fixed by the Board's order. Defendant asserted that the statute and order violated the equal protection clause and the due process clause of the Fourteenth Amendment. The Court held that the contention that discrimination deprived defendant of equal protection was not well founded because there was no showing that the order placed him at a disadvantage or affected him adversely.</li>
+    <li><b>Issue:</b> Does the Federal Constitution prohibit a state from fixing the selling price of milk?</li>
+    <li><b>Rule:</b> The Fifth Amendment, in the field of federal activity, and the Fourteenth, as respects state action, do not prohibit governmental regulation for the public welfare. They merely condition the exertion of the admitted power, by securing that the end shall be accomplished by methods consistent with due process. It results that a regulation valid for one sort of business, or in given circumstances, may be invalid for another sort, or for the same business under other circumstances, because the reasonableness of each regulation depends upon the relevant facts.</li>
+    <li><b>Conclusion:</b> The law-making bodies have in the past endeavored to promote free competition by laws aimed at trusts and monopolies. The consequent interference with private property and freedom of contract has not availed with the courts to set these enactments aside as denying due process.  Where the public interest was deemed to require the fixing of minimum prices, that expedient has been sustained.  If the law-making body within its sphere of government concludes that the conditions or practices in an industry make unrestricted competition an inadequate safeguard of the consumer's interests,  produce waste harmful to the public, threaten ultimately to cut off the supply of a commodity needed by the public, or portend the destruction of the industry itself, appropriate statutes passed in an honest effort to correct the threatened consequences may not be set aside because the regulation adopted fixes prices reasonably deemed by the legislature to be fair to those engaged in the industry and to the consuming public. And this is especially so where, as here, the economic maladjustment is one of price, which threatens harm to the producer at one end of the series and the consumer at the other.  The Constitution does not secure to anyone liberty to conduct his business in such fashion as to inflict injury upon the public at large, or upon any substantial group of the people. Price control, like any other form of regulation, is unconstitutional only if arbitrary, discriminatory, or demonstrably irrelevant to the policy the legislature is free to adopt, and hence an unnecessary and unwarranted interference with individual liberty.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Minimum Rationality Review of Economic Legislation
+
+#### Case: *[Williamson v. Lee Optical of Oklahoma, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Oklahoma statute limiting opticians' ability to fit eyeglass lenses without a prescription from an ophthalmologist or optometrist or to advertise the sale of frames and mounting was a valid exercise of police power based on assumed health concerns.</li>
+    <li><b>Facts:</b> The optician sought to have Okla. Stat. Ann. tit. 59, §§ 941-947 (1951) declared unconstitutional because the effect of § 941 was to forbid an optician from fitting or duplicating lenses without a prescription from an ophthalmologist or optometrist. In practical effect, it meant that no optician could fit old glasses into new frames or supply a lens without a prescription. The trial court found that portions of the statute were unconstitutional. On appeal, the United States Supreme Court held that, although the law might have exacted a needless, wasteful requirement in many cases, it was for the legislature, not the courts, to balance the advantages and disadvantages of the new requirement. In reversing the judgment, the Court held that the law did not violate the Equal Protection Clause of the Fourteenth Amendment and that the law's prohibition on the use of advertising for the sale of eyeglasses and lenses was constitutional because the legislature could treat all who dealt with the human eye as members of a profession who should use no merchandising methods for obtaining customers.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> The day is gone when the United States Supreme Court uses the Due Process Clause of the Fourteenth Amendment to strike down state laws, regulatory of business and industrial conditions, because they may be unwise, improvident, or out of harmony with a particular school of thought. For protection against abuses by legislatures the people must resort to the polls, not to the courts.</li>
+    <li><b>Conclusion:</b> The Court reversed the portion of the trial court's judgment holding that part of the Oklahoma statute was unconstitutional, and the Court affirmed the remainder of the judgment.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

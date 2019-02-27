@@ -37,4 +37,9 @@
 - Easement in Gross created by Grant
   - Does not benefit the owner in the use and enjoyment of his land, but merely gives him a right to use the servient land, easement is in Gross
     - See *[Baseball Publishing Co. v. Bruton](link)*
-- See *[Schwab v. Timmons](link)*
+- Easement Created by Necessity/Implied Easement
+  - Requirements:
+    - Must have been 1 common owner of all the plots
+    - Owner must have chopped the property into different parcels
+    - The parcel in question is landlocked.
+      - See *[Schwab v. Timmons](link)*

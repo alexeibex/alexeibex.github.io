@@ -2254,8 +2254,126 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 </details>
 
+#### Duration of Offers
+
 - <span style="color:red">**Class Discussion**</span>
 
+#### Case: *[Akers v. J.B.Sedberry, Inc](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Evidence showed individual defendant rejected plaintiffs' offers to resign and that the offers expired at the end of the meeting in which they were given; thus, their termination was a breach of their contracts.</li>
+    <li><b>Facts:</b> Akers and Whitsitt (Plaintiffs) worked for defendant corporation under separate employment contracts. In a meeting with Mrs. Sedberry (individual Defendant and owner of defendant corporation), plaintiffs offered their resignations. Individual defendant did not accept the offer but proceeded with the meeting. Four days later, individual defendant notified plaintiffs that she accepted their offers of resignation. Individual defendant argued she had not refused the offers at the meeting and that they had not expired before her acceptance. </li>
+    <li><b>Issue:</b> Were offers for resignation—ignored during a meeting and unanswered for four days—still valid at defendant’s time of acceptance?</li>
+    <li><b>Rule:</b> An offer is rejected when the offeror infers from words or conduct of the offeree that the offeree does not intend to accept or take the offer under further advisement.</li>
+    <li><b>Conclusion:</b> “The only offer by Akers and Whitsitt to resign was the offer made by them in their conversation with Mrs. Sedberry. They made that offer at the outset, and on the evidence it seems clear that they expected an answer at once. Certainly, there is nothing in the evidence to show that they intended the offer to continue beyond that conversation; and on the above authorities, we think the offer did not continue beyond that meeting. Indeed, it did not last that long, in our opinion, but was terminated by Mrs. Sedberry's rejection of it very early in that meeting. While she did not expressly reject it, and while she may have intended, as she says, to take the offer under consideration, she did not disclose such an intent to complainants; but, by her conduct, led them to believe she rejected the offer, brushed it aside, and proceeded with the discussion as if it had not been made.”</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Caldwell v. Cline](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The court reversed the dismissal of plaintiff's complaint for specific performance of a contract for the sale of real estate, finding that acceptance of the offer was communicated within the time specified by the letter.</li>
+    <li><b>Facts:</b> W.D. Cline offered $6,000 and a deed on his land to W.H. Caldwell, in exchange for the latter’s farmland. In a letter sent by Cline, it stated that Caldwell had eight days to accept or reject the offer. Caldwell received the letter on February 2, 1929, and sent a telegram stating his acceptance on February 8th. Cline received the acceptance the next day, but refused to perform the contract. Caldwell thus brought suit for specific performance. Cline instituted a motion to dismiss, contending that the offer was not accepted within the time limit specified because the time for acceptance ran from the date of the offer and not from the date of its delivery. This was granted by the lower court.</li>
+    <li><b>Issue:</b> Was the acceptance timely communicated?</li>
+    <li><b>Rule:</b> Where a person uses the post to make an offer, the offer is not made when it is posted but when it is received.</li>
+    <li><b>Conclusion:</b> On appeal, the court reversed and found that acceptance was communicated within the time specified by the letter, thus there was mutual assent. The court here held that since an offer becomes effective upon receipt, the acceptance period is also counted when the offer is received, not when the same is sent.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Dicinson v. Dodds](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> D agreed to sell real property to P (in writing), allowing P a certain amount of time in which to accept.  P accepted within the specified period, but D had already sold the property to someone else</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Marsh v. Lott](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The optionee was not entitled to specific performance of a contract for the purchase of real estate because although 25 cents was sufficient for an option on the property, the optionee failed tender the full purchase price for the land.</li>
+    <li><b>Facts:</b> In consideration of 25 cents, the optionee was given an option to purchase, for the sum of $ 100,000, certain real estate owned by the optionor. The optionee was given until June 1 to exercise the option. On June 1, the optionee exercised the right of extension given in the option. The next day the optionor revoked the option. On June 29, the optionee left a letter at the optionor's residence indicating his tender of $ 30,000 and filed an action for specific performance of the option contract for the purchase of real estate.  The Superior Court issued judgment for the optionor. The optionee appealed the decision of the Superior Court.</li>
+    <li><b>Issue:</b> Is a small amount consideration adequate for an option contract to be binding?</li>
+    <li><b>Rule:</b> Any money consideration, however small, paid and received for an option to purchase property at its adequate value is binding upon the seller thereof for the time specified therein, and is irrevocable for want of its adequacy.</li>
+    <li><b>Conclusion:</b> The court affirmed the judgment for the optionor. The trial court erroneously concluded that 25 cents was insufficient consideration for the option contract because any consideration paid and received for an option to purchase property at its adequate value was binding upon the seller for the time specified therein, and was irrevocable for want of its adequacy. Thus, the optionor's attempted revocation of the option failed. However, judgment was still proper for the optionor because the optionee did not comply with the terms of acceptance for purchase of the land.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Davis v. Jacoby](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In a will contest case, where an offer to contract was ambiguous as to whether it was an offer to enter into a bilateral or unilateral contract, a presumption existed that the offer was for a bilateral contract.</li>
+    <li><b>Facts:</b> Plaintiffs alleged that they and decedent entered into a contract whereby plaintiffs agreed to assist decedent in his affairs and take care of his ailing wife in exchange for an inheritance under decedent's will. Decedent died shortly after, and the evidence showed that plaintiffs did arrive at decedent's home and took care of his wife and other affairs. After decedent's wife died it was discovered that plaintiffs were not mentioned in decedent's will. Decedent's estate contended that the contract was ambiguous and that therefore a presumption of a bilateral contract was applicable.</li>
+    <li><b>Issue:</b> Is an agreement for care in exchange for an inheritance considered to be an offer to engage into a unilateral contract?</li>
+    <li><b>Rule:</b> A unilateral contract is one in which a promise is made in exchange for some sort of performance and the commencement of performance binds the promisor, thereby creating the contract. A bilateral contract is one in which there are mutual promises between two parties to the contract; each party being both a promisor and a promisee, the contract being form immediately.</li>
+    <li><b>Conclusion:</b> Although the legal distinction between unilateral and bilateral contracts is thus well settled, the difficulty in any particular case is to determine whether the particular offer is one to enter into a bilateral or unilateral contract. Some cases are quite clear cut. Thus an offer to sell which is accepted is clearly a bilateral contract, while an offer of a reward is a clear-cut offer of a unilateral contract which cannot be accepted by a promise to perform, but only by performance. Between these two extremes is a vague field where the particular contract may be unilateral or bilateral depending upon the intent of the offerer and the facts and circumstances of each case. The offer to contract involved in this case falls within this category. By the provisions of the Restatement of the Law of Contracts it is expressly provided that there is a presumption that the offer is to enter into a bilateral contract. Section 31 provides: "In  case of doubt it is presumed that an offer invites the formation of a bilateral contract by an acceptance amounting in effect to a promise by the offeree to perform what the offer requests, rather than the formation of one or more unilateral contracts by actual performance on the part of the offeree."</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Brackenbury v. Hodgkin](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A daughter's acceptance of her mother's written proposal in which she took care of the mother in exchange for the mother's land constituted a valid unilateral contract. The contract created an equitable interest in the land in favor of the daughter.</li>
+    <li><b>Facts:</b> The mother sent a letter to plaintiffs and proposed that plaintiffs move from Missouri to Maine to take care of the mother. The letter closed with the statement that plaintiffs would receive the house upon the mother's death. Plaintiffs moved to Maine. After family difficulties, the mother ordered plaintiffs from the home but they refused to leave. The mother executed and delivered to her son a deed of the premises, reserving a life estate. On that same day, the son served a notice to quit upon plaintiffs, as preliminary to an action of forcible entry and detainer. Plaintiffs brought an action against the mother and the son. The trial court sustained plaintiffs' bill in equity.</li>
+    <li><b>Issue:</b> Was there a contract formed between the plaintiffs and the mother?</li>
+    <li><b>Rule:</b> In a unilateral contract the only acceptance of the offer that is necessary is the performance of the act. In other words the promise becomes binding when the act is performed.</li>
+    <li><b>Conclusion:</b> On appeal, the court affirmed the trial court's judgment. Plaintiffs had accepted the mother's offer by moving to Maine and entering upon the performance of the specified acts, and had continued to perform so far as had been permitted by the mother. The contract between the parties, the performance of which was entered upon by plaintiffs, created an equitable interest in the land in favor of plaintiffs. Finally, the trial court had special statutory jurisdiction to grant relief in cases of trusts.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Petterson v. Pattberg](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  Defendant bond owner was not required to fulfill the terms of a unilateral contract by providing debt forbearance on behalf of plaintiff executrix where he properly revoked his offer prior to plaintiff's performance</li>
+    <li><b>Facts:</b> Executrix sought performance of an agreement concerning a debt with bond owner, which provided for a reduced principal if it was paid off early. The decedent originally, paid bond owner installments of the principal. After several installment periods passed, decedent attempted to relinquish the debt in full with a lump sum payment to bond owner. Decedent went to bond owner's house and called through the door, which was closed, that he had come to pay off the mortgage but was told by the bond owner that he had sold the mortgage, after which, upon the door being opened, decedent made a tender of the cash. Litigation ensued when bond owner refused to accept the sum. The trial court awarded a judgment in favor of executrix, requiring fulfillment of the agreement. The appeal, the trial courts decision was affirmed. The case was appealed to the Court of Appeals of New York.</li>
+    <li><b>Issue:</b> Could the bond owner withdraw his offer to pay debt in lump sum?</li>
+    <li><b>Rule:</b> The offeror may see the approach of the offeree and know that an acceptance is contemplated. If the offeror can say "I revoke" before the offeree accepts, there is no escape from the conclusion that the offer is terminated.</li>
+    <li><b>Conclusion:</b> The Court held that due to the fact that the provisions of the contract were unilateral, the bond owner was rightfully able to withdraw the offer before decedent's act was completed. As a result, plaintiff was required to pay the loan without interest forbearance.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 ---
 
