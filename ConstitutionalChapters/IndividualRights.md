@@ -20,7 +20,7 @@
   - The 5th Amendment does not apply to State Government
     - "Congress shall make no law..."
     - Textual Argument only a few places in reference to the federal government but no intent by framers to cover state's and local law.
-      - See *[Barron v. Maryor and City Council of Baltimore](link)*
+      - See *[Barron v. Maryor and City Council of Baltimore](https://github.com/alexeibex/alexeibex.github.io/blob/master/constitutionallaw.md#case-barron-v-mayor-and-city-council-of-baltimore)*
 
 ### Post Civil War Amendments
 #### Slavery and Individual Rights
@@ -81,13 +81,13 @@
     - Right to migrate to a new state
   - See *[Saenz v. Roe](link)*
 
-
 ### The "Incorporation" of the Bill of Rights Through the Due Process Clause
 - Articulating the case for "selective" incorporation
 - Articulating the case for "total" incorporation
 - Early Battles Through Criminal Prosecution in State Courts
-- Formula to Incorporate Rights
-  - Fundamental Rights - "Principle of justice so rooted in the traditions and conscience of our people as to be ranked as fundamental"
+- Formula to Incorporate Rights through the Due Process Clause
+  - **Fundamental Rights** = "Principle of justice so rooted in the traditions and conscience of our people as to be ranked as fundamental" / "Ordered Liberty"
+- Citique: What does process have to do with "free speech"?
   - Liberty
 - Double Jeopardy
   - See *[Palko v. Connecticut](link)*
@@ -104,8 +104,6 @@
 - Trial By Jury
   - See *[Duncan v. Louisiana](link)*
 - What Rights have been incorporated?
-
-
 
 
 #### Incorporation and the Right to Keep and Bear Arms
@@ -137,4 +135,5 @@
 
 #### 8th Amendment Incorporation
 - See *[Timbs v. Indiana](link)*
-  - Deeply rooted test
+  - 8th Amendment Ban against excessive fines is incorporated
+  - Deeply rooted in traditions & necessary for ordered liberty.

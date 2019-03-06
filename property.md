@@ -1100,14 +1100,33 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
     <li><b>Issue:</b> Did the court err in denying petitioners claim of easement by implication or by necessity over the respondents' properties?</li>
     <li><b>Rule:</b> An easement is a liberty, privilege, or advantage in lands, without profit, and existing distinct from the ownership of the land. With an easement, there are two distinct property interests-the dominant estate, which enjoys the privileges granted by an easement, and the servient estate that permits the exercise of those privileges. An easement can be used only in connection with the real estate to which it belongs.</li>
     <li><b>Conclusion:</b> The petitioners failed to establish a claim for an easement by implication.  While a landlocked parcel may satisfy the necessity element, it is apparent from the amended complaint that the private road the petitioners seek to extend does not and has never extended to the petitioners' properties. They failed to allege that any use by the United States was so obvious, manifest or continuous as to show that it was meant to be permanent.
-
-</li>
+    Reasoning: Easement by necessity requirements: 1. There must have originally been 1 common owner of all the plots; - True here; used to all be owned by US government. 2. That owner must have chopped off into different parcels; AND,- True here; it was chopped into different parcels.3. The parcel is landlocked. - False here! Though the parcel was landlocked today, it was not landlocked when the common owner originally chopped it off! </li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Warsaw v. Chicago Metallic Ceilings Inc. ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> P Warsaw’s 40-foot strip was too small to allow trucks to turn and back into the loading dock without accessing D CMC’s strip. P; attempted to acquire easement but D refused; eventually blocked & built on it after suit commenced.</li>
+    <li><b>Issue:</b> Was there a Prescriptive Easement? Y. Did P have to pay D for it? N.</li>
+    <li><b>Rule:</b> Party claiming prescriptive easement must show use of property;. which has been open, notorious, continuous & adverse, for an uninterrupted period (SoL), Must be a definite & certain line of travel for the statutory period (added for this case!).</li>
+    <li><b>Conclusion:</b> Majority says that req’ing compensation would defeat the purpose of Easement. Majority states that it is fair to grant to P, b/c easements purposes are: a. Reducing litigation, b. Protecting possession, c. Preference for use over disuse of land. Agrees with outcome. a. The D had started building after the law suit began, so he took his chances and P shouldn't have to pay him because of it; here, D should have waited until it ended</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
 
 #### Case: *[Holbrook v. Taylor](Link)*
 
@@ -1124,3 +1143,5 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### HALFWAY - MIDPOINT

@@ -1,6 +1,38 @@
 ## Due Process
+- Natural Law Approach and The Social Contract
+  - Constitution has inherent rights to establish justice to promote the general welfare, to secure the blessings of liberty; and to protect their persons and property from violence.
+    - See *[Calder v. Bull](link)*
+    - See *[Fletcher v. Peck](link)*
+- Transition of Due Process from Process to of Substantive
+  - Police power of the state included regulation of individual use of proeprty that was **affected with a public interest**
+    - See *[Munn v. Illinois](link)*
+  - Corporations as "persons" under the 14th Amendment
+    - See *[Santa Clara County v. Southern Pac. Railroad](link)*
+  - Sustaining a law prohibiting intoxicating bevereges
+    - See *[Mugler v. Kansas](link)*
+  - Finally, invalidation a state law on substantive due process grounds for violating liberty of contract for law requiring selling of insurance by people that live there.
+    - See *[Allgeyer v. Louisiana](link)*
+
 ### Substantive Due Process & Economic Liberties
-- See *[Lochner v. New York](link)*
+- Liberty as a substantive Due Process
+- Methodical Reasoning examining Means & Ends
+  - Liberty = Freedom to enter into Contract
+    - Extension to Employment Contract
+    - Balance against State's Police Power
+      - Must not be an unreasonable, unnecessary and arbitrary interference of the right of the individual
+        - Examination of the ends and means
+          - Health Law (ok) v. Wealth Laws (no)
+    - Anti-Paternalism of Laws against Freedom to Contract and Work.
+      - Court insterting its own ideas against the concensus of the legislature
+    - Health is a valid police powers but not in the case of bakers.
+      - Means of limiting bakers working will improve the baker/ the bread /the community
+        - Slippery slope argument to regulate any professional
+  - Dissent:
+    - Harlan: Ends are reasonable but means are also reasonable in that benefit of the doubt goes to the legislature.
+      - Enacting health law is supported by evidence showing that protecting the health of the workers is a valid means of ensuring health
+    - Holmes: Libertarian in name only, Constitution does not embody any economic theory. Courts job is to examine reasonablness of the police power.
+      - Unless it can be said that a rational and fair man necessarily would admit that the statute proposed would infringe fundamental principels as they have been **understood by the traditions of our people and our law.**
+  - See *[Lochner v. New York](link)*
 
 #### The Meaning and Implication of Lochner
 1. Lochner and the text of the Fourteenth Amendment
@@ -28,6 +60,7 @@
     - Holding that compelling laborers to carry out contracts they otherwise wished to breach violated the 13th Amendment's prohibition on "involuntary servitude"
     - See *[Bailey v. Alabama](link)*
 7. The Economic Climate of the Great Depression: Lochner and The New Deal
+  - Upholding a NY law that set the price of milk to be sold to prevent cut throat competition and price depression.
   - See [Nebbia v. New York](link)*
 
 #### The Demise of Lochner After the New Deal
@@ -39,12 +72,16 @@
 3. The Impact of Nebbia and West Coast Hotel
   - Rejecting a due process challenge to a federal prohibiton of the interstate shipment of "filled milk"
   - **Carolene Products Footnote 4**
-    - Distinguishing cases warranting deference from those in which greater judicial scrutiny might be appropriate.
-  - See [United States v. Carolene Products Co.](link)
+    - Double Standard of Review: Distinguishing cases warranting deference from those in which greater judicial scrutiny might be appropriate.
+    - Rational Basis Test: Courts will generally presume that laws are constitutional/valid but the deference would be replaced with "a more searching judicial inquiry" when it is a law that interferes with individual rights, or a law that restricts the ability of the political process to repeal undesireable legislation or a law that discriminates against a "discrete and insular minority"
+      - See [United States v. Carolene Products Co.](link)
 
 #### Minimum Rationality Review of Economic Legislation
 - Minimum Rationality Review
-  - See *[Williamson v. Lee Optical Co.](link)*
+  - Upholding a statute that prohibited an optician's to fit duplicate lenses without a prescription from an optometrist or an opthemlogist.
+  - Williamson shows that so long as the Court can conceive of some legitimate purpose and so long as the law is reasonable, a law will be upheld
+  - The “day is gone when the Court uses the Due Process Clause to strike down state laws regulatory of business and industrial  conditions, because they may be unwise, improvident, or out of harmony with a particular school of thought.
+    - See *[Williamson v. Lee Optical Co.](link)*
 
 #### Closer Scrutiny of Economic Classifications
 1. Ex Post justifications

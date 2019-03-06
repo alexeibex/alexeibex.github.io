@@ -121,14 +121,210 @@
     - See *[Ardente v Horan](Link)*
 
 
-#### Acceptance by Silence or Partial Performance
+#### Acceptance by Performance & Acceptance by Silence
+
+- Partial Performance
+  - Not a unilateral contract case because partial performance can be acceptance but
+    - Acceptance must be clearly communicated to the offeror
+    - "Upon" objectively indicates a bilateral contract
+    - An act by itself is no indication of an acceptance, does not become acceptance even if motivated by the requisite intent.
+      - Here buying the lumber would have been done anyway, not an overt act of acceptance
+  - See *[White v. Corlies](link)*
+
+
+- Performance Option
+  - Unleess an offer communicates different terms of acceptance, an offeree who begins performance has an option to complete performance according to the terms of the contract. (N/A in White v. Corlies)
+    - Everyone must know acceptance has occurred.
+
+
 - No acceptance by Silence
   - See *[Ducommun v. Johnson](link)*
-- Partial Performance
-  - See *[White v. Corlies](link)*
+
+
 - Restatement §69 Acceptance by silence or exercise of dominion
   - Where an offeree fails to reply to an offer, his silence and inaction operates as an acceptance in the following cases only:
     - Where an offeree takes the benefit of offered services with reasonable opportunity to reject them and reason to know that they were offered with the expectation of compensation
     - Where the oferor has stated or given the offeree reason to understand that assent may be manifested by silence or inaction and the offeree in remaining silent and inactive intends to accept the offer
     - Where because of previous dealings or otherwise it is reasonable that the offeree should notify the oferor if he does not intend to accept.
     - An offeree who does any act inconsistent with the offeror's ownership of offered property is bound in accordance with the offered terms unless they are manifestly unreasonable. But if the act is wrongful as against the offeror it is an acceptance only if ratifed by him.
+- UCC 39 - Mailing of Unordered Merchandise
+
+
+#### Problem 4-11
+- Under Restatement §69
+  - If it is easy to decline the offer, courts will likely say that offeree has to send it back because law imposes a duty
+- Under UCC 39 - Prevention of Impositions and Responsibilites on average persons, discentivize SPAMMING
+  - Happy Birthday Provision
+    - He may treat the merchandise as a gift to him and has right to retain, use, discard, or dispose of it in any manner he sees fit without any obligation whatsover to the sender
+  - What if UPS/FEDEX (not mail)
+
+
+#### Duration of Offers
+- Restatement §36 Methods of Termination of the Power of Acceptance
+  - An offeree's power of acceptance may be terminated by:
+    - rejection or counter-offer by the offeree, or
+    - lapse of time, or
+    - lapse of time, or
+    - revocation by the offeror, or
+    - death or incapacity of the offeror/offeree
+  - In addition an offeree's power of acceptance is terminated by the non-occurrence of any condition of acceptance under the terms of the offer.
+- An offer is rejected when the offeror is justified in inferring from the words or conduct of the offeree that the offeree intends not to accept the offer.
+  - When a reasonable person would believe the offeree does not accept the offer, contract law treats the offeree's decision as a rejection of the offer.
+  - When an offer is rejected, it ceases to exist, and a subsequent attempted acceptance is inoperative to bind the offeror
+- Lapse of Time = "reasonable time"
+  - If the offeror specifies the time an offer remains open, the offeree must accept by the deadline
+  - Examined by taking in all the circumstances and determining what a "reasonable person" would infer as the deadline
+    - Offers during Personal Conversations end at end of conversation.
+    - See *[Akers v. J.B. Sedberry, Inc.](link)*
+- Farnsworth on Rejection
+  - General proposition that once an offer is rejected, offeree cannot go back and accept because the offeror may have relied on the rejection by action or inaction or by merely failing to revoke the offer.
+- Specified Durations
+  - When does the time frame/limit begin?
+  - Where a person uses the post to make an offer, the offer is not made when it is posted, but when it is received.
+    - Contracting parties are present, words spoken by one party must *strike the ear of the other* before there can be *mutual assent*
+      - A concurrence of the minds (knowledge of the offer) required otherwise there is no consideration between parties.
+      - See *[Caldwell v. Cline](links)*
+
+#### Counter Offers
+- Restatement §39(2)
+  - An offeree's power of acceptance is terminated by his making of a counter-offer unless the offeror has manifested a contrary intention or unless the counter offer manifests a contrary intention of the offeree.
+  - A manifestation of intention not to accept an offer is a rejection **unless the oferee manifests an intention to take it under further advisement**
+    - See *[Collins v. Thompson](link)*
+
+#### Revoking an Offer
+  - Revocation occurs when a reasonable person would believe the offeror has withdrawn the offer.
+- Restatement §42:
+  - An offeree's power of acceptance is terminated when the offeree receives from the offeror a manifestation of an intention not to enter into the proposed contract.
+  - Can also be information that makes clear the offer has been withdrawn (Receiving information that the good is already sold)
+  - Revocation must be **received** before the offeree's power of acceptance is terminated
+    - Promise to keep an offer open is a gift promise
+      - The ordinary offer is revocable even though it expressly states the contrary, because the doctrine that an informal agreement is binding as a bargain only if supported by **consideration**
+      - See *[Dickinson v. Dodds](link)*
+
+#### Bars to Recovation - Option Contracts
+- An offer accompanied by some form of consideration, may protect an offeree, by entitling the offeree to treat the offer as irrevocable within specific time constraints.
+- Restatement §82:
+  - An offer is binding as an option contract if:
+    - Is in writing and signed by the offeror, **recites** a purported consideration for the making of the offer, and proposes an exchange on fair terms within a reasonable time; or
+    - is made irrevocable by statute
+- *Consideration and form*
+  - Traditional Common-law device for making a firm offer or option contract are the giving of consideration and the affixing of a seal.
+  - Nominal Consideration: Offers made in consideration of one dollar paid or promised are often irrevocable...
+    - BUT gross disproportion between the payment and the value of the option commonly indicates that the payment was not in fact bargained for but was a mere formality or pretense. In such case there is no consideration.
+    - A payment of one dollar by each party to the other is so obviously not a bargaining transaction that it does not provide even the form of an exchange.
+- Courts interpret the Restatement as a formality and consideration can be nominal and recited not actually recieved.
+  - See *[Marsh v. Lott]
+
+- UCC 2-205 - Firm Offers
+  - An offer by a merchant to buy or sell goods in a signed writing which by its terms gives assurance that it will be held open is not revocable, for lack of consideration, during the time stated or if no time is stated for a reasonable time, but in no event may such period of irrevocability exceed three months...
+    - No consideration required for UCC
+
+
+
+#### Bars to Revocation - Partial Performance
+- Restatement §45: “Where an offer invites an offeree to accept by rendering a performance and does not invite a promissory acceptance, an option contract is created when the offeree **tenders or begins the invited performance or tenders a beginning of it**”
+- Which way does the equity cut?
+  - In a unilateral contract offeree once they begin performance must be given the change to complete the option contract.
+  - In general, offeror can revoke prior to "acceptance"
+  - “Contract law protects an offeree who relies on an offer when the only way to accept requires the offeree to begin performance.”
+    - See *[Brackenbury v. Hodgkin](link)*
+- When does performance begin?
+  - Unilateral K On Steroids
+    - See *[Petterson v. Pattberg]
+
+
+#### Unilateral & Bilateral Promises
+- Unilateral Contract - A promise in exchange for an act
+- Bilateral Contract - A promise in exchange for a promise
+- “The offeree can accept only by following the offeror’s prescription. ”
+  - See *[Davis v. Jacoby](link)
+    - If Unilateral Promise - π would lose since death would have terminated ability for acceptance
+    - If Bilateral Promise - π would win because performance would have begun as soon as promise was given from both parties.
+    - Critique: Love and Affection of familial relationship?
+
+#### Duty of the Offeree of aa Unilateral Contract - Notice to the Offeror
+- The offeror expects or requires notice of acceptance apart from notice of the performance
+  - See *[Carlill v. Carbolic Smoke](link)*
+- Restatement §54
+  - (1) Contract is formed by performance without any notice **unless** the offer requests a notice.
+  - (2) The offeror is discharged if the offeree has reason to know that the offeror has no adequate means of learning of the performance promptly, unless the oferee "exercises reasonable diligence" to notify the offeror, or the offeror learns of the performance within a reasonable time" or the offeror indicates that notification of acceptance is not required.
+- UCC 2-206(2)
+  - Where the beginning of a requested performance is a reasonble mode of acceptance an offeror who is not notified of acceptance within a reasonble time may treat the offer as having lapsed before acceptance.
+- See *[Drennan v. Star Paving Co.](link)*
+  - No Bargain for exchange
+  - No Option with no consideration
+  - Bilateral K Promise
+    - Reasonable reliance resulting in a foreseeable prejudicial change in position affords a compelling basis also for implying a subsidiary promise not to revoke an offer for a bilateral contract = to part performance = consideration
+      - Absence of Consideration not a factor.
+        - If offeree knew or had reason to believe that offeror‘s bid was in error, he could not justifiably rely on it and it is unenforceable
+        - Mistakes fall on party **that cause them**
+  - Critique: Subcontractors are bound to the general, but the general is not bound to the subcontractor, creating incentives for the general contractor to act unethically:
+    - Bid shopping: using the lowest bid to negotiate lower bids from oth- ers.
+    - Bid chopping: pressuring the subcontractor to make a lower bid.
+    - Bid peddling: a subcontractor waits until other bids are in and then undercutting them, avoiding the cost of estimating his own bid.
+
+- Restatement §87(2)
+  - An offer which the offeror should reasonably expect to induce action or forbearance of a substantial character on the part of the offeree before acceptance and which does induce such action or forbearance is binding as an option contract to the extent necessary to avoid injustice.
+  - An option contract is an offer in which the offeror promises to keep the offer open for a certain period of time. For instance, a seller grants a buyer the option to buy his house for $1,000 anytime during the next month.
+  - The distinction between §§ 45 and 87 is that an offeree who has begun performance can recover expectation damages, while an offeree who has not begun performance can only recover reliance damages.
+- Reliance in the Bargaining Context
+  - See *[Hoffman v. Red Owl Stores, Inc](link)*
+
+
+
+
+### Bargaining at a Distance (Mail)
+- MailBox Rule
+  - Traditional Acceptance Rule - The contract has been deemed to be completed as soon as the letter of acceptance has been put into the post-office duly addressed
+  - Protects the Offeree over the offeror
+    - See *[Adams v Lindsell](link)*
+      - Offeree cannot revoke acceptance after mailing but before receipt either (this would be unfair and allow speculation by offeree)
+      - Offeree cannot revoke acceptance by intercepting the acceptance before receipt (but, practically, offeror cannot enforce acceptance he doesn‘t know about)
+
+- Restatment §40
+  - Whichever notice is given first to offeror takes precedent in the event of 2 contradictory notices.
+
+
+- “The offeror can always expressly condition the contract on his receipt of an acceptance and, should he fail to do so, the law should not afford him this advantage”
+  - See *[Morrison v. Thoelke](link)*
+
+- Electronic Contract Issues
+- Contract Formation Revisited
+  - Generally subjects believed formation happened when parties signed documents or paid for the goods, not when they communicated assent verbally
+  - No Coherent rules on electronic transactions
+    - Utilization of paper rules where applicable
+
+### Agreements to Agree and Related Matters
+- Preliminary negotiations that eventually lead to a final contract
+  - If parties agree to everything prior to contract formation have they in effect already created a contract
+    - Written K acts as a written formality/memorium on contract.
+- The entire document and relevant circumstances surrounding its adoption must be considered in making a determination of the parties’ intention.
+  - Relevant Circumstances include:
+    - Any Preparation
+  - See *[Arnold Palmer Golf Co. v. Fuqua Indus., Inc.](link)*
+- Restatement §27 - Existance of Contract Where Written Memorial is Contemplated
+  - Factors for determining the formation of a contract include:
+    - the extent to which express agreement has been reached on all the terms to be included,
+    - whether the contract is the type usually put in writing,
+    - whether it needs a formal writing for its full expression,
+    - whether it has few or many details,
+    - whether the amount involved is large or small,...
+    - and whether either party takes any action in preparation for performance during the negotiations
+
+#### Letters of Intent
+- Where parties make a pact subject to a later, definitive agreement, they have manifested an objective intent not to be bound: Where no ambiguity exists in the language, intent will be determined solely from that language
+  - See *[Empro Manufacturing Co., Inc. v. Ball-Co Manufacturing, Inc.](Link)*
+
+- It is rightfully well settled that a mere **agreement to agree**, in which a material term is left for future negotiations, is **unenforceable**
+- See *[Joseph Martin, Jr. Delicatessen, Inc. v. Schumacher](Link)*
+  - Dissent: Reasonable rent should be used in liue of material terms left for future negotiations.
+- UCC 2-204(3)
+  - Even though one or more terms are left open a contract for sale does not fail for indefiniteness if the parties have intended to make a contract and there is a reasonably certain basis for giving an appropriate remedy.
+
+
+### Limits on the Scope of Traditional Offer-Acceptance Analysis Summary
+#### Manifestation of Assent Without Identifiable Sequence in Offer and Acceptance
+- No doubt in American Law that a contract can be formed without an identifiable sequence of offer and acceptance
+- Manifestation of Assent exchanged simultaneously
+- Long negotiations making identification of offer and acceptance impossible
+- Assent manifested gradually

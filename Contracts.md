@@ -2228,7 +2228,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b> </li>
+    <li><b>Overview:</b>Builder contracting for construction of offices, after negotiations, bought lumber</li>
     <li><b>Facts:</b> ∆ furnished the π with specifications for fitting up a suit of offices and requested him to make an estimate of the cost of doing the work. On Sept 28th left the estimate with the ∆ and they were to consider upon it and inform the π of their conclusions. On Same day ∆ made a change in their specifications and sent a copy of the same now changed spec to the π for his assent under the estimate. π asserted by signing the same and returning it to the ∆. ∆ Book-keeper wrote the π "Upon an agreement to finish the fitting up of offices 57 Broadway in two weeks from date, you can begin at once" No reply to the note was ever made</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b> Silence and inaction do not amount to an acceptance of an offer, generally speaking, mere silence or failure to reject an offer when it is made does not consitute an acceptance.</li>
@@ -2263,7 +2263,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Evidence showed individual defendant rejected plaintiffs' offers to resign and that the offers expired at the end of the meeting in which they were given; thus, their termination was a breach of their contracts.</li>
-    <li><b>Facts:</b> Akers and Whitsitt (Plaintiffs) worked for defendant corporation under separate employment contracts. In a meeting with Mrs. Sedberry (individual Defendant and owner of defendant corporation), plaintiffs offered their resignations. Individual defendant did not accept the offer but proceeded with the meeting. Four days later, individual defendant notified plaintiffs that she accepted their offers of resignation. Individual defendant argued she had not refused the offers at the meeting and that they had not expired before her acceptance. </li>
+    <li><b>Facts:</b> Akers and Whitsitt (Plaintiffs) worked for defendant corporation under separate employment contracts. In a meeting with Mrs. Sedberry, plaintiffs offered their resignations. Individual defendant did not accept the offer but proceeded with the meeting. Four days later, individual defendant notified plaintiffs that she accepted their offers of resignation. Individual defendant argued she had not refused the offers at the meeting and that they had not expired before her acceptance. </li>
     <li><b>Issue:</b> Were offers for resignation—ignored during a meeting and unanswered for four days—still valid at defendant’s time of acceptance?</li>
     <li><b>Rule:</b> An offer is rejected when the offeror infers from words or conduct of the offeree that the offeree does not intend to accept or take the offer under further advisement.</li>
     <li><b>Conclusion:</b> “The only offer by Akers and Whitsitt to resign was the offer made by them in their conversation with Mrs. Sedberry. They made that offer at the outset, and on the evidence it seems clear that they expected an answer at once. Certainly, there is nothing in the evidence to show that they intended the offer to continue beyond that conversation; and on the above authorities, we think the offer did not continue beyond that meeting. Indeed, it did not last that long, in our opinion, but was terminated by Mrs. Sedberry's rejection of it very early in that meeting. While she did not expressly reject it, and while she may have intended, as she says, to take the offer under consideration, she did not disclose such an intent to complainants; but, by her conduct, led them to believe she rejected the offer, brushed it aside, and proceeded with the discussion as if it had not been made.”</li>
@@ -2291,11 +2291,11 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
-#### Case: *[Dicinson v. Dodds](Link)*
+#### Case: *[Dickinson v. Dodds](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b> Court did not consider objective manifestation of revocation—they knew, however, that Dodds knew about the revocation</li>
     <li><b>Facts:</b> D agreed to sell real property to P (in writing), allowing P a certain amount of time in which to accept.  P accepted within the specified period, but D had already sold the property to someone else</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
@@ -2313,8 +2313,8 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b> The optionee was not entitled to specific performance of a contract for the purchase of real estate because although 25 cents was sufficient for an option on the property, the optionee failed tender the full purchase price for the land.</li>
-    <li><b>Facts:</b> In consideration of 25 cents, the optionee was given an option to purchase, for the sum of $ 100,000, certain real estate owned by the optionor. The optionee was given until June 1 to exercise the option. On June 1, the optionee exercised the right of extension given in the option. The next day the optionor revoked the option. On June 29, the optionee left a letter at the optionor's residence indicating his tender of $ 30,000 and filed an action for specific performance of the option contract for the purchase of real estate.  The Superior Court issued judgment for the optionor. The optionee appealed the decision of the Superior Court.</li>
+    <li><b>Overview:</b> For an option contract the optionee was not entitled to specific performance of a contract for the purchase of real estate because although 25 cents was sufficient for an option on the property, the optionee failed tender the full purchase price for the land.</li>
+    <li><b>Facts:</b> In consideration of 25 cents, the optionee was given an option to purchase, for the sum of $ 100,000, certain real estate owned by the optionor. The optionee was given until June 1 to exercise the option. On June 1, the optionee exercised the right of extension given in the option. The next day the optionor revoked the option. On June 29, the optionee left a letter at the optionor's residence indicating his tender of $30,000 and filed an action for specific performance of the option contract for the purchase of real estate. The Superior Court issued judgment for the optionor. The optionee appealed the decision of the Superior Court.</li>
     <li><b>Issue:</b> Is a small amount consideration adequate for an option contract to be binding?</li>
     <li><b>Rule:</b> Any money consideration, however small, paid and received for an option to purchase property at its adequate value is binding upon the seller thereof for the time specified therein, and is irrevocable for want of its adequacy.</li>
     <li><b>Conclusion:</b> The court affirmed the judgment for the optionor. The trial court erroneously concluded that 25 cents was insufficient consideration for the option contract because any consideration paid and received for an option to purchase property at its adequate value was binding upon the seller for the time specified therein, and was irrevocable for want of its adequacy. Thus, the optionor's attempted revocation of the option failed. However, judgment was still proper for the optionor because the optionee did not comply with the terms of acceptance for purchase of the land.</li>
@@ -2375,7 +2375,98 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+
+#### Case: *[Drennan v. Star Paving Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In a contractor's action to recover damages caused by a subcontractor's refusal to perform paving work according to its bid, the contractor was properly awarded damages because the subcontractor's mistake caused the resulting loss.</li>
+    <li><b>Facts:</b>π was submitting a contracting bid for the work on Monte Vista School Job. Customary in the area for general contractors to reeive the bids of subcontractors by telephone on the day set for the bidding and to rely on the in computing their own bids. ∆ called and gae bid of $7,131.60 for paving work. π computed his own bid accordingly and submitted it with ∆ name and bid. π proved to be the lowest bid and was awarded the contract. Trial court found evidence that ∆ made a definite offer to do paving work and π relied on ∆ bid in computing his own bid. Entered judgement for π. ∆ Claims no enforceable contract between parties since it made a revocable offer and revoked it before π communicated his acceptance to ∆. π contends that herelied to his detriment on the offer and the ∆ must therefore answer in damages for refusal to perform</li>
+    <li><b>Issue:</b>Did π's reliance make the ∆ offer irrevocable?</li>
+    <li><b>Rule:</b> A promise which the promisor should reasonbly expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise.</li>
+    <li><b>Conclusion:</b>∆ in executing the agreement, although not supported by consideration, made a promise which they should have reasoanbly expected would induce π to submit a bid based thereon to the Government, that such a promise induced action and the injustice can be avoided only be enforcement ofthe promise. Also mistake not an excuse, π had no reason to know that ∆ had made a mistake in submitting its bid, the loss resulting from the mistake should fall on the party who caused it.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Bargaining at a Distance
+
+
+#### Case: *[Adams v. Lindsell](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Action for non-delivery of wool according to an agreement</li>
+    <li><b>Facts:</b> ∆ misdirected</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Agreements to Agree
+
+#### Case: *[Arnold Palmer Golf Co. v. Fuqua Indus., Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Whether memorandum of intent was intended as contract was question of fact requiring trier of fact to consider entire document and relevant circumstances surrounding its adoption; it could not be decided on motion for summary judgment.</li>
+    <li><b>Facts:</b> A document captioned "Memorandum of Intent" and signed by both parties was not a contract because it was evidence of intent of parties not to be contractually bound. Palmer engaged other companies to product its products. Palmer executive vice president and Fuqua's President met in New York to consider a possible business relationship. Culmination of discussion was a 6 page document as a Memorandum of Intent. Contained detailed statements concerning the form of the combination, the manner in which the business would be conducted, the loans that Fuqua agreed to make to Palmer, and the warranties and covenants to be contained in the definitive agreement. Memo signed by Palmer and by the President of Fuqua. Later Chairman of Fuqua's Board of Directors said he did not want to go through with the Palmer deal, transaction was then terminated.</li>
+    <li><b>Issue:</b>Whether the parties intended to enter into a binding agreement when they signed the memo of intent and whether the district court erred in determining the question on summary judgement?</li>
+    <li><b>Rule:</b> The decision whether the parties intended to enter a contract must be based upon an evaluation of the circumstances surrounding the parties discussion.</li>
+    <li><b>Conclusion:</b> Proper course is to remand the case to the district court because the issue of the parties' intention to be bound is a propert one for resolution by the trier of fact. Court found an extensive document that appears to reflect all essential terms concerning the transfer of Arnold Palmer stock to Fugua in exchange for all outstanding stock in fernquest and Johnson</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Empro Manufacturing Co., Inc. v. Ball-Co Manufacturing, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Neither the text nor the structure of the letter of intent suggested that it was to be a one-sided commitment, an option in buyer's favor binding only seller. Judgment dismissing buyer's complaint for failure to state a claim was affirmed.</li>
+    <li><b>Facts:</b> Plaintiff buyer sued defendant seller claiming that a letter of intent to purchase defendant's assets signed by the parties obliged defendant to sell only to plaintiff. Plaintiff sought a temporary restraining order. The district judge dismissed the complaint for failure to state a claim on which relief may be granted. The district court concluded that the statement, appearing twice in the letter, that the agreement was "subject to" the execution of a definitive contract meant that the letter had no independent force. </li>
+    <li><b>Issue:</b> Is a letter of intent binding if it conditions the execution of a formal agreement?</li>
+    <li><b>Rule:</b> If intent were wholly subjective there would be no parol evidence rule, no contract case could be decided without a jury trial, and no one could know the effect of a commercial transaction until years after the documents were inked. That would be a devastating blow to business. Contract law gives effect to the parties' wishes, but they must express these openly. Put differently, "intent" in contract law is objective rather than subjective. As a matter of law parties who make their pact "subject to" a later definitive agreement manifest an objective intent not to be bound, which under the parol evidence rule becomes the definitive intent even if one party later says that the true intent was different. Intent must be determined solely from the language used when no ambiguity in its terms exists. Parties may decide for themselves whether the results of preliminary negotiations bind them, but they do this through their words.</li>
+    <li><b>Conclusion:</b> The court noted that plaintiff insulated itself from binding effect by listing, among the conditions to which the deal was "subject," the approval of plaintiff's shareholders and board of directors. Plaintiff even took care to require the return of its earnest money without set off, in the event the transaction was not closed, although the seller usually got to keep the earnest money if the buyer changed its mind. Neither the text nor the structure of the letter suggested that it was to be a one-sided commitment, an option in plaintiff's favor binding only defendant.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Joseph Martin, Jr. Delicatessen, Inc. v. Schumacher](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In plaintiff's action for specific performance to renew a lease agreement, the renewal clause was merely an agreement to agree in which a material term was left for future negotiations and was therefore unenforceable.</li>
+    <li><b>Facts:</b> Defendant leased a retail location to the plaintiff for a five-year term, on a graduated rent scale. The lease agreement contained a renewal clause, which provided for future rent "to be agreed upon." Plaintiff wanted to renew the lease, but the landlord would not agree upon a reasonable rent. Plaintiff sued for specific performance, to compel the landlord to extend the lease at a reasonable rate. The trial court ruled in the defendant's favor, and found that there was no definite agreement to renew within the parties' contract if the parties could not agree upon the terms. The plaintiff appealed and prevailed at the appellate level. The defendant appealed to the Court of Appeals.</li>
+    <li><b>Issue:</b> Could the contract between the parties could be enforced against either party where it failed to specify a lease rate?</li>
+    <li><b>Rule:</b> In order to enforce a promise, a court must be able to sufficiently determine that it is certain and specific as to what the original promise was. Otherwise, a court, in intervening, would be imposing its own conception of what the parties should or might have undertaken on the parties, rather than confining itself to the implementation of a bargain to which they have mutually committed themselves.</li>
+    <li><b>Conclusion:</b> On appeal, the court reversed the lower court's ruling, which held that the term was enforceable. The court held that it was well settled in the common law of contracts that a mere agreement to agree, in which a material term is left for future negotiations, was unenforceable, especially if the term at issue was the amount to be paid for the sale or lease of real property.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
 ---
+
 
 
 
