@@ -76,7 +76,6 @@
     - Declaring unconstitutional commerce clause to regulate firearms by schools
       - See *[United States v. Lopez](link)*
     - Declaring unconstitutional commerce clause to regulate violence against women
-      - See *[United States v. Morrison]
 - 3 Major Questions:
   - What is Commerce?
     - One stage of business or all aspects of business and market?
