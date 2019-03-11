@@ -1,4 +1,5 @@
 ## Agreements & Promises
+- **Agreement in a manifestation of mututal assent on the part of two or more parties.**
 
 - Contract = **Agreement** + [Consideration](link)
 
@@ -15,15 +16,15 @@
   - Objective Standard: Protects the reliance of parties that reasonably rely on conduct/words.
     - See *[Embry v. Hargadine, McKittrick Dry Goods Co.](link)*
 
-
-
 - Objective Intent
+  - Generally Contract Law Enforces the apparent, not necessiarily real intention of the promisor
   - Manifestation of Intent: Must look to the outward expression of a person as manifesting his intention rather than to his secret and unexpressed intention.
     - Conduct gave rise to a reasonable interpretation that there was no intent to sell.
     - Even with very little reliance, Contract was considered valid
       - Whittier: To hold one for the merely careless use of language which causes no damage whatever to the party to whom the language is addressed is certainly inconsistent with principles generally applied.
       - Must look to the outward expression of a person as manifesting his intention rather than to his secret and unexpressed intention.
-      - See *[Lucy v. Zehmer](link)*
+      - Belief on the promise must also be **reasonable** & **honest**
+        - See *[Lucy v. Zehmer](link)*
 
 
 - Agreement between Family Members
@@ -61,18 +62,24 @@
 
 
 ### The Offer
+- General approach is to look for 1 form of communication that = offer and another that = an acceptance
+- **Offer** + **Acceptance** = **Agreement**
 #### Corbin on Contracts
   - Offer is an expression by one party of assent to certain definite terms, provided that the other party involved in the bargaining transaction will likewise express assent to the same terms.
     - Contract law must determine whether a reasonable person, acquainted with all the circumstances, would believe that the author of the communication alleged to be an offer intended to be bound upon assent(acceptance) by the other party.
+  - Note: Offer = "Expression" of assent does not have to be an actual assent
 
 #### Unilateral Offers
 - **Where the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, acceptance of which will complete the contract.**
 - Store intended to be held to the offer
   - Objective theory of legitimate offer? Examine Circumstances
     - Attmpting to draw women into the store to shop
+    - One ad was considered too "speculative"
   - See *[Lefkowitz v. Great Minneapolis Surplus Store, Inc.](link)*
 
+
 #### Limits on Unilateral Offers
+- Generally ads are generally not considered unilateral contracts because advertiser does not seek to be bound by any reader but instead is merely inviting reader to come negotiate.
 - Advertisements are generally invitations. Targeted to mass of individuals. Generally stores do not have enough product for "everyone"
 - Considered invitations to protect merchants
   - See *[Ford Motor Credit Co. v. Russell](link)*
@@ -104,7 +111,9 @@
   - 93 Rock Tattoo on Forehead
 
 
-#### Acceptance of an Offer
+### Acceptance of an Offer
+- Acceptance of an offer is a **manifestation** of assent to terms thereof made by the offeree in a manner invited or required by the offer.
+
 - Uniform Commercial Code §2-206(1)(a)
   - Unless otherwise unambiguously indicated by the language or circumstances
     - **an offer to make a contract shall be construed as inviting acceptance in any *manner and by any medium* reasonable in the circumstances**
@@ -114,12 +123,12 @@
 
 #### Qualified Acceptance & Manifestations of Acceptance
 - Conditions on an agreement are considered qualified agreements and are not agreements at all.
-- Offer is a manifestation of an intent to enter into a legal agreement.
+- Offer is a **manifestation** of an intent to enter into a legal agreement.
 - “We must be concerned only with the language actually used, not the language the offeree thought he was using or intended to use.”
 - Mirror Image Rule - **Acceptance must mirror the offer that was made otherwise becomes a new offer.**
   - Exception: Counter Inquiry - Acceptance may be valid despite conditional language if the acceptance is clearly indpendent of the condition.
+  - Qualified acceptance is no acceptance at all
     - See *[Ardente v Horan](Link)*
-
 
 #### Acceptance by Performance & Acceptance by Silence
 
@@ -137,9 +146,13 @@
     - Everyone must know acceptance has occurred.
 
 
-- No acceptance by Silence
+- General Rule of No acceptance by Silence
   - See *[Ducommun v. Johnson](link)*
-
+- Exception to the Silence rule and constitutes acceptance when one has reason to know other party expects payment/performance and silent party takes the benefit of the service with a reasonable opportunity to stop the performing party.
+  - Restatement 69(2)
+    - Offeree is bound to an offer when she does not act inconsistent with the offeror's ownership of offered property.
+    - Federal Law now declares the mailing of goods to be an unfair trade practice and is equivilent to a gift.
+      - UCC 39 - Mailing of Unordered Merchandise
 
 - Restatement §69 Acceptance by silence or exercise of dominion
   - Where an offeree fails to reply to an offer, his silence and inaction operates as an acceptance in the following cases only:
@@ -147,7 +160,7 @@
     - Where the oferor has stated or given the offeree reason to understand that assent may be manifested by silence or inaction and the offeree in remaining silent and inactive intends to accept the offer
     - Where because of previous dealings or otherwise it is reasonable that the offeree should notify the oferor if he does not intend to accept.
     - An offeree who does any act inconsistent with the offeror's ownership of offered property is bound in accordance with the offered terms unless they are manifestly unreasonable. But if the act is wrongful as against the offeror it is an acceptance only if ratifed by him.
-- UCC 39 - Mailing of Unordered Merchandise
+
 
 
 #### Problem 4-11
@@ -158,6 +171,17 @@
     - He may treat the merchandise as a gift to him and has right to retain, use, discard, or dispose of it in any manner he sees fit without any obligation whatsover to the sender
   - What if UPS/FEDEX (not mail)
 
+
+#### Offeror's Power to Prescribe Terms of Offer
+- Offeror can set any price and terms which the offeree must accept in order for there to be a contract
+  - Offeree can always reject and counter the offer
+- Offeror can also prescribe terms concerning the manner of acceptance of an offer.
+  - Prescriptions = Terms offeree must follow to form a K
+  - Suggestions = Terms in the offer that offeree does not have to comply with to accept.
+
+#### Offers for Unilateral and Bilateral Contracts
+- Offers can prescribe either a return promise as an acceptance or a return performance as an acceptance.
+  - See *[Davis v. Jacoby](link)
 
 #### Duration of Offers
 - Restatement §36 Methods of Termination of the Power of Acceptance
@@ -175,7 +199,8 @@
   - If the offeror specifies the time an offer remains open, the offeree must accept by the deadline
   - Examined by taking in all the circumstances and determining what a "reasonable person" would infer as the deadline
     - Offers during Personal Conversations end at end of conversation.
-    - See *[Akers v. J.B. Sedberry, Inc.](link)*
+    - An Offer is rejected when the offeror is justified in inferring from words or conduct of the offeree that the offeree intends not to accept the offer.
+      - See *[Akers v. J.B. Sedberry, Inc.](link)*
 - Farnsworth on Rejection
   - General proposition that once an offer is rejected, offeree cannot go back and accept because the offeror may have relied on the rejection by action or inaction or by merely failing to revoke the offer.
 - Specified Durations
@@ -328,3 +353,13 @@
 - Manifestation of Assent exchanged simultaneously
 - Long negotiations making identification of offer and acceptance impossible
 - Assent manifested gradually
+
+
+### Contract Formation in the Form of Contract Setting
+- UCC 2-204(2)
+  - An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.
+
+- Routes of Contract Formation
+  - 4 Distinct Routes
+    - Route A: Closing a contract via a "definite and seasonable expression of acceptance"
+  - See *[Stemcor USA, Inc. v. Trident Steel Corp](link)*

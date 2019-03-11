@@ -2464,6 +2464,24 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Case: *[Stemcor USA, Inc. v. Trident Steel Corp. ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> No valid agreement to arbitrate under 9 U.S.C.S. § 2 of the Federal Arbitration Act existed between a seller and a buyer of steel casings; an arbitration clause contained in the acknowledgement forms that the seller used to confirm the buyer's purchase orders did not become part of the parties' contracts under N.Y. U.C.C. Law § 2-207.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
 
 ---
 

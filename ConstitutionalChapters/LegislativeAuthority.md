@@ -149,3 +149,85 @@
   - See *[West Coast Hotel Co. v. Parish](link)*
 - Upholding Federal Steel Regulations
   - See *[NLRB v. Jones  & Laughlin Steel Corp.](link)*
+
+#### Key Decisions Changing Commerce Clause Doctrine
+- 3 Key Decisons marked the change from previous Commerce Clause Doctrine overruling previous decisions and expanding commerce clause.
+  - Not one federal law was deemed unconstitutional until 1995
+    - Expanding Commerce to include interstate activity and upholding Federal Steel Regulations
+    - Commerce did not stop at just production
+      - See *[NLRB v. Jones  & Laughlin Steel Corp.](link)*
+    - Upholding an act that prevented shipment of goods made by people making less than federal minimum wage
+    - Departing from all aspects of previous commerce doctrine
+    - Overruling Hammer v. Daghenhart and rejecting the 10th Amendment Argument
+      - See *[United States v. Darby](link)*
+    - Upholding federal law to prohibit wheat farmer from growing excess amount of wheat even though it was not sold at market
+    - Cumulative Effect of wheat on the national market would have a substantial effect on interstate commerce.
+      - See *[Wickard v. Filburn](link)*
+
+#### The Test for Commerce Clause after 1937
+- Commerce no longer examined each aspect of business instead Congress could control all aspects of business.
+- No longer distinguish between direct and indirect effects and instead examined cumulative effects on interstate commerce.
+- 10th Amendment no longer restricted Congress, instead so long as commerce was interpreted within scope of Congress's power law would be upheld.
+- Substantial effect even removed and instead replaced with **a rational basis examination**
+  - Allowed for the adoption of 3 types of laws under commerce clause
+    - Regulatory Laws
+    - Civil Rights Laws
+    - Criminal Laws
+
+
+#### Regulatory Laws under the Commerce Clause
+- Facilitated the expansion of Federal Adminstrative and Regulatory Agencies and their Scope of Authority.
+  - Regulation of Stocks and Intangibles based on Commerce Power
+  - Regulation of purely intrastate activity including all aspects of business so long as rational basis for impact on interstate activity.
+    - Upholding the federal regulation to restore land after strip mining under Federal act
+      - See *[Hodel v. Virginia Surface Mining and Reclamation Association](link)*
+    - Upholding FDA authority to impose labeling requirements on things that have been a part of interstate commerce.
+      - See *[United States v. Sullivan](link)*
+
+#### Civil Rights Laws under the Commerce Clause
+- Civil Rights Act enacted under the Commerce Clause Power
+  - 14th Amendment only allows regulation of Government against conduct
+    - Commerce Power allows for regulation of conduct outside that of federal government (Private Discrimination)
+      - Upholding Civil Rights Act prohibition of discrimination of places of public accomodation
+        - Examined: Rational basis for finding racial discrimination by motels affected commerce
+          - If it has such basis whether means selected are reasonable and appropriate
+          - See [Heart of Atlanta Motel Inc. v. United States]
+      - Upholding Civil Rights Act Prohibition of discrimination to Small Buisnesses, cumulatively had an impact on interstate commerce by inhibiting travel.
+        - Examined: Interstate connections to restaurant, like meat supplied
+        - Broad and Sweeping Power under the Commerce Clause
+      - See *[Katzenbach v. McClung](link)*
+
+#### Criminal Laws under the Commerce Clause
+- Upholding Federal Criminal Laws under the commerce clause against intrastate loan sharking activity
+  - Court: Rational basis to believe that intrastate loan sharking had a sufficient effect on interstate commerce.
+    - See *[Perez v. United States](link)*
+
+#### The Commerce Clause After 1995 and United States v. Lopez
+- Court began restricting expansivness of Commerce Clause.
+  - Court finding relationship between Federal Gun Control by Schools and Commerce was **too tangential**
+    - See *[United States v. Lopez](link)*
+  - Court finding that Federal Cause of Action for Violence against Women was too tangential to Commerce
+    - See *[United States v. Morrison](link)*
+  - Court further restricted, Congress can regulate activity but not inactivity
+    - See *[NFIB v. Sebelius](link)*
+
+#### Test under Untied States v. Lopez
+- Examining History of Cases, Court found 3 types of Commerce that can be regulated
+  - Regulate the use of channels of interstate commerce (Heart of Atlanta)
+  - To regulate and protect the instrumentalities of commerce
+    - Includes power to regulate persons and things (Shrevport Cases)
+  - Activities with Substantial Relation to interstate commerce
+    - Unclear if **Affect v. Substantially Affect**
+      - Restrictive Approach of Substantially Affect Preferred
+        - Rejected Claim that gun violence substantially affected interstate commerce
+- Test then reaffirmed under Morrison
+  - Violence against women not seen as having a Substantial effect on interstate commerce
+  - Congress cannot regulate noneconomic violent activity based on a cumulative substantial effect on interstate commerce
+- Court still upholds some forms of Congressional regulation of Interstate Commerce
+  - Upholding federal regulation of homegrown marijuana based on substantial effect test
+    - See *[Gonzales v. Raich](link)*
+- Court Rejecting Inactivity
+  - Rejecting Congress's ability to compel individuals based on inactivity
+  - See *[NFIB v. Sebelius](link)*
+
+### The Taxing and Spending Power

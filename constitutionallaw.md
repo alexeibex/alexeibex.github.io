@@ -2842,3 +2842,89 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Substantive Due Process and Privacy
+
+#### Case: *[Meyer v. Nebraska](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A Nebraska law that prohibited teaching foreign languages to children who had not completed the eighth grade, as an exercise of police power, infringed upon parents' liberty to control their child's education as protected by the Fourteenth Amendment.</li>
+    <li><b>Facts:</b> Plaintiff Meyer, a teacher, while working in a parochial school, was convicted for teaching the German language to a 10-year old child who had not successfully passed the eighth grade, in violation of 1919 Neb. Laws ch. 249—a statute that prohibited teaching of languages other than English to children who had not passed the eighth grade. The state supreme court had held that the statute was a valid exercise of the State's police power. Thereafter, Meyer appealed.</li>
+    <li><b>Issue:</b> Was the statute a valid exercise of the State's police power?</li>
+    <li><b>Rule:</b> The liberty guaranteed under U.S. Const. amend. XIV denotes not merely freedom from bodily restraint but also the right of the individual to contract, to engage in any of the common occupations of life, to acquire useful knowledge, to marry, establish a home and bring up children, to worship God according to the dictates of his own conscience, and generally to enjoy those privileges long recognized at common law as essential to the orderly pursuit of happiness by free men.</li>
+    <li><b>Conclusion:</b> The Court held that the statute was arbitrary and without reasonable relation to any legitimate State goal. The Court further held that the liberty guaranteed by U.S. Const. amend. XIV protected the teacher's right to teach and the right of parents to engage the teacher in educating their children. According to the Court, education and acquisition of knowledge were matters of supreme importance that should be diligently promoted. As such, the State could not, under the guise of exercising its police power, interfere with such guaranteed liberty interests. The Court found that, by the statute in question, the legislature was attempting to materially interfere with the calling of modern language teachers, with the opportunities of students to acquire knowledge, and with the power of parents to control the education of their own children. Thus, the Court ruled that Meyer’s conviction was based on an unconstitutional statute.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Pierce v. Society of Sisters ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An act that mandated children's attendance at public schools unreasonably interfered with the liberty of parents and guardians to direct the education of their children and with the business interests of private schools threatened with destruction.</li>
+    <li><b>Facts:</b> Two private primary schools, Society of Sisters and Hill Military Academy filed actions against the Governor of Oregon and other state officials (“appellants”) challenging the constitutionality of the Compulsory Education Act (Act) under U.S. Const. amend. XIV and seeking to enjoin its enforcement. The Act mandated that all normal children aged 8 to 16 years old must attend public school. The schools asserted that their enrollments were declining as a result of the Act. The district court entered an order enjoining the State from enforcing the Act and the State sought review in consolidated appeals. It asserted that since the schools were corporations, it had no amend. XIV rights.</li>
+    <li><b>Issue:</b> Did the Compulsory Education Act violate U.S. Const. amend. XIV?</li>
+    <li><b>Rule:</b> Legislation may not unreasonably interfere with the liberty of parents and guardians to direct the upbringing and education of children under their control. Rights guaranteed by the U.S. Constitution may not be abridged by legislation which has no reasonable relation to some purpose within the competency of the state.</li>
+    <li><b>Conclusion:</b> The Court ruled that the inevitable practical result of enforcing the Act was the destruction of the primary schools and perhaps all other private primary schools for normal children within the state. According to the Court, the Act unreasonably interfered with the liberty of parents and guardians to direct the upbringing and education of their children. The Court further held that although the schools were corporations, they could claim constitutional protection for their business and property. The Court noted that the corporations sought protection against a present and real threat of injury from the arbitrary, unreasonable, and unlawful interference with their patrons and injunctive relief was proper.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Skinner v. Oklahoma](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Oklahoma Habitual Criminal Sterilization Act violated the equal protection clause because it laid an unequal hand on those who had committed intrinsically the same offense, larceny and embezzlement, by sterilizing one and not the other.</li>
+    <li><b>Facts:</b> Defendant, Skinner, was convicted of more than two felonies and, under the Habitual Criminal Sterilization Act (Act), was ordered to be rendered sterile. Skinner claimed that the Act violated the Fourteenth Amendment. On appeal, the Oklahoma Supreme Court affirmed the order that the operation be performed. Defendant was granted certiorari.</li>
+    <li><b>Issue:</b> Does the Habitual Criminal Sterilization Act violate the Fourteenth Amendment of the U.S. Constitution?</li>
+    <li><b>Rule:</b> Strict scrutiny of the classification which a state makes in a sterilization law is essential, lest unwittingly, or otherwise, invidious discriminations are made against groups or types of individuals in violation of the constitutional guaranty of just and equal laws. The guaranty of equal protection of the laws is a pledge of the protection of equal laws. When the law lays an unequal hand on those who have committed intrinsically the same quality of offense and sterilizes one and not the other, it has made as invidious a discrimination as if it had selected a particular race or nationality for oppressive treatment.</li>
+    <li><b>Conclusion:</b> The judgment of the state supreme court affirming the order for sterilization was reversed.The U.S. Supreme Court held that the Act failed to meet the requirements of the Equal Protection Clause of the Fourteenth Amendment. The Court found that defendant was convicted of larceny and that the act treated larceny and embezzlement, intrinsically the same crime and punishable in the same manner, the same except for the sterilization provision. The Equal Protection Clause did not prevent a legislature from recognizing degrees of evil, and the constitution did not require things different in fact or opinion to be treated in law as though they were the same. However, where legislation laid an unequal hand on those who had committed the same quality of offense, the Equal Protection Clause would be a formula of empty words if such conspicuously artificial lines could be drawn. According to the Court, the crimes of larceny and embezzlement rated the same terms of fines and imprisonment, but when it came to sterilization the pains and penalties of the law were different, which made for invidious discrimination against groups of individuals in violation of the constitutional guaranty of just and equal laws.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Griswold v. Connecticut](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendants' convictions for violating a law prohibiting the sale, dispensing, or use of birth control drugs or devices to married persons were reversed because the law was held to be unconstitutional as it violated the fundamental right of privacy.</li>
+    <li><b>Facts:</b> A Connecticut statute made the use of contraceptives a criminal offense. The executive and medical directors of the Planned Parenthood League of Connecticut were convicted in the Circuit Court for the Sixth Circuit in New Haven, Connecticut, on a charge of having violated the statute as accessories by giving information, instruction, and advice to married persons as to the means of preventing conception. The Appellate Division of the Circuit Court affirmed and its judgment was affirmed by the Supreme Court of Errors of Connecticut. The case was elevated on appeal to the Supreme Court of the United States. </li>
+    <li><b>Issue:</b> Did the statute violate a couple’s right to privacy?</li>
+    <li><b>Rule:</b> Specific guarantees in the Bill of Rights have penumbras, formed by emanations from those guarantees that help give them life and substance. Various guarantees create zones of privacy. The right of association contained in the penumbra of the First Amendment is one. The Third Amendment in its prohibition against the quartering of soldiers in any house in time of peace without the consent of the owner is another facet of that privacy. The Fourth Amendment explicitly affirms the right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures. The Fifth Amendment in its self-incrimination clause enables the citizen to create a zone of privacy which government may not force him to surrender to his detriment. The Ninth Amendment provides that the enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.</li>
+    <li><b>Conclusion:</b> The Court held right of privacy to use birth control measures was found to be a legitimate one. Thus, finding the statute unconstitutional. It held that marriage lies within the zone of privacy created by several fundamental constitutional guarantees, which, in forbidding the use of contraceptives rather than regulating their manufacture or sale, seeks to achieve its goals by means having a maximum destructive impact upon that relationship. Thus, such a law cannot stand in light of the familiar that a governmental purpose to control or prevent activities constitutionally subject to state regulation may not be achieved by means which sweep unnecessarily broadly and thereby invade the area of protected freedoms. The very idea of allowing the police to search the sacred precincts of marital bedrooms for telltale signs of the use of contraceptives is repulsive to the notions of privacy surrounding the marriage relationship.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Roe v. Wade](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Personal liberty under the Due Process Clause extended to woman's abortion decision, but was subject to regulation aimed at compelling state interests of maternal health and human life potentiality; abortion laws that did not distinguish between early and later abortions and limited legal justification to saving mother's life were unconstitutional.</li>
+    <li><b>Facts:</b> Plaintiff Roe, a pregnant single woman, brought a class action challenging the constitutionality of the Texas criminal abortion laws, which proscribed procuring or attempting an abortion except on medical advice for the purpose of saving the mother's life. Hallford, a licensed physician who had two state abortion prosecutions pending against him, was permitted to intervene. The Does, a childless married couple, separately attacked the laws, basing alleged injury on the future possibilities of contraceptive failure, pregnancy, unpreparedness for parenthood, and impairment of the wife's health. A three-judge federal district court, which consolidated the actions, held that Roe and Hallford, and members of their classes, had standing to sue and presented justiciable controversies. Ruling that declaratory, though not injunctive, relief was warranted, the court declared the abortion statutes void as vague and overbroadly infringing the complainants’ Ninth and Fourteenth Amendment rights. On the other hand, the court ruled that the Does' complaint was not justiciable.</li>
+    <li><b>Issue:</b> Were the Texas criminal abortion laws unconstitutional? </li>
+    <li><b>Rule:</b> When pregnancy is a significant fact in the litigation, the normal 266-day human gestation period is so short that the pregnancy will come to term before the usual appellate process is complete. If that termination makes a case moot, pregnancy litigation seldom will survive much beyond the trial stage, and appellate review will be effectively denied. The law should not be that rigid. Pregnancy often comes more than once to the same woman, and in the general population, if man is to survive, it will always be with us. Pregnancy provides a classic justification for a conclusion of nonmootness. It truly could be capable of repetition, yet evading review.</li>
+    <li><b>Conclusion:</b> The Court held that state criminal abortion statute that excepted from criminality only a lifesaving procedure on behalf of the mother, without regard to pregnancy stage and without recognition of the other interests involved, was violative of theU.S. Const. amend. XIV. For the stage prior to approximately the end of the first trimester, the abortion decision and its effectuation had to be left to the medical judgment of the pregnant woman's attending physician. For the stage subsequent to approximately the end of the first trimester, the state, in promoting its interest in the health of the mother, could, if it chose, regulate the abortion procedure in ways that were reasonably related to maternal health. For the stage subsequent to viability, the state in promoting its interest in the potentiality of human life could, if it chose, regulate, and even proscribe, abortion except where it was necessary, in appropriate medical judgment, for the preservation of the life or health of the mother.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
