@@ -340,6 +340,7 @@
 - Where parties make a pact subject to a later, definitive agreement, they have manifested an objective intent not to be bound: Where no ambiguity exists in the language, intent will be determined solely from that language
   - See *[Empro Manufacturing Co., Inc. v. Ball-Co Manufacturing, Inc.](Link)*
 
+#### Requirement of Certainty in Business
 - It is rightfully well settled that a mere **agreement to agree**, in which a material term is left for future negotiations, is **unenforceable**
 - See *[Joseph Martin, Jr. Delicatessen, Inc. v. Schumacher](Link)*
   - Dissent: Reasonable rent should be used in liue of material terms left for future negotiations.
@@ -348,6 +349,8 @@
 
 
 ### Limits on the Scope of Traditional Offer-Acceptance Analysis Summary
+- Traditional Contract Law v. Practical Contract Law and What Actually Happens
+  - No Sequence of Offer and Acceptance but instead Sequence of Successive Drafts with a "formal" closing
 #### Manifestation of Assent Without Identifiable Sequence in Offer and Acceptance
 - No doubt in American Law that a contract can be formed without an identifiable sequence of offer and acceptance
 - Manifestation of Assent exchanged simultaneously
@@ -359,7 +362,63 @@
 - UCC 2-204(2)
   - An agreement sufficient to constitute a contract for sale may be found even though the moment of its making is undetermined.
 
-- Routes of Contract Formation
-  - 4 Distinct Routes
-    - Route A: Closing a contract via a "definite and seasonable expression of acceptance"
+- UCC 2-207 - Additional Terms in Acceptance or Confirmation
+  - Mitigation of the Mirror Image Rule
+- Difference of Terms
+  - Standard Terms (Boiler Plate)
+  - Negotiated Terms (Quantity, Price, Time)
+
+- Common Law Last Shot Principle
+  - Party that sent the last form constitute Counter-Offer
+  - Performance by receiving party = Acceptance of Counter-Offer
+  - Last Party to Send Terms = Applicable Terms
+- Practical Issues
+  - Parties do not read the terms during purchase and contract agreements
+
+- Terms 2-207(2)
+  - 3 Approaches to Terms Different v. Additional Terms
+    - **Majority Knockout Method**: Conflicting Terms knock each other out and both get removed and replaced with Code.
+    - Official Comment: Different Terms = Additional Terms
+    - Fallout Approach: Conflicting Terms balance in favor to Offeror and offeree's conflicting term drops out.
+
+
+- Routes of Contract Formation under 2-207
+  - Distinct Routes
+    - **Route A**: Closing a contract via a "definite and seasonable expression of acceptance"
+      - Abrogation of the mirror image rule
+      - Inclusion of Additinal Terms but not Different Terms
+        - Difference between stems from prior terms enumerated (different) or not enumereated (additional)
+      - Sections a-c apply only to **Merchants** - Who Deal in Goods of the kind..
+      - Terms: 207(2)
+    - Route A1
+      - " A written confirmation which is sent within a reasonable time operates as an acceptance even though it states terms additional to or different from those agreed upon."
+      - Terms: 207(2)
+    - **Route B**: Subsection 1 After the Comma. (My Way or the Highway)
+      - Unless acceptance is expressly made conditional on assent to the additional or different terms (Counter Offer)
+        - Performance = Acceptance of a counter offer.
+        - Similar to Common Law Finding of Contract Formation
+      - Terms:
+    - **Route C**: When parties forms hopelessly conflict and do not have the intention to be bound yet parties act as if they have a contract such as by delivery or payment of goods.
+      - Terms: If Applicable, specifies the terms to use in Contract.
+        - Matching terms in each form and to fill remaining gaps, with terms supplied in other provisions of article 2
   - See *[Stemcor USA, Inc. v. Trident Steel Corp](link)*
+    - Route B Application
+      -
+Trident Purchase Order  | Stemcor Acknowledgement
+--|---|
+No Arbitration Term  | Arbitration Term
+
+#### Examination of Terms under 2-207
+- Lawsuit over an arbitration cause
+  - π Analysis under 2-207
+    - Subsection 2 - Between Merchant and Consumer
+      - Mere proposal
+- Easterbrook Decision
+  - Contract was formed when opportunity to read terms were given in the box - Rolling Contract
+  - Rolling Contract = Pay Now, Terms Later
+    - “Money now, terms later”: shrinkwrap agreements, in which a buyer purchases software and must agree to additional license terms before using it, are valid. The rule applies to both software and hardware.
+      - See *[Hill v. Gateway 2000](link)*
+- Distinguished by StepSaver
+  - Court uses 2-207(2)(b) and rejects Easterbrook approach
+    - Material Alteration of Terms
+- See *[Step-Saver Data Sys. v. Wyse Tech., Inc](link)*

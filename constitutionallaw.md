@@ -2032,9 +2032,6 @@ and, later, opposed the 1787 constitution.
     - Right to live in the commmunity
     - Right to work
     - No Privilige to work for the government
-    -
-
-
 
 
 - Gora Case:
@@ -2922,6 +2919,58 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Were the Texas criminal abortion laws unconstitutional? </li>
     <li><b>Rule:</b> When pregnancy is a significant fact in the litigation, the normal 266-day human gestation period is so short that the pregnancy will come to term before the usual appellate process is complete. If that termination makes a case moot, pregnancy litigation seldom will survive much beyond the trial stage, and appellate review will be effectively denied. The law should not be that rigid. Pregnancy often comes more than once to the same woman, and in the general population, if man is to survive, it will always be with us. Pregnancy provides a classic justification for a conclusion of nonmootness. It truly could be capable of repetition, yet evading review.</li>
     <li><b>Conclusion:</b> The Court held that state criminal abortion statute that excepted from criminality only a lifesaving procedure on behalf of the mother, without regard to pregnancy stage and without recognition of the other interests involved, was violative of theU.S. Const. amend. XIV. For the stage prior to approximately the end of the first trimester, the abortion decision and its effectuation had to be left to the medical judgment of the pregnant woman's attending physician. For the stage subsequent to approximately the end of the first trimester, the state, in promoting its interest in the health of the mother, could, if it chose, regulate the abortion procedure in ways that were reasonably related to maternal health. For the stage subsequent to viability, the state in promoting its interest in the potentiality of human life could, if it chose, regulate, and even proscribe, abortion except where it was necessary, in appropriate medical judgment, for the preservation of the life or health of the mother.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Planned Parenthood of Southeastern Pa. v. Casey](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Court held that the husband notification provision of the Pennsylvania Abortion Control Act placed an undue burden on a woman's right to have an abortion in a large fraction of cases and was unconstitutional.</li>
+    <li><b>Facts:</b> At issue are five provisions of the Pennsylvania Abortion Control Act of 1982: § 3205, which requires that a woman seeking an abortion give her informed consent prior to the procedure, and specifies that she be provided with certain information at least 24 hours before the abortion is performed; § 3206, which mandates the informed consent of one parent for a minor to obtain an abortion, but provides a judicial bypass procedure; § 3209, which commands that, unless certain exceptions apply, a married woman seeking an abortion must sign a statement indicating that she has notified her husband; § 3203, which defines a "medical emergency" that will excuse compliance with the foregoing requirements; and §§ 3207(b), 3214(a), and 3214(f), which impose certain reporting requirements on facilities providing abortion services. Before any of the provisions took effect, the petitioners - abortion clinics and a physician - brought suit against respondents, the governor and others, seeking declaratory and injunctive relief from five provisions of the Pennsylvania Abortion Control Act of 1982. The District Court held all the provisions unconstitutional and permanently enjoined their enforcement. The Court of Appeals affirmed in part and reversed in part, striking down the husband notification provision but upholding the others.</li>
+    <li><b>Issue:</b> Was the Court of Appeals correct in its decision to uphold the provisions of the Pennsylvania Abortion Control Act of 1982 other than the husband notification provision?</li>
+    <li><b>Rule:</b> The Court reaffirms Roe v. Wade's essential holding, which has three parts. First is a recognition of the right of the woman to choose to have an abortion before viability and to obtain it without undue interference from the State. Before viability, the State's interests are not strong enough to support a prohibition of abortion or the imposition of a substantial obstacle to the woman's effective right to elect the procedure. Second is a confirmation of the State's power to restrict abortions after fetal viability, if the law contains exceptions for pregnancies that endanger the woman's life or health. And third is the principle that the State has legitimate interests from the outset of the pregnancy in protecting the health of the woman and the life of the fetus that may become a child. These principles do not contradict one another.</li>
+    <li><b>Conclusion:</b> The Court substantially affirmed the holding of the court of appeals, although it also found that the reporting provision related to husband notification was invalid, and remanded the case for further proceedings. The Court applied the doctrine of stare decisis and reaffirmed the essential holdings in Roe v. Wade because that decision was still workable and its factual underpinnings had not changed. In a joint opinion, three Justices rejected Roe's trimester framework and adopted an undue burden test for determining whether State regulations had the purpose or effect of placing substantial obstacles in the path of a woman seeking an abortion before viability. The Court agreed that § 3209imposed a substantial obstacle in a large fraction of cases and was invalid. The Court also affirmed the holding the court of appeals that 18 Pa. Cons. Stat. § 3202, the medical emergency provision, did not impose an undue burden on a woman's abortion right. A plurality of the Court determined that 18 Pa. Cons. Stat. § 3214(a)(12) was also invalid because it required a married woman to provide a reason for her failure to provide notice to her husband.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Gonzales v. Carhart](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Lower courts erred in finding the Partial-Birth Abortion Ban Act of 2003, 18 U.S.C.S. § 1531, unconstitutional on its face; the challengers failed to demonstrate that the Act, as a facial matter, was void for vagueness or that it imposed an undue burden on a woman's right to abortion based on its overbreadth or lack of a health exception.</li>
+    <li><b>Facts:</b> Petitioner Gonzales, the United States Attorney General, sought certiorari review of judgments from the United States Courts of Appeals for the Eighth and Ninth Circuits affirming district court rulings in favor of respondents, abortion doctors and abortion advocacy groups. The rulings found the Partial-Birth Abortion Ban Act of 2003, 18 U.S.C.S. § 1531, unconstitutional on its face and enjoined petitioner from enforcing the Act.</li>
+    <li><b>Issue:</b> Did the Court of Appeals err in its judgments finding the Partial-Birth Abortion Ban Act of 2003 unconstitutional on its face?</li>
+    <li><b>Rule:</b> A law which serves a valid purpose, one not designed to strike at the right itself, that has the incidental effect of making it more difficult or more expensive to procure an abortion cannot be enough to invalidate it. The State, from the inception of a pregnancy, maintains its own regulatory interest in protecting the life of the fetus that may become a child. Where it has a rational basis to act, and it does not impose an undue burden, the State may use its regulatory power to bar certain procedures and substitute others, all in furtherance of its legitimate interests in regulating the medical profession in order to promote respect for life, including life of the unborn. </li>
+    <li><b>Conclusion:</b> The Court applied the Casey standard, which included the central premise that the Government had a legitimate, substantial interest in preserving and promoting fetal life. The Court concluded that this premise would be repudiated if it affirmed the judgments. The Court held that the Act, on its face, was not void for vagueness and did not impose an undue burden from any overbreadth. The Court rejected  Carhart’s contention that the scope of the Act was indefinite. The Act clearly proscribed performing only the intact dilation and evacuation procedure. Further, the Act's scienter requirement narrowed the scope of the Act's prohibition and limited prosecutorial discretion. The restrictions on second-trimester abortions were not too broad because the Act provided specific anatomical landmarks and included an overt-act requirement. The Court also held that the Act's failure to allow the banned procedure's use where necessary for the mother's health did not have the effect of imposing an unconstitutional burden of the abortion right because safe medical options were available. The Court found that the proper means to consider exceptions was by as-applied rather than facial challenges.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Whole Women's Health et al. v. Hellerstedt, Commissioner, Texas Department of State Health Services, et al.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Tex. Health & Safety Code Ann. § 171.0031(a), which imposed admitting-privileges requirements on abortion providers, and Tex. Health & Safety Code Ann. § 245.010(a), which required abortion facilities to meet surgical center requirements, were unconstitutional; medical benefits did not justify the undue burden on abortion access.</li>
+    <li><b>Facts:</b> In 2013, the Texas Legislature enacted House Bill 2 (“H.B. 2”), which contained two provisions challenged in this case: the admitting-privileges requirement and the surgical-center requirement. The “admitting-privileges requirement” provided that a physician performing or inducing an abortion must have active admitting privileges at a hospital located not further than 30 miles from the abortion facility. The “surgical-center requirement” required an “abortion facility” to meet the minimum standards for ambulatory surgical centers under Texas law. Before the law took effect, a group of Texas abortion providers filed the Abbott case, in which they lost a facial challenge to the constitutionality of the admitting-privileges provision. After the law went into effect, Whole Woman’s Health et al. (“Woman’s Health”), another group of abortion providers (including some Abbott plaintiffs), filed this suit, claiming that both the admitting-privileges and the surgical-center provisions violated the Fourteenth Amendment, as interpreted in another case, Casey. They sought injunctions preventing enforcement of the admitting-privileges provision as applied to physicians at one abortion facility in McAllen and one in El Paso and prohibiting enforcement of the surgical-center provision throughout Texas.</li>
+    <li><b>Issue:</b> Were the provisions regarding the admitting-privileges requirement and the surgical-center requirement found in the H.B. 2 unconstitutional?</li>
+    <li><b>Rule:</b> There exists an undue burden on a woman’s right to decide to have an abortion, and consequently a provision of law is constitutionally invalid, if the purpose or effect of the provision is to place a substantial obstacle in the path of a woman seeking an abortion before the fetus attains viability. Unnecessary health regulations that have the purpose or effect of presenting a substantial obstacle to a woman seeking an abortion impose an undue burden on the right.</li>
+    <li><b>Conclusion:</b> The Court concluded that a pre-enforcement facial challenge did not have res judicata effect as to an as-applied challenge to the requirement under Tex. Health & Safety Code Ann. § 171.0031(a) that physicians performing abortions have admitting privileges at a hospital no more than 30 miles away. The Court also held that the prior suit did not preclude a challenge to Tex. Health & Safety Code Ann. § 245.010(a), which required abortion facilities to meet surgical center requirements. The Court held that the admitting privileges requirement violated the Fourteenth Amendment as there was no significant health-related problem that the requirement helped to cure, and the resulting closure of facilities placed an undue burden on abortion access. The Court further held that the surgical center requirement was unconstitutional as the record showed that it was unnecessary and would reduce the number of available facilities in the state to seven or eight. The Court reversed the judgment.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

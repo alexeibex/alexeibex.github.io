@@ -2469,7 +2469,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> No valid agreement to arbitrate under 9 U.S.C.S. § 2 of the Federal Arbitration Act existed between a seller and a buyer of steel casings; an arbitration clause contained in the acknowledgement forms that the seller used to confirm the buyer's purchase orders did not become part of the parties' contracts under N.Y. U.C.C. Law § 2-207.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b>Buyer sending purchase order with specific terms, Seller's acknowledgement terms were different. Difference arose through an Arbitration Term in the Acknowledgement of the Purchase order that did not exist in the Purchase order.</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
@@ -2480,7 +2480,37 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Case: *[HIll v. Gateway 2000](Link)*
 
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> The Hills bought a Gateway PC. Inside the box was an agreement which included an arbitration clause. The agreement indicated that it was bind- ing if the customer did not return the computer within 30 days. The Hills kept the computer for more than 30 days. The Hills sued to invalidate the arbitration clause. The district court refused to enforce the clause.</li>
+    <li><b>Issue:</b>Are the terms effective as the parties' contract, or is the contract term-free because the order-taker did not read any terms over the phone and elicit the customer's assent?</li>
+    <li><b>Rule:</b>A contract need not be read to be effective; people who accept take the risk that the unread terms may in retrospect prove unwelcome.</li>
+    <li><b>Conclusion:</b> It didn’t matter whether there were terms on the outside of the Gateway box. The agreement, including the arbitration clause, was enforceable. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Step-Saver Data Sys., Inc. v. Wyse Tech., Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 
 ---

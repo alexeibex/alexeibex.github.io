@@ -1125,7 +1125,40 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Negative Easements
 
+#### Case: *[Fontainebleau Hotel v. Forty-Five Twenty-Five Inc](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The court could not enjoin the construction of a high-rise hotel at the request of a neighboring hotel owner, who claimed that the structure cast a shadow over its swimming pool, because there was no legal right to the free flow of light and air.</li>
+    <li><b>Facts:</b> The Fontaine bleu Hotel wanted to construct an addition that would have blocked sunlight from the Eden Roc’s pool. Eden Roc sought an injunction, alleging that the addition would interfere with an implied easement protecting its light and air. A hotel corporation brought a suit to enjoin another hotel corporation from continuing with the construction of a 14-story addition to one of its hotels. It claimed that the addition cast a shadow over the cabana, swimming pool, and sunbathing areas of its own hotel. The trial court granted a temporary injunction, holding that no one had the right to use his property to the injury of another. The case was elevated to the District Court of Appeal of Florida.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> The scope of an easement depends mainly on the parties’ intent. It can also depend on the circumstances surrounding the creation of the easement, whether the easement is express/implied/prescriptive, and the purpose of the easement. At common law, the landowner had no legal right, in the absence of an easement or uninterrupted use and enjoyment for a period of 20 years, to unobstructed light and air from the adjoining land. The English doctrine of "ancient lights" has been unanimously repudiated in the United States. There being, then, no legal right to the free flow of light and air from the adjoining land, it is universally held that where a structure serves a useful and beneficial purpose, it does not give rise to a cause of action, either for damages or for an injunction under the maxim sic utere tuo ut alienum non laedas, even though it causes injury to another by cutting off the light and air and interfering with the view that would otherwise be available over adjoining land in its natural state, regardless of the fact that the structure may have been erected partly for spite.</li>
+    <li><b>Conclusion:</b> The court held that there is no precedent for finding an easement for light and air. Eden Roc had no cause of action. The court found that hotel corporation seeking injunction failed to establish a cause of action. The court held that the trial court erred in applying the maxim sic utere tuo ut alienum non laedas. The court explained that the maxim meant only that one had to use his property so as not to injure the lawful rights of another. The court said that because there was no legal right to the free flow of light and air, the hotel undergoing construction did not use their property to injure the hotel corporation's lawful rights.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Termination of Easement by Misuse
+#### Case: *[Penn Bowling Recreation Center Inc. v. Hot Shoppes Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Neither the misuse of an easement right, nor the use of an easement right beyond that which was intended when the easement was granted, constituted evidence of a forfeiture or abandonment of the easement.</li>
+    <li><b>Facts:</b> The dominant tenement owner acquired property, which enjoyed an easement over the servient tenement owner's adjoining property. The servient tenement owner argued that the dominant tenement owner forfeited its easement by exceeding the rights associated with the easement. Specifically, the servient tenement owner argued that the dominant tenement owner exceeded the scope of the easement when it used the easement to service adjoining land that was not covered by the easement. The dominant tenement owner sought action to enjoin the servient tenement owner from maintaining a structure which blocked an easement over the servient tenement owner's property. The district court granted the servient tenement owner summary judgment. The case was appealed to the United States Court of Appeals.</li>
+    <li><b>Issue:</b> Was the dominant tenement forfeit its easement?</li>
+    <li><b>Rule:</b> It is true that where the nature and extent of the use of an easement is, by its terms, unrestricted, the use by the dominant tenement may be increased or enlarged. But the owner of the dominant tenement may not subject the servient tenement to use or servitude in connection with other premises to which the easement is not appurtenant. And when an easement is being used in such a manner, an injunction will be issued to prevent such use.</li>
+    <li><b>Conclusion:</b> The Court found in favor of the dominant tenement, noting that the creation of an additional burden upon the servient tenement owner's property did not constitute forfeiture of the easement, provided that it was possible to server the increased burden. The court also rejected the servient tenement owner's argument that the easement was forfeited by the dominant tenement owner's misuse of the easement by parking cars over the easement. While such misuse could be enjoined, it was not evidence of forfeiture. The court concluded that fact questions as to the reasonableness of the enjoyment of the easement, and whether it was possible to sever the burden created by the enlarged use of the easement precluded summary disposition. The case was remanded to the district court for further proceedings.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 
 #### Case: *[Holbrook v. Taylor](Link)*
@@ -1145,3 +1178,21 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 - <span style="color:red">**Class Discussion**</span>
 
 #### HALFWAY - MIDPOINT
+
+### Covenants
+
+#### Case: *[Tulk v. Moxhay](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Tulk owned a vacant lot & some nearby houses in a London Sqaure. He sold the vacant lot a 3rd party w/ a sales contract that specified that the owner (BURDENED PARTY), and all heirs and assignees, would maintain the vacant lot as a "pleasure garden," and charge admission = COVENANT.The property is sold many times, eventually passed by divers mesne coveyances to D Moxhay. By the time Moxhay bought the land, the deed said nothing about maintaining the land as a garden.• D admitted he did know about the covenant restricting building on the lot. P Tulk sued for injunction, & force D to abide by the terms of the original agreement P made w/ original buyer.</li>
+    <li><b>Issue:</b> Was P Tulk entitled to an Injunction, preventing D from building a garden, when D knew about the Covenant which D's prior owner had entered into restricting such gardens?</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> There are 2 categories of covenants: Negative covenants are an agreement not to do something e.g. not to build a house on the property. Affirmative covenants are an agreement to do something. • e.g. to maintain a garden. In general, courts (in England anyway) have held that neg covenants are assignable & run w/ land, while affirmative covenants are not assignable & don’t run w/ land. In the US, affirmative covenants are sometimes enforceable as equitable servitudes.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
