@@ -50,16 +50,11 @@
     - No Vertical or Horizontal Privity
 
 
-
-- MATRIX
-
-
-
-  | Real Covenants |  ---  |  Equitable Servitudes |
---- | Burden | Benefit |---| Burden | Benefit |
-Writing | Y | Y  | ---   |  Y | Y |
-Intent |  Y | Y  | ---  | Y  | Y |
-Touch & Concern | Y  | Y  | ---  | Y | Y |
-Horizontal Privity | Y  | N  | ---  | N | N |
-Vertical Privity |  Y |  Y | ---  | N | N |
-Notice | Y  | N  |  --- | Y | N |
+  | Real Covenants (Burden)  | Real Covenants (Benefit)  | Equitable Servitudes (Burden)  |  Equitable Servitudes Benefit
+--|---|---|---|--
+Writing  | Y  |  Y |  Y |  Y
+Intent  | Y  |  Y |  Y |  Y
+Touch & Concern  | Y  | Y  |  Y |  Y
+Horizontal Privity   |  Y |  N | N  |  N
+Vertical Privity  |  Y |  Y |  N |  N
+Notice  | Y  |  N | Y  |  N
