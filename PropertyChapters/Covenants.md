@@ -50,8 +50,9 @@
     - No Vertical or Horizontal Privity
 
 
-  | Real Covenants (Burden)  | Real Covenants (Benefit)  | Equitable Servitudes (Burden)  |  Equitable Servitudes Benefit
---|---|---|---|--
+
+Elements  | Real Covenants (Burden)  | Real Covenants (Benefit)  | Equitable Servitudes (Burden)  |  Equitable Servitudes Benefit
+---|---|---|---|--
 Writing  | Y  |  Y |  Y |  Y
 Intent  | Y  |  Y |  Y |  Y
 Touch & Concern  | Y  | Y  |  Y |  Y
