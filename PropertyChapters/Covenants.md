@@ -58,3 +58,8 @@ Touch & Concern  | Y  | Y  |  Y |  Y
 Horizontal Privity   |  Y |  N | N  |  N
 Vertical Privity  |  Y |  Y |  N |  N
 Notice  | Y  |  N | Y  |  N
+
+
+
+#### Case law on Covenants
+- See *[Tulk v. Moxhay](Link)*
