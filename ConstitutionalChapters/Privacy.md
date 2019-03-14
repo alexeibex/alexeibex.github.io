@@ -43,6 +43,9 @@
             - 9th Amendment History does not give rise to a zone of privacy.
             - No General Right to Privacy in the Bill of Rights
     - See *[Griswold v. Connecticut](link)*
+- Setting the Foundation for Roe
+  - Removing the married requirement of Griswold
+    - See *[Casey ]
 - Lochner v. Griswold
   - Freemarket activity and Freedom to Contract v. Protection of an "insular minority" (women)
   - Motivation Issues regarding religious contention
@@ -75,22 +78,70 @@
     - See *[Roe v. Wade](link)*
 
 #### Implications of Roe
-- The Political Reaction to Roe
-  - Re-Enrgization of Anti-Abortion Movements
-- State Regulation of Abortion from Roe to Casey
-  - Invalidation of law requriring abortions to be performed in an accredited hospital.
-    - See *[Doe v. Bolton](link)*
-  - Striking down Spousal and Parentla Consent Requirements
-    - See *[Planned Parenthood of Central Missouri v. Danforth](link)*
-  - Upholding Parental Notice for Abortions of Minors
-  - Striking Down Wiating Period and Reporting Requirements
-  - Upholding Regulation granting Medicaid benefits for childbirth, but not for medically unecessary abortions.
-    - See *[Maher v. Roe](link)*
-  - Extension of limitations on payments even for most medically necessary abortions
-    - See *[Harris v. McRae](link)*
-  - Barring State employees from performing aboritons and the use of public facilities for abortions, even when the patient paid for the abortion herself.
-    - See *[Webster v. Reporductive Health Services](link)*
+- Court utilizing a strict scruitiny on aspects of the Abortion process
+- Permitting certain secondary restrictions on Abortions
+  - State Regulation of Abortion from Roe to Casey
+    - Invalidation of law requriring abortions to be performed in an accredited hospital.
+      - See *[Doe v. Bolton](link)*
+    - Striking down Spousal and Parentla Consent Requirements
+      - See *[Planned Parenthood of Central Missouri v. Danforth](link)*
+    - Upholding Parental Notice for Abortions of Minors
+    - Striking Down Wiating Period and Reporting Requirements
+    - Upholding Regulation granting Medicaid benefits for childbirth, but not for medically unecessary abortions.
+      - See *[Maher v. Roe](link)*
+    - Extension of limitations on payments even for most medically necessary abortions
+      - See *[Harris v. McRae](link)*
+    - Barring State employees from performing aboritons and the use of public facilities for abortions, even when the patient paid for the abortion herself.
+      - See *[Webster v. Reporductive Health Services](link)*
 
-#### The Undue Burden Standard of Casey
-- Establishing the Undue Burden Standard as the Appropriate Means of reconciling State interests with the Women's Constitutionally Protected Liberty.
+#### The Undue Burden Standard of Casey (Roe Light)
+- Establishing the **Undue Burden Standard** as the Appropriate Means of reconciling State interests with the Women's Constitutionally Protected Liberty.
+- Loosening of the Strict Roe Standard which many considered had gone too far initially
   - See *[Planned Parenthood v. Casey](link)*
+- Application of Casey
+- Banning Certain Procedures
+  - The Court upheld the Partial Birth Abortion Ban Act, holding that the state had a substantial interest in protecting fetal life.
+    - Some Abortions have ethical and moral concerns which justify special prohibiton.
+    - Cannot impact "large franction" of women
+    - Dissent: To not be an undue burden there must be an exception for when the measure is the safest
+    - See *[Gonzales v. Carhart](link)*
+- Undue Burden v. Pratical Medical Benefits
+  - Must measure the extent of the burden against the extent of the medical benefit
+  - Breyer the Balancer - Balancing factors on both sides
+    - Are these the kind of questions best suited for the Supreme Court?
+  - See *[Whole Woman's Health et al. v. Hellerstedt](link)*
+
+
+### Marriage & Family Relations
+- Marriage Line of Cases
+  - Striking down a ban on interacial marriage relying principally on Equal Protection
+    - See *[Loving v. Virginia](link)
+  - Vindicating a right to marry via the Equal Protection Route invaldiating Wisconsin law that provided that any resident having minor issue not in his custody and which he is under an obligation to support by any court order could not marry without obtaining court approval which depended on proof that the applicant's support obligation had been met and that children covered by the support order are not then and are not likely thereafter to become public charges.
+  - Application for marriage licenses was denied because he had not obtained court permission nor could he because he had not been paying child support for daughter from previous marriage.
+    - See *[Zablocki v. Redhail](link)*
+  - Extending Zablocki to strike down a prison regulation that restricted prison inmates the right to marry.
+    - See *[Turner v. Safley](link)*
+
+- Household Composition Line of Cases
+  - Invalidating a zonining ordinance limiting occupancy of a dwelling to members of a single "family" narrowly defined.
+    - Traditions = Source of Power and the "family" deeply rooted in American History BUT;
+    - Traditions = The Limits of Substantive Due Process
+    - See *[Moore v. East Cleveland](link)*
+  - Contrast against no privacy rights involved in a family oriented zoning restriction excluding most unrelated groups from a village without any blood ties.
+    - See *[Village of Belle Terre v. Boraas](link)*
+
+- Family Relationships and the Role of Tradition
+  - Substantive Due Process requires state to give "special weight" to the parent's preferences.
+    - See *[Troxel v. Granville](link)*
+  - Upholding CA judgement rejecting biological father's claim for visitation over biological son weighted against Nuclear family's right to exclude him.
+    - Scalia Footnote: Adulterous Illegitmate Fatherhood not recognized by our traditions and not fundamental
+      - Look to History and the **Most Specific** tradition available protecting this right.
+    - See *[Michael H. v. Gerald](link)*
+
+### Sexuality & Hybrid Due Process and Equal Protection Rights
+- Reproductive and Sexual autonomy and limitation on government intervention in family relationships
+  - Upholding a statute as applied to "homosexual sodomy" and defining narrowly as whether or not the federal Constitution confers a fundamental right upon homosexuals to engage in sodomy and hence invalidates the laws of the many States that make such conduct illegal.
+    - See *[Bowers v. Hardwick](link)*
+- Source of Protection of Homosexuals under the Equal Protection Clause
+  - See *[Romer v. Evans](link)*
+-

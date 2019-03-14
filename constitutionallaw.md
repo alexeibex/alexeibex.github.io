@@ -2841,7 +2841,9 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
 
 
-#### Substantive Due Process and Privacy
+### Substantive Due Process and Privacy
+
+#### Contraception
 
 #### Case: *[Meyer v. Nebraska](Link)*
 
@@ -2962,6 +2964,7 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
 
 
+
 #### Case: *[Whole Women's Health et al. v. Hellerstedt, Commissioner, Texas Department of State Health Services, et al.](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -2971,6 +2974,41 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Were the provisions regarding the admitting-privileges requirement and the surgical-center requirement found in the H.B. 2 unconstitutional?</li>
     <li><b>Rule:</b> There exists an undue burden on a woman’s right to decide to have an abortion, and consequently a provision of law is constitutionally invalid, if the purpose or effect of the provision is to place a substantial obstacle in the path of a woman seeking an abortion before the fetus attains viability. Unnecessary health regulations that have the purpose or effect of presenting a substantial obstacle to a woman seeking an abortion impose an undue burden on the right.</li>
     <li><b>Conclusion:</b> The Court concluded that a pre-enforcement facial challenge did not have res judicata effect as to an as-applied challenge to the requirement under Tex. Health & Safety Code Ann. § 171.0031(a) that physicians performing abortions have admitting privileges at a hospital no more than 30 miles away. The Court also held that the prior suit did not preclude a challenge to Tex. Health & Safety Code Ann. § 245.010(a), which required abortion facilities to meet surgical center requirements. The Court held that the admitting privileges requirement violated the Fourteenth Amendment as there was no significant health-related problem that the requirement helped to cure, and the resulting closure of facilities placed an undue burden on abortion access. The Court further held that the surgical center requirement was unconstitutional as the record showed that it was unnecessary and would reduce the number of available facilities in the state to seven or eight. The Court reversed the judgment.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Case: *[Romer v. Evans](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> State constitutional amendment that drew classification based on sexual orientation not to further a proper legislative end but to make gays unequal to everyone else was unconstitutional; the amendment withdrew only from gays legal protection.</li>
+    <li><b>Facts:</b> In Colorado, various ordinances were issued, affording protection to persons discriminated against by reason of sexual orientation. To counter these ordinances, voters passed what was known as Amendment 2 in a statewide referendum in Colorado. Amendment 2 prohibited all legislative, executive, or judicial action at any level of state or local government designed to protect homosexual persons. Homosexual persons and certain municipalities who had issued the ordinances commenced litigation to declare Amendment 2 invalid and enjoin its enforcement. The trial court's granted a preliminary injunction, finding that the Amendment failed to satisfy strict scrutiny. The State Supreme Court of Colorado affirmed. It held that Amendment 2 was subject to strict scrutiny under the Equal Protection Clause of the Fourteenth Amendment because it infringed the fundamental right of gays and lesbians to participate in the political process.</li>
+    <li><b>Issue:</b> Was the Colorado Amendment 2 violative of the Equal Protection Clause of the Fourteenth Amendment?</li>
+    <li><b>Rule:</b> The U.S. Const. amend. XIV's promise that no person shall be denied the equal protection of the laws must coexist with the practical necessity that most legislation classifies for one purpose or another, with resulting disadvantage to various groups or persons. Courts attempt to reconcile the principle with the reality by stating that, if a law neither burdens a fundamental right nor targets a suspect class, courts will uphold the legislative classification so long as it bears a rational relation to some legitimate end. </li>
+    <li><b>Conclusion:</b> The U.S. Supreme Court held that the Colorado amendment was invalid as violating the equal protection clause of the Fourteenth Amendment because it put homosexuals in a solitary class with respect to transactions and relations in both the private and governmental spheres, and withdrew from homosexuals, but no others, specific legal protection from the injuries caused by discrimination and forbade reinstatement of these laws and policies. According to the Court, even if homosexuals could find some safe harbor in antidiscrimination laws of general application, the Colorado amendment's prohibition on specific legal protections did not merely deprive homosexuals of special rights, but rather imposed a special disability upon those persons alone. Furthermore, the Court ruled that the Colorado amendment did not bear a rational relationship to any legitimate governmental purpose, such as the state's interests in respect for other citizens' freedom of association, and conserving resources to fight discrimination against other groups.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Lawrence v. Texas](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  A decision upholding a Texas statute that made it a crime for two persons of the same sex to engage in certain intimate sexual conduct was overruled because petitioners were entitled to respect for their private lives.</li>
+    <li><b>Facts:</b> Responding to a reported weapons disturbance in a private residence, Houston police entered petitioner Lawrence's apartment and saw him and another adult man, petitioner Garner, engaging in a private, consensual sexual act. Petitioners were arrested and convicted of violating a Texas statute forbidding two persons of the same sex to engage in certain intimate sexual conduct. In affirming, the State Court of Appeals held, inter alia, that the statute was not unconstitutional under the Due Process Clause of the Fourteenth Amendment. The Supreme Court reversed the judgment of the Court of Appeals remanded the case for further proceeding</li>
+    <li><b>Issue:</b> Is the Texas statute making it a crime for two persons of the same sex to engage in certain intimate sexual conduct a violation of the Due Process Clause of the Fourteenth Amendment?</li>
+    <li><b>Rule:</b> The State cannot demean a homosexual person's existence or control their destiny by making their private sexual conduct a crime. Their right to liberty under the Due Process Clause gives them the full right to engage in their conduct without intervention of the government. It is a promise of the Constitution that there is a realm of personal liberty which the government may not enter.</li>
+    <li><b>Conclusion:</b> The Texas statute furthers no legitimate state interest which can justify its intrusion into the personal and private life of the individual.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
