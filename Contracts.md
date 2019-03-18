@@ -2513,6 +2513,175 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+
+#### Policing Agreements and Promises
+
+#### Case: *[Standard Box Co. v. Mutual Biscuit Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Where the option was silent as to time of acceptance, the buyer must have accepted the option within a reasonable time; the buyer's acceptance after 10 months was not within a reasonable time and parol evidence was not admissible to extend the time.</li>
+    <li><b>Facts:</b> The seller gave the buyer an option to purchase the goods at a certain price for the period of one year following the expiration of the current contract. The buyer sought to accept the option 10 months later. The seller delivered the goods and sought payment at the current market price. When the buyer refused to pay the current market price, arguing that it had accepted the option to purchase the goods at the stated price, the seller filed suit. The jury returned a verdict in favor of the seller, and the trial court denied the buyer's motion for a new trial. On appeal, the court affirmed. The option was silent as to the time of acceptance, so the buyer must have accepted the option within a reasonable time. The court found that the acceptance after 10 months was not reasonable, and the conditions in the area had so changed as to greatly increase the market value. The trial court correctly excluded the buyer's parol testimony that the buyer and seller had orally agreed that the buyer would have one year to accept the option, as the reasonable time could not be extended by parol evidence. The court found that the buyer's counterclaims for breach of contract were without merit.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court affirmed the order of the trial court that denied the buyer's motion for a new trial after the jury rendered a verdict for the seller in the seller's action for goods, wares, and merchandise sold to the buyer.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[S.P. Dunham & Co. v. Kudra](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Department store could not claim to have made a payment to fur cleaners under duress, if before it made the payment, there was available to department store an immediate and adequate remedy in the courts to test or resist it.</li>
+    <li><b>Facts:</b> Plaintiff department store leased its fur department to a concessionaire. When the concessionaire went bankrupt, plaintiff offered to pay defendant fur cleaners, whom the concessionaire had employed, for the return of plaintiff's customers' garments. Defendants agreed to return the garments if plaintiff would pay an additional $ 3,855 that was owed to defendants by the concessionaire. Plaintiff paid the additional money. Plaintiff then brought an action against defendants for restitution of the $ 3,855, which plaintiff claimed it had paid under business compulsion. The trial court entered judgment for plaintiff. The court affirmed the trial court’s judgment.</li>
+    <li><b>Issue:</b> Did plaintiff department store act under duress when it paid the additional $ 3,855 that was owed to defendant fur cleaners by the concessionaire?</li>
+    <li><b>Rule:</b> The test for economic duress is simply this: is the person complaining constrained to do what he otherwise does not do?</li>
+    <li><b>Conclusion:</b> Plaintiff department store did not have an adequate remedy at law before it paid defendant fur cleaners because plaintiff did not want it to be publicly known that defendants, plaintiff's competitors, attended to the storing and cleaning of plaintiff's customers' furs. Defendants' contention that plaintiff knew of the concessionaire's financial difficulty and therefore had placed itself under the duress that it charged to defendants was without the slightest substance.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Holcomb v. Hoffschneider](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Real estate purchasers generated a jury issue on reliance in their claim for fraudulent misrepresentation where a jury could have said that although the purchasers doubted representations as to acreage they accepted a salesman's repeated assurances.</li>
+    <li><b>Facts:</b> The sellers listed their house and lots for sale with the realtor. The size of the lots was stated as 6.8 acres. The realtor's salesman stated at various times prior to the sale that he would guarantee the property contained at least 6.6 acres. It actually contained 4.6 acres. The purchasers brought a complaint for fraudulent misrepresentation and made a demand for exemplary damages. The trial court withdrew the issue of exemplary damages from the jury, and the jury awarded the purchasers actual damages. The court affirmed and held that: (1) the purchasers generated a jury issue on reliance because a jury could have said that although the purchasers doubted the representations as to acreage they took the salesman's repeated assurances; (2) a jury could reasonably find on the evidence that the purchaser was damaged where a seller fraudulently misrepresented the acreage or dimensions; and (3) the trial court properly withdrew the purchaser's punitive damages claim from the jury because "ordinary" or "simple" fraud alone was not enough for exemplary or punitive damages; rather, the fraud had to be an aggravated one, as where it was malicious, deliberate, gross, or wanton.</li>
+    <li><b>Issue:</b> Whether or not reliance was reasonable?</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Weintraub v. Krobatsch](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Seller's nondisclosure of the fact that a house was infested with roaches could constitute fraudulent concealment and justify purchasers' recission of the contract to buy the house if the trier of fact found that seller concealed a material fact.</li>
+    <li><b>Facts:</b> Purchasers contracted to purchase a home owned by seller and, as required by the contract, gave a deposit to the real estate agency, which was to be held in escrow on behalf of the seller. Prior to closing, however, the purchasers discovered that the house was infested with cockroaches and promptly attempted to rescind the contract. The seller rejected the recission and filed a lawsuit against the purchasers and real estate agency for damages in the amount of the deposit. The real estate agency filed a cross-claim seeking payment of its commission. The trial court granted summary judgment in favor of the seller and directed the purchasers to pay damages to both seller and real estate agency. On appeal, the court affirmed. The case was appealed to the Supreme Court of New Jersey.</li>
+    <li><b>Issue:</b> Was the summary judgment proper?</li>
+    <li><b>Rule:</b> A real estate agent or broker is not only liable to a buyer for his affirmative and intentional misrepresentations to a buyer, but he is also liable for mere nondisclosure to the buyer of defects known to him and unknown and unobservable by the buyer. The underlying settled rule is that every person connected with a fraud is liable for the full amount of the damages and the wrongdoers, if any, are jointly and severally liable. Whether a matter not disclosed by a real estate broker or agent is of sufficient materiality to affect the desirability or value of the property sold, and thus make him liable for fraudulent nondisclosure, depends upon the facts of each case. </li>
+    <li><b>Conclusion:</b> The court ruled that the purchasers were entitled to a trial on the issue of whether there was fraudulent concealment or nondisclosure justifying their recission. The court held that the seller's silence regarding the roach infestation, if she was aware of it and it was found to be a material fact, could constitute fraud. Concealment of a material fact would justify the buyer's recision of the contract to purchase the house.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[McCutcheon v. United Homes Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant landlord not permitted to rely on negligence exculpatory clause in month-to-month lease for injuries obtained by plaintiffs due to landlord's negligence.</li>
+    <li><b>Facts:</b> Two plaintiffs were injured at their apartment building where they had a month-to-month rental agreement containing a landlord's negligence exculpatory clause. Plaintiffs contested the court of appeals' affirmation of the trial court's summary judgment dismissal of their actions based on this exculpatory clause. The court here held that, based on modern landlord-tenant relationship in multi-family units, what was once solely a personal and private affair of two parties on equal footings was now a matter of public interest, and as such a landlord could not hide behind an exculpatory clause. Court thus reversed the summary judgment and remanded the case for trial.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> An exculpatory clause, which relieves a lessor of liability for personal injuries caused by its own negligence, is not purely a personal and private affair but is a matter of public interest.</li>
+    <li><b>Conclusion:</b> An exculpatory clause for landlord negligence in a multifamily dwelling complex contravenes long established common law rules of tort liability that exist in the landlord-tenant relationship. If the exculpatory clause is employed, it offends the public policy of the state and will not be enforced by the courts.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Henderson v. Quest Expeditions, Inc. ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Trial court properly granted summary judgment to white water rafting company on patrons' negligence claims where contract was clear and unambiguous and stated that the patrons agreed to release the company from any and all liability, and that patrons could be injured due to dangers from rafting as well as use of equipment and company's negligence.</li>
+    <li><b>Facts:</b> The patrons argued that the release was void as against the public policy of Tennessee. The appellate court noted that the white water rafting service offered by the company was not a professional trade, which affected the public interest. Many jurisdictions had recognized that recreational sporting activities were not activities of an essential nature which would render exculpatory clauses contrary to the public interest. The Tennessee legislature had evidenced that the public policy of the State was that commercial white water rafting companies be protected from claims for injuries to patrons. The fact that the injury occurred during an activity that was not foreseeable or not associated with a risk "inherent in the sport" did not matter. The release was clear and unambiguous, and stated that the patrons agreed to release the company from any and all liability, including the company's own negligence. The contract specifically mentioned that the patrons were being furnished and participating in white water rafting and bus or van transportation provided by the company.
+</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Not all of the factors had to be present in order to invalidate an exculpatory agreement, but generally, the factors were limited to circumstances involving a contract with a profession, as opposed to tradesmen in the marketplace. Many jurisdictions have recognized that such recreational sporting activities are not activities of an essential nature which would render exculpatory clauses contrary to the public interest.</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Karpinski v. Ingrasci](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Where a covenant not to compete restricted the practice of both dentistry and oral surgery, but the employer practiced only oral surgery, the restriction against dentistry was severed and the rest of the covenant was enforceable.</li>
+    <li><b>Facts:</b> The Plaintiff, Dr. Karpinski (the "Plaintiff"), was an oral surgeon in solo practice in Auburn, Cayuga County until 1953.In 1953, the Plaintiff sought to expand his practice by cultivating connections in four surrounding counties. In other words, obtaining referrals from dentists.By 1962, 20% of the Plaintiff"s practice came from referrals.Because certain patients had a problem traveling to the Plaintiff"s office, he decided to open a second office in Ithaca.The Plaintiff hired the Defendant, Dr. Ingrasci (the "Defendant"), to staff the second office.The Defendant signed a three-year employment contract in June 1962.The contract included a non-compete clause which stated that the defendant "promises and covenants that while this agreement is in effect and forever thereafter, he will never practice dentistry and/or Oral Surgery in Cayuga, Cortland, Seneca, Tompkins or Ontario counties except: (a) In association with the [Plaintiff] or (b) If the [Plaintiff] terminates the agreement and employs another oral surgeon".Additionally, the Defendant was required to execute a $40,000 promissory note to the Plaintiff that would be become payable if the Defendant violated the non-compete clause.In February 1968, after negotiations of a new contract failed, the Defendant "left the plaintiff"s employ" and opened his own practice in Ithaca.After opening the office, dentists in the area began referring patients to the Defendant instead of the Plaintiff.The Plaintiff"s Ithaca office closed shortly thereafter.The Plaintiff brought suit alleging that the Defendant violated the non-compete clause.The trial court decided in favor of the Plaintiff and granted him an injunction and $40,000 in damages.The Appellate Division reversed and dismissed the lower courts ruling and found that the non-compete clause was "impermissibly broad.</li>
+    <li><b>Issue:</b> Is a covenant by a professional not to compete enforceable?</li>
+    <li><b>Rule:</b> Courts will subject a covenant by an employee not to compete with his former employer to an overriding limitation of reasonableness. Such covenants by physicians are, if reasonable in scope, generally given effect. A member of one of the learned professions, upon becoming assistant to another member thereof, may, upon a sufficient consideration, bind himself not to engage in the practice of his profession upon the termination of his contract of employment, within a reasonable territorial extent. Such an agreement is not in restraint of trade or against public policy.</li>
+    <li><b>Conclusion:</b> The court first observed that based on the facts of the case, "the area restriction" in the covenant not to compete "is manifestly reasonable."Specifically, the "[t]he five small rural counties which it encompasses comprise the very area from which the plaintiff obtained his patients and in which the defendant would be in direct competition with him."Meaning, it encompasses precisely the territory in which the Plaintiff"s practice extends.Second, the court also observed that a covenant is not invalid because "it is unlimited as to time, forever restricting the defendant from competing with the plaintiff."However, the court voiced concern over how all or virtually all of the Defendant"s patients stemmed from his relationship with the Plaintiff.Third, the court construed whether the provision of the covenant forbidding the practice of "dentistry and/or Oral Surgery" is appropriate.The court observed that the Appellate Division deemed the provision invalid because the Plaintiff only practice oral surgery, but the covenant also forbid the practice dentistry.The court found "the plaintiff was not privileged to prevent the defendant from working in an area of dentistry in which he would not be in competition with him."</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Dwyer v. Jung](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Restrictive covenant in a partnership agreement, prohibiting attorneys from representing certain insurance carriers in the defense of negligence cases and restricting rights of clients to choose counsel of choice, was void as against public policy.</li>
+    <li><b>Facts:</b> Plaintiffs and defendant partner had entered into a partnership agreement for the practice of law, primarily the defense of negligence actions. The agreement provided that upon dissolution, the insurance carrier clients would be designated to certain individual partners and all partners would be restricted from doing business with a client designated as that of another partner for a period of five years. Plaintiffs argued that the provision was void as against public policy. The court agreed, finding that an agreement dividing the client market and prohibiting attorneys from representing certain insurance carriers in the defense of negligence cases had the effect of restricting those carriers in their unlimited choice of counsel. Accordingly, the restrictive covenant contained in the partnership agreement of the former law firm was declared to be void as against public policy.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Lawyer restrictive covenants are to be distinguished from noncompetitive covenants incident to the sale of a business where the covenants are designed to protect the good will of the business for the benefit of the buyer. A lawyer's clients are neither chattels nor merchandise, and his practice and good will may not be offered for sale. A covenant restricting a lawyer after leaving a partnership from accepting employment by persons who were theretofore clients of the partnership, or from otherwise fully practicing his profession, is an unwarranted restriction on the right of the lawyer to choose his clients in the event they seek his services, and an unwarranted restriction on the right of the client to choose the lawyer he wishes to represent him.</li>
+    <li><b>Conclusion:</b> The court entered judgment for plaintiffs as the attorney-client relationship was deemed consensual and an attorney could do nothing which restricted the right of the client to entrust its affairs with the counsel of its choice. The restrictive covenant in the partnership agreement was found to be improper, unworthy of the legal profession, and unethical.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Jackson v. Seymour](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Rescission of deed was appropriate to remedy constructive fraud resulting from an inadequate price paid by a brother to his sister, her reliance on his advice and judgment, and mutual mistake of fact as to the subject matter of the contract.</li>
+    <li><b>Facts:</b> The undisputed evidence showed that shortly after the buyer acquired this tract of land from his sister, he cut and marketed therefrom timber valued at approximately 10 times what he had paid for the property. The trial court denied recission because seller failed to prove actual fraud. On appeal, the court reversed and held that a mere statement of the matter showed the gross and shocking inadequacy of the price paid. Neither of the parties knew of the timber on the land and buyer admitted that he would not have bought the property from seller for the small amount paid if he had then known of the true situation. The court held that the inadequacy of consideration here, together with the confidential relation of the parties, the pecuniary distress of the seller, and the mutual mistake of the parties as to the subject matter of the contract, entitled seller to relief in equity. The court also found that the bill alleged the constituent elements of constructive fraud, so it was not necessary to amend it. The court remanded the matter to restore the status quo in so far as practicable.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Williams v. Walker-Thomas Furniture Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> After assessing the relative bargaining power between buyers and a furniture company, a court had the authority, both under common law and the Uniform Commercial Code, to refuse to enforce the parties' contract if it was found to be unconscionable.</li>
+    <li><b>Facts:</b> Walker-Thomas Furniture Company, operates a retail furniture store in the District of Columbia. During the period from 1957 to 1962 each appellant in these cases purchased a number of household items from Walker-Thomas, for which payment was to be made in installments. The contract of sale provided, in substance, that title would remain in Walker-Thomas until the total of all the monthly payments made equaled the stated value of the item, at which time appellants could take title. In the event of a default in the payment of any monthly installment, Walker-Thomas could repossess the item. On April 17, 1962, appellant Williams bought a stereo set of stated value of $514.95. She defaulted on her monthly payments and appellee sought to replevy all the items purchased since December, 1957. The Court of General Sessions granted judgment for appellee. The District of Columbia Court of Appeals affirmed. Appellant buyers appealed the judgment of the District of Columbia Court of Appeals.</li>
+    <li><b>Issue:</b> Can an contract be held unenforceable because of unconscionability?</li>
+    <li><b>Rule:</b> Unconscionability has generally been recognized to include an absence of meaningful choice on the part of one of the parties, given the circumstances, together with contract terms that are unreasonably favorable to the other party.</li>
+    <li><b>Conclusion:</b> The Court held that Congress had enacted D.C. Code Ann. § 2-302 (Supp. 1965) of the Uniform Commercial Code and that a court had authority to refuse to enforce a contract found to be unconscionable at the time it was made, the court reviewed the contract to consider the contract's terms in light of the general commercial background and the commercial needs of the particular trade or case. Ordinarily, one who signs an agreement without full knowledge of its terms might be held to assume the risk that he has entered a one-sided bargain. But when a party of little bargaining power, and hence little real choice, signs a commercially unreasonable contract with little or no knowledge of its terms, it is hardly likely that his consent, or even an objective manifestation of his consent, was ever given to all the terms.The court remanded the case, stating that the trial court could refuse to enforce a contract that it found to be unconscionable at the time it was made.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
 ---
 
 

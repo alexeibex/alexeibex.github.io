@@ -422,3 +422,6 @@ No Arbitration Term  | Arbitration Term
   - Court uses 2-207(2)(b) and rejects Easterbrook approach
     - Material Alteration of Terms
 - See *[Step-Saver Data Sys. v. Wyse Tech., Inc](link)*
+
+
+####

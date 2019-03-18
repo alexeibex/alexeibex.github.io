@@ -62,5 +62,32 @@ Notice  | Y  |  N | Y  |  N
 
 
 
-#### Case law on Covenants
-- See *[Tulk v. Moxhay](Link)*
+#### Origin of Covenants
+- The court here held that if the original covenant is to have any value, it must be enforceable against subsequent purchasers.
+  - Era Prior to Zonining, Enforcing Covenants ensures that people will not be afraid to sell their property
+  - Cost of Covenant was priced into purchasing price.
+  - See *[Tulk v. Moxhay](Link)*
+    - Does the burden run w/ the land?
+      - Was the original agreement in writing?
+        - Yes it was written into the deed.
+      - Was it intended to make successor parties bound to the agreement?
+        - Yes, b/c deed’s lang explicitly states " & his heirs & his assigns."
+      - Does this covenant touch & concern the land?
+        - Yes, b/c covenant controls what happens to the
+      land.
+      - Do we have vertical privity?
+        - Yes, b/c there is no hostile nexus.
+        - New burdened party purchased it from original
+      owner.
+     - Was there notice?
+        - Yes, it was stipulated; the new burdened party admitted he knew about it.
+     - Was there horizontal privity?
+        - NO! No horizontal privity here, b/c under English law at this time, the only way to get Horizontal privity was between Lessor- Lessee which is not the case here! (today, this would not be an issue, because there’s Horizontal privity between grantor-grantee in sale)
+     - Thus, this burden does not run w/ land.
+   - Not an easement
+     - Resembles Negative Easement but not within the 4 categofies of engative easements
+
+- Touch and Concern Issues
+  - Highly Depend
+  - Does the covenant/Servitude benefit the community as a whole AND (so that it) improves the value of the land
+    - See *[Neponsit Property Owners’ Association, Inc., v. Emigrant Industrial Savings Bank](Link)]

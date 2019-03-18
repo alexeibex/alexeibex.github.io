@@ -1189,7 +1189,24 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
     <li><b>Facts:</b> Tulk owned a vacant lot & some nearby houses in a London Sqaure. He sold the vacant lot a 3rd party w/ a sales contract that specified that the owner (BURDENED PARTY), and all heirs and assignees, would maintain the vacant lot as a "pleasure garden," and charge admission = COVENANT.The property is sold many times, eventually passed by divers mesne coveyances to D Moxhay. By the time Moxhay bought the land, the deed said nothing about maintaining the land as a garden.• D admitted he did know about the covenant restricting building on the lot. P Tulk sued for injunction, & force D to abide by the terms of the original agreement P made w/ original buyer.</li>
     <li><b>Issue:</b> Was P Tulk entitled to an Injunction, preventing D from building a garden, when D knew about the Covenant which D's prior owner had entered into restricting such gardens?</li>
     <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b> There are 2 categories of covenants: Negative covenants are an agreement not to do something e.g. not to build a house on the property. Affirmative covenants are an agreement to do something. • e.g. to maintain a garden. In general, courts (in England anyway) have held that neg covenants are assignable & run w/ land, while affirmative covenants are not assignable & don’t run w/ land. In the US, affirmative covenants are sometimes enforceable as equitable servitudes.</li>
+    <li><b>Conclusion:</b> The court here held that if the original covenant is to have any value, it must be enforceable against subsequent purchasers. There are 2 categories of covenants: Negative covenants are an agreement not to do something e.g. not to build a house on the property. Affirmative covenants are an agreement to do something. e.g. to maintain a garden. In general, courts (in England anyway) have held that neg covenants are assignable & run w/ land, while affirmative covenants are not assignable & don’t run w/ land. In the US, affirmative covenants are sometimes enforceable as equitable servitudes.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Neponsit Property Owners’ Association, Inc., v. Emigrant Industrial Savings Bank](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Original sale had Covenant, imposing affirmative duty to pay for HOA fees (to Nep for public amenity). Covenant didn’t pertain to this particular land but overall.</li>
+    <li><b>Issue:</b> Does this Covenant Touch & Concern the land?</li>
+    <li><b>Rule:</b> A covenant to pay an annual charge to a property owner's association does touch/concern the land! A covenant must touch or concern the land. Does the covenant impose a burden upon an interest in land, which on the other hand, increases the value in the same & related land?" If yes, then Touch & Concern is satisfied. </li>
+    <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

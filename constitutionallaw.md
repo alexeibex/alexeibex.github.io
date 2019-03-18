@@ -2964,7 +2964,6 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
 
 
-
 #### Case: *[Whole Women's Health et al. v. Hellerstedt, Commissioner, Texas Department of State Health Services, et al.](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -2981,8 +2980,7 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
-
-
+#### Supreme Court and Sexuality
 
 #### Case: *[Romer v. Evans](Link)*
 
@@ -3009,6 +3007,60 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b> Is the Texas statute making it a crime for two persons of the same sex to engage in certain intimate sexual conduct a violation of the Due Process Clause of the Fourteenth Amendment?</li>
     <li><b>Rule:</b> The State cannot demean a homosexual person's existence or control their destiny by making their private sexual conduct a crime. Their right to liberty under the Due Process Clause gives them the full right to engage in their conduct without intervention of the government. It is a promise of the Constitution that there is a realm of personal liberty which the government may not enter.</li>
     <li><b>Conclusion:</b> The Texas statute furthers no legitimate state interest which can justify its intrusion into the personal and private life of the individual.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[United States v. Windsor](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defense of Marriage Act, which denied recognition of same-sex marriages, was unconstitutional since the disallowance of a surviving-spouse estate tax exemption based on the same-sex marriage of the spouse and the decedent, which was recognized by the state, was a deprivation of the equal liberty of persons that was protected by the Fifth Amendment.</li>
+    <li><b>Facts:</b> The State of New York recognized the marriage of New York residents Edith Windsor and Thea Spyer, who wed in Ontario, Canada in 2007. When Spyer died in 2009, she left her entire estate to Windsor. Windsor sought to claim the federal estate tax exemption for surviving spouses but was barred from doing so by § 3 of the federal Defense of Marriage Act (DOMA), codified at 11 U.S.C. § 7. Section 3 amended the Dictionary Act--a law providing rules of construction for over 1,000 federal laws and the whole realm of federal regulations--to define “marriage” and “spouse” as excluding same-sex partners. Windsor paid $363,053 in estate taxes and sought a refund, which the Internal Revenue Service denied. Windsor filed a refund suit contending that DOMA violated the principles of equal protection incorporated in the Fifth Amendment. While the suit was pending, the Attorney General notified the Speaker of the House of Representatives that the Department of Justice would no longer defend § 3's constitutionality. In response, the Bipartisan Legal Advisory Group (BLAG) of the House of Representatives voted to intervene in the litigation to defend § 3's constitutionality. The District Court permitted the intervention. On the merits, the court ruled against the United States, finding § 3 unconstitutional and ordering the Treasury to refund Windsor's tax with interest. On appeal, the Second Circuit affirmed. The United States has not complied with the judgment.</li>
+    <li><b>Issue:</b> Was the Defense of Marriage Act unconstitutional for disallowing a tax refund and estate tax exemption for surviving spouses of a same-sex marriage?</li>
+    <li><b>Rule:</b> State laws defining and regulating marriage must respect the constitutional rights of persons; but, subject to those guarantees, regulation of domestic relations is an area that has long been regarded as a virtually exclusive province of the states.</li>
+    <li><b>Conclusion:</b> The U.S. Supreme Court held that § 3 of DOMA was unconstitutional as a deprivation of the equal liberty of persons that was protected by the Fifth Amendment. The statute was applicable to a wide variety of over 1,000 federal statutes and regulations in addition to the tax exemption, and was directed to a class of persons the state sought to protect by recognizing same-sex marriages, in furtherance of no specific federal policy. The state's decision to give same-sex couples the right to marry conferred upon them a dignity and status of immense import, but the government used the state-defined class for the opposite and improper purpose of imposing restrictions and disabilities. Thus, § 3 of DOMA, which sought to injure the very same-sex class the state sought to protect, violated basic due process and equal protection principles by identifying and making unequal a subset of state-sanctioned marriages.
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Obergefell v. Hodges](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Under the Due Process and Equal Protection Clauses of the Fourteenth Amendment, same-sex couples have a fundamental right to marry, and state laws excluding same-sex couples from civil marriage were held invalid; states cannot refuse to recognize a lawful same-sex marriage performed in another state on the ground of its same-sex character.</li>
+    <li><b>Facts:</b> Michigan, Kentucky, Ohio, and Tennessee define marriage as a union between one man and one woman. Fourteen same-sex couples, and two men whose same-sex partners were deceased, filed suits in Federal District Courts in their home States, claiming that respondent state officials violated the Fourteenth Amendment by denying them the right to marry or to have marriages lawfully performed in another State given full recognition. Each District Court ruled in petitioners' favor, but the Sixth Circuit consolidated the cases and reversed.</li>
+    <li><b>Issue:</b> Did the state officials violate the Fourteenth Amendment by denying same-sex couples the right to marry?</li>
+    <li><b>Rule:</b> The right to marry is a fundamental right inherent in the liberty of the person, and under the Due Process and Equal Protection Clauses of the Fourteenth Amendment couples of the same-sex may not be deprived of that right and that liberty. Same-sex couples may exercise the fundamental right to marry. No longer may this liberty be denied to them. Baker v. Nelson, 409 U.S. 810 (1972) must be and is overruled, and Mich. Const. art. I, § 25, Ky. Const. § 233a, Ohio Rev. Code Ann. § 3101.01 (2008), and Tenn. Const. art. XI, § 18 are held invalid to the extent they exclude same-sex couples from civil marriage on the same terms and conditions as opposite-sex couples. </li>
+    <li><b>Conclusion:</b> The Court held that under the Due Process and Equal Protection Clauses of the Fourteenth Amendment, same-sex couples have a fundamental right to marry. Laws of Michigan, Kentucky, Ohio, and Tennessee were held invalid to the extent they excluded same-sex couples from civil marriage on the same terms and conditions as opposite-sex couples. Because same-sex couples can exercise the fundamental right to marry in all states, it follows that there is no lawful basis for a state to refuse to recognize a lawful same-sex marriage performed in another state on the ground of its same-sex character. The Court reversed the judgment of the Sixth Circuit.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Supreme Court and Medical Care Deicions
+
+#### Case: *[Cruzan v. Director, Missouri Dept of Health](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Petitioner parents' request to withdraw their vegetative daughter's feeding and hydration equipment was denied where there was no clear and convincing evidence of patient's desire to have life-sustaining treatment withdrawn.</li>
+    <li><b>Facts:</b> Petitioner Nancy Cruzan is incompetent, having sustained severe injuries in an automobile accident, and now lies in a Missouri state hospital in what is referred to as a persistent vegetative state: generally, a condition in which a person exhibits motor reflexes but evinces no indications of significant cognitive function. The State is bearing the cost of her care. Hospital employees refused, without court approval, to honor the request of Cruzan's parents, copetitioners here, to terminate her artificial nutrition and hydration, because that would result in death. A state trial court authorized the termination, finding that a person in Cruzan's condition has a fundamental right under the State and Federal Constitutions to direct or refuse the withdrawal of death-prolonging procedures, and that Cruzan's expression to a former housemate that she would not wish to continue her life if sick or injured unless she could live at least halfway normally suggested that she would not wish to continue on with her nutrition and hydration. </li>
+    <li><b>Issue:</b> Is the right to refuse treatment embodied in the common-law doctrine of informed consent, applicable in this case?</li>
+    <li><b>Rule:</b> No right is held more sacred, or is more carefully guarded, by the common law, than the right of every individual to the possession and control of his own person, free from all restraint or interference of others, unless by clear and unquestionable authority of law. This notion of bodily integrity has been embodied in the requirement that informed consent is generally required for medical treatment. Every human being of adult years and sound mind has a right to determine what shall be done with his own body; and a surgeon who performs an operation without his patient's consent commits an assault, for which he is liable in damages. The informed consent doctrine has become firmly entrenched in American tort law. The logical corollary of the doctrine of informed consent is that the patient generally possesses the right not to consent, that is, to refuse treatment.</li>
+    <li><b>Conclusion:</b> The Court affirmed the judgment denying a court order directing the withdrawal of petitioners' daughter's artificial feeding and hydration equipment because the U.S. Constitution did not require the state to repose judgment on matters concerning the right to refuse treatment with anyone but the patient herself. It said that the Due Process Clause, U.S. Const. amend. XIV, did not require the state to repose judgment on matters concerning the right to refuse treatment with anyone but the patient herself. The Court held that a state could choose to defer only to the patient's wishes rather than confide the decision to close family members.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

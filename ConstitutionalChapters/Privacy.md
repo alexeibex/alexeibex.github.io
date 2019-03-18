@@ -138,10 +138,58 @@
       - Look to History and the **Most Specific** tradition available protecting this right.
     - See *[Michael H. v. Gerald](link)*
 
+
 ### Sexuality & Hybrid Due Process and Equal Protection Rights
+
 - Reproductive and Sexual autonomy and limitation on government intervention in family relationships
   - Upholding a statute as applied to "homosexual sodomy" and defining narrowly as whether or not the federal Constitution confers a fundamental right upon homosexuals to engage in sodomy and hence invalidates the laws of the many States that make such conduct illegal.
-    - See *[Bowers v. Hardwick](link)*
-- Source of Protection of Homosexuals under the Equal Protection Clause
-  - See *[Romer v. Evans](link)*
--
+  - found that there was no fundamental right to sodomy, and after looking to history, upheld state sodomy ban.
+    - To claim that a right to engage in such conduct is deeply rooted in this Nation's history and tradition or implicit in the concept of ordered liberty is at best facetious.
+      - See *[Bowers v. Hardwick](link)*
+
+- Source of Protection of Homosexuals under the Equal Protection Clause.
+  - There is no rational basis for discriminating against homosexuals solely because of animosity towards homosexuality.
+  - Applies rational basis scrutiny to overturn a constitutional amendment barring LGBT people from seeking legal protection against discrimination. Court reasons that animus **motivated** the legislation, and after being too broad and too narrow, is thus invalid.
+    - See *[Romer v. Evans](link)*
+
+- States cannot prohibit private sexual activity between consenting adults of the same sex.
+  - See *[Lawrence v. Texas](link)*
+    - Overruled Bowers, and invalidated a state law that only applied to same sex interactions. Found that it violated the substantive due process protections. O’Connor concurrence would have found a violation of equal protection, and not overruled Bowers.
+    - Kennedy Majority:
+      - Holding that state may not prohibit sexual consensual activity between consenting adults of the same sex.
+      - 13 states prohibiting homosexual actvity are unconsitutional.
+      - Affirmation of the right to privacy under the Constitution
+      - Recognizing sexual activity as a fundamental aspect of personhood and entitled to constitutional protections.
+      - Recognizing the rights of gays and lesbians to equal dignity and equal treatment under the Constitution.
+
+
+- Themes of Equality within Same-Sex Decisions
+  - Striking down DOMA act which had anti-gay motivations
+    - See *[United States v. Windsor](link)*
+      - Federalism Issues: Power between States & Fedearl Powers of Marriage
+      - Equal Protection Issues: Discrimination between different sex marriage and same sex marriage
+      - Similar to *[Romer](Link)* in that identifies animus and moral reasons for invalidation of statute.
+
+- Full Protection of Same-Sex Marriage under the 14th Amendment and Equal Protection
+  - See *[Obergefell v. Hodges](link)*
+    - Similar to *[Loving](link)*
+      - Rising from the most basic human needs, marriage is essential to our most profound hopes & aspirations
+      - Right to Choose = Individual Autonomy
+      - Supports a two-person union unlike any other in its importance to the committed individuals - See *[Griswold](link)*
+      - Safeguarding children and families and thus draws meaning from related rights of childrearing, procreation, and education
+    - 4 Principles = Marriage as a Fundamental Right to Marry + The Right to marry anyone you want regardless of sex
+      - Liberty promised by the 14th amendment and equal protection of the laws & same sex couples may not be deprived of that right and that liberty
+    - Scalia Dissent:
+      - This practice of constitutional revision by an unelected committee of nine, robs the people of the most important liberty asserted in the Declaration of Independence, **the freedom to govern themselves**.
+        - Makes the people subordinate to a committee of unelected lawyers does not deserve to be called a democracy.
+
+
+
+### Constitutional Protection for Medical Care Decisions
+- Court has considered 3 topics in regards to Medical Decisions
+  - Circumstances where there is a constitutional right to have the government provide care
+  - Whether there is a right to refuse medical care
+  - Whether there is a constituitonal right to physician-assisted suicide
+
+#### Physician-Assisted Death
+- See *[Cruzan v. Director, Missouri Dept. of Health](link)*
