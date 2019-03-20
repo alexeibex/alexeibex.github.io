@@ -3067,3 +3067,71 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Washington v. Glucksberg](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Washington state's ban on assisted suicide promoted an important and legitimate government interest and did not offend the Fourteenth Amendment to the United States Constitution.</li>
+    <li><b>Facts:</b> A Washington state statute enacted in 1975 provided that a person was guilty of the felony of promoting a suicide attempt when the person knowingly caused or aided another person to attempt suicide. In 1994, an action was brought in the United States District Court for the Western District of Washington by several plaintiffs, among whom were (1) physicians who occasionally treated terminally ill, suffering patients, and (2) individuals who were then in the terminal phases of serious and painful illnesses. The plaintiffs, asserting the existence of a liberty interest protected by the Federal Constitution's Fourteenth Amendment which extended to a personal choice by a mentally competent, terminally ill adult to commit physician-assisted suicide, sought a declaratory judgment that the Washington statute was unconstitutional on its face.</li>
+    <li><b>Issue:</b> Does the Washington statute prohibiting the aiding of suicide violate the Fourteenth Amendment?</li>
+    <li><b>Rule:</b> In addition to the specific freedoms protected by the Bill of Rights, the "liberty" specially protected by the Due Process Clause, U.S. Const. amend. XIV, includes the rights to marry, to have children, to direct the education and upbringing of one's children, to marital privacy, to use contraception, to bodily integrity, and to abortion, the United States Supreme Court has also assumed that the Due Process Clause protects the traditional right to refuse unwanted lifesaving medical treatment.</li>
+    <li><b>Conclusion:</b> The Court held that the assisted-suicide ban was rationally related to a legitimate government interest because Washington sought to preserve human life and also uphold the integrity and ethics of the medical profession. Additionally, Washington's statute sought to protect vulnerable groups, such as the poor, elderly, and disabled from abuse, neglect, and mistakes. Finally, the Court held that Washington's ban on assisted-suicide effectively prevented a broader license to voluntary or involuntary euthanasia. The Washington statute did not violate the due process clause--either on the statute's face or as the statute was applied to competent, terminally ill adults who wished to hasten their deaths by obtaining medication prescribed by their physicians--because (1) pursuant to careful formulation of the interest at stake, the question was whether the liberty specially protected by the due process clause included a right to commit suicide which itself included a right to assistance in doing so; (2) an examination of the nation's history, legal traditions, and practices revealed that the asserted right to assistance in committing suicide was not a fundamental liberty interest protected by the due process clause; (3) the asserted right to assistance in committing suicide was not consistent with the Supreme Court's substantive due process line of cases; and (4) the state's assisted suicide ban was at least reasonably related to the promotion and protection of a number of Washington's important and legitimate interests.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Vacco v. Quill]](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> New York's statute outlawing physician-assisted suicide was not unconstitutional because the distinction between assisting suicide and withdrawing life-sustaining treatment had a rational basis.</li>
+    <li><b>Facts:</b> Appellee physicians asserted that although it would be consistent with the standards of their medical practices to prescribe lethal medication for mentally competent, terminally ill patients who were suffering great pain and desired a doctor's help in taking their own lives, they were deterred from doing so by New York's ban on assisting suicide, N.Y. Penal Law § 125.15. Appellant sought review of the judgment of the appellate court determining that New York's prohibition on assisting suicide, N.Y. Penal Law § 125.15, violated the Equal Protection Clause of the Fourteenth Amendment. The Supreme Court of United States reversed the judgment of the appellate court.</li>
+    <li><b>Issue:</b>Did New York's prohibition on assisting suicide violate the Equal Protection Clause of the Fourteenth Amendment?</li>
+    <li><b>Rule:</b> The Equal Protection Clause, U.S. Const. amend. XIV, commands that no state shall deny to any person within its jurisdiction the equal protection of the laws. This provision creates no substantive rights. Instead, it embodies a general rule that states must treat like cases alike but may treat unlike cases accordingly.</li>
+    <li><b>Conclusion:</b>The New York criminal statutes did not violate the equal protection clause, because (1) the criminal statutes neither infringed fundamental rights nor involved suspect classifications; (2) on their faces, neither the statutes banning assisted suicide nor the statutes permitting the refusal of medical treatment treated anyone differently than anyone else or drew any distinctions between persons; (3) the distinction between assisting suicide and refusing lifesaving medical treatment was important, logical, and rational; and (4) New York's reasons for recognizing and acting on the distinction between assisting suicide and refusing lifesaving medical treatment were valid and important public interests. Thus, it was entitled to a strong presumption of validity.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Procedural Due Process & The Right to a Hearing
+
+#### Economic Due Process & Takings
+#### Case: *[Kelo v. City of New London](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Acquisition of unblighted properties by eminent domain to allow implementation of a waterfront development plan did not violate the Takings Clause of the Fifth Amendment; there was no basis for finding that economic development was not a valid public purpose or for requiring that public benefits were reasonably certain to accrue.</li>
+    <li><b>Facts:</b>Plaintiff property owners, Susette Kelo, et al., initially sought declaratory judgments as to various actions taken by the defendant, City of New London in exercising the power of eminent domain over certain property. The city ultimately prevailed and subsequently requested court costs pursuant to Conn. Gen. Stat. § 52-257. The property owners objected to costs for indemnity fees, examination of land records, maps, plans, photographs, and witness fees.</li>
+    <li><b>Issue:</b> Under Conn. Gen. Stat. § 52-257, should the defendant, City of New London be granted court costs (i.e. indemnity fees, examination of land records, maps, plans, photographs, and witness fees)?</li>
+    <li><b>Rule:</b> Because the court is bound by its sound discretion, it may consider the circumstances from which a reasonable award of costs for witness fees may be administered. In the context of Conn. Gen. Stat. § 52-260(f), the statute governing witness fees in general, there has been a split of authority in the Connecticut Superior Court as to whether expert preparation time should be included in the costs awarded in a civil action.</li>
+    <li><b>Conclusion:</b> The court held that the matters before it were both extraordinary and difficult. Thus, it awarded indemnity fees. Because of the uncertainty between the parties as to when the examination of the land records actually occurred and for what purpose, it was inequitable to permit costs where the examination of the land records might have been conducted prior to the commencement of the present action, and not in preparation for the underlying litigation. Therefore, costs for the examination of the land records were not awarded. The city asserted that the maps, plans and/or photographs were actually used at trial as exhibits. There was no showing that those exhibits were produced or constructed prior to the commencement of the present case. Thus, costs were awarded for those exhibits. Witness fees were awarded for trial testimony, testimony preparation time, and mileage.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Pennsylvania Coal Co. v. Mahon ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The Kohler Act of Pennsylvania was an unconstitutional taking of a coal company's valid contractual rights because it terminated those rights without adequately compensating the coal company. </li>
+    <li><b>Facts:</b>Defendant appealed appellate court's decision for plaintiffs in plaintiffs' suit to enjoin defendant from mining under plaintiffs' house and removing the supports and causing subsidence. A deed granted plaintiffs the surface rights to certain land but reserved to defendant the right to mine all coal under the house. Plaintiffs argued that the Kohler Act, 1921 Pa. Laws 1198, extinguished defendant's right to mine under plaintiffs' surface land. On appeal, the Court reversed. </li>
+    <li><b>Issue:</b>Did the lower court err in ruling that the Kohler Act was a legitimate exercise of police power and a constitutional taking of defendant's contractual and property rights without adequate and just compensation?</li>
+    <li><b>Rule:</b> The general rule at least is, that while property may be regulated to a certain extent, if regulation goes too far it will be recognized as a taking.</li>
+    <li><b>Conclusion:</b>The Court held that the Kohler Act was unconstitutional as a taking of defendant's rights under a valid contract. In order to protect themselves, plaintiffs should have contracted to acquire more than the surface rights. The Kohler Act could not have been used to terminate the valid contractual rights defendant received, nor could the Act could be used to take defendant's contract rights without adequate compensation.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

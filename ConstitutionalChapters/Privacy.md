@@ -193,3 +193,25 @@
 
 #### Physician-Assisted Death
 - See *[Cruzan v. Director, Missouri Dept. of Health](link)*
+  - Finds that there is a liberty interest that protects the right to end life support when terminally ill, but that Due Process does not require the ill person demonstrate **with clear and convincing evidence** that it is their desire.
+    - Use of Procedure to solve burden of proof standard
+  - The state can properly put the burden of persuasion, in this circumstance, on the party wanting death.
+    - Court Examination
+      - Constitutionally protected right to refuse unwanted medical treatment
+      - State may require **clear & convincing evidence** that a person wanted treatment terminated before it is cut off.
+      - State may prevent family members from terminating treatment of another.
+
+#### Differing Methodologies on Physician-Assisted Suicide
+- See *[Washington v. Glucksberg](link)*
+  - Rejecting facial challenge to a state law prohibiting aiding a suicide and the claim that there is a consitutional right to physician assisted suicide.
+    - History and Tradition; AND
+      - In almost every state & Western Democracy it is a crime to commit suicide (Deeply Rooted)
+    - Implicit in the Concept of Ordered Liberty
+  - Concurring Opinions: Leaving open the possibility that if the state law prohibited the provision of pain-relieving medication that also accelerated death would be unconstitutional or pain so severe that medication could not alleviate the pain.
+
+#### Meaning and Implications of Glucksberg
+- The Right to Die & Equal Protection
+  - See *[Vacco v. Quill](link)*
+    - Holding that laws prohibiting physician assisted suicide do not violate the equal protection clause.
+      - All have the right to refuse medical care.
+      - When a patient refuses life-sustaining medical treatment, he dies from an underlying fatal disease or pathology, but if a patient ingests lethal medication prescribed by a physician, he is killed by that medication.

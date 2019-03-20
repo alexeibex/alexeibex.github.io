@@ -91,3 +91,41 @@ Notice  | Y  |  N | Y  |  N
   - Highly Depend
   - Does the covenant/Servitude benefit the community as a whole AND (so that it) improves the value of the land
     - See *[Neponsit Property Owners’ Association, Inc., v. Emigrant Industrial Savings Bank](Link)]
+
+
+- Notice Requirements
+  - Subdivsions
+    - A subdivision developer wants to bind all lots to a covenant restricting use to residential purposes. He includes the covenant in each deed. But what if he forgets to include the covenant in some of the deeds? Can it still be enforced as an implied covenant?
+      - A common scheme creates an implied reciprocal covenant that binds successors.
+      - Reciprocal negative easement (but really, an implied reciprocal servitude)
+      - Inquiry notice can be sufficient.
+        - See *[Sanborn v. McClean](link)*
+
+- Termination of Convenant or Servitude
+  - Express Terms
+  - Mergers: (e.g., the owner of the benefited land gains possession of the burdened land).
+  - Release: the parties can agree on an expiration date or agree to release their rights. State statutes might also limit duration or require periodic re-recording
+  - Perscription
+  - Estoppel
+  - Transfer to Bona Fide Purchaser
+  - Changing Circumstances: the covenant becomes unenforceable when the benefits cannot be substantially realized without inequity.
+    - Refusal to enforce deed restrictions (equitable servitude)
+      - By reason of changed conditions, enforcement of the restrictions would be: **Must have all 3**
+        1) inequitable, and
+        2) would harass P,
+        3) without benefitting the adjoining owners(Examine both Market Value & Benefit Receieved in Total); OR
+      - When changed conditions in the neighborhood have rendered the purpose of the restrictions obsolete.
+        - i.e. a P sues to prevent commercial construction, but that P has commercial buildings on their own lots.
+    - See: *[Bolotin v. Ringe](Link)*
+      - Policy of Changed Circumstances
+        - Property lasts a long time as does property
+        - Time & Necessities Change over time
+        - No way to predict the future & Covenants inject inflexibilty in system
+        - Holdout problems
+  - Abandonment: The person entitled to the benefit demonstrates intent to abandon the covenant.
+    - Abandonment of a covenant requires proof that prior violations have eroded the general plan, and enforcement is therefore inequitable. A covenant is abandoned when it has been habitually and substantially violated. But a few violations do not constitute abandonment.
+    - Abandonment requires:
+      1. Prior violations which eroded the general plan;
+      2. Habitual and substantial violations (% of properties out of total violating covenant); and,
+      3. Enforcement of covenant would be unequitable.
+        - See *[Peckham v. Milroy](link)*

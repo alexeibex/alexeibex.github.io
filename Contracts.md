@@ -2514,7 +2514,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 
 
-#### Policing Agreements and Promises
+## Policing Agreements and Promises
 
 #### Case: *[Standard Box Co. v. Mutual Biscuit Co.](Link)*
 
@@ -2681,6 +2681,58 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Unconscionability
+
+#### Case: *[Ryan v. Weiner](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The deed transfer was unconscionable because the transferee, who had greater knowledge and experience, did not ensure that transferor understood the nature of the transaction; transferee's actions were oppressive and one-sided.</li>
+    <li><b>Facts:</b> Plaintiff transferor assumed that he was transferring a deed to defendant real estate broker as a security interest to pay off his outstanding mortgage. Plaintiff filed an action to have the deed cancelled after learning that the deed was not a security interest. The court rescinded the deed. The court found that defendant took advantage of plaintiff. The court found that plaintiff transferred ownership of his property without adequate consideration because he did not receive any party of the financial value of the then equity in the property. Plaintiff remained personally liable for paying off the mortgage balance under the mortgage bond and note. The court found that defendant did not give plaintiff time to seek legal advise or consider alternatives. The plaintiff did not understand the nature and effect of the papers he signed, and that the transaction involved shockingly unconscionable financial terms and defendant used predatory practices. The facts of the case were equivalent of cases in which courts have set aside land transfers as fraudulent or constructively fraudulent.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court rescinded the transaction.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Procedural and Substantive Unconscionability
+
+#### Case: *[Industrialease Automated & Scientific Equipment Corp. v. R.M.E. Enterprises Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Disclaimers of certain express warranties contained in lessors' and lessees' equipment lease were unconscionable and, therefore, unenforceable, where the equipment, incinerators, never functioned.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Jones v. Star Credit Corp.](Link)*
+
+<details><summary><i>Case Brief</i> </summary>
+  <ul>
+    <li><b>Overview:</b> An installment agreement between retailer and husband and wife welfare recipients was found unconscionable due to gross inequality in bargaining power between parties and the actual terms of said agreement and the actual terms of said agreement.</li>
+    <li><b>Facts:</b> Plaintiffs, husband and wife welfare recipients, agreed to purchase a home freezer unit from defendant retailer for $ 900. With the addition of time credit charges, credit life insurance, credit property insurance, and sales tax, the purchase price totaled $ 1234. Plaintiffs paid $ 619 toward their purchase, but defendant claimed that with various added credit charges, there was a balance due of $ 819. The trial court established that the freezer unit, when purchased by plaintiffs, had a maximum retail value of approximately $ 300.</li>
+    <li><b>Issue:</b> Does the sale of a freezer unit having a retail value of $300 for $900 unconscionable?</li>
+    <li><b>Rule:</b> The meaningfulness of choice essential to the making of a contract can be negated by a gross inequality of bargaining power.</li>
+    <li><b>Conclusion:</b>The court found that, under the circumstances, the sales agreement was unconscionable within the meaning of the Uniform Commercial Code, U.C.C. § 2-302 (1964). The court held that defendant was amply compensated, and that the sales agreement was to be reformed and amended by changing the payments called for therein to equal the amount already paid by plaintiffs.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 ---
 

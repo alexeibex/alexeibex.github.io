@@ -1197,16 +1197,125 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 - <span style="color:red">**Class Discussion**</span>
 
-
+#### Touch and Concern Land
 #### Case: *[Neponsit Property Owners’ Association, Inc., v. Emigrant Industrial Savings Bank](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b>Plaintiff's lien, arising from covenant, against defendant's real property was enforceable as covenant ran with land; covenant intended to run with land, covenant touched and concerned land, and parties had privity of estate.</li>
     <li><b>Facts:</b> Original sale had Covenant, imposing affirmative duty to pay for HOA fees (to Nep for public amenity). Covenant didn’t pertain to this particular land but overall.</li>
-    <li><b>Issue:</b> Does this Covenant Touch & Concern the land?</li>
-    <li><b>Rule:</b> A covenant to pay an annual charge to a property owner's association does touch/concern the land! A covenant must touch or concern the land. Does the covenant impose a burden upon an interest in land, which on the other hand, increases the value in the same & related land?" If yes, then Touch & Concern is satisfied. </li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Issue:</b> Does this Covenant Touch & Concern the land? Whether a covenant in a deed of conveyance over a land binds all subsequent owners including purchasers in a judicial sale?</li>
+    <li><b>Rule:</b> Regardless of the intention of the parties, a covenant will run with the land and will be enforceable against a subsequent purchaser of the land at the suit of one who claims the benefit of the covenant, only if the covenant complies with certain legal requirements. The age-old essentials of a real covenant, aside from the form of the covenant, may be summarily formulated as follows: (1) it must appear that grantor and grantee intended that the covenant should run with the land; (2) it must appear that the covenant is one "touching" or "concerning" the land with which it runs; (3) it must appear that there is "privity of estate" between the promisee or party claiming the benefit of the covenant and the right to enforce it, and the promisor or party who rests under the burden of the covenant. A covenant to pay an annual charge to a property owner's association does touch/concern the land! A covenant must touch or concern the land. Does the covenant impose a burden upon an interest in land, which on the other hand, increases the value in the same & related land?" If yes, then Touch & Concern is satisfied. </li>
+    <li><b>Conclusion:</b> Defendant was properly denied judgment on the pleadings as the evidence showed that plaintiff's lien was a valid and enforceable covenant that ran with the land. Regardless of the intention of the parties, a covenant will run with the land and will be enforceable against a subsequent purchaser of the land at the suit of one who claims the benefit of the covenant, only if the covenant complies with the following: (1) it must appear that grantor and grantee intended that the covenant should run with the land; (2) it must appear that the covenant is one "touching" or "concerning" the land with which it runs; (3) it must appear that there is "privity of estate" between the promisee or party claiming the benefit of the covenant and the right to enforce it, and the promisor or party who rests under the burden of the covenant. The covenant in this case may properly be said to touch and concern the land and its burden should run with the land since it created an easement or right of common enjoyment not just with defendant’s property, but all other property owners who would stand benefited by the maintenance of the roads and public places.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Notice Requirement
+#### Case: *[Eagle Enterprise, Inc. v. Gross](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A covenant requiring the owner of land to buy water from a particular source was held unenforceable because it did not sufficiently touch and concern the land.</li>
+    <li><b>Facts:</b> Respondent purchased land under a deed containing a covenant whereby the owner of the land would purchase water from appellant. According to the stipulated facts, respondent refused to accept and pay for water offered by appellant since he has constructed his own well to service what is now a year-round dwelling. Appellant, therefore, instituted this action to collect the fee specified in the covenant (contained only in the original deed to the subdivision owner Baum) for the supply of water which, appellant contends, respondent is bound to accept. The action was styled as one "for goods sold and delivered" even though respondent did not utilize any of appellant's water. Two of the lower courts found that the covenant "ran" with the land and, hence, was binding upon respondent as successor to the Baums, but the Appellate Division reversed and held that the covenant could not be enforced against respondent. The Court of Appeals of New York affirmed the appellate court's dismissal of the complaint</li>
+    <li><b>Issue:</b> Is the promise of the original grantees to accept and make payment for a seasonal water supply from the well of their grantor enforceable against subsequent grantees and may be said to "run with the land?" </li>
+    <li><b>Rule:</b> Regardless of the express recital in a deed that a covenant will run with the land, a promise to do an affirmative act contained in a deed is generally not binding upon subsequent grantees of the promisor. For a covenant to run with the land, it must be shown that: (1) the original grantee and grantor intended that the covenant run with the land, (2) there exists "privity of estate" between the party claiming the right to enforce the covenant and the party upon whom the burden of the covenant is to be imposed, and (3) the covenant must "touch and concern" the land with which it runs. Even though the parties to the original deed expressly state in the instrument that the covenant will run with the land, such a recital is insufficient to render the covenant enforceable against subsequent grantees if the other requirements are not met.</li>
+    <li><b>Conclusion:</b> The covenant for water supply did not sufficiently touch and concern the land to be enforceable. Even though the parties to the original deed expressly state in the instrument that the covenant will run with the land, such a recital is insufficient to render the covenant enforceable against subsequent grantees if the other requirements for the running of an affirmative covenant are not met.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Sanborn v. McLean](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendants properly enjoined from erecting gasoline station on lot as reciprocal negative easement burdened all lots, and lot owners were charged with carrying out and continuing common residential scheme.</li>
+    <li><b>Facts:</b> A subdivision was planned as a group of residential properties. One of the buyers sold their residential property to defendants. Defendants wanted to build a gas station in the neighborhood, and the subdivision filed suit to stop them.Defendants insisted that no restrictions appeared in the chain of title and they purchased the land without notice of any reciprocal negative easement</li>
+    <li><b>Issue:</b> Is defendants' lot subject to a reciprocal negative easement? </li>
+    <li><b>Rule:</b> In a common development scheme, there are restrictions that are outside the direct chain of title as long buyers are deemed to have constructive notice. A reciprocal negative easement attaches to all land in a common development scheme.</li>
+    <li><b>Conclusion:</b> On appeal, the court upheld the decree, stating that restrictions were upon defendants' lot while it was still in the hands of common owners. Further, the abstract of title to defendants' lot revealed the common owners and the record showed deeds of lots in the plat were restricted to perfect and carry out the general plan which resulted in a reciprocal negative easement upon defendants' lot and all lots within its scope. Defendants and their predecessors in title were bound by constructive notice under the recording acts. For 30 years, the united interests of all persons interested had carried out the common purpose of making and keeping all lots strictly residential, and defendants were the first to depart therefrom.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Termination of Covenants or Servitudes
+#### Case: *[Bolotin v. Ringe](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b> Neighborhood’s original sub-divider included Covenants through Deed Restrictions, req’ing all used for single residences; to expire in 70s. Covenant expiration dates (sunset provisions) are a way to deal with changed circumstances. Neighborhood has changed greatly since original.P Bolotin wants to build a commercial building which would violate this covenant. P Bolotin brought suit to Void Covenant, allowing him to build commercial bldg.</li>
+    <li><b>Issue:</b> When should a court refuse to enforce Covenant Deed Restrictions (when do courts void Equitable Servitudes)?</li>
+    <li><b>Rule:</b> A court should refuse to enforce deed restrictions (equitable servitudes), a/k/a New Circumstances eliminate the purpose of the Covenant, when either: 1. By reason of changed conditions, enforcement of the restrictions would be 1) inequitable, and 2) would harass P, 3) without benefitting the adjoining owners. (must have all 3); OR 2. When changed conditions in the neighborhood have rendered the purpose of the restrictions obsolete. i.e. a P sues to prevent commercial construction, but that P has commercial buildings on their own lots.</li>
+    <li><b>Conclusion:</b> Upheld the original Covenant’s deed restrictions, b/c no findings that the restrictions’ purposes were absolute.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Abandonment of Covenants
+#### Case: *[Peckham v. Milroy](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Presence of some home based businesses in violation of restrictive covenant were not habitual and substantial violations constituting abandonment of covenant to prevent respondent from enforcing it against a home day-care.</li>
+    <li><b>Facts:</b> Appellant began operating a day-care in their residence. A restrictive covenant prohibited home businesses in the neighborhood, and appellant's property was subject to the covenant. Appellee sued to enjoin the day-care operation. The trial court concluded that the day-care was a business, the appellee had an equitable right to enforce the covenant, and enjoined appellant from operating the day care. On appeal, appellant argued that the trial court erred by enjoining his day-care business because the restrictive covenant was abandoned or violated public policy. Appellant also asserted the defenses of laches and equitable estoppel. The appellate court affirmed the trial court’s order.</li>
+    <li><b>Issue:</b> Did the trial court err in enjoining appellant’s day-care business because the restrictive covenant was abandoned, or violated public policy?</li>
+    <li><b>Rule:</b> Abandonment of a covenant requires proof that prior violations have eroded the general plan, and enforcement is therefore inequitable. A covenant is abandoned when it has been habitually and substantially violated. But a few violations do not constitute abandonment.</li>
+    <li><b>Conclusion:</b> While there was evidence of other home businesses in the neighborhood, these violations were neither habitual nor substantial, and therefore did not constitute abandonment of the covenant. Appellant did not demonstrate material changes in neighborhood to defeat enforcement of the covenant. The trial court's findings were amply supported by the evidence, and supported its conclusions of law that the covenant had not been abandoned through disuse. The covenants also did not violate public policy.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Law of Neighbors
+#### Trespass v. Nuisance
+
+#### Case: *[Adams v. Cleveland-Cliffs Iron Co. ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Law of trespass in Michigan does not cover airborne particulate, noise, or vibrations; complaint alleging damages resulting from these irritants normally sound instead in nuisance.</li>
+    <li><b>Facts:</b> Appellants, who lived near a large iron mine, sought review from a judgment entered by the circuit court after a jury verdict awarded damages in trespass for invasions of plaintiffs' property by intrusions of dust, noise, and vibrations that emanated from the mine.</li>
+    <li><b>Issue:</b> Does the law of trespass in Michigan recognize a cause of action in trespass stemming from invasions of these intangible agents?</li>
+    <li><b>Rule:</b> Law of trespass in Michigan does not cover airborne particulate, noise, or vibrations.</li>
+    <li><b>Conclusion:</b> Recovery for trespass to land in Michigan is available only upon proof of an unauthorized direct or immediate intrusion of a physical, tangible object onto land over which the plaintiff has a right of exclusive possession. Once such an intrusion is proved, the tort has been established, and the plaintiff is presumptively entitled to at least nominal damages.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Campbell v. Seaman](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Landowner created nuisance when he began using anthracite coal in his kiln to cure brick and sulfuric acid gas was released, causing his neighbor's trees to die; landowner was enjoined from using anthracite coal and required to pay damages.</li>
+    <li><b>Facts:</b> P landowners had ornamental trees destroyed by D’s brickyard that was not in operation when P purchased land.</li>
+    <li><b>Issue:</b> Did D brickyard commit Nuisance?</li>
+    <li><b>Rule:</b> To constitute a nuisance, use must produce a tangible & appreciable injury to neighboring property, or render its enjoyment uncomfortable/inconvenient. Every person may exercise exclusive dominion over his own property. But, this is limited by the principle of sic utero: use what is yours so as not to injure others. But, does not mean that 1 may never use his property in a way that injures neighbor though. This principle does not prohibit all injury to others; landowner can do some activities though they will harm others for policy reasons.Every person is bound to make reasonable use of his property so that he does not cause unnecessary damage/annoyance to his neighbor.</li>
+    <li><b>Conclusion:</b> Yes, P wins; granted Injunction against D brickyard.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
