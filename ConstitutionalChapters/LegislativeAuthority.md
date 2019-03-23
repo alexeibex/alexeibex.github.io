@@ -229,5 +229,3 @@
 - Court Rejecting Inactivity
   - Rejecting Congress's ability to compel individuals based on inactivity
   - See *[NFIB v. Sebelius](link)*
-
-### The Taxing and Spending Power

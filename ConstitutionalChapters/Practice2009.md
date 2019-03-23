@@ -1,1 +1,19 @@
 ## 2009 ConLaw
+- Source of Constitutional Authority
+  - HEAL act passed under the Commerce Clause & taxing and Spending Power
+  - Under the commerce clause and via the neccessary and proper lcause, Congress may regulate anything which has a substantial effect on interstate commerce as well as the channels and instrumentalities of commerce.
+    - Congress has the ability to regulate health because 45 million americans who do not have adequate healthcare substantially effects interstate commerce. Since 1937 the Court has expanded Congress's ability to regulate insterate commerce. Only recently in the decisons of Morrison and Lopez has the Court recently taken a stand and limited Congress to ensuring that the conduct or thing is not too tangentially related to interstate commerce. Here the act attempts to regulate various aspects of healthcare. Section aims to regulate employers, Section 2 individuals, Section 3 health provider companies, section 4 & 5. states. The court will need to determine whether or not healthcare itself is a thing that falls into the expansive defintion of commerce. The object or conduct must have economic value. Here the health of 45 million americans could be interpreted as being of substantial effect.
+      - Section 1
+        - Regulation of Employers
+        - Power = Commerce Clause & Taxing Clause
+        - Issues 
+          - Compelling Companies to Act under Commerce Clause
+          - Discrimination against companies 9 or less
+      - Section 2
+        - Power: Commerce Clause, Necessary & Proper, Tax
+          - Issues
+            - Compelling non-activity
+            - Monetary penalties are not a tax?
+            - Comandeering of state agencies and officials
+      - Section 3
+        -

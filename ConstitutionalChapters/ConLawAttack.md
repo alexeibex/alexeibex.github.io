@@ -3,7 +3,7 @@
 ### Contents
 1. Legislative Authority to Act
 2. Commerce Clause via Necessary & Proper Attack
-2.
+3. Dormant Commerce Clause
 
 
 
@@ -16,7 +16,7 @@ Themes
 
 
 
-## 1. Scope of Legislative Powers to Act
+## 1. Legislative Powers to Act
 - Pervasive Concerns & Themes Throughout Analysis
   - Should Congress get *involved*?
     1. Decreasing overall likelihood of Federal Tyranny
@@ -43,7 +43,7 @@ Themes
 -  *Major Theme of Push & Pull Between State v. Federal Government*
   - Case *[McCulloch](https://alexeibex.github.io/constitutionallaw#case-mcculloch-v-maryland)*
 
-## Commerce Clause Attack
+## 2. Commerce Clause Attack
 ### Necessary and Proper
 - Let the end be legitimate, let it be within the scope of the Constitution, and all means which are appropriate, which are plainly adapted to that end, which are not prohibited, but consist with the letter and spirit  of the constitution, are constitutional.
 - Necessary means useful & desirable not indispensible or essential
@@ -89,7 +89,7 @@ Themes
   1. Channels of Interstate Commerce
     - Navigable Waters & Highways - Case: *Gibbons*
   2. Instrumentalities of Interstate Commerce
-    - Lottry tickets,Commercial Items Crossing State Lines
+    - Lottery tickets,Commercial Items Crossing State Lines
   3. Activities with a Substantial Effect on Interstate Commerce
     - Intrastate Commerce Included
       - Requires Aggregation of Activity - Case: *Wickard*
@@ -143,3 +143,181 @@ Themes
     - Cannot use crippiling amount of funds to **coerce** state leaders into accepting conditions
       - Dole = 5% of state budget v. Sebelius 10% of state income (Gun to head)
       - Case: [Sebelius](https://alexeibex.github.io/constitutionallaw#case-national-federation-of-independent-business-v-sebelius-2)
+
+## 3. Fundamental Rights
+- Presence of a Fundamental Right will invoke a **strict scrutiny analysis** through both the Equal Protection Clause and the Due Process Clause
+
+### Assertion of a New Fundamental Right
+#### Traditional Analysis
+- Fundamental Right is *"deeply rooted in our traditions"
+  - Examine **AMERICAN** history and traditions on the practice
+    - Case: *[Glucksberg](https://alexeibex.github.io/constitutionallaw#case-washington-v-glucksberg)*
+  - Define the practice at the most **specific level**
+    - Scalia Footnote 6: Look to history and the most specific traditions available to protect the right
+
+#### Obergefell Method
+- Liberty includes specific rights to define and express their identity
+  - Identification of these rights has not been reduced to any one formuala
+    - Case: *[Obergefell](https://alexeibex.github.io/constitutionallaw#case-obergefell-v-hodges)
+- Pneumbra of Rights
+  - Specific guarantees in the Bill of Rights have penumbras, formed by emanations from those guarantees that help give them life and substance.
+    - Case: *[Griswold](https://alexeibex.github.io/constitutionallaw#case-griswold-v-connecticut)
+
+### Fundamental Rights as a Matter of Law
+- Rights are **Fundamental** but **not absolute**. Rights may always be infringed if the government can meet **strict scrutiny**
+
+#### General Rights
+##### General Freedoms
+- Per Case: *[Meyer v. Nebraska](https://alexeibex.github.io/constitutionallaw#case-meyer-v-nebraska)
+  - Engage in common occumpations of life
+  - Establish a home and raise children
+  - To Worship God per own dictates
+  - Enjoy privileges recognized at common law
+
+##### Right to Self-Defense
+- Per Case *[DC v. Heller](link)
+
+##### Bodily Integrity
+- Per Case: *[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+  - Right to be free of unwanted bodily intrusion
+
+##### Freedom to Contract
+- Per Case: *[Lochner Era](https://alexeibex.github.io/constitutionallaw#case-lochner-v-new-york)
+- Per Case: *[Meyer v. Nebraska](https://alexeibex.github.io/constitutionallaw#case-meyer-v-nebraska)
+
+
+#### Family Rights
+##### Right to Marriage (Hetrosexual)
+- Per Case: *[Loving v. Virginia](link)*
+  - People of different races have a fundamental right to marry
+
+##### Right to Marriage (Homosexual)
+- Per Case: *[Obergefell v Hodges](https://alexeibex.github.io/constitutionallaw#case-obergefell-v-hodges)*
+
+##### Right to Legitimate Offspring
+- Per Case: *[Michael H. v. Gerald D.](link)*
+  - Scalia - "Adulterous, Illigitimate fatherhood not recognized by our tradtions and not a fundamental right"
+- Imperctly Recognized Right
+  - Per Case: *[Michael H. v. Gerald D.](link)* Dissent
+    - Unwed fathers have a right to their children per *Natural Rights & Blood*
+
+##### Right to Parents to Control Upbringing
+- Per Case: *[Meyer v. Nebraska](https://alexeibex.github.io/constitutionallaw#case-meyer-v-nebraska)
+- Right to Marry, establish home, raise children
+  - Per Case: *[Pierce v. Society of Sisters](https://alexeibex.github.io/constitutionallaw#case-pierce-v-society-of-sisters-)
+
+##### Right to Select a Family Surrogate
+- Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+  - Ability for healthcare power of attorney
+    - O'Conner Concurring
+
+#### Sexual Autonomy Rights
+##### Right to Privacy
+- Broad Right rooted in freedom from unreasonable searches and seizures among other things...
+  - Privacy right between patients and their doctors
+  - Per Case: *[Griswold v. Connecticut](https://alexeibex.github.io/constitutionallaw#case-griswold-v-connecticut)*
+
+##### Right to Procreation
+- Involuntary sterilization requires strict scruitiny and so procreation is a fundamental right
+  - Per Case: *[Buck v. Bell](link)*
+- Upheld and Affirmed in Skinner
+  - Per Case: *[Skinner v. Oklahoma](https://alexeibex.github.io/constitutionallaw#case-skinner-v-oklahoma)
+
+##### Right to Contraceptives
+- Married Couples have a right to Contraceptives
+  - Per Case: [Griswold v. Connecticut](https://alexeibex.github.io/constitutionallaw#case-griswold-v-connecticut)*
+- Right is Fundamental
+  - To be free from unwarrented governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child
+    -Per Case: *[Eisenstadt v. Baird](Link)
+
+##### Right to Full Sexual Autonomy
+- Government cannot regulate consensual intimate contacts
+  - Per Case: *[Lawrence v. Texas](https://alexeibex.github.io/constitutionallaw#case-lawrence-v-texas)
+    - Dissent: No Right to any kind of sexual guarantee beyond procreation
+    - Concurrence: Outlowing homosexual acts fine so long as straight people have same restrictions
+
+
+#### Medical Autonomy Rights
+##### Right to Privacy
+- Broad Right rooted in freedom from unreasonable searches and seizures among other things...
+  - Privacy right between patients and their doctors
+  - Per Case: *[Griswold v. Connecticut](https://alexeibex.github.io/constitutionallaw#case-griswold-v-connecticut)*
+
+##### Right to Refuse Treatment
+- Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+  - People have a right to refuse death prolonging procedures or the administration of medication
+
+##### Right to Determine Specific Treatment
+- Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+  - O'Conner Concurring
+    - Requiring competnet adult to endure procedures against her will burdens the individual
+
+##### Right to Die with Dignity
+- Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+
+
+##### Right to Select Family Surrogate
+- Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+  - Ability for healthcare power of attorney
+    - O'Conner Concurring
+
+##### Bodily Integrity
+- Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
+
+
+
+## 4. Dormant Commerce Clause & Privileges and Immunities
+- If a law's **purpose OR effect** is to substantially burden interstate commerce, it will be shown as invalid.
+- Two Tests to Determine if Valid
+  1. Dormant Commerce
+  2. Privileges & Immunities
+
+### Dormant Commerce Clause
+#### Discrimnatory Purpose or Effect
+#### Facially Discriminatory (Strict Scruitiny)
+- Purpose clearly met
+  - Case: [Baldwin](https://alexeibex.github.io/constitutionallaw#case-baldwin-v-g-a-f-seelig-inc)
+
+
+#### Discrinatory Purpose or Effect (Strict Scruitiny)
+- Effects based on Case [Hunt v. Washington State Apples](link)
+  - Raising cost of doing business
+  - Removing Competitive advantage of another state's costly enterprise
+  - leveling effect on local business against better out of state business
+  - Light impact on will receive rational basis review
+    - Rational Basis Review: Evidence + Legitimate Interest
+      - Case: [Kassel](https://alexeibex.github.io/constitutionallaw#case-kassel-v-consol-freightways-corp)
+
+#### Application of Proper Test
+- Rational Basis v. Strict Scruitiny
+  - Rational Basis Req:
+    - Legitimate Interest
+    - Actual Evidence
+      - Case: [Kassel](https://alexeibex.github.io/constitutionallaw#case-kassel-v-consol-freightways-corp)
+  - Strict Scruitiny
+    - Strong Presumption against **Facially Discriminatory Laws** with a **Clear Effect**
+      - Compelling Purpose
+      - Narrowly Tailored
+      - Alternatives Available
+
+#### Exceptions to Dormant Commerce Clause
+- Congressional Approval of State Law
+  - If Congress Approves a state law it will be endorsed by the Commerce Clause
+  - Market Participant Exception
+    - Allowing states to favor their own citizens in receiving benefits from government programs and in dealing with government owned business
+
+### Privileges and Immunities
+- States are not allowed to dscriminate against out-of-state citizens with regard to the protection and allocation of **fundamental rights**
+  - *The Citizens of each State shall be entitiled to all Privileges and Immunities of Citizens in the Several States*
+
+#### Articulation of Fundamental Rights & Out of Staters
+- Analysis of rights related to the given prohibition by traditional or Obergefell analysis
+- State law facially treats out-of-state citizens differently
+  - Does not apply to aliens, corps or non citizens
+
+#### Application of Scrutiny
+- Intermediate Scrutiny
+  - Substantial Government Reason for Different Treatment; AND
+  - Discrimination against nonresidents bears a substantial relationship to the objective
+  - Analyzing the fit the court must consider less restrictive means but not the least restrictive
+    - Case: [Piper](https://alexeibex.github.io/constitutionallaw#case-supreme-court-of-new-hampshire-v-piper)
