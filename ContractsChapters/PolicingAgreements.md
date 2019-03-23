@@ -96,9 +96,126 @@
 - Allows for recovery of Punitive Damages
   - Only arises when "duty" to perform contract is done unreasonably or "misfeasance"
 
+#### Inequality of Exchange & Constructive Fraud
+  - Rescission of deed was appropriate to remedy constructive fraud resulting from an inadequate price paid by a brother to his sister, her reliance on his advice and judgment, and mutual mistake of fact as to the subject matter of the contract.
+  - Status of Parties - Did not deal at "arm's length"
+  - But!? Courts Do not inquire to the adequacy of the contract - Freedom to make a good OR bad deal
+    - Freedom of Contract being subverted here which invalidates an agreement
+      - Court finds ∆ as a "moral jerk" - Moral Baseline not in line with contract
+    - See *[Jackson v. Seymour](link)*
+    - Contrast against *[Bates Case](link)* - Innocent misrepresentation
+
+### Unconscionability
+#### Seminal Case on Unconscionability
+- See *[Williams v. Walker-Thomas Furniture Co.](link)*
+  - Unconscionability has generally been recognized to include an absence of meaningful choice on the part of one of the parties together with contract terms which are unreasonably favorable to the other party. Whether a meaningful choice is present in a particular case can only be determined by consideration of all the circumstances surrounding the transaction.
+    - **Substantive** Unconscionability = Terms unreasonably favorable to other parties
+    - **Procedural** Unsconscionability = Absence of meaningful choice by wronged party, inpropriety in the bargaining process.
+      - Confusing Language
+      - Bargaining Naughtiness
+  - Tension between Freedom of Contract v. Grossly Unfair Deal (If you are aware of it)
+    - Legislative action making clauses such as seen in *[Williams](link)* illegal
+      - Exploitation paired with racial issues at the time
+
+#### Factors in Unconscionability
+- “Cases in which a party takes advantage of the age, lack of sophistication or education, or emotional state of the other party may call out for relief, but still not quite constitute a policing defense”
+- Contracts or transfers induced by fraudulent misrepresentation can be avoided.
+- Similarly, a lack of legal capacity or the existence of duress can lead a court to declare a promise unenforceable or a transfer voidable.
+  - The rule that courts will not weigh consideration or assess the wisdom of bargains, has not fully excluded the opposite proposition, that at some point, courts will do so even in the absence of actual fraud, duress, or incapacity.
+  - The deed transfer was unconscionable because the transferee, who had greater knowledge and experience, did not ensure that transferor understood the nature of the transaction; transferee's actions were oppressive and one-sided.
+    - See *[Ryan v. Weiner](link)*
+
+#### Substantive Unconscionability & Consumer Protection
+- An installment agreement between retailer and husband and wife welfare recipients was found unconscionable due to gross inequality in bargaining power between parties and the actual terms of said agreement and the actual terms of said agreement.
+- “striking a term based on substantive unconscionability”
+  - See *[Jones v. Star Credit Corp.](link)*
+- Ideally Court's do not want to pass price fixing rulings and defer and want legislature to create price policy.
+
+#### UCC
+- UCC 2-302: Unconscionability Doctrine
+  - Defense in all sale of goods cases
+- Distinct from Public Policy
+  - Public policy analysis requires court to consider the impact of such arrangements upon society as a whole
+  - Unconscionability analysis focuses on the relationship between the parties and the effect of the agreement upon them
 
 
-#### Unconscionability
+#### Contemporary Unconscionability
+- “While determinations of unconscionability are ordinarily based on the court’s conclusion that both the procedural and substantive components are present there have been exceptional cases where a provision of the contract is so outrageous as to warrant holding it unenforceable on the ground of substantive unconscionability alone”
+  - See *[Chalk v. T-Mobile USA, Inc.](link)*
 
-- Unconscionability has generally been recognized to include an absence of meaningful choice on the part of one of the parties together with contract terms which are unreasonably favorable to the other party. Whether a meaningful choice is present in a particular case can only be determined by consideration of all the circumstances surrounding the transaction.
-  - See *[Williams v. Walker-Thomas Furniture Co.](link)*
+#### Standard Form Contracts & Adhesion Contracts
+- Provision purporting to waive jury trial, which was buried in long paragraph of adhesion contract in tiny type, was not enforceable without evidence that party demanding jury trial had waived the right **knowingly** and **voluntarily**.
+- Where parties have been represented by counsel or there was evidene of negotiation without substantial inequality in bargaining positions, or the waiver provisions was conspiuous, the tendency has been to enforce the waiver.
+  - See *[Fairfield Leasing Corporation v. Techni-Graphics, Inc.](Link)*
+
+#### Reasonable Expectation
+  - Terms that were unread or unknown will invoke doctrine to make insurer bound to what a Reasonable Person would expect
+    - Reasonable expectation doctrine is a principle applied in insurance law which states whenever there is an ambiguity in an insurance policy, it is resolved in favor of the insured's reasonable expectations.
+    - Dissent
+      - See *[C & J Fertilizer, Inc. v. Allied Mutual Insurance Co.](link)*
+      - Counter Rule:
+        - See *[Markline Co., Inc. Travelers Insurance Co.](link)
+      - Restatment - Standardized Agreements
+  - Contracts Written in Clear English
+    - Appropriately Divided in Sections
+
+
+#### Policing Electronic Agreements
+- Generally Forum Selection Clauses are Valid
+  - Policy: Cost of doing business would otherwise be astronomical as litigation would occur around different jurisdictions.
+  - Exceptions: Forum Selection Clauses must be done in a certain way
+  - “Parties to a written contract have the obligation to read what they sign; and, absent actual or constructive fraud they are not excused from the consequences attendant, “upon a failure to read the contract. The same rule applies to contracts which appear in an electronic format”
+  - Other Issues
+    - Nobody reads the agreements
+    - Forum Shopping
+    - Financial Constraints Bringing Suit In New Forum
+      - See *[Caspi v. The Microsoft Network](link)*
+
+#### Forum Selection
+- Forum Selection Clauses are prima facie valid when a party can show that the clause was incorporated into the parties' contract. However e-commerce merchants cannot bliethly assume that the inclusion of sale terms, listed somewhere on a hyperlinked page on its website will be deemed part of any contract of sale
+  - See *[Jerez v. JD Closeouts LLC](Link)*
+- Terms must be "reasonably communicated to the user"
+  - Separate Download Button & Terms Button
+    - See *[Specht](link)*
+
+### Capacity
+#### Mental Illness or Defect
+
+#### Infancy/Minors
+
+
+### Policing Contract Modifications
+
+#### The Hold Out Game
+- Contract Modification after a contract has been made, aka hold out rule begins to look like coersion
+  - Pre-Existing Duty Rule
+    - New Contract then needs to be supported by new consideration
+      - See *[Alaska Packers Association v. Domenico](Link)*
+        - Lower court: π waived their right to sue upon payment (consideration) of the new contract
+        - Appellate Court: Rejected lower court because ∆ were coercing π to engage in new contract. (Duress)
+    - Oblgiation to do what you previously had a duty to do is not consideration
+      - Defective Nets as consideration for the New K?
+        - Rejected because of conflicting evidence.
+  - “By hypothesis the parties already have a contract, so that the danger of mistaking casual promissory language for an intention to be legally bound is slight * * *”
+    - See *[United States v. Stump Home Specialties MFG., Inc]
+  - UCC Modification
+    - Agreement modifying a contract needs no consideration to be binding
+    - Test of Good Faith Imposed
+      - Observance of reasonable commercial standards of fair dealing in the trade.
+
+#### Modification Limts
+- Legitimate reason for modification as well as payment of non-duress consideration will be upheld.
+  - Modern Trend away from rigid application of the prexisting duty rule
+  - “a seller who believes that changed circumstances entitle the seller to more consideration would not necessarily be “taking advantage” of a promisee that has no market alternatives.”
+    - See *[Angel v. Murray](link)*
+#### Accord and Satisfaction
+- Settlement of Debts between parties = Modifciation and Accord & Satisfication
+- Accord & Satisfcation requires an agreement w/ Consideration to Settle a Disputed Amount
+  - See *[Flowers v. Diamond Shamrock Corp.]
+- Payment Now v. Payment in Whole
+  - Requires BonaFide Dispute between Parties
+    - See *[Foakes v. Beer](link)*
+- Where an amount due is in dispute, and the debtor sends a check for less than the amount claimed, and clearly expresses his intention that the check has been sent as payment in full, and not on account or in part payment, the cashing or retention of the check by the creditor is deemed an acceptance by the creditor of the conditions stated, and operates as an accord and satisfaction of the claim.
+- Cannot cash the check and protest the accord and satisfaction
+  - Offer as a condition of settlment means that Court **interpret what you DO over what you SAY**
+  - See *[Consolidated Edison Co. of New York, Inc. v. Arroll](link)*

@@ -1315,7 +1315,44 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
     <li><b>Facts:</b> P landowners had ornamental trees destroyed by D’s brickyard that was not in operation when P purchased land.</li>
     <li><b>Issue:</b> Did D brickyard commit Nuisance?</li>
     <li><b>Rule:</b> To constitute a nuisance, use must produce a tangible & appreciable injury to neighboring property, or render its enjoyment uncomfortable/inconvenient. Every person may exercise exclusive dominion over his own property. But, this is limited by the principle of sic utero: use what is yours so as not to injure others. But, does not mean that 1 may never use his property in a way that injures neighbor though. This principle does not prohibit all injury to others; landowner can do some activities though they will harm others for policy reasons.Every person is bound to make reasonable use of his property so that he does not cause unnecessary damage/annoyance to his neighbor.</li>
-    <li><b>Conclusion:</b> Yes, P wins; granted Injunction against D brickyard.</li>
+    <li><b>Conclusion:</b> Yes, P wins; granted Injunction against D brickyard. Are any Defenses applicable here? D could argue: Intermittent, not continuous = ct disagreed, b/c it happened often enough. Even though the sulfuric acid only went on the last few days & only when the wind blew from the south, that was enough. Easement by prescription = Like AP, easement by prescription may allow someone to commit a nuisance if they have been doing it long enough. Court disagrees, b/c there was a 20-year statutory period req, which was not met. - Like HOWARD v. KUNTO, homes only occupied during summer still satisfied continuity req. Coming to the Nuisance = ct disagreed, b/c Landowners are not allowed to control the future uses of neighbors. Estoppel or Acquiescence = We have discussed various other instances of estoppel where ppl are prohibited from enforcing rights that they would otherwise have, b/c of what they have done themselves. Court disagrees; this situation doesn't apply here. - When P bought land, he didn't know that D would be burning bricks. - Before D began burning bricks again, P asked him not to do so. P did nothing that would allow it. = Defenses all fail! So we have a Nuisance.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Boomer v Atlantic Cement Company, Inc](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Court granted plaintiffs an injunction to be vacated upon defendant's payment of permanent damages to plaintiffs for continuing, recurrent nuisance, because economic costs of removal of nuisance were too great.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+
+#### Case: *[Spur Industries Inc v. Del E. Webb Development Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

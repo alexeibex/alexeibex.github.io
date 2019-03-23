@@ -392,7 +392,7 @@ Power granted by §25 of the 1789 Judiciary act
 <details><summary><i>Case Brief</i></summary>
 
 <ul>
-  <li><b>Overview:</b>Criminal charges decided on the merits against ∆ selling DC lottery tickets in violation of Virgina Law. Supreme Court had jurisdiction to review state judgements.</li>
+  <li><b>Overview:</b>Criminal charges decided on the merits against ∆ selling DC lottery tickets in violation of Virgina Law. Supreme Court had jurisdiction to review state judgements. The court held it had jurisdiction to hear the conflict of law case and the congressional exercise of its exclusive legislative power over Washington, D.C. was limited to the geographic area of Washington, D.C.</li>
   <li><b>Facts:</b></li>
   <li><b>Issue:</b>Whether the Supreme Court can hear Criminal Cases from the State and Local Governments.</li>
   <li><b>Rule:</b></li>

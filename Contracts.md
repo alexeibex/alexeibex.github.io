@@ -2655,7 +2655,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
     <li><b>Facts:</b> The undisputed evidence showed that shortly after the buyer acquired this tract of land from his sister, he cut and marketed therefrom timber valued at approximately 10 times what he had paid for the property. The trial court denied recission because seller failed to prove actual fraud. On appeal, the court reversed and held that a mere statement of the matter showed the gross and shocking inadequacy of the price paid. Neither of the parties knew of the timber on the land and buyer admitted that he would not have bought the property from seller for the small amount paid if he had then known of the true situation. The court held that the inadequacy of consideration here, together with the confidential relation of the parties, the pecuniary distress of the seller, and the mutual mistake of the parties as to the subject matter of the contract, entitled seller to relief in equity. The court also found that the bill alleged the constituent elements of constructive fraud, so it was not necessary to amend it. The court remanded the matter to restore the status quo in so far as practicable.</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Conclusion:</b>π is entitled to equitable relief on the ground of constructive fraud, adn that such relief is within the scope of the allegations of the original bill of complaint.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -2663,7 +2663,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
-
+#### Unconscionability
 #### Case: *[Williams v. Walker-Thomas Furniture Co.](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -2727,6 +2727,144 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
     <li><b>Issue:</b> Does the sale of a freezer unit having a retail value of $300 for $900 unconscionable?</li>
     <li><b>Rule:</b> The meaningfulness of choice essential to the making of a contract can be negated by a gross inequality of bargaining power.</li>
     <li><b>Conclusion:</b>The court found that, under the circumstances, the sales agreement was unconscionable within the meaning of the Uniform Commercial Code, U.C.C. § 2-302 (1964). The court held that defendant was amply compensated, and that the sales agreement was to be reformed and amended by changing the payments called for therein to equal the amount already paid by plaintiffs.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Fairfield Leasing Corporation v. Techni-Graphics, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Provision purporting to waive jury trial, which was buried in long paragraph of adhesion contract in tiny type, was not enforceable without evidence that party demanding jury trial had waived the right knowingly and voluntarily.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[C & J Fertilizer, Inc. v. Allied Mutual Insurance Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Holding that plaintiff failed to establish burglary within definitions of insurance policy was reversed because definition of burglary that it must leave a visible mark or physical damage was unconscionable and contrary to reasonable expectations.</li>
+    <li><b>Facts:</b> Plaintiff operated a fertilizer plant that he insured against burglary under the policies issued by defendant. When the plant was broken into defendant refused to pay for the loss and plaintiff brought an action to recover for the loss. Defendant argued that the break in did not comport with the definition of "burglary" in the policy, which envisaged a violent breaking that left a visible mark or physical damage to the door. The lower court found on behalf of defendant. On appeal, plaintiff claimed relief under the doctrine of reasonable expectations, implied warranty, and unconscionability. The court reversed the lower court's decision.</li>
+    <li><b>Issue:</b> Did the insurance policy provision depart from the reasonable expectation of an ordinary person?</li>
+    <li><b>Rule:</b> Although customers typically adhere to standardized agreements and are bound by them without even appearing to know the standard terms in detail, they are not bound to unknown terms which are beyond the range of reasonable expectation. A debtor who delivers a check to his creditor with the amount blank does not authorize the insertion of an infinite figure. Similarly, a party who adheres to the other party's standard terms does not assent to a term if the other party has reason to believe that the adhering party would not have accepted the agreement if he had known that the agreement contained the particular term. Such a belief or assumption may be shown by the prior negotiations or inferred from the circumstances. Reason to believe may be inferred from the fact that the term is bizarre or oppressive, from the fact that it eviscerates the non-standard terms explicitly agreed to, or from the fact that it eliminates the dominant purpose of the transaction. The inference is reinforced if the adhering party never had an opportunity to read the term, or if it is illegible or otherwise hidden from view. This rule is closely related to the policy against unconscionable terms and the rule of interpretation against the draftsman.</li>
+    <li><b>Conclusion:</b> nterpretation was a matter to be determined by the court and that the meaning of the word in the policy differed widely from its legal or normal meaning. The court held that plaintiff was entitled to a judgment in his favor because the provision of the policy was unconscionable and departed from the reasonable expectation of an ordinary person. The most plaintiff might have reasonably anticipated was a policy requirement of visual evidence (abundant here) indicating the burglary was an "outside" not an "inside" job. The exclusion in issue, masking as a definition, makes insurer's obligation to pay turn on the skill of the burglar, not on the event the parties bargained for: a bona-fide third party burglary resulting in loss of plaintiff's chemicals and equipment.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Online Agreements & Forms
+
+#### Case: *[Caspi v. The Microsoft Network](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Forum selection clauses were prima facie valid and enforceable unless plaintiff established fraud or overwhelming bargaining power, or that enforcement would violate public policy or seriously inconvenience trial.</li>
+    <li><b>Facts:</b> Plaintiff members of defendants' on-line computer service filed suit for breach of contract, common law fraud, and consumer fraud. Before becoming a member of defendants' service, a prospective subscriber was required to agree to the terms of the membership agreement, which contained a forum selection clause. Members were required to click either "I agree" or "I don't agree" to the membership agreement. A potential subscriber could only use defendants' services after clicking "I agree." Defendant's filed a motion to dismiss, which the court granted. On appeal, the court affirmed. </li>
+    <li><b>Issue:</b> Was the case properly dismissed for lack of jurisdiction and improper venue?</li>
+    <li><b>Rule:</b> Generally, forum selection clauses are prima facie valid and enforceable in New Jersey. New Jersey courts will decline to enforce a clause only if it fits into one of three exceptions to the general rule: (1) the clause is a result of fraud or "overweening" bargaining power; (2) enforcement would violate the strong public policy of New Jersey; or (3) enforcement would seriously inconvenience trial. The burden falls on the party objecting to enforcement to show that the clause in question fits within one of these exceptions. </li>
+    <li><b>Conclusion:</b> Affirming the decision of the lower court granting defendant's motion to dismiss the complaint for lack of jurisdiction, the court held that plaintiffs failed to meet any of the exceptions to the general rule that forum selection clauses were prima facie valid and enforceable. Because plaintiffs were not subject to overwhelming bargaining power, where there were several competitors in the provision of on-line services, and because enforcement of the clause would not violate the strong public policy of New Jersey and would not seriously inconvenience trial, the court agreed that clause was enforceable.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Jerez v. JD Closeouts LLC](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In plaintiff's action seeking a refund of monies paid for goods bought over the internet, defendants' motion to dismiss (CPLR 3211(a)) was denied, as the terms of a forum selection clause were buried and submerged on a web page that could only be found by clicking on an inconspicuous link on defendants' website.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Alaska Packers Association v. Domenico](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Fishermen who rendered the exact service that they had contracted to perform could not demand additional compensation in the absence of additional consideration.</li>
+    <li><b>Facts:</b> Original K for $50 to $60 dollars per fisherman. After arriving in Alaska fishermen demanded $100 per fisherman based on conditions and desired to modify contract. Contract was modified by an agent of the Company who disclosed was not authorized to modify the contract.</li>
+    <li><b>Issue:</b>Whether the modified </li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Angel v. Murray](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> The court reversed because the existing contract was voluntarily amended to meet an unanticipated and substantial increase in the amount of refuse, and was not prohibited by the plain language of the city charter.</li>
+    <li><b>Facts:</b>Plaintiffs, citizens, filed a civil action seeking repayment of additional fees paid to defendant refuse collector by defendant city budget director under a contract. Defendant refuse collector was awarded a contract with the city. He requested additional payments to cover unexpected increases in refuse. Plaintiffs alleged the payments violated the city charter and were made without consideration. The court found for plaintiffs. On appeal, the court reversed, holding that the city charter did not intend to limit the city's ability to amend an existing contract.</li>
+    <li><b>Issue:</b> Did the city council have the authority to modify the exsting contract?</li>
+    <li><b>Rule:</b> It is a well-settled rule of statutory construction that the court will not undertake to read an enactment literally if to do so would result in attributing to the legislature an intention that is contradictory of or inconsistent with the evident purposes of the act. The court consistently subscribes to the principle that a legislative enactment should be given what appears to be the meaning most consistent with its policy or obvious purposes.</li>
+    <li><b>Conclusion:</b> The court abandoned the preexisting duty rule, and found that the city voluntarily agreed to give defendant refuse collector the requested fees and amend the contract. The modification was made during a time when the contract was not fully performed, and evidence was presented that the volume of refuse had unexpectedly risen substantially. Therefore, the decision to pay the additional fees was fair and equitable.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Flowers v. Diamond Shamrock Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Judgment notwithstanding the verdict to lessee was improper because there was no proof lessor cashed checks with knowledge that a dispute as to market prices existed and the jury was permitted to find no factual basis for accord and satisfaction.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Consolidated Edison Co. of New York, Inc. v. Arroll](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Electric company's acceptance of a customer's paid in full checks for less than the amount claimed as due was an accord and satisfaction where customer disputed in good faith the amount the electric company claimed was due.</li>
+    <li><b>Facts:</b> The customer disputed several bills he received for electrical service, claiming that they exceeded past bills for comparable periods. The customer then sent to the president of the electric company separate checks for each bill in an amount he chose, along with a letter detailing his objections and intent to settle the disputed bills. Each check contained a statement that it was in full payment and satisfaction of the particular bill on the customer's account and that cashing it constituted a release of the electric company's claim against the customer. The electric company cashed the checks. The court rejected the electric company's claim that a settlement by way of accord and satisfaction would have been a preference, in violation of N.Y. Pub. Serv. Law §§ 65(2) or 66(12), because the customer honestly disputed the amount due. The court sustained the customer's defense of accord and satisfaction and entered a judgment in his favor, finding that the customer honestly disputed the amount due, clearly intended the checks to satisfy the disputed obligation, and gave the electric company sufficient notification of his intent that the checks were tendered as payment in full.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court sustained the customer's affirmative defense of accord and satisfaction and entered a judgment in his favor in the electric company's lawsuit to collect disputed amounts owing on past due electric bills.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
