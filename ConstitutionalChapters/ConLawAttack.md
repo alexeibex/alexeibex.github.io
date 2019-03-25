@@ -255,7 +255,6 @@ Themes
 ##### Right to Die with Dignity
 - Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
 
-
 ##### Right to Select Family Surrogate
 - Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
   - Ability for healthcare power of attorney
@@ -263,7 +262,6 @@ Themes
 
 ##### Bodily Integrity
 - Per Case:*[Cruzan v. Director, Missouri Dept Health](https://alexeibex.github.io/constitutionallaw#case-cruzan-v-director-missouri-dept-of-health)*
-
 
 
 ## 4. Dormant Commerce Clause & Privileges and Immunities

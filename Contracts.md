@@ -2872,6 +2872,57 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Performance Process
+
+#### Case: *[Mitchill v. Lath](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Defendant sellers were not required to remove an icehouse from sold land on behalf of plaintiff buyer where such an agreement was void because of the parol evidence rule and the existence of a written land agreement.</li>
+    <li><b>Facts:</b> Plaintiff buyer negotiated with defendant sellers to purchase a farm. As a condition to this purchase, defendants agreed to remove an icehouse encumbering the land. The purchase agreement was reduced to writing, yet the oral agreement concerning the removal of the icehouse was ignored. Litigation ensued in which plaintiff attempted to compel performance on the part of defendants. Upon final determination, the court reversed, holding that the presence of a written agreement clearly invoked the parol evidence rule striking the outside oral agreement. </li>
+    <li><b>Issue:</b> Can the oral agreement of both parties may be enforced in a court of equity?</li>
+    <li><b>Rule:</b> Before an oral agreement is received to vary a written contract at least three conditions must exist: (1) the agreement must in form be a collateral one; (2) it must not contradict express or implied provisions of the written contract; and (3) it must be one that parties would not ordinarily be expected to embody in the writing. Or, put another way, an inspection of the written contract, read in the light of surrounding circumstances, must not indicate that the writing appears to contain the engagements of the parties, and to define the object and measure the extent of such engagement. Or again, it must not be so clearly connected with the principal transaction as to be part and parcel of it. </li>
+    <li><b>Conclusion:</b>The presence of a written agreement clearly invoked the parol evidence rule striking the outside oral agreement. Moreover, the court held that although the oral agreement was collateral in nature, it could have been readily inserted into the more dominating written form. Accordingly, defendant was not required to remove the icehouse.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Masterson v. Sine](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A trial court erred in ruling that grantors were entitled to exercise option to repurchase property because court improperly excluded extrinsic evidence showing that option was personal to the grantors.</li>
+    <li><b>Facts:</b>The grantees appealed from a trial court judgment holding that the grantors, a bankruptcy trustee and the debtor's wife, had a right to exercise an option to repurchase certain real property. Over the grantees' objection, the trial court admitted extrinsic evidence showing that the repurchase price was a specified sum plus the cost of improvements less their depreciation value. The trial court also determined that the parol evidence rule barred extrinsic evidence offered by the grantees to show that the parties intended to keep the property in the family and the option could not be exercised by the trustee in bankruptcy.</li>
+    <li><b>Issue:</b>Whether parol evidence is admissible to prove that an option clause in a grant deed is personal to the grantors.</li>
+    <li><b>Rule:</b>The crucial issue in determining whether there has been an integration is whether the parties intended their writing to serve as the exclusive embodiment of their agreement. The instrument itself may help to resolve that issue. It may state, for example, that there are no previous understandings or agreements not contained in the writing, and thus express the parties' intention to nullify antecedent understandings or agreements. Any such collateral agreement itself must be examined, however, to determine whether the parties intended the subjects of negotiation it deals with to be included in, excluded from, or otherwise affected by the writing. Circumstances at the time of the writing may also aid in the determination of such integration.</li>
+    <li><b>Conclusion:</b>The court reversed, holding that, although the trial court properly admitted extrinsic evidence of the purchase prices, the trial court erred in excluding the extrinsic evidence showing that the option was personal to the grantors. The option clause in the deed does not explicitly provide that it contains the complete agreement and is even silent as to assignability. The option might well have been placed in the recorded deed solely to preserve the grantors' rights against any possible future purchasers, and this function could well be served without any mention of the parties' agreement that the option was personal.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Gold Kist Inc. Carr](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Judgment in favor of hauling firm in action for breach of an exclusive hauling rights contracts was reversed because under the plain language of the contract a corporation had no obligation to engage the hauling firm's services to haul peanuts</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
 ---
 
 

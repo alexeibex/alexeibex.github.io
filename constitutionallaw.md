@@ -3135,3 +3135,95 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+
+## Equal Protection
+
+#### Case: *[RailWay Express Agency v. New York](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Business owner was properly convicted of violating traffic law prohibiting vehicle advertising except by vehicle's owner because regulation was related to purpose for which it was made and did not discriminate in violation of Equal Protection Clause.</li>
+    <li><b>Facts:</b> The business owner was engaged in a nation-wide express business and operated about 1,900 trucks in New York City. It sold the space on the exterior sides of the trucks for advertising, which, for the most part, was unconnected with its own business. The business was convicted in the magistrate's court of violating § 124, which prohibited the operation of an advertising vehicle except where such vehicles were engaged in the usual business of the owner and not used mainly for advertising. The business owner appealed, arguing that the regulation's aim and purpose did not justify unequal treatment on the basis of such a distinction and that the classification had no relation to the traffic problem because a violation turned not on what kind of advertisements were carried on trucks, but on whose trucks they were carried. The Court held that if the classification was related to the purpose for which it was made, then it did not contain the kind of discrimination against which the Equal Protection Clause afforded protection. Therefore, the court affirmed the lower court's judgment.</li>
+    <li><b>Issue:</b>Did the municipal traffic regulation violate the due process clause of the Fourteenth Amendment?</li>
+    <li><b>Rule:</b> It is no requirement of equal protection that all evils of the same genus be eradicated or none at all.</li>
+    <li><b>Conclusion:</b>A municipal traffic regulation prohibiting the use of advertising vehicles in the city streets, but permitting the putting of business notices upon business delivery vehicles so long as such vehicles are engaged in the usual business or regular work of the owner and not used merely or mainly for advertising, does not violate the equal protection clause of the Fourteenth Amendment, since the local authorities may well have concluded that those who advertise their own wares on their vehicles do not present the same traffic problem, in view of the nature or extent of the advertising which they use, and the court cannot say that such a judgment is not an allowable one.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[U.S. Dept. of Agriculture v. Moreno](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[New York City Transit Auth. v. Beazer](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Allegheny Pittsburgh Coal v. Webster County](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[U.S. Railroad Retirement Bd. v. Fritz](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Racial Discrimination
+
+#### Meaning & Implications of Brown
