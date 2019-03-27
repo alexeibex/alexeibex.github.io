@@ -93,12 +93,15 @@
     - Cannot sell oneself into slavery
 
 
+
   | Property Rule  |  Liability Rule
 --|---|--
-Plaintiff  | Rule 1: Eg: Injunction  |  Rule 2
-Defendant  | Rule 3  |  Rule 4
+Plaintiff  | Rule 1: Eg: Injunction, Pile v. Pedrick; Campbell v. Seaman  |  Rule 2; Golden Press
+Defendant  | Rule 3; Hinman v. Pacific Air Transpo.; Spur  |  Rule 4
 
-- Outcomes
+
+
+#### Outcomes
   - Rule 1: Court Assignes Plaintiff Injunction Entitlement
     - Coasient Bargaining: ∆ can purchase entitlement from π bundle in a voluntary transaction at a price agreed by π.
       - Trespass

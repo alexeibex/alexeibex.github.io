@@ -208,6 +208,8 @@
   - Modern Trend away from rigid application of the prexisting duty rule
   - “a seller who believes that changed circumstances entitle the seller to more consideration would not necessarily be “taking advantage” of a promisee that has no market alternatives.”
     - See *[Angel v. Murray](link)*
+
+
 #### Accord and Satisfaction
 - Settlement of Debts between parties = Modifciation and Accord & Satisfication
 - Accord & Satisfcation requires an agreement w/ Consideration to Settle a Disputed Amount

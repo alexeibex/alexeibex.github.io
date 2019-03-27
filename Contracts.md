@@ -2906,15 +2906,66 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
-#### Case: *[Gold Kist Inc. Carr](Link)*
+
+#### Case: *[Baker v. Bailey](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>As written agreement unambiguously allowed water rights grantor to refuse to supply water to purchaser of grantee's property, regardless of oral agreement, grantor did not breach covenant of good faith and fair dealing by refusing water.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b> Whether the district court erred when it found the Bakers in breach of contract and the implied convenant of good faith and fair dealing.</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Gold Kist Inc. v. Carr](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Judgment in favor of hauling firm in action for breach of an exclusive hauling rights contracts was reversed because under the plain language of the contract a corporation had no obligation to engage the hauling firm's services to haul peanuts</li>
     <li><b>Facts:</b></li>
+    <li><b>Issue:</b> Whether or not Gold Kist granted him the exclusive right to haul its peanuts</li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Greenfield v. Philles Records, inc](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Trial court's determination that music producer and his record companies breached various performers' contracts and were unjustly enriched by exploitation of performers' master recordings was entitled to deference.</li>
+    <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Pacific Gas and Electric Co. v. G.W. Thomas Drayage & Rigging Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A utility company could not collect damages under the indemnity clause because parol evidence was admissible to ascertain true intent of parties even where the writing seemed clear and unambiguous.</li>
+    <li><b>Facts:</b> Defendant contractor appealed from a judgment for plaintiff utility company in an action to collect damages under an indemnity clause of a contract. Defendant contracted to repair plaintiff's steam turbine, promising to indemnify plaintiff for all property damage. The turbine was damaged during repairs. Defendant argued that the parties intended that defendant would indemnify plaintiff only for damage to the property of third parties. Relying on the plain meaning of the contract language, the trial court concluded that defendant was liable. Defendant appealed. The court reversed the judgment.</li>
+    <li><b>Issue:</b> Can extrinsic evidence be admitted to prove the meaning of contractual terms when the intention of the parties to the contract is ambiguous?</li>
+    <li><b>Rule:</b> The test of admissibility of extrinsic evidence to explain the meaning of a written instrument is not whether it appears to the court to be plain and unambiguous on its face, but whether the offered evidence is relevant to prove a meaning to which the language of the instrument is reasonably susceptible.</li>
+    <li><b>Conclusion:</b> Looking only at the plain meaning of contractual language ignored the possibility that the parties had contrary intentions. The court therefore held that parol evidence was admissible to ascertain the true intent of the contractual parties even where the writing seemed clear and unambiguous.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

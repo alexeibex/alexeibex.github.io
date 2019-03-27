@@ -1325,15 +1325,15 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 
 
-#### Case: *[Boomer v Atlantic Cement Company, Inc](Link)*
+#### Case: *[Boomer v. Atlantic Cement Company, Inc](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Court granted plaintiffs an injunction to be vacated upon defendant's payment of permanent damages to plaintiffs for continuing, recurrent nuisance, because economic costs of removal of nuisance were too great.</li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b> Plaintiff landowners neighbored defendant's cement factory. Plaintiffs sought an injunction for property damages from the factory's vibration, smoke, and dirt. The lower court found the factory a nuisance and ordered temporary damages, but denied an injunction.</li>
+    <li><b>Issue:</b> Should an injunction should issue once a nuisance has been determined despite marked disparity in economic consequence between the effect of the injunction and the effect of the nuisance?</li>
+    <li><b>Rule:</b> Where a nuisance has been found, and there has been any substantial damage shown by the party complaining, an injunction will be granted.</li>
+    <li><b>Conclusion:</b> Where a nuisance has been found and where there has been any substantial damage shown by the party complaining an injunction will be granted even if there is marked disparity in economic consequence between the effect of the injunction and the effect of the nuisance. The court found it should not try to lay down a policy for the difficult problem of pollution elimination as the byproduct of private litigation. The court determined permanent damages were allowed where the loss recoverable is small in comparison with the cost of removal of the nuisance. The court further indicated permanent damages were appropriate when there was a continuing and recurrent nuisance, as in this case. The court found it equitable to award plaintiffs permanent damages based on the theory of compensation for servitude on the land which precluded future recovery by plaintiffs or their grantees. The court granted an injunction which was vacatable upon defendant's payment of permanent damages.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -1348,11 +1348,29 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Overview:</b>Defendant was permanently enjoined from operating cattle feedlots that were deemed a nuisance. Plaintiff, having brought people to the nuisance, was ordered to indemnify defendant for his costs of relocating or shutting down the feedlots.</li>
+    <li><b>Facts:</b>Defendant owned cattle feedlots prior to the construction of plaintiff's nearby residential development. Plaintiff sued defendant, claiming that the feedlots were a public nuisance because of the flies and odor that drifted toward the development. The trial court permanently enjoined defendant from operating the feedlots. The appellate court affirmed the judgment of the trial court permanently enjoining the feedlot operations, holding that the feedlots were both a public and private nuisance. Plaintiff, having brought people to the nuisance, was ordered to indemnify defendant for his damages proximately caused by the injunction. The case was remanded for further proceedings on damages issue.</li>
+    <li><b>Issue:</b>Was the Court correct in ruling that the feedlots were a public nuisance?</li>
+    <li><b>Rule:</b>The difference between a private nuisance and a public nuisance is generally one of degree. A private nuisance is one affecting a single individual or a definite small number of persons in the enjoyment of private rights not common to the public, while a public nuisance is one affecting the rights enjoyed by citizens as a part of the public. To constitute a public nuisance, the nuisance must affect a considerable number of people or an entire community or neighborhood.</li>
+    <li><b>Conclusion:</b>The operation of Spur's feedlot was both a public and a private nuisance. They could have successfully maintained an action to abate the nuisance. However, the defendant can ask to be indemnified by the plaintiff for the cost of shutting down or moving their business. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Zoning
+
+#### Case: *[Village of Euclid v. Ambler Realty Co](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An injunction against enforcement of a local zoning ordinance that imposed certain building restrictions was not proper because the ordinance was a valid exercise of municipal authority and the landowner was unable to prove that he had been injured.</li>
+    <li><b>Facts:</b>Appellee, Amber Realty Company (Amber Realty), was the owner of a tract of land containing 68 acres, situated in the westerly end of the village, abutting on Euclid Avenue to the south and the Nickel Plate railroad to the north. On November 13, 1922, an ordinance was adopted by the council of the Village of Euclid, establishing a comprehensive zoning plan for regulating and restricting the location of trades,  industries, apartment houses, two-family houses, single family houses, etc., the lot area to be built upon, the size and height of buildings, etc. The entire area of the village is divided by the ordinance into six classes of use districts, denominated U-1 to U-6. Amber Realty’s tract of land comes under U-2, U-3 and U-6. After the imposition of the zoning plan, Amber Realty instituted an action against the village and its building inspectors. According to Amber Realty, because of the building restrictions imposed, the ordinance operated to reduce the normal value of his property, and to deprive him of liberty and property without due process of law; thereby, violating his Fourteenth Amendment rights. The village and the building inspectors, on the other hand, argued that the ordinance passed constitutional muster and should have been enforced. The United States District Court for the Northern District of Ohio held that the ordinance was unconstitutional and void, and enjoined its enforcement. The municipal corporation and its inspector sought review.</li>
+    <li><b>Issue:</b>Was the ordinance, which established a comprehensive zoning plan in the Village of Euclid, constitutional?</li>
+    <li><b>Rule:</b> Before a zoning ordinance can be declared unconstitutional, it must be said that its provisions are clearly arbitrary and unreasonable, having no substantial relation to the public health, safety, morals, or general welfare.</li>
+    <li><b>Conclusion:</b>The Court held that the ordinance, in its general scope and dominant features, was a valid exercise of authority. According to the Court, Amber Realty’s property had not suffered or been threatened with an injury that entitled it to challenge the constitutionality of the ordinance. The Court opined that the restrictions imposed bore a rational relation to the health and safety of the community.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

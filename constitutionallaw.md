@@ -3084,7 +3084,7 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
-#### Case: *[Vacco v. Quill]](Link)*
+#### Case: *[Vacco v. Quill](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -3178,11 +3178,11 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Overview:</b>A judgment finding a public employer's policy of refusing to employ persons who use methadone unconstitutional was improper as the rule was a matter of personnel policy that did not violation Title VII or equal protection principles.</li>
+    <li><b>Facts:</b> This litigation was brought by respondents as a class action on behalf of all persons who had been or would in the future be subject to discharge or rejection as employees of the public employer, a transit authority, by reason of participation in a methadone maintenance program. Their complaint alleged that the employer's blanket exclusion of all former heroin addicts receiving methadone treatment was illegal under Title VII of the Civil Rights Act of 1964 (Title VII), 42 U.S.C.S. § 2000e et seq., and the Equal Protection Clause of the Fourteenth Amendment. The district court held that the policy was unconstitutional, and the United States Court of Appeals for the Second Circuit affirmed. The employer then filed a petition for certiorari, which was granted.</li>
+    <li><b>Issue:</b> Was the employment policy violative of the equal protection clause of Fourteenth Amendment?</li>
+    <li><b>Rule:</b> The Equal Protection Clause of the Fourteenth Amendment provides that no state shall deny to any person within its jurisdiction the equal protection of the laws. The clause announces a fundamental principle: the state must govern impartially. General rules that apply evenhandedly to all persons within the jurisdiction unquestionably comply with this principle. Only when a governmental unit adopts a rule that has a special impact on less than all the persons subject to its jurisdiction does the question whether this principle is violated arise.</li>
+    <li><b>Conclusion:</b>The court held that as the rule was not motivated by racial animus, there was no rebuttal claim that it was merely a pretext for intentional discrimination, and the findings did not support the conclusion that the regulation prohibiting the use of narcotics violated Title VII. While it may have been unwise for the employer to rely on a general rule instead of individualized consideration of every job applicant, it concerned matters of personnel policy that did not violate equal protection principles, and the Constitution did not authorize a federal court to interfere in such policy decisions.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -3194,7 +3194,7 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b> County commission's assessments of companies' land complied with law but violated equal protection because commission did not evenhandedly apply state policy that land was to be taxed uniformly to all similarly situated property.</li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
@@ -3211,11 +3211,11 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b> A grandfather provision of the Railroad Retirement Act which expressly preserved windfall benefits for some classes of railroad employees did not violate the Fifth Amendment because it did not irrationally distinguish between classes of annuitants.</li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Conclusion:</b> Benefits reclassification for railroad workers was upheld under rational basis inquiry. The court found that there was a rational relation in the recency of the ties to the railroad industry. The dissent argues that the court has abstained from its duties, and has failed to require even a rational basis. The case represents the largely deferential approach on economic matters)</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -3225,5 +3225,39 @@ and, later, opposed the 1787 constitution.
 
 
 #### Racial Discrimination
+
+#### Case: *[Plessy v. Ferguson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A Louisiana statute that provided for separate railway carriages for whites and blacks neither violated the Fourteenth Amendment nor stamped one of the races with a badge of inferiority.</li>
+    <li><b>Facts:</b> Plessy, the petitioner, was a citizen of the United States and a resident of the State of Louisiana and of mixed descent, seven eighths Caucasian and one eighth African blood; however, the mixture of colored blood was not discernible in him, and that he was entitled to every right, privilege and immunity secured to citizens of the United States of the white race. On June 7, 1892, he engaged and paid for a first class passage on the East Louisiana Railway from New Orleans to Covington, in the same State, and thereupon entered a passenger train, and took possession of a vacant seat in a coach where passengers of the white race were accommodated. However, Plessy was required by the conductor, under penalty of ejection from said train and imprisonment, to vacate said coach and occupy another seat in a coach assigned by said company for persons not of the white race, and for no other reason than that Plessy was of the colored race. Having refused to comply with such demand, Plessy was forcibly ejected with the aid of a police officer, and imprisoned in the parish jail to answer a charge of having violated the 1890 La. Acts No. 111, p. 152, an act of the General Assembly of the State of Louisiana, passed in 1890, which provided for separate railway carriages for the white and colored races. Petitioner argued that the statute was unconstitutional because it was in conflict with both the Thirteenth Amendment of the Constitution, abolishing slavery, and the Fourteenth Amendment, which prohibits certain restrictive legislation on the part of the States. Plessy’s petition for writ of prohibition was denied by the state supreme court, hence this appeal.</li>
+    <li><b>Issue:</b> Was 1890 La. Acts No. 111, p. 152, an act which provided for separate railway carriages for the white and colored races, violative of the Thirteenth and the Fourteenth Amendments of the Constitution?</li>
+    <li><b>Rule:</b> 1890 La. Acts No. 111, p. 152, § 1 provides: All railway companies carrying passengers in their coaches in this State, shall provide equal but separate accommodations for the white, and colored races, by providing two or more passenger coaches for each passenger train, or by dividing the passenger coaches by a partition so as to secure separate accommodations: Provided, That this section shall not be construed to apply to street railroads. No person or persons, shall be admitted to occupy seats in coaches, other than, the ones, assigned, to them on account of the race they belong to.</li>
+    <li><b>Conclusion:</b>The Court held that the statute did not conflict with the Thirteenth Amendment. According to the Court, a statute that implied merely a legal distinction between differing races did not tend to destroy the legal equality of the two races or to reestablish a state of involuntary servitude. Furthermore, the Court ruled that the statute did not violate the Fourteenth Amendment. In determining whether the statute was a reasonable regulation, the Louisiana legislature was given a large amount of discretion; the legislature was at liberty to act with reference to the established usages, customs, and traditions of the people, and with a view to preserving public peace and good order. The Court rejected Plessy’s argument that the separation of the two races stamped one race with a badge of inferiority. A legislature had to secure for its citizens equal rights before the law. If one race was inferior to another socially, the Federal Constitution could not put the two races upon the same plane.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Brown v. Board of Education (Brown 1)](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The "separate but equal" doctrine was overruled because separate, segregated educational facilities were inherently unequal under the Fourteenth Amendment as a violation of the equal protection of the laws, regardless of equality of the facilities.</li>
+    <li><b>Facts:</b>By consolidated opinion, the Court reviewed four state cases in which African-American minors sought admission to the public schools of their community on a non-segregated basis. In each instance, they had been denied admission to schools attended by Caucasian children under laws requiring or permitting segregation according to race. This segregation was alleged to deprive the minors of the equal protection of the laws. In each case, except the Delaware case, the district court denied relief to the minors on the "separate but equal" doctrine announced by the Supreme Court in Plessy v. Ferguson, 163 U.S. 537. The minors contended that the public schools were not equal and could not be made equal, thereby denying them equal protection of the law.</li>
+    <li><b>Issue:</b>Does the segregation of children in public schools solely on the basis of race deprive the children of educational opportunities in violation of the Equal Protection Clause?</li>
+    <li><b>Rule:</b> In the field of public education the doctrine of "separate but equal" has no place. Separate educational facilities are inherently unequal. Therefore, segregation is a deprivation of the equal protection of the laws guaranteed by the Fourteenth Amendment</li>
+    <li><b>Conclusion:</b>The Court held that in the field of public education, the doctrine of "separate but equal" has no place. Segregation was a denial of the equal protection of the laws under the Fourteenth Amendment. Separate educational facilities are inherently unequal. </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
 
 #### Meaning & Implications of Brown

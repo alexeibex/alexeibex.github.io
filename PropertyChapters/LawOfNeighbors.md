@@ -57,24 +57,24 @@
         - Make use of the property especially inconvenient
 
 #### Defenses to Nuisance
-    - Continuous v. Intermittent
-    - Easment by Prescription
-      - Like AP, easement by prescription may allow someone to commit a nuisance if they have been doing it long enough.
-    - Coming to the Nuisance
-      - Waste Concern - Courts Reluctant to Grant because of Waste concerns
-      - See *[Campbell v. Seaman](link)* Court Disagrees: Landowners are not allowed to control the future uses of neighbors.
-    - Estoppel or Acquiesence
-      - Easement by Estoppel
-        - Easement to do what would otherwise be a nuisance
-        - One of the right in the Bundle is to be "Free From Nuisance"
-          - Transferrable Right - Usually in Exchange for Money
-        - Court disagrees; this situation doesn't apply here.
-          - When P bought land, he didn't know that D would be burning bricks.
-          - Before D began burning bricks again, P asked him not to do so. P did nothing that would allow it.
-            - See *[Campbell v. Seaman](link)*
+  - Continuous v. Intermittent
+  - Easment by Prescription
+    - Like AP, easement by prescription may allow someone to commit a nuisance if they have been doing it long enough.
+  - Coming to the Nuisance
+    - Waste Concern - Courts Reluctant to Grant because of Waste concerns
+    - See *[Campbell v. Seaman](link)* Court Disagrees: Landowners are not allowed to control the future uses of neighbors.
+  - Estoppel or Acquiesence
+    - Easement by Estoppel
+      - Easement to do what would otherwise be a nuisance
+      - One of the right in the Bundle is to be "Free From Nuisance"
+        - Transferrable Right - Usually in Exchange for Money
+      - Court disagrees; this situation doesn't apply here.
+        - When P bought land, he didn't know that D would be burning bricks.
+        - Before D began burning bricks again, P asked him not to do so. P did nothing that would allow it.
+          - See *[Campbell v. Seaman](link)*
 
 #### Remedy to Nuisance
-- What relief is available?  -
+- What relief is available?
   - Injunctive Releif is Available When:
     -Irreperable Injury
       - An injury that cannot be adequately compensated for by money damages
@@ -98,3 +98,61 @@
   - Remedy = Self-Help, π has right to dig and cut through the roots but cannot force ∆ to take action. No damages awarded if done.
   - [Tree Lawyer](http://www.treelaw.com/about.html)
     - [Tree Law Problem](https://www.forbes.com/sites/eco-nomics/2011/06/02/billionaire-magnate-larry-ellison-settles-with-neighbors-in-bizarre-tree-lawsuit/#68b429654ce7)
+
+
+### Calabresi/Melamed Cathedral
+- 2x2 Box
+
+#### Calabresi/Melamed Property Rule 1
+- See *[Campbell v. Seaman](link)*
+  - Rule 1: Injunction awarded to π.
+
+#### Calabresi/Melamed Liability Rule 2
+- Court should refuse injunctive relief when there is a large disparity in economic consequences of the nuisance & injunction.
+- Damages create a **servitude** on the land
+  - 1 Time Payment allows for nuisance to continue for life.
+    - Transfer of Bundle of Rights from Neighbors to Factory
+  - Property Rule 1 not appropriate in order to avoid drastic consequences of economic catastrophe of closing the cement plant.
+    - Liability Rule as Opposed to a Property Rule when Transaction Costs are high
+      - Court must assign the right level of damages in order to acheive optimal result
+    - Rule 2: Held For π; liability damages (money) granted to π. ∆ Cement Company has to pay for right to pollute.
+  - See *[Boomer v. Atlantic Cement Company, Inc](link)*
+    - Question Court Asked: Settling Particular Disupte or resolve case to address public goals (pollution)
+      - Rejected: Courts illequipped to handle pollution regulation
+        - Example: Courts deciding issues of Global Warming
+
+#### Calabresi/Melamed Liability Rule 3
+- See *[Hinman v. Pacific Air Transpo.](link)*
+
+
+#### Calabresi/Melamed Liability Rule 4
+- π must indemnify ∆ for a reasonable amount of cost of moving/shutting down.
+  - Ruling in π favor but requiring π to pay to relocate ∆s feed lot.
+  - See *[Spur Industries Inc. v. Del E Webb Dev. Co](link)*
+
+
+### Zoning
+
+#### Defined
+- Zoning is the regulation of land uses through a general regime permitting and forbidding particular uses of land in certain locations.
+- Municipalities are permitted to restrict private land use through
+    - Zoning Ordinances; and,
+    - Subdivision Controls
+      - (prescribe features of streets, utility lines, etc.; usually deals w/ more obvious externalities than Zoning Ordinances).
+
+#### Criticisms of Zoning
+- Government may not be best at deciding what the best use is.
+  - Original Twin Towers created more office spaces than required so it was empty.
+- Special Exceptions to Zoning Ordinances
+  - Provided within the ordinace themselves
+- Variance to Zoning Ordinance
+  - Too Burdensome to comply, administration can provide variance as an exception
+
+
+#### Constitutionality of Zoning
+- Circumstances & Locality should be considered when determining if zoning restrictions are ok. (reflects nuisance’s idea about “pig in parlor instead of barnyard”)
+  - See *[Euclid v. Ambler Realty Co.](link)*
+- Exclusionary Zoning
+  - Zoning of persons is unconstitutional
+    - Violation of due process and freedom to contract
+  - Zoning might still be implicitly motivated and have discriminatory effects
