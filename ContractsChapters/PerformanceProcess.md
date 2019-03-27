@@ -57,7 +57,7 @@
 
 #### UCC - Parol or Extrinsic Evidence
 UCC § 2-202 reflects Corbin’s influence in its focus on the intent of the par- ties, rather than the practices of reasonable people.
-####
+
 
 #### Ambiguity Exception
 - A court must admit parol evidence if a writing is unclear even if the parties intended the writing to be complete
@@ -70,3 +70,23 @@ UCC § 2-202 reflects Corbin’s influence in its focus on the intent of the par
 
 - But language lacks fixed meaning. “Accordingly, rational interpretation requires at least a preliminary consideration of all credible evidence offered to prove the intention of the parties.
   - See *[Pacific Gas and Electric Co. v. G.W. Thomas Drayage & Rigging Co.](link)*
+
+#### Interpretation
+- Mutual understanding is not private and is therefore valid.
+  - See *[Berke Moore Co. v. Phoenix Bridge Co.](link)*
+
+#### Custom in Contract Interpretation
+- Although a court may look to known customs or usages in a particular industry to determine the meaning of a contract, the parties must prove those customs or usages using affirmative evidentiary support in a given case.
+  - See *[M&G Polymers USA v. Tacett](link)*
+
+#### Gap Fillers
+- The parties disagreed over whether New York City had an obligation to expand a sewage system arising from a much earlier agreement.
+- “ . . . where the parties have not clearly expressed the duration of a contract, the courts will imply that they intended performance to continue for a reasonable time.”
+  - See *[Haines v. City of New York](Link)*
+
+
+#### Gap Fillers
+- Assessing damages is often and permissibly speculative, but only within limits. A plaintiff has the burden of proving damages to a reasonable degree of certainty.
+- A contract is rightly deemed unenforceable for indefiniteness when it leaves out a crucial term that a court cannot reasonably be asked to supply in the name of interpretation.
+
+- See *[Southwest Engineering Co. v. Martain Tractor Co.]

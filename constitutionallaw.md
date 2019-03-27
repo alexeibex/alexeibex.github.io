@@ -3259,5 +3259,105 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Case: *[Loving v. Virginia](Link)*
 
-#### Meaning & Implications of Brown
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> State law banning interracial marriages was unconstitutional; equal application of law containing racial classifications did not remove law from proscription against invidious racial discrimination; there was no legitimate purpose for classification.</li>
+    <li><b>Facts:</b>A married couple was charged for violating a Virginia statute prohibiting interracial marriages. They were sentenced to one year in jail. They challenged the statute’s constitutionality but both the trial court and Virginia Supreme Court of Appeals affirmed its constitutionality.</li>
+    <li><b>Issue:</b>Is a statute prohibiting interracial marriages a violation of the Fourteenth Amendment?</li>
+    <li><b>Rule:</b>Marriage is one of the "basic civil rights of man," fundamental to existence and survival. To deny this fundamental freedom on so unsupportable a basis as the racial classifications embodied in Va. Code Ann. §§ 20-58, 20-59, classifications so directly subversive of the principle of equality at the heart of the Fourteenth Amendment, is to deprive all the state's citizens of liberty without due process of law. The Fourteenth Amendment requires that the freedom of choice to marry not be restricted by invidious racial discriminations. Under the United States Constitution, the freedom to marry, or not marry, a person of another race resides with the individual and cannot be infringed by the state.</li>
+    <li><b>Conclusion:</b>A state law making the criminality of an act depend upon the race of the actor is invalid. It is the very purpose of the Fourteenth Amendment to uphold one’s free will to marry, as well as eliminate racial discrimination and the Virginia statute clearly violated these principles.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Korematsu v. United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Petitioner's conviction for violating an exclusion order issued during World War II, singling out American citizens of Japanese descent, was upheld because the war and threat to national defense justified excluding the group from threatened areas.</li>
+    <li><b>Facts:</b>The petitioner Korematsu, an American citizen of Japanese descent, was convicted in a federal district court for remaining in San Leandro, California, a "Military Area," contrary to Civilian Exclusion Order No. 34, which directed that after May 9, 1942, all persons of Japanese ancestry should be excluded from that area. No question was raised as to petitioner's loyalty to the United States. Petitioner challenged the assumptions underlying the order and claimed that when the exclusion order was enacted, all danger of Japanese invasion of the exclusion area had disappeared. </li>
+    <li><b>Issue:</b>Is the exclusion order under which petitioner Korematsu was convicted valid?</li>
+    <li><b>Rule:</b>All legal restrictions that curtail the civil rights of a single racial group are immediately suspect. That is not to say that all such restrictions are unconstitutional. It is to say that courts must subject them to the most rigid scrutiny. Pressing public necessity may sometimes justify the existence of such restrictions; racial antagonism never can.</li>
+    <li><b>Conclusion:</b>The U.S. Supreme Court held that the exclusion order under which petitioner was convicted was valid and, thus, upheld the conviction. Because the order curtailed the rights of a group based on national origin, the order was inherently suspect and rigid scrutiny was applied. The Court found that the exclusion order, like a previously upheld curfew order, was intended to prevent espionage and sabotage in threatened areas during war. The exclusion from such an area was closely related to the intent of the order. Moreover, the Court could not reject the judgment of the military and Congress that there were disloyal members of the population who constituted a menace to the national defense and safety. Compulsory exclusion of groups of citizens from their homes, except under circumstances of direst emergency and peril, was inconsistent with the basic governmental institutions. However, the Court held that the exclusion order was justified by the exigencies of war and the threat to national security.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Yick Wo v. Hopkins](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Two Chinese aliens who met safety requirements were denied equal protection when a city ordinance gave the city administrators unfettered and arbitrary discretion as to who could operate a laundry service.</li>
+    <li><b>Facts:</b>Natives of China operated laundry businesses in California. They complied with every requirement necessary to protect neighboring property from fire and took precautions against injury to the public health, yet were still found to have violated the city ordinances and were fined. After they were in default for the payment of these fines, they were imprisoned until the fines could be paid. Writs of habeas corpus challenged the city ordinance and their imprisonment for default of payment of fines for violating the city ordinance. They contended that the ordinances were void being discriminatory against Chinese laundry businesses and in violation of equal protection. The trial court denied the writs of habeas corpus.</li>
+    <li><b>Issue:</b>Should the writs of habeas corpus be granted?</li>
+    <li><b>Rule:</b>A facially impartial law, applied with an evil eye and unequal hand, may deny Constitutional protections due to the denial of equal justice in the form of equal protection of equal laws.</li>
+    <li><b>Conclusion:</b>The Court held there was discrimination and that the discrimination was illegal for promoting hostility to a race and nationality. Thus, the public administration that enforced it denied their equal protection. As a result, the imprisonment was also illegal. The discrimination against nationality was in violation of equal protection when petitioners met all other safety requirements to operate their laundry services.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Gamillion v. Lightfoot](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  A state did not have unlimited powers to modify the boundaries of a municipality when the purpose was to disenfranchise minority residents.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Washington v. Davis](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Affirmative Action
+
+
+#### Case: *[Regents of Univ. of California v. Bakke](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A medical school's admission program that used racial classifications violated the Fourteenth Amendment; however, the school's goals in using racial classifications could be legitimately served by the competitive consideration of race.</li>
+    <li><b>Facts:</b>A white male who had been denied admission to the medical school at the University of California at Davis for two consecutive years, instituted an action for declaratory and injunctive relief against the Regents of the University in the Superior Court of Yolo County, California, alleging the invalidity--under the equal protection clause of the Fourteenth Amendment, a provision of the California Constitution, and the proscription in Title VI of the Civil Rights Act of 1964 (42 USCS 2000d et seq.) against racial discrimination in any program receiving federal financial assistance--of the medical school's special admissions program under which only disadvantaged members of certain minority races were considered for 16 of the 100 places in each year's class.</li>
+    <li><b>Issue:</b>Did the University of California violate the Fourteenth Amendment's equal protection clause, and the Civil Rights Act of 1964?</li>
+    <li><b>Rule:</b>In view of the clear legislative intent, Title VI of the Civil Rights Act of 1964, 42 U.S.C.S. § 2000d, must be held to proscribe only those racial classifications that would violate the Equal Protection Clause or the U.S. Const. amend. V.</li>
+    <li><b>Conclusion:</b>The Court affirmed the holding that the University's special admissions program was unlawful and the order that the respondent, Bakke, be admitted to the medical school. The Court reversed that part of the judgment enjoining the University from any consideration of race in its admissions process. Race could be considered in admissions if it was factored in with other characteristics in a competitive process.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

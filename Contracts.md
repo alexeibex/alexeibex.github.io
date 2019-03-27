@@ -2974,9 +2974,127 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Case: *[Eskimo Pie Corp. v. Whitelawn Dairies](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>In a breach of contract action, a franchisee was granted a hearing to prove that the term "non-exclusive," in a franchise agreement, was ambiguous because of the usage among ice-cream franchisors in the area.  </li>
+    <li><b>Facts:</b>The franchisor contended that the parol evidence rule barred the use of extrinsic evidence to modify or explain the term "non-exclusive" because the term was unambiguous and because it had an ascribed meaning under the law of New York.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Allowed objective evidence, including course of performance, usage of trade, and course of dealing, at a formal preliminary hearing </li>
+    <li><b>Conclusion:</b> The court granted the franchisee a preliminary hearing to afford it an opportunity to prove that the term "non-exclusive" was ambiguous. The court also ruled that the subjective understanding of the parties as to the meaning attributed by them to the term "non-exclusive" would not be received at trial.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
 ---
 
+#### Case: *[Riverisland Cold Storage, Inc. v. Fresno-Madera Production Credit Assn. ](Link)*
 
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>In a case in which borrowers sued a lender, seeking damages for fraud and negligent misrepresentation, the California Supreme Court concluded that the Pendergrass rule, which adopted a limitation on the fraud exception to the parol evidence rule, was ill-considered, and should be overruled.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### General Contract Interpretation
+
+#### Case: *[Berke Moore Co. v. Phoenix Bridge Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>In a suit involving a contractual agreement for labor, a new trial was ordered to determine the additional compensation due the subcontractor because it was error not to compensate the subcontractor for the surface area of the curbs of a bridge.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court ordered a new trial for the purpose of determining the additional compensation owed the subcontractor for the surface area of the curbs.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[M&G Polymers USA v. Tackett](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> A collective bargaining agreement was not shown to vest retirees with right to lifetime contribution-free health benefits since there was no presumption of vested benefits, there was no evidence that industry customarily vested benefits, limited term of agreement could not be disregarded, and silence did not infer that benefits vested for life.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Gap Fillers
+#### Case: *[Haines v. City of New York](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Order declaring the rights of property owners under agreement for the construction of a sewage system was proper because the law did not imply that a contract calling for continuing performance was perpetual in duration.</li>
+    <li><b>Facts:</b>The city and the towns entered into an agreement for the construction of a sewage system. The property owner brought an action against the city for declaratory and injunctive relief alleging that the agreement was perpetual in duration and obligated the city to expend additional capital funds to enlarge an existing plant or build a new one to accommodate the present and future needs of the towns. The trial court held in favor of the property owner, and the city appealed. The court ruled that the city was obligated to maintain the existing plant but was not required to expand that plant or construct any new facilities to accommodate increased demands on the sewage system.</li>
+    <li><b>Issue:</b>Is the city required to expand or construct any new facilities to accommodate plaintiff's substantial increased demands on the sewage system?</li>
+    <li><b>Rule:</b>The law will not imply that a contract calling for continuing performance is perpetual in duration.</li>
+    <li><b>Conclusion:</b>The court concluded that the city is presently obligated to maintain the existing plant but is not required to expand that plant or construct any new facilities to accommodate increased demands on the sewage system. The initial problem encountered in ascertaining the nature and extent of the city's obligation pursuant to the 1924 agreement, is its duration. We reject, as did the courts below, the plaintiff's contention that the city is perpetually bound under the agreement. The contract did not expressly provide for perpetual performance and both the trial court and the Appellate Division found that the parties did not so intend. Under these circumstances, the law will not imply that a contract calling for continuing performance is perpetual in duration.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Haslund v. Simon Prop. Group, Inc. ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>An agreement to give an employee one percent equity in a newly formed subsidiary, with no details, was enforceable. However, an award of damages was reversed because there was insufficient evidence that the value of the equity was more than nominal.</li>
+    <li><b>Facts:</b> The employee agree to work for a newly formed dot-com subsidiary of the employer. A letter from the employer to the employee confirmed her salary and that she was to receive one percent equity in the subsidiary, with the structure to be determined. No stock was issued and the employee was fired 10 months later. The subsidiary never made a profit and was eventually dissolved. The district court held that there was a contract to provide one percent equity. The district court placed a value on the company based on two transactions. In the first, a company purchased shares in the subsidiary in return for the employer's purchase of an equal value of shares of the company. In the second, a consulting company was given shares at a stated value in lieu of cash for its services. In reversing the district court's decision, the court held that there was an enforceable contract but that the value of the equity was nominal. The court held that there was no evidence that there would have been a market for the employee's shares, and the two transactions referenced by the district court constituted poor evidence of the subsidiary's value.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> The court reversed and remanded the district court's decision with instructions to enter judgment for the employee for nominal damages only.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Southwest Engineering Co. v. Martin Tractor Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  Piece of paper evidencing a sale of goods, noting signature of party to be charged and specifying quantity of goods to be purchased, was enough to evidence an enforceable contract.</li>
+    <li><b>Facts:</b>Plaintiff sought to purchase generator equipment from defendant. Representatives from each party met to discuss terms. At the meeting, defendant's representative wrote on a piece of paper the prices for the generators, his name, and the quantity of generators. Later, defendant refused to sell the generators. Plaintiff filed an action for breach of contract. The court recognized that an enforceable contract existed between the parties. The case was appealed to the Supreme Court of Kansas.</li>
+    <li><b>Issue:</b>Was the contract enforceable?</li>
+    <li><b>Rule:</b> The three invariable requirements of an enforceable written memorandum under Kan. Stat. Ann. § 84-2-201 are that it evidence a sale of goods, that it be signed or authenticated and that it specify quantity. </li>
+    <li><b>Conclusion:</b>Requirements for a valid and enforceable contract under Kansas law were met in defendant's piece of paper, thus evidencing an enforceable contract. The fact that payment was not agreed upon was not fatal to the agreement. The court reminded that under Kan. Stat. Ann. § 84-2-310, unless otherwise agreed, payment was due at delivery.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 
 
