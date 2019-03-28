@@ -2974,6 +2974,23 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
+#### Case: *[Trident Center v. Connecticut General Life Ins. Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Under California law, extrinsic evidence was admissible to interpret the terms of a seemingly unambiguous and integrated written instrument.</li>
+    <li><b>Facts:</b>Plaintiff and defendant entered into a commercial loan agreement. Plaintiff contended that the language of the contract was ambiguous and, thus, that plaintiff had an option of prepaying a loan if only it was willing to incur the prepayment fee. Plaintiff also argued that under California law, even seemingly unambiguous contracts were subject to modification by parol or extrinsic evidence. The US District Court dismissed plaintiff's complaint. On appeal, plaintiff argued that the lower court should have granted it an opportunity to prove that the contract language did not accurately reflect the parties' intentions. The court reversed the district court's judgment and remanded the case for reinstatement of the complaint.</li>
+    <li><b>Issue:</b> Can parol evidence be admitted to prove the contract?</li>
+    <li><b>Rule:</b> Under traditional contract principles, extrinsic evidence is inadmissible to interpret, vary or add to the terms of an unambiguous integrated written instrument. But the California Supreme Court has held that contractual obligations flow not from the words of the contract, but from the intention of the parties. The inclusion of relevant, extrinsic, evidence to explain the meaning of a written instrument may be justified only if it were required and helpful to determine the meaning the parties gave to the words from the instrument alone.</li>
+    <li><b>Conclusion:</b>The court rejected the argument that the contract was ambiguous. The proffered interpretation would have resulted in a contradiction between two clauses of the contract; the default clause would have swallowed the clause prohibiting plaintiff from prepaying. Whether to accelerate repayment of the loan in the event of default was entirely defendant's decision. Moreover, California did not follow the traditional rule that barred extrinsic evidence in the case of unambiguous integrated contracts.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
 #### Case: *[Eskimo Pie Corp. v. Whitelawn Dairies](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -3096,6 +3113,126 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+
+#### Good Faith
+
+#### Case: *[Fortune v. National Cash Register Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>An employment agreement between a salesman and an employer included an implied covenant of good faith and fair dealing, such that the salesman was entitled to a jury determination that termination not made in good faith breached the agreement.</li>
+    <li><b>Facts:</b>Appellant, a long-term salesman for appellee, was terminated by appellee in advance of receiving all the commission he alleged he was owed on a large sale he had secured. Appellant sued appellee for breach of his employment agreement, claiming bonus payments were due under the agreement, and seekingt recovery in quantum meruit for the reasonable value of his services relating to the same sales transaction. The trial court entered judgment for appellant based on a jury verdict finding a breach of contract by appellee. That judgment was reversed by the lower appeals court. On appeal, the court again reversed, affirming the judgment of the trial court.</li>
+    <li><b>Issue:</b>Did evidence warrant a finding that termination of the appellant's employment was not made in good faith?</li>
+    <li><b>Rule:</b>A written terminable at will employment contract contains an implied covenant of good faith and fair dealing, and a termination not made in good faith constitutes a breach of the contract. </li>
+    <li><b>Conclusion:</b>Although appellee did not breach a specific provision in the parties' employment agreement, the contract included an implied covenant of good faith and fair dealing, and appellant was entitled to a jury's finding that a termination not made in good faith constituted a breach of contract by appellee.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Tymshare, Inc. v. Covell](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Summary judgment was inappropriate where questions of fact existed regarding a former employer's intentions in a former employee's action for breach of a compensation plan and wrongful termination.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[City of Midland v. O'Bryant](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>City had no contractual duty of good faith and fair dealing with employees. City's reclassification of positions was not extreme and outrageous conduct; thus, trial court properly denied intentional infliction of emotional distress claim.</li>
+    <li><b>Facts:</b>Plaintiff polfice officers brought a suit and voluntarily dropped the suit after the city reclassified their positions. City then again reclassified the positions and plaintiffs again brought suit this time also stating that it was in bad faith and fair dealing.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+#### Case: *[Feld v. Henry S. Levy & Sons, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>  Material questions of fact concerning intention of parties manifest in option contract, and manufacturer's reasons for termination production, precluded entry of summary judgment in favor of merchant or manufacturer.</li>
+    <li><b>Facts:</b>Plaintiff merchant and defendant manufacturer entered into a contract wherein defendant agreed to fill all of plaintiff's requirements of bread crumbs. Defendant thereafter ceased production and plaintiff filed a breach of contract action. Plaintiff moved for summary judgment predicated on the terms of the output contract, and defendant filed a competing motion for summary judgment predicated on the fact that it was no longer economically feasible to continue manufacturing the bread crumbs for plaintiff. The trial court denied the motions. On appeal, the court noted that material questions of fact existed relative to the intention of the parties in the contract and whether defendant had ceased production in good faith. Accordingly, the trial court's order that denied the parties' motion for summary judgment was affirmed.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b>The judgment of the trial court that denied competing motions for summary judgment presented by plaintiff merchant and defendant manufacturer was affirmed. Material questions of fact existed concerning the intention of parties manifest in their option contract and defendant's reasons for cessation of production under contract precluded entry of summary judgment in favor of either party.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Centronics Corp. v. Genicom Corp](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Where a buyer and seller contracted to arbitrate price disputes and required an escrow deposit of funds until a price was set, the buyer's refusal to allow the seller to withdraw escrow funds was not a breach of an implied covenant of good faith.</li>
+    <li><b>Facts:</b>A contract between plaintiff buyer and defendant seller provided for arbitration of disputes on the price and required an escrow deposit of a portion of the price pending final valuation. When the arbitration dragged on, the seller sought an escrow distribution in an amount that the seller claimed was in excess of what would be the eventual purchase price. When the buyer refused, the seller charged the buyer with breach of an implied covenant of good faith. The trial court found that the contract did not require the buyer to agree to a distribution during arbitration and that the seller was merely seeking to revise the contract. The trial court of Hillsborough County (New Hampshire) granted summary judgment in favor of the buyer.</li>
+    <li><b>Issue:</b>Did the defendant, in refusing during arbitration to release a portion of the escrow fund claimed to be free from "dispute,” breach an implied covenant of good faith?</li>
+    <li><b>Rule:</b>Under an agreement that appears by word or silence to invest one party with a degree of discretion in performance sufficient to deprive another party of a substantial proportion of the agreement's value, the parties' intent to be bound by an enforceable contract raises an implied obligation of good faith to observe reasonable limits in exercising that discretion, consistent with the parties' purpose or purposes in contracting.</li>
+    <li><b>Conclusion:</b>On appeal, the court affirmed. The court found that the implied obligation of good faith at common law set limits on discretion in contractual performance. The contract did not confer such discretion on the buyer over the timing of distributions from the fund that, in the absence of some good-faith limitation, it could deny the seller a substantial proportion of the contract's benefit. To the contrary, the contract contained express and unequivocal provisions governing the timing of payment. The buyer had no discretion to withhold approval or to affect the timing of the arbitration. Alternatively, the buyer's refusal was not bad faith as an exercise of discretion meant to recapture an opportunity foregone at the creation of the contract.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Conditions
+
+#### Case: *[Merritt Hill Vineyards Inc. v. Windy Heights Vineyard Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Seller's undertaking to produce title insurance and mortgage confirmation at closing constituted condition and not promise, the breach of which excused buyer's performance and entitled it to return of its deposit, but not to consequential damages.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+-
+#### Case: *[Jacob & Young Inc. v. Kent](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 
 ## Attack Flow

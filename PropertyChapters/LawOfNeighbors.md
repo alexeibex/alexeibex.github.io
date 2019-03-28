@@ -152,7 +152,12 @@
 #### Constitutionality of Zoning
 - Circumstances & Locality should be considered when determining if zoning restrictions are ok. (reflects nuisance’s idea about “pig in parlor instead of barnyard”)
   - See *[Euclid v. Ambler Realty Co.](link)*
+    - If the plausibility of the zoning ordinance is fairly debatable, that is good enough. (this is basically Rational Basis level of scrutiny. The court concludes that this is constitutional, even tho this property is being more restricted than most other props). Town had a rational purpose of excluding harmful industry.
+    - The Court held that a zoning ordinance would be upheld against substantive due process and equal protection attack unless it was arbitrary and unreasonable, having no substantial relation to the public health, safety, welfare, or morals.
 - Exclusionary Zoning
   - Zoning of persons is unconstitutional
     - Violation of due process and freedom to contract
   - Zoning might still be implicitly motivated and have discriminatory effects
+- Critiques of Zoning
+  - Rent Seeking
+  -
