@@ -141,23 +141,81 @@ UCC § 2-202 reflects Corbin’s influence in its focus on the intent of the par
 -Short of this extreme, courts are inclined to fill gaps for the parties, rather than give up on the contract
   - See *[Haslund v. SImon Property Group Inc](link)*
     - “If contracting parties had to provide for every contingency that might arise, contract negotiations would be interminable. Contracts can be shorter and simpler and cheaper when courts stand ready to fill gaps and resolve ambiguities in the minority of contracts that get drawn into litigation.”
-
-- Assessing damages is often and permissibly speculative, but only within limits. A plaintiff has the burden of proving damages to a reasonable degree of certainty.
-- A contract is rightly deemed unenforceable for indefiniteness when it leaves out a crucial term that a court cannot reasonably be asked to supply in the name of interpretation.
-  - See *[Southwest Engineering Co. v. Martain Tractor Co.](link)*
+  - when contracts are incomplete, they are not necessary unenforceable
+- UCC Gap Filling
+  - A contract is rightly deemed unenforceable for indefiniteness when it leaves out a crucial term that a court cannot reasonably be asked to supply in the name of interpretation.
+  - A contract will be unenforceable because it’s indeRinite when it does not have...Crucial term that a court cannot reasonably be asked to supply in the name of interpretation. i.e.; contract price
+    - Payment terms not condiered a crucial term
+      - See *[Southwest Engineering Co. v. Martain Tractor Co.](link)*
 
 
 
 ### Good Faith
-- Holding “sole discretion” is not equivalent of “for any reason whatsoever, no matter how arbitrary or unreasonable”
-  - See *[Tymshare Inc. v. Covell]
+- Divided Interpretation of Good Faith
+- Restatement:
+  - Meanings of Good Faith:
+  Good faith preserves consistency with the justified expectations of the other party Excludes “bad faith” because they violate community standards of decency, fairness, or reasonableness.
+  The appropriate remedy for a breach of the duty of good faith also varies with the circumstances.
 - Posner
   - “There is a legally enforceable contract duty of ‘good faith,’ but it is just a duty to avoid exploiting the temporary monopoly position that a contracting party will sometimes obtain during the course of performance.”
 
+- Farnsworth, “Good Faith in Contract Performance”
+  - What does “good faith” mean?382
+    - Farnsworth: it’s a fundamental idea of contract law. It implies terms in the contract.
+    - Summers: the “excluder” analysis asks, what does a judge want to rule out by use of the phrase “good faith”? It has no meaning on its own, but it serves to exclude many heterogeneous forms of bad faith.
+    - Burton: the “forgone opportunity analysis” argues that “good faith” limits what a party can do in performance, so bad faith is to “recapture opportunities forgone upon contracting . . . ”
+    - Courts apply all three standards.
 
 
 
+#### Bad Faith v. Good Faith
+- There is an implied covenant of good faith and fair dealing and a termination not made in good faith constitutes a breach of the contract.
+  - Employer can terminate at will
+    - Assuming motives are with **Just Cause**
+  - Employee can leave whenever they want
+- Economic v. Social Contentions
+  - See *[Fortune v. National Cash](link)*
 
-#### No Oral Modification Clauses
-  - The parol evidence rule applies only to oral agreements made before or contemporaneously with a written, integrated contract.
-    - The rule doesn’t apply to a later agreement that modifies the integration.
+
+#### Good Faith Performance:
+- Subterfuges and evasions violate the obligation of good faith.
+  - Bad faith may be overt or may consist of inaction.
+  - Examples of bad faith: evasion of the spirit of the bargain, lack of diligence and slacking off, willful rendering of imperfect performance, abuse of a power to specific terms, and interference with or failure to cooperate in other party’s performance
+    - See *[Monge v. Beebe Rubber Co.](link)*
+      - Era when At will employment with no statute resulted in social harm for breaches
+
+#### Limits on Good Faith
+- Good faith duty does not apply to Employment contracts when there are alternative remedies (like Labor Laws that can apply).
+  - Narrow Categories for application of Good Faith analysis
+    - See *[City of Midland v. O'Bryant](link)*
+      - Employers have a right at will to set up their workplace
+      - Legislature has responsibility to enact laws
+
+#### Implied Limitation
+- Employer cannot arbitrarily minimize compensation whenever for whatsoever reason just because contract says “at it’s sole discretion”.
+  - Holding “sole discretion” is not equivalent of “for any reason whatsoever, no matter how arbitrary or unreasonable”
+  - Even when an employer has absolute power or discretion, they are still held to a duty of good faith.
+    - Their discretion may not be exercised in an arbitrary or unreasonable way.
+    - See *[Tymshare Inc. v. Covell](link)*
+      - Examine Intent of Parties. Employee would not enter into a contract that would allow for employer to unreasonably alter quota at sole discression.
+      -
+- Souter on Good Faith
+  - If one party has some sort of discretion in something that could deprive the other party of something valuable then the good faith standard is there to make sure there are limits to using that discretion to their advantage.
+  - Implied covenant of good faith requires the party with sole power in contract to exercise their discretion within reasonable limits.
+    - A lot of times the contract is just a bad deal! So should courts come in to fix them? If these were sophisticated parties, that voluntarily assumed the risk, why should ct. protect the bad bargained party under doctrine of bad faith?
+      - See *[Centronics v. Genicom](link)*
+
+- UCC on Good Faith
+  - Obligation of Good Faith implied in every contract
+  - Good faith in output contracts
+    - Seller must be in best efforts unless there was a contractual right of cancellation
+    - Bread crumbs were but a part of the overall business
+      - See *[Feld v. Henry S. Levy & Sons, Inc](link)*
+
+
+
+##### Holmes on Good Faith vs. Fuller
+Holmes & The Bad Man
+  - Bad Man - Law without a moral baseline is not desireable
+- Fuller On Bad Man
+  - Our bad man if he is effectively to look after his own interests as an individual will have to learn to look at the law through the eyes of a good man.

@@ -160,4 +160,3 @@
   - Zoning might still be implicitly motivated and have discriminatory effects
 - Critiques of Zoning
   - Rent Seeking
-  -

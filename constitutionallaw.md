@@ -3361,3 +3361,105 @@ and, later, opposed the 1787 constitution.
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Adarand Contractors v. Pena](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Fifth Amendment equal protection claims are analyzed like Fourteenth Amendment claims; both federal and state racial classifications must serve a compelling governmental interest and be narrowly tailored to further that interest.</li>
+    <li><b>Facts:</b> Petitioner, a low bidder on a federal contract, was denied the contract because a presumptive preference was given to minority business entities. Petitioner sued, claiming violation of its U.S. Const. amend. V equal protection rights. Lower federal courts rejected the claim, relying upon precedent which subjected U.S. Const. amend. V equal protection claims to intermediate scrutiny. The Supreme Court reversed and remanded.</li>
+    <li><b>Issue:</b>Whether U.S. Const. amend. V equal protection claims are analyzed the same as amend. XIV claims when governmental racial classifications are involved?</li>
+    <li><b>Rule:</b>All racial classifications, imposed by whatever federal, state, or local governmental actor, must be analyzed by a reviewing court under strict scrutiny. In other words, such classifications are constitutional only if they are narrowly tailored measures that further compelling governmental interests.</li>
+    <li><b>Conclusion:</b>First, petitioner could claim injury owing to a discriminatory classification, which prevented it from competing on an equal footing (petitioner need not allege that it would have obtained a benefit but for the discriminatory classification). Second, U.S. Const. amends. V and XIV equal protection claims are analyzed precisely the same way—applying strict scrutiny analysis (that is, government racial classifications must serve a compelling governmental interest and be narrowly tailored to further that interest). Finally, since lower courts applied intermediate scrutiny, remand for strict scrutiny analysis was required.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Grutter v. Bollinger](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The Equal Protection Clause did not prohibit a narrowly tailored use of race in admissions decisions to further a law school's compelling interest in obtaining for its students the educational benefits that flow from diversity.</li>
+    <li><b>Facts:</b>Petitioner law school applicant sued respondents, a law school, university regents, and university officials, claiming race discrimination in the law school's admission policy. Petitioner further alleged that her application was rejected because the Law School uses race as a "predominant" factor,  giving applicants who belong to certain minority groups "a significantly greater chance of admission than students with similar credentials from disfavored racial groups." The trial court concluded that the policy was unlawful and granted an injunction. The United States Court of Appeals for the Sixth Circuit reversed the judgment and vacated the injunction. The Supreme Court granted certiorari.</li>
+    <li><b>Issue:</b>Is the use of race as a factor in student admissions by the University of Michigan Law School unlawful?</li>
+    <li><b>Rule:</b> The Court used  strict scrutiny to determine the Equal Protection Clause did not prohibit a narrowly tailored use of race in admissions decisions to further a schools compelling interest in obtaining the educational benefits that flow from diversity.</li>
+    <li><b>Conclusion:</b>Because the law school engaged in a highly individualized, holistic review of each applicant, giving serious consideration to all the ways the applicant might contribute to a diverse educational environment, it ensured that all factors that could contribute to diversity were meaningfully considered alongside race.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Gratz v. Bollinger](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> An undergraduate admissions policy that made race the decisive factor for virtually every minimally qualified underrepresented minority applicant was not narrowly tailored to achieve a university's asserted compelling interest in diversity.</li>
+    <li><b>Facts:</b>The university's undergraduate admissions policy was based on a point system that automatically granted 20 points to applicants from underrepresented minority groups. This class-action equal protection suit against respondents, a university, a college, and university officials, alleged racial discrimination. The parties appealed the United States District Court for the Eastern District of Michigan's rulings. The appellate court heard the case en banc on the same day as a parallel case concerning the university's law school admissions program, which it upheld. Although the circuit court had not yet ruled in the instant case, the Supreme Court granted certiorari.</li>
+    <li><b>Issue:</b>Does the University of Michigan's use of racial preferences in undergraduate admissions violate the Equal Protection Clause of the Fourteenth Amendment, Title VI of the Civil Rights Act of 1964 or 42 USC § 1981 [42 USCS § 1981]?</li>
+    <li><b>Rule:</b>Discrimination that violates the Equal Protection Clause of the Fourteenth Amendment committed by an institution that accepts federal funds also constitutes a violation of Title VI of the Civil Rights Act of 1964, 42 U.S.C.S. § 2000d et seq. Likewise, with respect to 42 U.S.C.S.§ 1981, the provision was meant, by its broad terms, to proscribe discrimination in the making or enforcement of contracts against, or in favor of, any race. Furthermore, a contract for educational services is a "contract" for purposes of 42 U.S.C.S. § 1981. Finally, purposeful discrimination that violates the Equal Protection Clause of the Fourteenth Amendment will also violate 42 U.S.C.S. § 1981.</li>
+    <li><b>Conclusion:</b>The Court held as an initial matter that the lead plaintiff had standing, having been denied freshman admission and having the potential to be denied transfer admission. The Court also found that the policy made race the decisive factor for virtually every minimally qualified underrepresented minority applicant. As the policy was not narrowly tailored to achieve respondents' asserted compelling interest in diversity, it violated the Equal Protection Clause, Title VI of the Civil Rights Act of 1964, and 42 U.S.C.S. § 1981.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Fisher v. Univ. of Tex.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Action alleging university’s consideration of race in admissions violated Equal Protection Clause was remanded as all racial classifications imposed by government must have been analyzed under strict scrutiny, and courts confined strict scrutiny inquiry in too narrow a way by deferring to university’s good faith in use of racial classifications.</li>
+    <li><b>Facts:</b>Petitioner applicant sued respondents, a state university and school officials, alleging that the university’s consideration of race in admissions violated the Equal Protection Clause of the Fourteenth Amendment. A district court granted summary judgment to respondents. The United States Court of Appeals for the Fifth Circuit affirmed. A writ of certiorari was granted.</li>
+    <li><b>Issue:</b>Did the appellate court err by not applying strict scrutiny in deciding whether state university's consideration of race in admissions process violated Fourteenth Amendment's equal protection clause?</li>
+    <li><b>Rule:</b>Decisions based on race or ethnic origin by faculties and administrations of state universities are reviewable under the Fourteenth Amendment. Redressing past discrimination can not serve as a compelling interest, because a university’s broad mission of education is incompatible with making the judicial, legislative, or administrative findings of constitutional or statutory violations necessary to justify remedial racial classification. The attainment of a diverse student body, by contrast, serves values beyond race alone, including enhanced classroom dialogue and the lessening of racial isolation and stereotypes.</li>
+    <li><b>Conclusion:</b>The Supreme Court found that the court of appeals' expressions of the controlling standard were at odds with Grutter's command that all racial classifications imposed by government must have been analyzed by a reviewing court under strict scrutiny. Grutter did not hold that good faith would forgive an impermissible consideration of race. Strict scrutiny did not permit a court to accept a school’s assertion that its admissions process used race in a permissible way without a court giving close analysis to the evidence of how the process worked in practice. The higher education dynamic did not change the narrow tailoring analysis of strict scrutiny applicable in other contexts. The district court and court of appeals confined the strict scrutiny inquiry in too narrow a way by deferring to the university’s good faith in its use of racial classifications. The court of appeals did not apply the correct standard of strict scrutiny.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Parents Involved in Community Schools v. Seattle School District](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Students were denied equal protection under the U.S. Constitution, since school districts, which did not operate legally segregated schools, improperly classified students by race and relied upon the classification in making school assignments in a nonindividualized, mechanical way as a decisive factor.</li>
+    <li><b>Facts:</b>Both school districts adopted plans whereby, after place of residence and availability of space were considered, school assignments were made on the basis of race to ensure that schools were racially balanced. The  Supreme Court held that the districts, which did not operate legally segregated schools, denied students equal protection by classifying students by race and relying upon the classification in school assignments. The districts failed to establish a compelling interest in racial diversity since their plans relied on racial classification in a nonindividualized, mechanical way as a decisive factor, and racial imbalance in the schools was not unconstitutional by itself.</li>
+    <li><b>Issue:</b>Can a public school that had not operated legally segregated schools or has been found to be unitary choose to classify students by race and rely upon that classification in making school assignments?</li>
+    <li><b>Rule:</b> When the government distributes burdens or benefits on the basis of individual racial classifications, that action is reviewed under strict scrutiny. Racial classifications are simply too pernicious to permit any but the most exact connection between justification and classification. The government must demonstrate that the use of individual racial classifications is narrowly tailored to achieve a compelling government interest.</li>
+    <li><b>Conclusion:</b>The districts offer no evidence that the level of racial diversity necessary to achieve the asserted educational benefits happens to coincide with the racial demographics of the respective school districts--or rather the white/nonwhite or black/"other" balance of the districts, since that is the only diversity addressed by the plans. Indeed, in its brief Seattle simply assumes that the educational benefits track the racial breakdown of the district. When asked for "a range of percentage that would be diverse," however, Seattle's expert said it was important to have "sufficient numbers so as to avoid students feeling any kind of specter of exceptionality." The district did not attempt to defend the proposition that anything outside its range posed the "specter of exceptionality." Nor did it demonstrate in any way how the educational and social benefits of racial diversity or avoidance of racial isolation are more likely to be achieved at a school that is 50 percent white and 50 percent Asian-American, which would qualify as diverse under Seattle's plan, than at a school that is 30 percent Asian-American, 25 percent African-American, 25 percent Latino, and 20 percent white, which under Seattle's definition would be racially concentrated. Narrow tailoring requires "serious, good faith consideration of workable race-neutral alternatives," and yet in Seattle several alternative assignment plans--many of which would not have used express racial classifications--were rejected with little or no consideration. . Moreover, Thhe Fourteenth Amendment prevents states from according differential treatment to American children on the basis of their color or race.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Shaw v. Reno](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In voting district reapportionment case appellants alleged gerrymandering; court held appellants stated a claim under Equal Protection Clause and plan must not be irrational on its face and not segregate voters based on race.</li>
+    <li><b>Facts:</b>Following the 1990 census, the North Carolina state legislature enacted a reapportionment plan for the state's seats in the United States House of Representatives, which plan created one irregularly-shaped, majority-black congressional district in the northeastern part of the state. The Attorney General of the United States, to whom the plan was submitted for preclearance under 5 of the Voting Rights Act of 1965, objected to the plan on the ground that the legislature could have created a second district with a majority of minority-group voters in the southeastern part of the state, with lines no more irregular than those of other districts in the plan, but had declined to do so for pretextual reasons. The state legislature then enacted a revised plan creating a second majority-black district in the north central part of the state, which district followed, and in some places was no wider than, an interstate highway. Individuals who resided and were registered to vote in a certain county, part of which lay in the new district, filed an action in the district court seeking declaratory and injunctive relief against various federal and state officials, which action alleged that the revised reapportionment plan created a racial gerrymander in violation of the equal protection clause of the Federal Constitution's Fourteenth Amendment. The district court dismissed the complaint contending that favouring minority voters was not discriminatory and the plan did not lead to proportional underrepresentation of white voters statewide.</li>
+    <li><b>Issue:</b>Is the reapportionment plan unconstitutional for racial gerrymandering?</li>
+    <li><b>Rule:</b>The Equal Protection Clause, U.S. Const. amend. XIV, § 1 provides that no state shall deny to any person within its jurisdiction the equal protection of the laws. Its central purpose is to prevent the states from purposefully discriminating between individuals on the basis of race. Laws that explicitly distinguish between individuals on racial grounds fall within the core of that prohibition. </li>
+    <li><b>Conclusion:</b>The Court ruled here that the Appellants have stated a claim under the Equal Protection Clause by alleging that the reapportionment scheme is so irrational on its face that it can be understood only as an effort to segregate voters into separate districts on the basis of race, and that the separation lacks sufficient justification.  The classification of citizens by race threatens special harms that are not present in this Court's vote-dilution cases and thus warrants an analysis different from that used in assessing the validity of atlarge and multimember gerrymandering schemes. In addition, nothing in the Court's decisions compels the conclusion that racial and political gerrymanders are subject to the same constitutional scrutiny; in fact, this country's long and persistent history of racial discrimination in voting and the Court's Fourteenth Amendment jurisprudence would seem to compel the opposite conclusion. Nor is there any support for the argument that racial gerrymandering poses no constitutional difficulties when the lines drawn favor the minority, since equal protection analysis is not dependent on the race of those burdened or benefited by a particular classification. Finally, the highly fractured decision in UJO does not foreclose the claim recognized here, which is analytically distinct from the vote-dilution claim made there.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

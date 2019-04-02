@@ -149,3 +149,24 @@ when utilizing rational basis.
     - Justice Marshall, concurring in part and dissenting in part:
       - Marshall began with a long history of racial inequality in the US. That history created a range of present inequalities.
       - The Fourteenth Amendment does not prohibit remedies for past discrimination.
+
+
+#### Strict Scrutiny for Racial Classifications By Congress
+- See *[Adarand Contractors v. Pena](link)*
+    - The Croson rule—that any racial classification is subject to strict scrutiny— applies to Congressional actions as well as state and local actions.
+
+
+#### Affirming Bakke & Strict Scrutiny
+- All racial classifications imposed by the government must be analyzed by reviewing court under strict scruitiny.
+  - See *[Grutter v. Bollinger](link)*
+  - See *[Gratz v. Bollinger](link)*
+- Any official action that treats a person differently on account of his or her race or ethnic origin is inherently suspect. Government bears the burden to prove that the reason for any racial classification are clearly identified and unquestionably legitimate.
+  - See *[Fisher v. University of Texas](link)*
+- Schools cannot consider race when assigning students to schools, even if racial imbalances exist between schools.
+  - See *[Parents Involved in Community Schools v. Seattle School District]*
+
+#### Arguments for & against Strict Scruitiny
+### Racial Discrimination and Voting Disctricts
+- Racial Gerrymandering will receive strict scrutiny
+- Race cannot be the motivation of a redistricting plan
+  - See *[Shaw v. Reno](link)

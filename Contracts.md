@@ -3207,10 +3207,10 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b>Seller's undertaking to produce title insurance and mortgage confirmation at closing constituted condition and not promise, the breach of which excused buyer's performance and entitled it to return of its deposit, but not to consequential damages.</li>
-    <li><b>Facts:</b></li>
-    <li><b>Issue:</b></li>
-    <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Facts:</b> Sale controlling stock interest in a vineyard the seller had to produce a title insurance policy & mortgage at the closing was a condition to the purchase. Buyer seeking return of deposit when seller failed to produce either at the closing.</li>
+    <li><b>Issue:</b>Whether the terms set forth by buyer were a failure of conditions or a promise that was unfufilled? Also is seller entitled to consequential damages?</li>
+    <li><b>Rule:</b>Contract with conditions were </li>
+    <li><b>Conclusion:</b>Failure of the condition allows for buyer to recover his deposit as no contract was formed but was not entitled to consequential damages because it was not a claim for a breach of promise. Sellers did not promise to provide title and insurance and so are not liable for damages as a breach of promise. </li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 
@@ -3219,6 +3219,39 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 -
 #### Case: *[Jacob & Young Inc. v. Kent](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Regarding contract to build a home, plaintiff was due payment for substantial performance because plaintiff's failure to use pipe specified in contract was not willful and pipe used was nearly identical to specified pipe.</li>
+    <li><b>Facts:</b>Plaintiff was under contract with defendant to build a home using a specific type of pipe for all of the plumbing. Plaintiff did not use the pipe that was specified, but defendant did not complain about defective performance until the pipe was almost completely encased in the walls of the home. To replace the pipe, plaintiff would have had to tear down substantial parts of the completed structure. The plaintiff did not replace the pipe, and sought final payment. The trial court found in favor of defendant, and the appellate court reversed. The case was appealed to the Court of Appeals of New York.</li>
+    <li><b>Issue:</b>Was the plaintiff entitled to payment for this labor?</li>
+    <li><b>Rule:</b> The courts never say that one who makes a contract fills the measure of his duty by less than full performance. They do say, however, that an omission, both trivial and innocent, will sometimes be atoned for by allowance of the resulting damage, and will not always be the breach of a condition to be followed by a forfeiture. The distinction is akin to that between dependent and independent promises, or between promises and conditions.</li>
+    <li><b>Conclusion:</b>The Court held that plaintiff's omission of the specified pipe was neither fraudulent nor willful, and the plaintiff was ready to present evidence proving that the pipe used was essentially identical to the specified pipe. Thus, plaintiff was due payment for substantial performance with compensation for the trivial defect.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Brown-Marx Assoc. v. Emigrant Savings Bank](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Bank was entitled to insist on strict performance of the express terms of its loan commitment to a partnership, and thus the partnership's substantial performance of the terms was not a sufficient basis for recovery thereunder.</li>
+    <li><b>Facts:</b> Bank agrees to give a loan at one of two rates (ceiling & floor); ceiling loan had condition precedent that needed to be met. P failed to getting leases adding up to required amount, but tries to argue substantial performance but still get the floor loan</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Literal and strict compliance follows any express condition precedent.Substantial performance cannot apply when there is an express condition precedent.</li>
+    <li><b>Conclusion:</b> Court refused to construct condition of substantial performance, because the condition precedent was clearly provided in the contract. Main argument: I’m close I have substantially performed.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Glaholm v. Hays](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -3234,6 +3267,90 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
+
+#### Case: *[Howard v. Federal Crops Ins. Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Contract provisions were not construed as conditions precedent in the absence of language plainly requiring such construction, and merely plowing under tobacco stalks did not operate to forfeit coverage under the policy.</li>
+    <li><b>Facts:</b> P got ins. from D for crop damage coverage. Contract required inspection of crop damages before ins. to be given. P plowed tobacco fields before inspection. Was the inspection clause a condition precedent?</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b> Ct. remands for info. Clause looks like a promise but it could be a condition precedent. Must explore further.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Gibson v. Cranage](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Defendant was not required to accept or pay for portrait after finding it to be unsatisfactory because parties expressly agreed that defendant was the only person who had the right to decide if the portrait was satisfactory.</li>
+    <li><b>Facts:</b>Plaintiff entered into a contract with defendant to make and execute a large portrait of defendant's deceased daughter. The parties agreed that defendant would not have to pay for the portrait if he was not perfectly satisfied with it in every way. Upon delivery of the portrait, defendant found it to be unsatisfactory, refused to accept it, and refused to accept any similar picture from plaintiff. Plaintiff sued to recover the costs associated with creating the portrait. Judgment was entered in favor of defendant. Plaintiff appealed.</li>
+    <li><b>Issue:</b>Can payment for a portrait be made to depend on the personal satisfaction of the purchaser?</li>
+    <li><b>Rule:</b>Where an agreement was made with an artist for a portrait that need not be taken or paid for if unsatisfactory, however good the picture is, the customer is the only judge whether it suits him or not, and if not, he cannot be compelled to pay for it.</li>
+    <li><b>Conclusion:</b>Judgment in favor of defendant was affirmed because the contract between the parties was express and the parties agreed that defendant was the only person who had the right to decide if the portrait was satisfactory, thus although the picture may have been excellent, defendant was not required to accept it or pay for it because he found the picture to be unsatisfactory. However good the picture is, the customer is the only judge whether it suits him or not.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Forman v. Benson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Real estate buyer was entitled to specific performance of installment contract because seller's rejection of contract was in bad faith; evidence showed that rejection was based on dissatisfaction with purchase terms, rather than dissatisfaction with the buyer's credit report, as alleged.</li>
+    <li><b>Facts:</b> PL offered to purchase real estate owned by D. D was worried about PL’s credit , and he thought that he would have time to examine those credit documents before making a decision on this. Then D saw the credit, thought it looked real good. Then after they met three times discussing the sale, the D rejected the PLs credit and refunded the 1 k deposit. Then the PL attempted to make another offer to avoid litigation but D didn’t accept anything so pL brought this action seeking speciRic performance. D said he rejected it because it didn’t seem he really had enough funds or assets but D has no prior experience as a bank or loan ofRicer. but upon expert testimony – pL did in fact have a great credit report. D looking to sell house to PL. D’s duty to sell is conditioned on good credit report.  standard of measuring whether condition in determining if good credit report is done in good faith.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Luttinger v. Rosen](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Purchasers of house were entitled to recover from sellers the deposit on the purchase price because purchasers could not obtain financing in accordance with terms of the contract and such financing was a condition precedent.</li>
+    <li><b>Facts:</b>Plaintiffs contracted to purchase a house owned by defendants and paid a deposit, which was to be returned if plaintiffs were unsuccessful in obtaining financing as provided in the contract. Plaintiffs obtained a mortgage commitment that failed to meet the contract requirement. Plaintiffs gave timely notice to defendants and demanded the return of the down payment. Defendants' counsel offered to make up the difference between the interest rate offered by the bank and the interest rate provided in the contract. Plaintiffs did not accept the offer and sued after defendants refused to return the deposit. Defendants appealed from a judgment rendered in favor of plaintiffs.</li>
+    <li><b>Issue:</b>Are the buyers entitled to get their deposit back?</li>
+    <li><b>Rule:</b>A condition precedent is a fact or event which the parties intend must exist or take place before there is a right to performance.</li>
+    <li><b>Conclusion:</b>In this case, the language of the contract is unambiguous and clearly indicates that the parties intended the purchase of the defendants' property be conditioned on the plaintiffs obtaining a mortgage, as specified in the contract. From the subordinate facts, the court could reasonably conclude that since the plaintiffs were unable to obtain a $45,000 mortgage at no more than 8 1/2 percent per annum interest "from a bank or other lending institution." The condition precedent to performance of the contract was not met, and the plaintiffs were entitled to the refund of their deposit. Any additional offer by the defendants to fund the difference in interest payments could be rejected by the plaintiffs.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Hanna v. Commercial Travelers Mutual Accident Association](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Impossibility of reporting the death of an insured who's body was missing for four years did not excuse a beneficiary from complying with the terms of an insurance policy requiring that accidents and deaths be reported within a certain time.</li>
+    <li><b>Facts:</b> Individual was driving his car, fell into the river, and died. Later they found him and insurance did not want to pay because the accident handt been reported within 10 days.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Generally, when the performance of a duty created by law is prevented by inevitable accident without the fault of a party, the default will be excused. But when it’s expressly contracted for that nothing will excuse duty then it will not b excused because it could have been contracted for.</li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
 
 ## Attack Flow
 - Do we have an enforceable contract?

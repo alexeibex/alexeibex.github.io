@@ -1377,3 +1377,40 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+### Remainders
+
+#### Case: *[Brokaw v. Fairchild](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A life tenant may not use his land in a manner that causes permanent injury to the inheritance.
+</li>
+    <li><b>Facts:</b>In 1886, Isaac V. Brokaw (testator) purchased a plot of land in New York City, located across the street from Central Park. The testator built a three-story residence on one corner of his land. The residence is suitable as a private single-family residence only. In 1913, the testator passed away, leaving a life estate in the residence to four remaindermen, who were to hold the property successively. The first remainderman, Brokaw (plaintiff), took possession that year. Since then, the character of the neighborhood surrounding the residence changed so that fewer and fewer private residences remained in the area. Brokaw attempted to rent the residence but found there was no market for rental of private residences. Brokaw eventually made plans to tear down the residence and construct a 172-room apartment building in its place, estimating he would make a $30,000 profit instead of the annual loss he had sustained in maintaining the private residence. Brokaw therefore brought this action for a declaration and judgment granting him the authority to replace the residence with an apartment building, despite the objections of the remaindermen.</li>
+    <li><b>Issue:</b>May a Life Tenant demolish an inherited bldg, against Remaindermen’s wishes, if the as-is property is less valuable?</li>
+    <li><b>Rule:</b>Ameliorative waste is a type of affirmative waste and is impermissible</li>
+    <li><b>Conclusion:</b>No, P could not demolish b/c that’d be Waste. The Life Estate granted was for both the property & the actual mansion; Grantor intended to leave mansion intact.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Mountain Brow Lodge No. 82, Independent Order of Odd Fellows v. Toscano](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A restriction in a gift deed to a fraternal order relating to the use of the property created a valid condition subsequent that was operative even though the effect of the restriction was to restrain absolutely the alienability of the property.</li>
+    <li><b>Facts:</b>The property at issue was gifted to appellant fraternal order, but the deed restricted the use and benefit of the property to appellant only. In affirming the judgment for respondents, trustees and administrators of the grantors' estates, the court first held that a restraint on alienation also contained in the deed was severable from the restriction on use and did not render the use restriction invalid. Turning to the use restriction, the court held that it created an enforceable condition subsequent on the estate granted, with title to revert to respondents if the land ceased to be used for lodge, fraternal, and the similar purposes for which appellant was formed. The court held that although the condition had the effect of destroying the alienability of the land, it was not invalid. The court noted that the distinction between a covenant which restrained the alienation of a fee simple absolute and a condition that restricted land use and created a defeasible estate was long recognized at common law and remained recognized in California.</li>
+    <li><b>Issue:</b>Whether the use condition created a defeasible fee.</li>
+    <li><b>Rule:</b>The distinction between a covenant which restrains the alienation of a fee simple absolute and a condition which restricts land use and creates a defeasible estate was long recognized at common law, and is recognized in California. Thus, conditions restricting land use may be upheld by the California courts even though they hamper, and often completely impede, alienation.</li>
+    <li><b>Conclusion:</b>The court affirmed the judgment for respondents, trustees and administrators. The court held that the restriction on use contained in a gift deed to appellant fraternal lodge was a valid and enforceable condition subsequent even though it was tantamount to a restrain on alienation.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
