@@ -34,7 +34,7 @@ when utilizing rational basis.
 
 #### Exception for classification based on "animus"
 - Express purpose of discriminating against hippies, homosexuals, or other undesirables is not legitimate purpose
-  - See *[U.S. Dept. of Agriculture v. Moreno]*
+  - See *[U.S. Dept. of Agriculture v. Moreno](link)*
     - Purpose of increasing agricultural economy was legitimate but failed because wholly unrelated to rule.
 - See *[NY Transit Authority v. Beazer](link)*
   - Restricting unsafe drivers
@@ -88,7 +88,7 @@ when utilizing rational basis.
 - Separate but Equal & The Due Process Clause
   - On the same day as Brown, the Court held that segregation in DC’s public schools violated due process because it arbitrarily deprives black students of liberty (presumably, to pursue education)
   - Utilization of Reverse Incorporation
-    - See *[Bolling v. Sharpe]*
+    - See *[Bolling v. Sharpe](link)*
 
 #### Theory of Brown
 
@@ -98,7 +98,7 @@ when utilizing rational basis.
     - Government cannot use race in a subordinate way but in some circumstances race can be used
       - See *[Korematsu v. United States](link)*
     - Travel Ban
-      - See *[Trump v. Hawaii]*
+      - See *[Trump v. Hawaii](link)*
 
 
 
@@ -152,21 +152,27 @@ when utilizing rational basis.
 
 
 #### Strict Scrutiny for Racial Classifications By Congress
-- See *[Adarand Contractors v. Pena](link)*
-    - The Croson rule—that any racial classification is subject to strict scrutiny— applies to Congressional actions as well as state and local actions.
+- All racial classifications imposed by the federal, state, or local government must be analyzed by a reviewing court under strict scrutiny; that is, such classifications are constitutional only if they are narrowly tailored to further compelling governmental interests.
+  - See *[Adarand Contractors v. Pena](link)*
+    - The Croson rule: That any racial classification is subject to strict scrutiny
+      - Applies to Congressional actions as well as state and local actions.
 
 
 #### Affirming Bakke & Strict Scrutiny
 - All racial classifications imposed by the government must be analyzed by reviewing court under strict scruitiny.
   - See *[Grutter v. Bollinger](link)*
-  - See *[Gratz v. Bollinger](link)*
+    - Citing Bakke: When governmental decisions involve race or ethnicity, the government must show a “compelling governmental interest.
+      - **Student body diversity is such an interest**
+- Automatic Point Bonus for Minority
+  - Universities using point systems for admissions cannot grant automatic bonuses to minority applicants because of their race.
+    - See *[Gratz v. Bollinger](link)*
 - Any official action that treats a person differently on account of his or her race or ethnic origin is inherently suspect. Government bears the burden to prove that the reason for any racial classification are clearly identified and unquestionably legitimate.
   - See *[Fisher v. University of Texas](link)*
 - Schools cannot consider race when assigning students to schools, even if racial imbalances exist between schools.
-  - See *[Parents Involved in Community Schools v. Seattle School District]*
+  - See *[Parents Involved in Community Schools v. Seattle School District](link)*
 
 #### Arguments for & against Strict Scruitiny
 ### Racial Discrimination and Voting Disctricts
 - Racial Gerrymandering will receive strict scrutiny
 - Race cannot be the motivation of a redistricting plan
-  - See *[Shaw v. Reno](link)
+  - See *[Shaw v. Reno](link)*

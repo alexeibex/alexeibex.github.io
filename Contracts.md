@@ -3352,79 +3352,19 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 - <span style="color:red">**Class Discussion**</span>
 
-## Attack Flow
-- Do we have an enforceable contract?
-  - Agreement with consideraton?
-    - Gift?
-  - Bargain-for-Exchange?
-    - Promise come before or after?
-    - Did detriment induce promise/promise induce the detriment?
-    - Yes/No
-- Did the ∆ engage in Promissory Estoppel
-- Was the ∆ Unjustly Enriched?
-  - ∆ confer a benefit?
-  - Expectation of payment?
-    - Was the benefit thrust upon the ∆?
 
+#### Case: *[Connecticut Fire Insurance Co. v. Fox](Link)*
 
-
-
-#### Substantive Bases of Contract Liability
-
--Common law recognizes several general theories of obligation.
--Recognized basis for imposing legal duties.
--Predominant theory is that legal duties arise from a valid agreement with consideration (a contract)
-  - Agreement = Two or more persons have expressed themselves in harmony
-  - Consideration = as a bargained for exchange
-- Other Forms of agreements
-  - Standard form agreements
-    - Majority of contracts made
-      - Routine Transactions to Leases, deeds, mortages
-    - Provide information and enforce order
-    - One of the beliefs by which our society is organized, is that at least some lawmaking is better accomplished in a decentralized manner.
-  - Oral Agreements
-  - Informal Agreements
--Relational Exchange
-  - Discrete = Little interaction between the parties
-  - Relational = Occuring through time in a process of continuous interaction between parties.
-    - The more relational an exchange the more it is projected into the future, the more likely the parties and their lawyers will be unable to adance to define performance obligations with precision or to allocate risks optimally.
-      - May relay on norms to govern their relation other than those arising from the original agreement.
-- Social Resources that Facilitate agreements and their Performance
-  - Specialization o labor, results in a need for exchange behavior. As individuals specializ, they become lesss self-sufficient and more dependent on other's goods and services which they must secure through agreements.
-- Institutional Aspects
-  - Exchange by Tradition (Manor)
-  - Exchange by Authority (Army)
-- Theories of Obligation
-- Remedies
--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<details>
-<summary>Case Name</summary>
-
-**Facts:**
-
-**Rule:**
-
-**Conclusion:**
-
-**Notes/Concepts:**
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Property owners were justified in relying on an adjuster's apparent authority to extend the time for filing a proof of loss where the adjuster had obtained the owners' signature on a non-waiver and advised them on the procedures for recovery.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
 
 </details>
 
-### 1.2 Class
+- <span style="color:red">**Class Discussion**</span>

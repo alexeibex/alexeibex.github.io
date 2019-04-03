@@ -98,7 +98,14 @@
 
 #### Impossibility
 - See *[Hanna v. Commmercial Travelers Mutual Accident Association](link)*
-  - 
+
+
+
+
+
+### Waivers
+- A proof of loss requirement is valid and may be considered as a condition precedent to recovery. However, this technical policy requirement may be waived by the insurer either directly or through the acts of its agents.
+  - See *[Connecticut Fire Insurance Co. v. Fox](link)*
 
 #### Restatement of Contracts 261 – Interpretation of doubtful words as promise or condition
 - Where it is doubtful whether words create a promise or an express condition, they are interpreted as creating a promise; but the same words may sometimes mean that one party promises a performance and that the other party’s promise is conditioned on that performance.
