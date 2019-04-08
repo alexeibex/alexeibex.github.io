@@ -1,6 +1,6 @@
 ## Conditions
 
-### Conditions
+### Conditions Defined
 - Conditions Defined: A condition * * * is ‘an event, not certain to occur, which must occur, unless its non-occurrence is excused, before performance under a contract becomes due.’
 - Some contingency that must be done in order for some duty of performance to arise.
 - Types:
@@ -96,16 +96,125 @@
   - A condition precedent is a fact or event which the parties intend must exist or take place before there is a right to performance.
     - See *[Luttinger v. Rosen](link)*
 
-#### Impossibility
-- See *[Hanna v. Commmercial Travelers Mutual Accident Association](link)*
+#### Impossibility & Avoiding the Express Condition
+- Whether to excuse the beneficiary from the condition of providing the proof on time, when it was impossible to do so
 
-
-
-
+- Enforcement of a condition even in light of the near impossibility of meeting the condition precedent.
+  - Notification clause must be enforced.
+  - Clause gives consequences of failure – so it’s clear that it is an express condition precedent which must be followed to avoid fraud.
+  - Court enforcing the contract would be overstepping its bounds and would result in court writing the contract.
+    - See *[Hanna v. Commmercial Travelers Mutual Accident Association](link)*
+      - Dissent: thinks that the case used in majority’s opinion is actually distinguishable. Thinks that the case at hand did fall under the policy with the insurer. The insurerd must have first known about the claim before giving notice of a claim... so there was no duty that had formed yet. Thinks that the question to analyze is whether the D should have been able to use failure to notice as a complete defense. 
+      - Other jurisdictions might interpret differently, and find an exception because of the impossibility factor.
 
 ### Waivers
-- A proof of loss requirement is valid and may be considered as a condition precedent to recovery. However, this technical policy requirement may be waived by the insurer either directly or through the acts of its agents.
+- “A waiver is an **intentional relinquishment of a known right**.
+  - The waiving party can do so expressly or by her conduct
+
+
+### Excused Express Condition
+
+#### Restatement Approach
+- Conditions precedent may be waived.
+- Waiver can be express or reasonably implied by the conduct of the waiving party.
   - See *[Connecticut Fire Insurance Co. v. Fox](link)*
+    - A proof of loss requirement is valid and may be considered as a condition precedent to recovery.
+      - However, this technical policy requirement may be waived by the insurer either directly or through the acts of its agents.
+- Corbin on Contracts
+  - Promisor's waiver of a condition is followed by the promissee's substantial change of position.
+    - In many cases, however the waiver takes place after the failure to perform the condition has already occurred and the promisee makes no subsequent change of psotion on which to base an estoppel.
+- **Waiver by conduct**:
+  - Situation where a party has a duty or obligation is contignent on something, and then before the date happens, someone in an authoritative positions says you don’t have to do that. That means the person would change their position in reliance on what you said - the waiver. (Could have given notice, but you said i didn’t have to).
+- **Waiver by estoppel**.
+  - The time for satisfying the condition has passed - notice was supposed to be given on Friday, but on MOnday, a representative with authroity tells you don’t worry about what you didn’t do on friday. That’s excused. You can’t change your conduct in reliance on that bc already missed date, but non-defaulting party is estopped from claiming the benefit of the condition bc waived it
+- You can waive immaterial conditions, but not material bc you would need condieration or reliance before doing that
+- Courts will generally not enforce waivers of material terms because waivers do not follow consideration or reliance.
+
+
+#### Taylor Hypo on Waivers
+- A is a contractor known to B.
+- B contracts with A for A to build a garage for B and B agrees to pay A $20,000 on the condition that the garage is built according to specifications.
+- When A is half done, B says, “You can stop now and I will still pay you the $20,000.”  A stops but B pays A only $10,000.
+- Does A have **a right** to the other $10,000?
+
+- Court unlikely to uphold this waiver because it looks like a gift. ($10,000 for nothing)
+  - Just put up the foundation and I’ll waive the rest of performance and give you 20k”
+  - Can only waive immaterial aspects of the K.
+- If there is an express condition precedent you do not go to substantial performance; there must be full compliance with that express condition, UNLESS there is a waiver of that condition.
+  - But, waivers of material terms are not enforceable because they to do follow consideration or reliance.
+
+
+#### Problem 7-4
+- A. Don’t pay according to the 15 , waiver by estoppel , the days of payment not material. Its clearly not so material. He allowed this without protest.
+- B. Repudiation of the waiver generally okay.
+  - Unless other individual says they cant meet that now bc of Rinancial difficulty, or show impossible to meet original date, based on previous dates is ok. **But retractions otherwise is ok**
+- C. They agreed by **contract of contract**.
+  - So valid modification and no repossession, but actually you need consideration for modification so no valid modification and repossess OK.
+    - BUT ACTUALLY UCC 2-209, DON’T Need consideration to modify a sale of goods contract so this modification and repossession is not fine.
+- D. Trying to unilaterally change the contract.
+  - Repudiation of Contract that was newly agreed upon
+    - Cant do that because there is no consideration between parties.
+
+#### Three methods of overriding failure of express condition:
+- 1. **NY (Strictest)**
+  - Substantial Improvements and no harm to landlord, CL version doesn’t have to be a material condition
+- **2. Cali Statute **
+  - Section 3275: Whenever a party incurs a forfeiture, or a loss in the nature of a forfeiture by reason of his failure to comply with its provisions, he may be relieved therefrom, upon asking full compensation to the other party, except in cases of grossly negligent, willful or fraudulent breach of duty. 
+    - BUT IN CASE: Suggesting good faith, optioner not suffered injury, and reasonable expectations have not been defeated, and optioner is receiving full benefit of bargain.
+- **3. Restatement 229**
+  - When non-occurrence of a condition causes disproportionate forfeiture, court will excuse the non occurrence UNLESS the occurrence is a material part of the agreed exchange.
+
+##### Overriding of Express Condition Precedent to Prevent Forfeiture
+- **Oops Defense**
+- A condition precedent may be excused on equitable grounds to avoid forfeiture. (NY Approach)
+  - Refer to Restatement § 229
+    - See *[JNA Realty Corp.v. Cross Bay Chelsea](link)*
+      - Dissent:
+        - Timing: Renewal is Material because it provides ability for landlord to find a new tenant.
+        - Oops Defense: Is not a valid defense
+          - Commercial parties should know better
+        - Market: Party given the opportunity to try and play the rental market and exercise option at the very last second.
+        - No Evidence of Harm to the Other party
+
+#### CA Statutory Approach
+  - Whenever a party incurs a forfeiture, or a loss in the nature of a forfeiture by reason of his failure to comply with its provisions, he may be relieved therefrom, upon asking full compensation to the other party, except in cases of grossly negligent, willful or fraudulent breach of duty.
+    - See *[Holidays v. Knight](link)*
+      - Easier standard than NY given that no harm requirement
+
+#### Problem 7-5
+- Court will come in with express condition and no gap and no express condition and gap
+  - Line b/w Express and implied in law conditions are blurred
+
+
+#### Unjust enrichment as a theory to prevent forfeiture
+- If we have substantial performance as standard, and party does not meet that standard, then does that mean that the party whose performance was conditioned, get nothing? Even if party does not meet a condition, some courts might still allow them to sue in quantum meruit and get the market value of their services. They don’t have the right to sue on the contract though. Equitable principles invade to avoid unjust enrichment.
+
+
+### Sequential Performances
+
+### Quality of Performnace
+#### Substantial Performance
+- In the matter of homes and their decoration * * * mere taste or preference, almost approaching whimsy, may be controlling with the homeowner, so that variations which might, under other circumstances, be considered trifling, may be inconsistent with that ‘substantial performance’ on which liability to pay must be predicated.
+- See *[O. W. Grun Roofing & Constr. Co. v. Cope](link)*
+
+#### Material Breach
+- “What is our criterion for determining whether or not a breach of contract is so fatal to the undertaking of the parties that it is to be classed as ‘material’?
+  - There is no single touchstone. Many factors are involved.”
+    - See *[Walker & Co. v. Harrison](link)*
+
+#### Divisible Contracts
+- The parties’ promises “can be apportioned into corresponding pairs of part performances so that the parts of each pair are properly regarded as agreed equivalents”
+
+#### Uniform Commercial Code
+- Perfect Tender Rule
+  - If the goods or the tender of delivery fail in any respect to conform to the contract, the buyer may **reject the whole**
+
+
+
+
+- Where a contract is made to perform work and no agreement is made as to the payment, the work must be substantially performed before payment can be demanded.
+
+
 
 #### Restatement of Contracts 261 – Interpretation of doubtful words as promise or condition
 - Where it is doubtful whether words create a promise or an express condition, they are interpreted as creating a promise; but the same words may sometimes mean that one party promises a performance and that the other party’s promise is conditioned on that performance.

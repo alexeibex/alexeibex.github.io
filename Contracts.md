@@ -13,34 +13,10 @@
   - 3.1 [Freedom of Transaction](https://alexeibex.github.io/Contracts#31-freedom-of-transaction)
   - 3.2 [Donative Promise, Form & Reliance](https://alexeibex.github.io/Contracts#32--donative-promises-form--reliance)
 
-## 1.0 Introduction to Contracts
 
-- Deal with the Devil
-  - Basic contract law principles. One party wants something right away the other must wait.
-  - Take the future effectively make it the present by contract
-- [Nick Szabo on Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
-  - The contract, a set of promises agreed to in a "meeting of the minds", is the traditional way to formalize a relationship.
-  - Whether enforced by a government, or otherwise, the contract is the basic building block of a free market economy. Over many centuries of cultural evolution has emerged both the concept of contract and principles related to it, encoded into common law.
 
-### 1.1 Contracts
-- **Contract** = **Offer** + **Acceptance** + **Consideration**
-- Legality of Contracts:
-  - Agreements that our legal system will enforce and permit.
-- Considerations required for legal enforcement for Contracts
-  3. Surrogacy example
-    - Baby for money?
-  4. Committed relationships between two consenting individuals
-    - Law School for future expected earnings?
-- Promissory Liability is the Foundation of Contract Law
-- Contracts enhance trust and create the ability to function in a free market economy
-- The Freedom of contract is a foundational for functioning society
-- A lawyer's job is to anticipate potential problems and work for client to help protect against harmful outcomes.
-- Cases arise from differing interpretation of contracts
-- Most Contracts end up in settlement through negotiations or settlement.
-- Damages/Punitive Damages:
-  - As a general rule punitive damages are not recoverable for breach of contract. Although damages in excess of compensation for loss are in some instances permitted in tort actions by way of punishment, in contract actions the damages recoverable are limited to compensation for pecuniary loss sustained by the breach.
 
-#### Basic Contract Dispute
+### Introduction to Contracts
 #### Case: *[White v. Benkowski](https://advance.lexis.com/api/permalink/b6f5c0d1-fc87-40c2-8892-09fd07d1d5d2/?context=1000516)*
 
 <details>
@@ -75,57 +51,17 @@
 </details>
 
 - **Class Discussion**:
-  - Context for the case: "This case involves a neighborhood squabble between two adjacent property owners."
-  - Compensatory Damages
-    - Nominal v. Compensatory
-  - Punitive Damages
-    - “If a man shall steal an ox, or a sheep, and kill it, or sell it;
-he shall restore five oxen for an ox, and four sheep for a sheep.”
-    - Corbin states that as a general rule punitive damages are not recoverable for breach of contract.
-      - Allusion to authority.
-      - Court fell short of providing **reasons** why punitive damages are not proper.
-      - Although it is well recognized that breach of a contractual duty **may be a** tort, in such situations the contract creates the relation out of which grows the duty to use care in the performance of a responsibility prescribed by the contract. Not so here. No tort was pleaded or proved. **Critique of White's Attorney**
-
-
-### 1.2 Related Obligation
-- Contracts = K
-- Offer = O
-- Agreements = A
-- Consideration = C
-- Theories will connect to Remedies
-
-  <ol>
-    <li>Obligation arising from an agreement with <i>consideration</i> + any required writing (A w/ C)</li>
-    <li>Obligation arising from justified reliance on a promise</li>
-    <li>Obligation arising from unjust enrichment</li>
-    <li>Obligation arising from promises for benefits received</li>
-    <li>Obligation arising soley from tort</li>
-    <li>Obligation arising solely from "form"</li>
-    <li>Obligation arising from a statutory warrenty</li>
-  </ol>
 
 ---
 
-## 2.0 Remedies
-- How does the law treat someone who has been harmed by a breach of contract?
-  - Common Law Remedies can be flexible and attept to help promisee.
-  - UCC tries to make promisee whole + incurred costs "for goods"
-
-### 2.1 Common Law Remedies
-- **Compensatory** damages, which are given to the party which was detrimented by the breach of contract.
-  1. **Expectation**: Puts promisee in the position he would have been in if the contract had been *performed*. "You get what you bargained for"
-  2. **Reliance**: Puts promisee in the position he would have been in if the contract had *not been made*.
-  3. **Restitution**: Restors to the promisee any benefit he conferred to the promisor.
-  4. Expectation damages are the difference between promised performance and actual performance—for instance, between a perfect hand and a hairy, scarred hand. *Hawkins v. McGee*.
-
-- **Nominal** damages consist of a small cash amount where the court concludes that the defendant is in breach but the plaintiff has suffered no quantifiable pecuniary loss, and may be sought to obtain a legal record of who was at fault.
-
-- **Punitive** or **exemplary** damages are used to punish the party at fault; Contract law does not recognize punitive damages.
+### Remedies
 
 
-### 2.2 Reliance
+
+
+
+### Reliance
 #### Case: *[Sullivan v. O'Connor](Link)*
-- The appropriate measure of damages is the difference between (1) performance of the contract as promised and (2) actual performance.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -139,55 +75,13 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 
 </details>
 
-#### Class Discussion
-- Breach of Contract Claim + Negligent Malpractice Tort
-  - Jury awarded verdict of $13.5K for Breach of Contract
-    - Contract to "Enhance Beauty + Improve Appearence"
-  - No Negligent Malpractice
-- ∆ claimed restitution should only get cost of surgery (Compensatory)
-- ∆ claimed jury instruction for damages in excess
-- π would claim Lost Expectancy
-  - Formulaic? Not a "Good"
-    - Botched Nose v. Enhanced Expected Nose (Subjective)
-- Court dodged the bullet by not addressing Lost Expectancy Damages
-- Court rules in favor of Reliance Damages (Pre-K)
-  - Reliance damages designed to put the π in the monetary position he or she would have been in if the agreement or promise had not been made;
-    - Compensation for 3rd operation
-    - Compensation for medical expenses associated with 3rd operation
-- Hawkins v. McGee (Hairy Hand) = Expected Hand v. Hairy Hand
-  - π Entitled to difference in value between two hands
-- Medical Science is not an exact science. Court is skeptical of Doctors promises as interpreted by patients
-- Policy considerations
-  - Too Strict?
-    - Raised prices for surgery
-    - Defensive medicine
-    - Volume of contract disputes
-    - Sympathetic juries allocating damages
-  - Too Lenient?
 
-### 2.3 Remedies Under The Uniform Commerical Code
-##### Article 1 - Remedies to be liberally Administered
-  - Compensatory Damages + Search Costs
-
-##### Article 2 of the UCC
-- Applies to "Transactions in goods"
-  - "Goods" includes "all things" which are movable at the time of identification to the contract for sale
-- Adopted by all states except by Louisiana
 
 ---
 
-## 3.0 Obligation Arising from an Agreement with Consideration
+### Consideration
 
-- Consideration is one of the basic requirements of the leading theory of obligation in contractual and related affairs.
-  - Consideration = C
-  - Consideration is giving something and getting something in return. Both parties get something they want from one another.
-- Courts are hesitent to interfere with private transactions (exceptions)
-- Consideration has two elements:
-  1. Mutual Assent
-  2. Exchange of Value
-- A Valid Agreement w/ Consideration = (A w/ C)
-
-### 3.1 Freedom of Transaction
+####Freedom of Transaction
 
 #### Case: *[Hardesty v. Smith](https://advance.lexis.com/api/permalink/f0f3a33f-a251-40dd-8ba8-447935669cde/?context=1000516)*
 
@@ -225,7 +119,7 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
   - Rule: The doing of an act by one at the request of another, which may be a detriment or inconvenience, however slight, to the party doing it, or may be a benefit, however slight, to the party at whose request it is performed, is a legal consideration for a promise by such requesting party
 
 
-### 3.2  Donative Promises, Form & Reliance
+#### Donative Promises, Form & Reliance
 - Made for affective reasons, usually informal, and not demonstrably relied upon.
   - Executed Promise (Gift) is not the same.
 
@@ -381,8 +275,6 @@ he shall restore five oxen for an ox, and four sheep for a sheep.”
 </details>
 
 
-
-
 #### 3.3 Sufficient Consideration
 Any bargained-for act or forbearance constitutes consideration. There is no mutuality requirement.
 
@@ -425,7 +317,7 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
     1. The fact that what is bargained for does not of **itself solely** induce the making of a promise does not prevent it from being consideration for the promise.
     2. The fact that a promise does not of itself induce a performance or return promise does not prevent the performance or return promise from being consideration for the promise.
 
-#### 3.4 Bargained Theory & Mutual Inducement
+#### Bargained Theory & Mutual Inducement
 - Courts generally do not consider the adequacy of consideration.
   - In a bargained for exchange, promise is said to be supported by consideration because the promisor gets "something in exchange for his/her promise"
     - As long as you are getting **"a something"**
@@ -442,11 +334,10 @@ Any bargained-for act or forbearance constitutes consideration. There is no mutu
 A promise which the promisor should reasonably expect to induce action or forbearance on the part of the promisee or a third person and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. The remedy granted for breach may be limited as justice requires.
 
 #### Case: *[Baehr v. Penn-O-Tex Oil Corp.](https://advance.lexis.com/api/permalink/f54592e4-be10-4e64-8360-d1a530505f01/?context=1000516)*
-- Plaintiff lessor appealed an order from the Hennepin County District Court (Minnesota) granting defendant oil company's motion for judgment notwithstanding the verdict (JNOV) in the lessor's action to recover rents allegedly owed because of possession and contract.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b>Plaintiff lessor appealed an order from the Hennepin County District Court (Minnesota) granting defendant oil company's motion for judgment notwithstanding the verdict (JNOV) in the lessor's action to recover rents allegedly owed because of possession and contract.</li>
     <li><b>Facts:</b> The lessor leased gas stations to a lessee doing business as the oil company he was buying. The lessee could not meet payments due to the oil company and assigned accounts receivable, including those involving the lessor's gas stations. The oil company installed its agent in the lessee's office and collected rents paid by the filing station operators. </li>
     <li><b>Issue:</b> Was there a legally enforceable contract between the parties?</li>
     <li><b>Rule:</b></li>
@@ -3358,10 +3249,164 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 <details><summary><i>Case Brief</i></summary>
   <ul>
     <li><b>Overview:</b> Property owners were justified in relying on an adjuster's apparent authority to extend the time for filing a proof of loss where the adjuster had obtained the owners' signature on a non-waiver and advised them on the procedures for recovery.</li>
-    <li><b>Facts:</b></li>
+    <li><b>Facts:</b> Hotel damaged by fire. π/ owners had an insurance policy w/ ∆ w/ condition precedent clause requiring notification of fire within 60 days. Insurance agent assured them not to worry about notice of loss. Ins. co refused to pay bc condition precedent was not met.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b>Once insurer or authorized agents indicate by a course of conduct that proofs of loss are unnecessary, such a requirement is waived. Even if time has gone by, it can be waived</li>
+    <li><b>Conclusion:</b> Condition precedent was waived by insurer, bc ins. agent’s actions are evidence of his intent to waive proof of loss requirement, and P was being reasonable in their reliance on the agents conduct and assurances.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[J.N.A Realty Corp. v. Cross Bay Chelsea, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Tenant was entitled to new trial on issue of whether landlord was prejudiced by tenant's failure to give notice of intention to renew lease option, as tenant was entitled to equity if landlord was not so prejudiced.</li>
+    <li><b>Facts:</b>Appellant tenant leased a building from respondent landlord. The lease agreement contained an option to renew the lease, which stated that appellant was to notify respondent by certified mail six months prior to the last day of the term of the lease if appellant desired renewal. Subsequently, respondent sent a letter to appellant informing it that the option had expired and that appellant was to vacate the premises. Appellant then sent notice of intention to renew the option, which was refused by respondent. Respondent commenced suit to recover the premises, and appellant replied that it was entitled to equity to relieve it from a forfeiture. The trial court found for appellant, and the lower appellate court reversed.</li>
+    <li><b>Issue:</b>Can a tenant, who negligently failed to follow the terms of a lease, have a right to equitable relief where the landlord was not prejudiced? </li>
+    <li><b>Rule:</b>A tenant is entitled to the benefit of the rule or practice in equity which relieves against forfeitures of valuable lease terms when default in notice has not prejudiced the landlord, and has resulted from an honest mistake, or similar excusable fault. This rule has been expanded to preserve the tenant's interest in a long-standing location for a retail business because this is an important part of the good will of that enterprise, and thus the tenant stands to lose a substantial and valuable asset.</li>
+    <li><b>Conclusion:</b>The court held that an equitable interest was recognized and protected against forfeiture if the landlord was not harmed by the delay in the giving of the notice and the tenant would have sustained substantial loss. A tenant was entitled to the benefit of equity where default in notice did not prejudice the landlord. Thus, the case was remanded for a determination of whether respondent was prejudiced by appellant's failure to give notice.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Holiday Inns of America, Inc. v. Knight](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>When plaintiffs' default was not serious and defendants were willing and able to continue with performance of option contract, defendants suffered no damage by allowing plaintiffs to do so.</li>
+    <li><b>Facts:</b>Plaintiffs filed an action to have an option contract deemed still effective despite their late payment. The trial court granted summary judgment in favor of defendants. The plaintiffs appealed the case to the Supreme Court of California.</li>
+    <li><b>Issue:</b>Should the option contract be deemed effective?</li>
+    <li><b>Rule:</b>Cal. Civ. Code § 3275 and its proscriptions against forfeiture apply in any case in which the party seeking relief from default has brought himself within the terms of the section by pleading and proving facts that justify its application. In determining whether a given case falls within Cal. Civ. Code § 3275, however, it is necessary to consider the nature of the contract and the specific clause in question.</li>
+    <li><b>Conclusion:</b>The Court allowed the option contract to remain effective despite the plaintiff's delayed payments. Relying on Cal. Civ. Code § 3275, which provided relief from a loss in the nature of a forfeiture upon making full compensation to the other party, the Court held that this was applicable to an option contract where the only relief sought was from the provision making time of the essence in tendering annual payments. Since defendants had not suffered any injury justifying termination of the contract, none of their reasonable expectations had been defeated, and they would receive the benefit of their bargain, namely, the full price of the option, summary judgment was directed to be entered for plaintiffs.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Stewart v. Newbury](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Court held where contract was made to perform work, but was silent as to payments, work must be substantially performed before payment demanded; here, respondent had not substantially performed, so not entitled to payment.</li>
+    <li><b>Facts:</b>Appellants, partners in a pipe fitting business, hired respondent, a contractor and builder, to construct a building. Nothing was said in writing about the time or manner of payments respondent was to receive for completed work. Respondent commenced work in July and submitted a bill in late September for work completed. Appellants refused to pay the bill and respondent stopped work. A jury entered a verdict for respondent for the amount due for the work performed. On appeal, judgment was reversed and the case was remanded.</li>
+    <li><b>Issue:</b>Was respondent entitled to partial payment?</li>
+    <li><b>Rule:</b>Where a contract is made to perform work and no agreement is made as to payment, the work must be substantially performed before payment can be demanded.</li>
+    <li><b>Conclusion:</b>The court agreed, holding that where a contract was made to perform work and no agreement was made as to payment, the work must be substantially performed before payment was demanded. Respondent had not substantially performed under the contract, therefore he was not entitled to partial payment.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Plante v. Jacobs](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The correct rule for damages due to faulty construction was the difference between the value of the house as it stood and the value of the house if it had been constructed in accordance with the plans and specifications.</li>
+    <li><b>Facts:</b>The defendants contracted the plaintiff to furnish the materials and construct a house on their lot. In the middle of construction, a dispute arose between the parties. One of which was the wall between the living room and the kitchen which was misplaced by a foot. Defendants stopped payment while plaintiff stopped construction. Later on, plaintiff filed for his lien. Defendants argued that the cost to complete the house should cost between 25%-30% of the contract price. The trial court found that there was substantial compliance and awarded damages in favor of the plaintiff. In its computation, the trial court relied heavily on the cost-of-repair or replacement rule, such that when there are a number of small items of defect or omission which can be remedied without the reconstruction of a substantial part of the building or a great sacrifice of work or material already wrought in the building, the reasonable cost of correcting the defect should be allowed. On appeal, both defendants and plaintiff asserted that the lower court applied the wrong rule in assessing damages when a construction contract was substantially, but not strictly, performed according to the contract.</li>
+    <li><b>Issue:</b>Is the trial court correct in applying the cost-of-repair or replacement rule in calculating damages on a substantially performed construction contract?</li>
+    <li><b>Rule:</b>For substantial performance, the plaintiff should recover the contract price less the damages caused the defendant by the incomplete performance. The correct rule for damages due to faulty construction amounting to incomplete performance, is the difference between the value of the house as it stands with faulty and incomplete construction and the value of the house if it had been constructed in strict accordance with the plans and specifications. This is the diminished-value rule. The cost of replacement or repair is not the measure of such damage, but is an element to take into consideration in arriving at value under some circumstances. The cost of replacement or the cost to make whole the omissions may equal or be less than the difference in value in some cases and, likewise, the cost to rectify a defect may greatly exceed the added value to the structure as corrected.</li>
+    <li><b>Conclusion:</b>The correct rule for damages due to faulty construction was the difference between the value of the house as it stood and the value of the house if it had been constructed in accordance with the specifications. The cost of replacement was not the measure of such damage, but was an element to take into consideration in arriving at value under some circumstances. When the separation of defects would lead to confusion, the rule of diminished value applied to all defects. Nonetheless, as the lower court's findings were not against the great weight and clear preponderance of the evidence, it would not be disturbed on appeal.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[O. W. Grun Roofing & Constr. Co. v. Cope ](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Damage award to plaintiff homeowner affirmed where defendant roofing company failed to substantially perform when it presented plaintiff with a roof that was not of a uniform color.</li>
+    <li><b>Facts:</b> Contract to repair a roof. Owner refused to pay for the work done because the roof was streaky. Some of the panels were different in color then the others. P tried to repair but roof still did not look uniform.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b> Where a contract requests something very specific based on a person’s taste, it must be complied with or a court will not find substantial performance.</li>
+    <li><b>Conclusion:</b>Purpose of contract (uniform roof) was never met, so no substantial performance. If the only way to remedy the “breach” is completely redoing the
+entire thing than it is probably not consistent with substantial
+performance.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Walker & Co. v. Harrison](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Plaintiff was entitled to judgment against defendant for breach of a contract for the lease of a billboard because defendant had no valid grounds for its repudiation and failure to make further payments to plaintiff.</li>
+    <li><b>Facts:</b>Plaintiff brought an action against defendant for breach of a written contract between the parties for the lease of a sign advertising defendant's business. Defendant stopped making payments to plaintiff after attempting to get plaintiff to maintain the sign as specified in a contract between the parties, particularly to remove the rust, the cobwebs, and stains on the leased sign. The trial court rendered judgment for the plaintiff.</li>
+    <li><b>Issue:</b>Did defendant have the right to repudiate the contract of lease for plaintiff’s alleged failure to maintain the advertising sign?</li>
+    <li><b>Rule:</b>Measurements of materiality of a breach include whether the non-breaching party receives the substantial benefit of the contract or damages, has partially performed, the conduct of the breaching party, prospects of future performance, and any hardship.</li>
+    <li><b>Conclusion:</b>The court here found no valid ground for defendant's repudiation and failure to make further payments to plaintiff. The remedy of repudiation is available only if there is material breach by the contractor. In determining the materiality of a failure fully to perform a promise the following circumstances are influential: (a) The extent to which the injured party will obtain the substantial benefit which he could have reasonably anticipated; (b) The extent to which the injured party may be adequately compensated in damages for lack of complete performance; (c) The extent to which the party failing to perform has already partly performed or made preparations for performance; (d) The greater or less hardship on the party failing to perform in terminating the contract; (e) The willful, negligent or innocent behavior of the party failing to perform; (f) The greater or less uncertainty that the party failing to perform will perform the remainder of the contract. Here the alleged breach was not material as to justify repudiation. On the contrary, defendant's failure thereafter to comply with the terms of the contract was itself a material breach, entitling plaintiff to judgment. The court determined that there was no error in the judgment rendered against defendant for the cash price of the sign, for such services and maintenance as were extended and accepted, and interest upon the amount in default.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[John v. United Advertising Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Dismissal of the purchaser's claim was reversed, as the evidence showed that the seller did in fact breach the contract by failing to properly erect two advertising signs, and that the $ 680 paid to the seller should have been an item of damage.</li>
+    <li><b>Facts:</b>D was to install 7 signs for P in return for monthly payments. Only 5 signs were installed. P alleged that contract is entire in nature and should get back all their monies. D is alleging that the contract is severable, and that if P is entitled to any damages, for the 2 messed up signs.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b>The doctrine of divisiblity mitigates the harshness of substantial performance remedy on the whole contract. It prevents windfalls, and upholds the purpose of the contract. When do you have an entire or a divisible contract? Looking at the circumstances in totality.</li>
+    <li><b>Conclusion:</b>Contract was found divisible/ severable. Thus there is a proportionality of consideration. Damages are due for the material breach of only 2 signs. There is no set formula for determining whether a contract is severable or entire, but it’s important to look at the INTENT of contracting parties manifested not just by the terms and provisions of the written form, but also the surrounding circumstances.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Carrig v. Gilbert-Varker Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Contract was divisible and thus refusal of contractor to construct 15 houses included in contract, which were in addition to the 20 houses already erected, did not bar the contractor from recovering the unpaid balance for completed work.</li>
+    <li><b>Facts:</b> Plaintiff owner brought a breach of contract action against defendant contractor and the contractor brought a second action to recover an amount allegedly due under the contract. The Middlesex Superior Court (Massachusetts) found in favor of the owner on the first action and found for the contractor on the second action. Both parties appealed. On appeal, the issue regarding the first action was whether the superior court correctly found in favor of the owner, in view of the refusal of the contractor to build 15 houses. The court found that the sole reason for the failure of the contractor to build the houses in question was that it insisted upon being paid an appreciably larger amount of money than was provided for by the contract, if it should fully perform the contract. This was a repudiation without legal excuse. The superior court properly calculated the damages as being the cost in excess of the contract price that would be incurred by the owner in having the houses built. Regarding the second action, the issue was right of the contractor to recover the unpaid balance arising from the construction of the 20 houses it did build. The court found that the contract was divisible, and that the refusal of the contractor to construct the 15 houses included in the contract, which were in addition to the 20 houses erected by the contractor, did not bar the contractor from recovering the unpaid balance for work done and materials furnished in constructing the 20 houses.</li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
-    <li><b>Conclusion:</b></li>
+    <li><b>Conclusion:</b>The court affirmed the order for judgment in the first case. The court reversed the order for judgment in the second case. The court entered judgment on the third count for the sums due the contractor on certain houses in the amounts found by the auditor, together with interest. Interest in both cases was to be computed to the date of the judgment.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[K & G Construction Co. v. Harris](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Where refusal to pay an installment was justified on the owner's part, the contractor was not justified in abandoning work as that was a wrongful repudiation that went to the essence, even if defects in performance did not.</li>
+    <li><b>Facts:</b> Subcontractor appellees damaged a wall in the course of their performance of a subcontract, and appellant contractor withheld partial payment as damages for appellee's failure to perform a portion of his work in a workmanlike manner. The lower court awarded damages to appellees. The contractor appealed and the reviewing court reversed.</li>
+    <li><b>Issue:</b>Did the appellant have a right, under the circumstances, to refuse to make the installment payment?</li>
+    <li><b>Rule:</b> Promises and counter-promises made by the respective parties to a contract are (1) independent of each other, or (2) mutually dependent, one upon the other. They are independent of each other if the parties intend that performance by each of them is in no way conditioned upon performance by the other. In other words, the parties exchange promises for promises, not the performance of promises for the performance of promises. A failure to perform an independent promise does not excuse non-performance on the part of the adverse party, but each is required to perform his promise, and, if one does not perform, he is liable to the adverse party for such non-performance.</li>
+    <li><b>Conclusion:</b>Judgment was reversed and entered in favor of appellant because appellee's abandonment of the work was a breach that would render him liable to appellant for damages even if the original defects in performance did not. When the subcontractor's employee negligently damaged the contractor's wall, this constituted a breach of the subcontractor's promise to perform his work in a "workmanlike manner," and in accordance with the best practices. There can be little doubt that the breach was material and that the damage to the wall amounted to more than double the payment due to appellee.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

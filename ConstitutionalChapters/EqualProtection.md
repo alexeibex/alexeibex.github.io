@@ -166,13 +166,150 @@ when utilizing rational basis.
 - Automatic Point Bonus for Minority
   - Universities using point systems for admissions cannot grant automatic bonuses to minority applicants because of their race.
     - See *[Gratz v. Bollinger](link)*
-- Any official action that treats a person differently on account of his or her race or ethnic origin is inherently suspect. Government bears the burden to prove that the reason for any racial classification are clearly identified and unquestionably legitimate.
+- Any official action that treats a person differently on account of his or her race or ethnic origin is inherently suspect.
+- Government bears the burden to prove that the reason for any racial classification are clearly identified and unquestionably legitimate.
+- Public college may consider race as a factor in admissions only if the admissions program is narrowly tailored to further a compelling governmental interest.
   - See *[Fisher v. University of Texas](link)*
-- Schools cannot consider race when assigning students to schools, even if racial imbalances exist between schools.
-  - See *[Parents Involved in Community Schools v. Seattle School District](link)*
 
-#### Arguments for & against Strict Scruitiny
+#### Racial Diveristy In K-12 Public Education
+- Schools cannot consider race when assigning students to schools, even if racial imbalances exist between schools.
+  - Kennedy Concurrence:
+    - Existence of facially race neutral alternatives to achieve this objective. Soft Factors.
+    - See *[Parents Involved in Community Schools v. Seattle School District](link)*
+
+#### Arguments for & Against Strict Scruitiny
+
+
 ### Racial Discrimination and Voting Disctricts
+- Race preferences in electoral districting can be considered, but cannot be the primary motivation.
 - Racial Gerrymandering will receive strict scrutiny
-- Race cannot be the motivation of a redistricting plan
-  - See *[Shaw v. Reno](link)*
+  - See *[United Jewish Organizations v. Carey](link)*
+- Race cannot be the motivation of a redistricting plan.
+  - The use of race in drawing election districts is permissible only if the government can show that it is   necessary to achieve a compelling purpose.
+  - Court deferentially upheld redistricting aimed at maintaining black control of congressional district)
+    - See *[Shaw v. Reno](link)*
+  - If it is not obvious from the shape of the district that race was used in drawing its lines, the judiciary should usestrict scrutiny if it is demonstrated that race was a  “predominant” factor in districting.
+    - See *[Miller v. Johnson](link)*
+  - Strict scrutiny does not apply merely because   redistricting is performed with consciousness of race. Nor does it apply to all cases ofintentional creation of  majority-minority  districts.
+  - For strict scrutiny to apply, the plaintiffs must prove that other legitimate districting principles were ‘subordinated’ to race.
+    - *[Bush v. Vera](link)*
+
+
+### Sex Discrimination & Gender
+#### Early Cases on Gender
+- The Court rejected early attempts to apply the Fourteenth Amendment to sex discrimination, e.g.,
+  - Justice Bradley’s dissent in Bradwell, based on the “separate spheres”
+  - It held similarly that the right to vote ideolog was not a privilege or immunity.
+- Court upheld a Michigan “barmaid” law on rational basis review.
+  - See *[Goesaert v. Cleary](link)*
+- While purportedly applying rational review, the Court struck down an Idaho law that preferred men over women as estate administrators as “the very kind of arbitrary legislative choice forbidden by the Equal Protection Clause of the Fourteenth Amendment.
+  - See *[Reed v. Reed](link)*
+
+#### Heightened Scrutiny for Gender Classification
+- Gender based classifications require heightened scrutiny
+  - Strict Scruitny does not get a hold
+    - See *[Frontiero v. Richardson](link)*
+      - Like race, sex is immutable and “frequently bears no relation to ability to perform or contribute to society.
+
+#### Intermediate  Scrutiny  as  the  Appropriate  Level  of Review for Gender Classification
+  - Gender rights advocates argued that the Court should apply strict scrutiny to gender classification.
+  - This view won a plurality but not a majority in Frontiero. The court ultimately settled on intermediate scrutiny
+    - See *[Craig v. Boren](link)*
+      - The Court adopted intermediate scrutiny. “To regulate in a sex discriminatory fashion, the government must demonstrate that its use of sex-based criteria is “**substantially related**” to the achievement of “important government objectives”.”
+        - It never explained why it employed different standards for race and gender.
+
+#### Sex Equality After Craig v. Boren
+- Toward Stricter Scrutiny
+  - The  Court applied intermediate scrutiny to declare unconstitutional a state policy of operating a nursing school that was available only to women.
+    - Nursing as a sterotype cannot be used as a justification for substantially related to protecting women
+      - See *[Mississippi University for Women v. Hogan](link)*
+  - Distinctions based on physical sex differences are held to a similar standard, but are more likely to convince the court
+    - See *[United States v. Virginia](link)*
+
+#### Sex Based Premptory Strikes
+- More than important, justification must be exceedingly persuasive.
+  - See *[J.E.B v. Alabama ex rel. T.B](link)*
+
+#### Intermediate Scrutiny with a BITE
+- Exceedingly persuasive justification
+  - Must be actual reasons and court needs to search for gender neutral alternatives
+  - **Always requires ACTUAL reason - Court cannot Guess**
+    - See *[United States v. Virginia](link)*
+      - All governmental gender classifications must be substantially related to an important government purpose that can be demonstrated by the government if it offers an exceedingly persuasive justification for the classification
+      - Single- gender education is permissible as long there are separate but equal facil- ities for both males and females. Any gender-based state action requires an “exceedingly persuasive justification.”
+
+#### Permissible Sex-Based Differences
+- Legislation that differentiates between sexes based on biological factors is not necessarily discriminatory. Applying the Feeney principle, the Court held that pregnancy was not a pretext for the legislature to invidiously discriminate against women.
+- Distinctions based on physical sex differences are held to a similar standard, but are more likely to convince the court
+  - Pregnancy can be treated differently.
+  - *See *[Geduldig v. Aiello](link)*
+    - Upholds excluding pregnancy related disabilities from the state disability insurance system.
+- Statutory Rape Laws can consider sex
+  - See *[Michael M. v. Superior Court](link)*
+  - Upholds a statutory rape law that treats males and females differently. Reasoning based on history – men punished with imprisonment, women with pregnancy. Dissent argues that the law is based on stereotypes, and that a gender neutral one would be just as effective
+- Selective Service does not have to include women.
+    - See *[Rostker v. Goldberg](link)*
+      - Rejected a challenge to the selective service only registering men, finding that Congress considered and rejected doing so. Dissent argued that there was no relation to an important governmental interest.
+      - A congressional act that requires men and not women to register for a military draft does not violate the Fifth Amendment to the Constitution because women cannot statutorily participate in combat and thus are not similarly situated as men.
+- Illegitimate Fathers can be treated differently.
+  - See *[Parham v. Hughes](Link)*
+    - Upheld a law denying illegitimate fathers the right to sue for wrongful death, finding that they can choose to become legitimate.
+  - See *[Nguyen v. I.N.S](link)
+    - Upheld law treating children differently depending on whether the mother or father was the citizen.
+    - Found it was substantially related to the achievement of governmental interests in ensuring biological relationship, and child-parent relationship
+  - See *[Caban v. Mohammed](link)*
+    - Invalidated a law giving mothers more right in adoption proceedings than fathers of illegitimate children.
+    - No substantial relation to a legitimate interest
+
+#### Not Sex-Based Differences
+- Discriminatory Effect of Sex Discrimination.
+  - If a statute has a disparate impact on one gender, it is invalid only if the legislature passed it because of a desire to discriminate, not merely in spite of knowledge that a disparate impact would result.
+  - If a statute has a disparate impact on one gender, it is invalid only if the legislature passed it **because of** a desire to discriminate, not merely **in spite of** knowledge that a disparate impact would result.
+  - Enumerated two part test for laws challenged for their disproportionate impact: is the classification neutral with respect to gender, and if so, whether its effect reflects invidious gender based discrimination
+    - See *[Personnel Administrator of Mass. V. Feeney](link)*
+      - Here the court found the lifetime preference in civil service jobs for veterans to satisfy the test, as it was gender neutral, and all non veterans, men and women alike, felt the effects.
+- The Intent Standard, Version 2
+  - In Feeney, the Court elaborated the Davis discriminatory purpose requirement, holding that foreseeable impact “was not sufficient to prove discriminatory purpose under the Equal Protection Clause”
+    - “‘Discriminatory purpose’ . . . implies more than intent as volition or intent as awareness of consequences. It implies that the decision maker, in this case a state legislature, selected or reaffirmed a particular course of action at least in part ‘because of,’ not merely ‘in spite of,’ its adverse effects upon an identifiable group.”
+      - See *[Washington v. Davis](link)*
+
+#### Affirmative Action & Gender Based Discrimination
+- Most preferential treatment for women fails, unless it is benign or compensatory
+- Property Tax Exemptions
+  - *[Kahn v. Shevin](link)*
+    - Upheld under rational basis, pre-Craig, a property tax exemption for widows, but not widowers
+- Alimony
+  - Reduction of the disparity in economic condition between men and women caused by long history of dsicrimination is an important government objective
+  - See *[Orr v. Orr](link)*
+    - Struck down law imposing alimony on husbands but not wives – individualized considerations were required, narrow case by case can be done
+- Benefits Programs
+  - Law cannot be based on notion that male wages are essential to families, but female wages are merely supplemental
+    - See *[Weinberger v. Wiesenfeld](link)*
+  - Women getting higher social security benefits permissible to remedy longstanding disparate treatment
+    - See *[Califano v. Goldfarb](link)*
+  - Struck down restrictions on widower receiving survivor benefits when there were none for widows
+    - See *[Wengler v. Druggists Mutual Ins. Co](link)*
+  - Upholding extra benefit for women & rejected male challenge to sex distinctions in promotion system.
+  - Women discharged after 13 years without promotion, whereas men were discharged after two pass overs for promotion
+    - See *[Schlesinger v. Ballard](link)*
+
+### Other Suspect Classes & Fundamental Rights
+- Other classifications that may warrant some form of heightened scrutiny
+- Justifications for applying heightened scrutiny to other classifications
+  - The Race/Gender Analogy
+    - Immutability
+    - Salience
+    - Irrational prejudice
+      - Invidious Discrimination
+      - Sterotypes
+    - Irrelevance
+    - Powerlessness
+  - The Religion Analogy
+    - Irrational Prejudice
+    - Irrelevance
+
+#### Sexual Orientation
+- Same Sex Marriage
+  - Sexual Orientation is subject to rational basis, but it looks heightened in practice.
+    - Applies rational basis scrutiny to overturn a constitutional amendment barring LGBT people from seeking legal protection against discrimination. Court reasons that animus motivated the legislation, and after being too broad and too narrow, is thus invalid)
+    - See *[Romer v. Evans](link)*

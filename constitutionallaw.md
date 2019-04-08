@@ -3417,7 +3417,7 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b>Action alleging university’s consideration of race in admissions violated Equal Protection Clause was remanded as all racial classifications imposed by government must have been analyzed under strict scrutiny, and courts confined strict scrutiny inquiry in too narrow a way by deferring to university’s good faith in use of racial classifications.</li>
+    <li><b>Overview:</b>University's use of an admissions policy that considered race as part of a holistic-review process did not violate the Equal Protection Clause; evidence showed that, at the time the university adopted a race-conscious plan, its diversity policies had not been successful, and use of class rank alone would not be a workable means to attain diversity.</li>
     <li><b>Facts:</b>Petitioner applicant sued respondents, a state university and school officials, alleging that the university’s consideration of race in admissions violated the Equal Protection Clause of the Fourteenth Amendment. A district court granted summary judgment to respondents. The United States Court of Appeals for the Fifth Circuit affirmed. A writ of certiorari was granted.</li>
     <li><b>Issue:</b>Did the appellate court err by not applying strict scrutiny in deciding whether state university's consideration of race in admissions process violated Fourteenth Amendment's equal protection clause?</li>
     <li><b>Rule:</b>Decisions based on race or ethnic origin by faculties and administrations of state universities are reviewable under the Fourteenth Amendment. Redressing past discrimination can not serve as a compelling interest, because a university’s broad mission of education is incompatible with making the judicial, legislative, or administrative findings of constitutional or statutory violations necessary to justify remedial racial classification. The attainment of a diverse student body, by contrast, serves values beyond race alone, including enhanced classroom dialogue and the lessening of racial isolation and stereotypes.</li>
@@ -3457,6 +3457,111 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b>Is the reapportionment plan unconstitutional for racial gerrymandering?</li>
     <li><b>Rule:</b>The Equal Protection Clause, U.S. Const. amend. XIV, § 1 provides that no state shall deny to any person within its jurisdiction the equal protection of the laws. Its central purpose is to prevent the states from purposefully discriminating between individuals on the basis of race. Laws that explicitly distinguish between individuals on racial grounds fall within the core of that prohibition. </li>
     <li><b>Conclusion:</b>The Court ruled here that the Appellants have stated a claim under the Equal Protection Clause by alleging that the reapportionment scheme is so irrational on its face that it can be understood only as an effort to segregate voters into separate districts on the basis of race, and that the separation lacks sufficient justification.  The classification of citizens by race threatens special harms that are not present in this Court's vote-dilution cases and thus warrants an analysis different from that used in assessing the validity of atlarge and multimember gerrymandering schemes. In addition, nothing in the Court's decisions compels the conclusion that racial and political gerrymanders are subject to the same constitutional scrutiny; in fact, this country's long and persistent history of racial discrimination in voting and the Court's Fourteenth Amendment jurisprudence would seem to compel the opposite conclusion. Nor is there any support for the argument that racial gerrymandering poses no constitutional difficulties when the lines drawn favor the minority, since equal protection analysis is not dependent on the race of those burdened or benefited by a particular classification. Finally, the highly fractured decision in UJO does not foreclose the claim recognized here, which is analytically distinct from the vote-dilution claim made there.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Gender Discrimination
+
+#### Case: *[Bradwell v. State](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Reed v. Reed](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Frontiero v. Richardson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Craig v. Boren](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Mississippi University for Women v. Hogan](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[United States v. Virginia](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A party seeking to uphold government action based on sex must show classification serves important governmental objectives and that discriminatory means employed are substantially related to achievement of those objectives.</li>
+    <li><b>Facts:</b>The United States sued Virginia for violating the Equal Protection Clause of U.S. Const. amend. XIV owing to Virginia's policy of denying women admission to a publicly funded university. Court of Appeals ruled in favor of Virginia. The case was appealed to the Supreme Court of the United States.</li>
+    <li><b>Issue:</b>Did the policy violate equal protection?</li>
+    <li><b>Rule:</b> In cases of official classification based on gender, the reviewing court, must determine whether the proffered justification is exceedingly persuasive. The burden of justification is demanding and it rests entirely on the state to show at least that the challenged classification serves important governmental objectives and that the discriminatory means employed are substantially related to the achievement of those objectives.</li>
+    <li><b>Conclusion:</b>The Court opined that in cases of official classification based on gender, the proffered justification must be exceedingly persuasive; that the burden of justification was demanding and rested entirely on the state; that the state must show at least that the challenged classification served important governmental objectives and that the discriminatory means employed were substantially related to the achievement of those objectives; that the justification was genuine, not hypothesized or invented post hoc in response to litigation; and that it did not rely on overbroad generalizations about the different talents, capacities, or preferences of males and females. The Court held that Virginia failed to satisfy its burden of providing an exceedingly persuasive justification for its sex-based admissions policy or that the policy was substantially related to the achievement of those objectives.</li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

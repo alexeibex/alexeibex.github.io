@@ -1,14 +1,59 @@
 ## Bargain Theory For Enforcing Promises & The Requirement of Agreement
+- Agreement is enforceable only when there is consideration Agreement starts with bargained-for exchange.
+
 - Principle reason for enforcing contract law is based on a "bargained for exchange"
   - Agreement to exchange a piano for $400 dollars = Legally Binding Contract
   - A promise to make a gift of a piano != Legally Binding Contract
+- **PROMISE for a PROMISE**
+
+### Consideration
+- Restatement
+  - Consideration for a promise is:
+    - An act other than a promise, or
+    - A forbearance, or
+    - The creation, modi:ication or destruction of a legal relation, or
+    - A return promise,
+  - Bargained for and given in exchange for the promise
+
+#### Consideration Factors
+- Detriment
+  - The promisee gives up something of value or circumscribes his liberty in some type of way
+- Motive
+  - Promisor's motive is judged by an objective standard
+  - Doesn't have to be the main reason for getting something in return but has to be one of the reasons
+- Inducement
+  - Promise must actually induce the action or reciprocal consideration
+- Bargained-For
+  - Promisor requires something in return from promisee
+  - Promisor must bargain for either
+    - Return promise (Bilateral)
+    - Performance (Unilateral)
+- Forbearance
+  - Must have a reasonable honest belief that you are forbearing on a valid claim
+    - Giving up the "legal right" to do something
+
+#### Legal Formalities of Contracts
+- Fuller
+  - Evidentiary Function: Provides evidence for the existance of a Contract formation & Security from liars
+  - Cautionary Function: Acts as a check against inconsiderate action & ensures deliberate contract formation
+  - Channeling Function: Taking intentions and memorializing them in a formal contract & allows for people to rely on contract functions so as to work properly
+- Gift Promises
+  - Gifts would lose their value if they became legally enforcable everytime someone made a gift promise
+
 
 ### Bargain Theory of Consideration
-#### Bargain for Exchanges v. Gift Promise
+#### Bargain for Exchanges
 - Bargain for Exchange
   - Promisor requires something from the promisee in return for the promise = **Consideration**
 - Simple Gift Promise
   - Promisor gets nothing in return for their promise = No Consideration
+    - See *[Hardesty v. Smith](link)*
+- Tramp Example:
+  - Conditional gratuitous promises are not enforceable.
+    - There must be evidence that the promisor is getting something in return and/or a benefit from the condition they are imposing on the promisee.
+
+
+#### Donative Promises (Gifts)
 - Distinction between bargain for exchange and Gift Promise is in the motive
 - A promisor's gratitude for the promisee's past good conduct or services does not = Consideration
   - Promisor is not extracting and promisee is not supplying anything as the price of the promisor's promise.
@@ -35,6 +80,7 @@
   - Claim must be valid or else begins to resemble extortion
     - If promisor knows claim is invalid then no consideration
       - Exception if "colorable" & "doubtful"
+  - Consideration for the promise must rest upon the forbearance to exercise a legal right. Forbearance to assert either a legal or equitable claim is sufficient consideration.
 
 #### Poliices Behind Enforcing Bargained-For-Exchanges
 - Fulller: Formal and Substantive Grounds for Enforcing bargain-for-exchanges
@@ -61,12 +107,16 @@
     - One party may have taken advantage at the contract formation stage and is therefore invalid
       - Invitation for courts to police agreements if deemed unfair
 
-#### Mutuality of Obligation and Illusory Promises
-- Illusory promise = No Promise at All
+### Mutuality of Obligation and Illusory Promises
+- Illusory promise = No Promise at All & No Consideration
+  - A promise is not consideration if the promisor reserves alternatives, un- less the alternatives would have been consideration or would have been eliminated.
   - Agreement lacks an obligation on a party because they have not promised to deliver anything in exchange.
   - Example = $400 for piano in exchange for a statement to sell piano "if you want to.." = No Contract
 - Question often boils down to whether a promise is **real or illusory**
   - See *[De Los Santos v. Great Western Sugar Company](link)*
+- As long as there has been sufficient consideration, unequal terms do not invalidate a contract.
+
+#### Inferring and enforcing implied promises
 - Illusory Language in appearence only but still ends up committing parties because of "reasonable efforts"
   - A Promise may be lacking, yet the entire writing may be "instinct with obligation" imperfectly expressed, if so then there is a contract.
   - See *[Wood v. Lucy Lady Duff-Gordon](link)*

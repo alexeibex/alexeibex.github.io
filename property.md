@@ -1413,4 +1413,79 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 
 </details>
 
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Ownership Between Co-Owners
+
+#### Case: *[Delfino v. Vealencis](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Court erred deciding subordinate facts and failed to consider all parties' interests, thus, partition by sale of tenant in common property improper because facts insufficient to overcome preference for partition in kind.</li>
+    <li><b>Facts:</b>Plaintiffs and defendant owned a rectangular twenty acre parcel of land as tenants in common. Defendant occupied a dwelling and operated a garbage removal business from the land but neither party occupied the remainder of the area. Plaintiff then brought an action for partition by sale but defendant insists on partition in kind. The trial court ruled in favor of the plaintiff and ordered a partition by sale since defendant’s proposal cannot be obtained without material injury to both of them. This was reversed on appeal.</li>
+    <li><b>Issue:</b>Whether a partition by sale is justified considering the shape of the subject property and location of defendant’s dwelling.</li>
+    <li><b>Rule:</b>A partition by sale should be ordered only when two conditions are satisfied: (1) the physical attributes of the land are such that a partition in kind is impracticable or inequitable; and (2) the interests of the owners would better be promoted by a partition by sale.</li>
+    <li><b>Conclusion:</b>A partition in kind was favored over partition by sale. Partition by sale should be ordered only when two conditions are met: physical attributes of the land render partition in kind impracticable or inequitable; and owners' interest would better be promoted by a partition by sale. The court found that the lower court failed to recognize the shape of the parcel and location of dwelling made partition in kind particularly feasible. The court further found error in the finding that city planning commission would withhold subdivision approval based on defendant's business operations.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Contribution & Accounting
+
+#### Case: *[Gillmor v. Gillmor](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Plaintiff's clear demand that defendant share land coupled with defendant's refusal to accommodate plaintiff established a claim. Plaintiff did not have to graze her animals on land, thereby damaging land, to have established her right to a claim.</li>
+    <li><b>Facts:</b>Two brothers, the parties' fathers, Frank and Edward Lincoln Gillmor, had owned the land and used it for their ranching business. Upon the death of Frank Gillmor, his one-half interest in the property passed in equal shares to his sons, the defendant and C. Frank Gillmor. Edward Lincoln Gillmor continued the ranching business. For several years they grazed cattle and sheep on portions of the common properties. Upon the death of Edward Lincoln Gillmor, his one-half interest passed to his daughter, the plaintiff Florence Gillmor, and she, C. Frank, and the defendant became tenants in common. In May 1979, the plaintiff filed the instant suit for an accounting and damages for the defendant's exclusive use of the property since January 1, 1979. She also filed a separate suit for partition of the common properties. The trial was divided into two phases covering different time periods. Following the award to plaintiff, defendant appealed. The court affirmed ruling in part and reversed it in part, holding first that plaintiff's clear demand that defendant share the land coupled with defendant's refusal to accommodate plaintiff established a claim for relief. </li>
+    <li><b>Issue:</b>Is it true that there was no evidence or finding on the issue of ouster? Even if there were an ouster, were the damages considered excessive?</li>
+    <li><b>Rule:</b>Mere exclusive use of commonly held properties by one co-tenant is not sufficient to establish an ouster. A tenant in common has the right to use and occupy the entire property held in co-tenancy without liability to other co-tenants. Each co-tenant has the right to free and unobstructed possession without liability for rents for the use and occupation.</li>
+    <li><b>Conclusion:</b>The defendant contends that the trial court erred in finding that the defendant had exercised exclusive possession and use of the common properties in such a manner as to exclude the plaintiff from using the land. We disagree. The plaintiff sought to graze livestock on the land to the extent of her interest, but was effectively prevented from doing so. She sent defendant a letter expressing her intent to graze her livestock on the properties in proportion to her ownership and requested that the defendant accommodate her plans by altering his operations accordingly. The defendant refused to respond and continued to graze the lands to their maximum capacity. He even acknowledged that additional grazing would have damaged the range land. The defendant asserts that at various times he or his attorney invited the plaintiff onto the lands, but he never indicated any intention to alter his operations so as to accommodate the plaintiff's use of the land. Had the plaintiff grazed her livestock on the common properties while defendant's livestock was also there, the land would have been overgrazed. Indeed, the defendant admitted that if the plaintiff had attempted to put additional sheep on the land, he would have sought an injunction to prevent damage to the land.A co-tenant may, however, be required to contribute his pro rata share of expenses if the co-tenant in possession acted in good faith, with the bona fide belief that he was the sole owner of the property, or when the repairs were essential to preserve or protect the common estate.  Furthermore, where, as here, a co-tenant out of possession seeks an accounting or damages, the co-tenant in possession, who is held liable for the value of the use, occupancy, or rents collected, is entitled to recover reasonable expenditures made by him for necessary repairs and maintenance. In the instant case, the evidence indicates that the repairs were a necessary cost of grazing the livestock and should have been deducted from the damages awarded. The case must therefore be remanded for a modification of the judgment.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Severance
+#### Case: *[Harms v. Sprague](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Joint tenancy in property was not severed by one joint owner mortgaging his interest in property; mortgage, like property interest, extinguished upon that joint owner's death.</li>
+    <li><b>Facts:</b>A man owned property with his brother in joint tenancy. During his lifetime, his brother mortgaged his interest in the property. Upon his brother's death, the man brought an action against the mortgagees and the executor of his brother’s will to quiet title. The trial court ruled in favor of the mortgagees and the executor. On appeal, this was reversed by the appellate court. The case was appealed to the Supreme Court of Illinois.</li>
+    <li><b>Issue:</b>Should the action to quiet title approved favor of the living brother?</li>
+    <li><b>Rule:</b>A surviving joint tenant succeeds to the share of the deceased joint tenant by virtue of the conveyance which created the joint tenancy, not as the successor of the deceased.</li>
+    <li><b>Conclusion:</b>The court ruled that the joint tenancy was not severed when plaintiff's brother mortgaged his interest, because a mortgage is only a lien and does not destroy the unity of title. Further, the court held that the mortgage did not survive the brother's death, because the lien, along with his interest, extinguished upon his death.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Entity Property
+
+#### Case: *[Paradine v. Jane](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Term of lease is for three years and the tenant cannot get out of the lease until the term is up. During the civil war in England, Prince Rupert ousted the tenant from the land before the lease was over.</li>
+    <li><b>Facts:</b> Term of Years lease of agricultural land to tenant at a fixed rent. Tenant can NOT get out of Lease early; stuck. There is a covenant of private enjoyment which was granted by the landlord = promise by the landlord that he will not interfere w/ tenant's possession. But it is not the landlord will prevent any others from interfering with tenant's possession.</li>
+    <li><b>Issue:</b>In situations where there are asymmetries of control or info, who should bear risk of something bad happening: landlord or tenant?</li>
+    <li><b>Rule:</b> Traditional Independent Covenants Model = All covenants must be performed without regard to whether other covenants have been or can be performed. The covenant to pay rent & other covenants are independent from each other. This means that violation of 1 covenant, does not allow other party to violate other covenants. Even if landlord fails to perform a covenant, such as a covenant to repair the premises, the tenant must continue to perform the covenant to pay rent. If tenant fails to perform the covenant to pay rent, the landlord must continue to perform the covenant of quiet possession. Dispossession of property by a 3rd party is the risk that the tenant should bear! The courts today have been moving away from this Independent Model towards Dependent. Residential leases much further from this independent covenant rule, commercial leases perhaps still somewhat closer.</li>
+    <li><b>Conclusion:</b>Tenant has more control over the profit & loss than landlord does. Therefore, tenant should bear risk of loss.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
 - <span style="color:red">**Class Discussion**</span>

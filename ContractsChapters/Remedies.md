@@ -1,12 +1,61 @@
-# Damages Remedies
+# Remedies
+- How does the law treat someone who has been harmed by a breach of contract?
+  - Common Law Remedies can be flexible and attept to help promisee.
+  - UCC tries to make promisee whole + incurred costs "for goods"
+
+## Types of Remedies in Common Law
+- **Compensatory** damages, which are given to the party which was detrimented by the breach of contract.
+  1. **Expectation**: Puts promisee in the position he would have been in if the contract had been *performed*. "You get what you bargained for"
+  2. **Reliance**: Puts promisee in the position he would have been in if the contract had *not been made*.
+  3. **Restitution**: Restors to the promisee any benefit he conferred to the promisor.
+  4. Expectation damages are the difference between promised performance and actual performance—for instance, between a perfect hand and a hairy, scarred hand. *Hawkins v. McGee*.
+
+- **Nominal** damages consist of a small cash amount where the court concludes that the defendant is in breach but the plaintiff has suffered no quantifiable pecuniary loss, and may be sought to obtain a legal record of who was at fault.
+
+- **Punitive** or **exemplary** damages are used to punish the party at fault; Contract law does not recognize punitive damages.
+
+
 ## Damages
 - Damages compensate parties for actual losses.
+
+
 ### Expectation (Benefit of the Bargain)
   - Put Promisee in the Position he would have been in had the contract been performed.
   - (Measure of Expectation Remedies) = (Wealth of promisee if promise had been performed) - (Actual Wealth)
 
 ### Reliance (Loses Incurred due to expectation)
   - Put promisee in the position he would have been in had the contract never been made
+    - The appropriate measure of damages is the difference between
+      - (1) performance of the contract as promised and
+      - (2) actual performance
+        - See *[Sullivan v. O'Connor](link)*
+            -Breach of Contract Claim + Negligent Malpractice Tort
+              - Jury awarded verdict of $13.5K for Breach of Contract
+                - Contract to "Enhance Beauty + Improve Appearence"
+              - No Negligent Malpractice
+            - ∆ claimed restitution should only get cost of surgery (Compensatory)
+            - ∆ claimed jury instruction for damages in excess
+            - π would claim Lost Expectancy
+              - Formulaic? Not a "Good"
+                - Botched Nose v. Enhanced Expected Nose (Subjective)
+            - Court dodged the bullet by not addressing Lost Expectancy Damages
+            - Court rules in favor of Reliance Damages (Pre-K)
+              - Reliance damages designed to put the π in the monetary position he or she would have been in if the agreement or promise had not been made;
+                - Compensation for 3rd operation
+                - Compensation for medical expenses associated with 3rd operation
+            - Hawkins v. McGee (Hairy Hand) = Expected Hand v. Hairy Hand
+              - π Entitled to difference in value between two hands
+            - Medical Science is not an exact science. Court is skeptical of Doctors promises as interpreted by patients
+            - Policy considerations
+              - Too Strict?
+                - Raised prices for surgery
+                - Defensive medicine
+                - Volume of contract disputes
+                - Sympathetic juries allocating damages
+              - Too Lenient?
+
+
+
 
 ### Restitution (Down Payment, Deposit)
   - Put the promisor back in the position he would have been in had the promise never been made.
@@ -32,11 +81,20 @@
 - True expectation damages would be lost profits (handling fee)
   - See *[Tongish v. Thomas](link)*
 
-### Applicable UCC
-- UCC §1-106 = Remedies to be liberally adminstered so as to put Promisee in position he would be in had the contract been performed (General Expectancy)
-- UCC §2-712 = Cost of substitution to Promisee minus Contract Price (Cover)
-- UCC §2-713 = Market price minus Contract plus incidental damages
-- UCC §2-717 = On notice to promisor, promisee may deduct damages caused by breach from any part of the price still due under the same contract
+
+
+#### Remedies Under The Uniform Commerical Code
+- Article 1 - Remedies to be liberally Administered
+  - Compensatory Damages + Search Costs
+- Article 2 of the UCC
+  - Applies to "Transactions in goods"
+  - "Goods" includes "all things" which are movable at the time of identification to the contract for sale
+  - Adopted by all states except by Louisiana
+- Applicable UCC
+  - UCC §1-106 = Remedies to be liberally adminstered so as to put Promisee in position he would be in had the contract been performed (General Expectancy)
+  - UCC §2-712 = Cost of substitution to Promisee minus Contract Price (Cover)
+  - UCC §2-713 = Market price minus Contract plus incidental damages
+  - UCC §2-717 = On notice to promisor, promisee may deduct damages caused by breach from any part of the price still due under the same contract
 
 
 
