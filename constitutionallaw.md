@@ -3161,7 +3161,7 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b>Food Stamps and Hippie Communs affords rational basis</li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
@@ -3562,6 +3562,163 @@ and, later, opposed the 1787 constitution.
     <li><b>Issue:</b>Did the policy violate equal protection?</li>
     <li><b>Rule:</b> In cases of official classification based on gender, the reviewing court, must determine whether the proffered justification is exceedingly persuasive. The burden of justification is demanding and it rests entirely on the state to show at least that the challenged classification serves important governmental objectives and that the discriminatory means employed are substantially related to the achievement of those objectives.</li>
     <li><b>Conclusion:</b>The Court opined that in cases of official classification based on gender, the proffered justification must be exceedingly persuasive; that the burden of justification was demanding and rested entirely on the state; that the state must show at least that the challenged classification served important governmental objectives and that the discriminatory means employed were substantially related to the achievement of those objectives; that the justification was genuine, not hypothesized or invented post hoc in response to litigation; and that it did not rely on overbroad generalizations about the different talents, capacities, or preferences of males and females. The Court held that Virginia failed to satisfy its burden of providing an exceedingly persuasive justification for its sex-based admissions policy or that the policy was substantially related to the achievement of those objectives.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Graham v. Richardson](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Classifications based on alien status were inherently suspect, and state statutes denying welfare benefits to noncitizens and restricting benefits to longtime resident aliens violated the Equal Protection Clause of the Fourteenth Amendment.</li>
+    <li><b>Facts:</b>Appellants, the States of Arizona and Pennsylvania, had statutes which conditioned welfare benefits either upon the beneficiary's possession of United States citizenship or, if the beneficiary was an alien, upon his having resided in this country for a specified number of years. Appellees, Richardson et al. were aliens denied benefits under these statutes and they instituted actions against their states. The district courts found that the statutes violated the Equal Protection Clause of U.S. Const. amend. XIV. Appellants sought review. </li>
+    <li><b>Issue:</b>Were the statutes which conditioned welfare benefits either upon the beneficiary's possession of United States citizenship or, if the beneficiary was an alien, upon his having resided in this country for a specified number of years violative of the Equal Protection Clause?</li>
+    <li><b>Rule:</b>A State retains broad discretion to classify as long as its classification has a reasonable basis. But the United States Supreme Court's decisions have established that classifications based on alienage, like those based on nationality or race, are inherently suspect and subject to close judicial scrutiny. Accordingly, the power of a state to apply its laws exclusively to its alien inhabitants as a class is confined within narrow limits. </li>
+    <li><b>Conclusion:</b>The Court found that classifications based on alien status were inherently suspect and subject to close judicial scrutiny. A state statute that denied welfare benefits to resident aliens, and one that denied them to aliens who had not resided in the United States for a specified number of years, violated the Equal Protection Clause. Appellants' desires to preserve limited welfare benefits for its own citizens were inadequate to justify appellants making noncitizens ineligible for public assistance and restricting benefits to citizens and longtime resident aliens.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[In Re Griffiths](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>State rule that required United States citizenship as a prerequisite for permission to take the State bar examination was unconstitutional because the rule violated the Constitution's Equal Protection Clause by discriminating against resident aliens.</li>
+    <li><b>Facts:</b>Federally registered resident aliens filed a class action when, because of their alienage, they were discharged from their competitive civil service positions with New York City. The aliens challenged the constitutionality of N.Y. Civ. Serv. Law § 53, which denied all aliens the right to hold positions in New York's classified competitive civil service for being violative of the Fourteenth Amendment and the Supremacy Clause of the U.S. Constitution. A defense motion to dismiss for want of jurisdiction was entered by appellants. The lower court ruled that the statute violated the Fourteenth Amendment and the Supremacy Clause and granted injunctive relief. </li>
+    <li><b>Issue:</b>Is the statute discharging resident aliens from their competitive civil service positions violative of the Fourteenth Amendment and the Supremacy Clause of the U.S. Constitution?</li>
+    <li><b>Rule:</b>Aliens as a class are a prime example of a discrete and insular minority and classifications based on alienage are subject to close judicial scrutiny. A state's power to apply its laws exclusively to its alien inhabitants as a class is confined within narrow limits. Courts therefore look to the substantiality of the state's interest in enforcing the statute in question, and to the narrowness of the limits within which the discrimination is confined.</li>
+    <li><b>Conclusion:</b>The Court affirmed the lower court's decision and determined that aliens as a class were a prime example of a discrete and insular minority. According to the Court, classifications based on alienage were subject to close judicial scrutiny. The Court looked to the substantiality of the state's interest in enforcing the statute and to the narrowness of the limits within which the discrimination was confined. The Court concluded that § 53 was unconstitutional because it violated the Equal Protection Clause in view of its breadth and imprecision in the context of the state's interest.
+
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Bernal v. Fainter](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+### Disability, Age & Poverty
+
+#### Case: *[Cleburne v. Cleburne Living Center, Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The mentally handicapped were not a quasi-suspect class; nevertheless a city ordinance that prevented an organization from operating a residence facility for the mentally handicapped was invalid because it had no rational purpose.</li>
+    <li><b>Facts:</b>Respondent sought to open a home for the mentally retarded in petitioner city. Under the zoning ordinance, petitioner refused to give respondent the permit. The zoning ordinance specifically restricted the home because the occupants were mentally retarded even though the home complied with space requirements for the occupants. Respondent alleged that the ordinance was unconstitutional and in violation of the Equal Protection Clause.</li>
+    <li><b>Issue:</b>Is a zoning ordinance that required a special permit for the operation of a group home for the mentally retarded unconstitutional?</li>
+    <li><b>Rule:</b>The Equal Protection Clause of the Fourteenth Amendment commands that no state shall deny to any person within its jurisdiction the equal protection of the laws, which is essentially a direction that all persons similarly situated should be treated alike. U.S. Const. amend. XIV, § 5 empowers congress to enforce this mandate, but absent controlling congressional direction, the courts have themselves devised standards for determining the validity of state legislation or other official action that is challenged as denying equal protection.</li>
+    <li><b>Conclusion:</b>The Court held that the mentally retarded were not a quasi-suspect class. The Court held that to withstand equal protection review, legislation that distinguished between the mentally retarded and others must be rationally related to a legitimate governmental purpose. As no rational purpose was present, the Court held that the ordinance was invalid and remanded the action to the lower court.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Voting Rights
+
+#### Case: *[Harper v. Virginia State Board of Educations](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A Virginia poll tax was an invidious discrimination in violation of the Equal Protection Clause of the Fourteenth Amendment because the tax made the affluence of the voter or payment of a fee an electoral standard.</li>
+    <li><b>Facts:</b>Annie Harper, a Virginia citizen and a person of limited means, attempted to register to vote and was asked to pay a poll tax as a condition of registering. She filed a suit against the Virginia Board of Elections in federal district court alleging that her 14th Amendment right of equal protection was being violated by requiring her to pay a tax to vote. A three-judge panel dismissed her case, citing Supreme Court precedence. Harper appealed to the U.S. Supreme Court, which agreed to hear the case.</li>
+    <li><b>Issue:</b>Does a poll tax on voter registration violate the equal protection rights of a class of citizens?</li>
+    <li><b>Rule:</b>Once the elective franchise is granted to the electorate, lines may not be drawn which are inconsistent with the Equal Protection Clause of the Fourteenth Amendment. The right of suffrage is subject to the imposition of state standards, which are not discriminatory and which do not contravene any restriction that Congress, acting pursuant to its constitutional powers, has imposed.</li>
+    <li><b>Conclusion:</b>The Court reversed the order dismissing the state residents' action. The poll tax was an invidious discrimination that violated the Equal Protection Clause of the Fourteenth Amendment. The Court reversed and overruled the prior case to the extent that it sanctioned the tax. It held that a state violated the Equal Protection Clause whenever it made the affluence of the voter or payment of any fee an electoral standard. Voter qualifications had no relation to wealth or to paying or not paying this or any other tax. The Equal Protection Clause prohibited the states from fixing voter qualifications that invidiously discriminated. To introduce wealth or payment of a fee as a measure of a voter's qualifications was to introduce a capricious or irrelevant factor. The degree of the discrimination was irrelevant. As a condition of obtaining a ballot, the requirement of fee paying caused an "invidious" discrimination that ran afoul of the Equal Protection Clause.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Kramer v. Union Free School District No. 15](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Dismissal of citizen's suit challenging a statute on equal protection grounds was inappropriate as the statute, which limited the right to vote in school district elections to property owners and parents, did not meet exacting standards of precision.</li>
+    <li><b>Facts:</b>The petitioner, Kramer, was refused the right to vote in school district elections, under a New York statute requiring property ownership in the district or children attending district schools to vote in such elections. New York Education Law requires the ownership of real property within a school district or custody of children attending the district to be eligible to vote in school district elections. The petitioner lived with his mother within the school district. His denial of voting rights was based solely on his lack of real property ownership or custody of children. He brought suit, seeking to invalidate the statute as unconstitutional under the Fourteenth Amendment of the United States Constitution.</li>
+    <li><b>Issue:</b>Was the New York statute narrowly tailored to serve a compelling government interest?</li>
+    <li><b>Rule:</b>If a challenged state statute grants the right to vote to some bona fide residents of requisite age and citizenship and denies the franchise to others, the court must determine whether the exclusions are necessary to promote a compelling state interest.</li>
+    <li><b>Conclusion:</b>The Court held that NY CLS Educ § 2012 did not meet the exacting standard of precision required of statutes that selectively distributed the franchise. The classifications in NY CLS Educ § 2012 permitted inclusion of many persons who had, at best, a remote and indirect interest in school affairs and, on the other hand, excluded others who had a distinct and direct interest in the school meeting decisions. The Court reversed and remanded the district court's order dismissing petitioner's suit challenging the denial of his right to vote in the elections of appellee school district. The Court held that a statute limiting the right to vote in the elections did not meet an exacting standard of precision.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Reynolds v. Sims](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The Equal Protection Clause required both houses of a bicameral state legislature to be apportioned on a population basis; recourse to so-called "federal analogy" by a legislature in its efforts to reapportion itself would not be sustained.</li>
+    <li><b>Facts:</b>Voters in several Alabama counties brought suit against various officials having state election duties. The complaint alleged serious discrimination against voters in counties whose populations had grown proportionately far more than others since the 1900 census which, despite Alabama's constitutional requirements for legislative representation based on population and for decennial reapportionment, formed the basis for the existing legislative apportionment. The court affirmed the judgment of the district court, which held that the existing and two legislatively proposed plans for the apportionment of seats in the two houses of the Alabama legislature were invalid.</li>
+    <li><b>Issue:</b>Were the lower courts correct to invalidate existing and proposed plans for the apportionment of Alabama's bicameral legislature?</li>
+    <li><b>Rule:</b>All qualified voters have a constitutionally protected right to vote and to have their votes counted. The right to vote can neither be denied outright nor destroyed by alteration of ballots, nor diluted by ballot-box stuffing. </li>
+    <li><b>Conclusion:</b>The court held that the Equal Protection Clause required both houses of a bicameral state legislature to be apportioned on a population basis and that recourse to the so-called "federal analogy" would not be sustained. The district court was found to have acted with proper judicial restraint after the Alabama legislature failed to act effectively to remedy the constitutional deficiencies in its apportionment scheme in ordering its own temporary plan to permit the holding of elections pursuant to it without great difficulty and in retaining jurisdiction and deferring a hearing on a final injunction to allow the legislature opportunity to act effectively.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Davis v. Bandemer](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The Court, finding issue of political gerrymandering to be justiciable, reversed judgment that reapportionment plan was unconstitutional where standard used by trial court to find vote dilution was insufficiently demanding.</li>
+    <li><b>Facts:</b>The Indiana state legislature, both Houses of which had Republican majorities, and Indiana's Republican Governor approved a legislative district reapportionment plan which was allegedly designed to maintain Republican control of the legislature; the plan was recommended by a conference committee consisting entirely of Republicans, and Democrats were excluded from the mapmaking process and had only 40 hours to examine and respond to the plan from the time it was revealed until its passage by the legislature. A number of Indiana Democrats filed suit against various state officials in the United States District Court for the Southern District of Indiana, alleging that the reapportionment plan was intended to and did violate their right, as Democrats, to equal protection under the Fourteenth Amendment. Appellees filed suit against appellants, several state officials, claiming that a legislative reapportionment plan constituted a political gerrymander intended to disadvantage Democrats across the state. </li>
+    <li><b>Issue:</b>Does political gerrymandering violate the Equal Protection Clause?</li>
+    <li><b>Rule:</b>In order to succeed with a redistricting equal protection claim, plaintiffs are required to prove both intentional discrimination against an identifiable political group and an actual discriminatory effect on that group.</li>
+    <li><b>Conclusion:</b>The Court held that a threshold showing of discriminatory vote dilution was required for a prima facie case of an equal protection violation and that the findings made by the trial court of an adverse effect on appellees did not surmount the threshold requirement. Appellees did not meet their burden of showing both intentional discrimination against an identifiable political group and an actual discriminatory effect on the group. The trial court judgment was reversed.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Civil Rights Cases](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

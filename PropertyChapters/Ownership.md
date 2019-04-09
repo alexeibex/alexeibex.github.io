@@ -65,15 +65,16 @@
     - Doing so is **impractical**
     - Sale would be better **serve the owners interests**
       - See *[Delfino v. Vealencis](link)*
+        - Owelty: Payment from one Co-Tenant to another in order to make equitable
 
 ##### Partition in Sale
+- May be done in certain circumstances
 - Selling property at auction and dividing proceeds
 - Increased trend toward partition in sale
 
 ##### Problem on Partition in Kind (Subjective v. Objective Value)
 - A and B are heirs of their father, who owned one item both A and B very much want—his old rocking chair. They cannot agree who is to have the chair. A brings a partition action. What relief should the court award?
 - A and B own the chair as tenants in common. The chair cannot be partitioned in kind, so there must be a partition sale. Both attach equal value to the chair, so the one with more money will probably get it by paying more for it.
-
 
 
 
@@ -116,4 +117,3 @@
     - Problem with Joint Tenancy
       - Unilateral severance respects each co-owner’s rights by allowing each to control how his share is used. However, unilateral severance creates opportunities for fraud.
         - For instance, one tenant could secretly sever the joint tenancy by conveying his interest to a third party; but if the other joint tenant dies first, the survivor destroys the secret deed and claims sole title.
--

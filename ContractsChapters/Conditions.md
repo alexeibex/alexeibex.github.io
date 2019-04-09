@@ -145,7 +145,7 @@
 
 
 #### Problem 7-4
-- A. Don’t pay according to the 15 , waiver by estoppel , the days of payment not material. Its clearly not so material. He allowed this without protest.
+- A. Don’t pay according to the waiver by estoppel , the days of payment not material. Its clearly not so material. He allowed this without protest.
 - B. Repudiation of the waiver generally okay.
   - Unless other individual says they cant meet that now bc of Rinancial difficulty, or show impossible to meet original date, based on previous dates is ok. **But retractions otherwise is ok**
 - C. They agreed by **contract of contract**.
@@ -191,19 +191,64 @@
 
 
 ### Sequential Performances
-
-### Quality of Performnace
 #### Substantial Performance
-- In the matter of homes and their decoration * * * mere taste or preference, almost approaching whimsy, may be controlling with the homeowner, so that variations which might, under other circumstances, be considered trifling, may be inconsistent with that ‘substantial performance’ on which liability to pay must be predicated.
-- See *[O. W. Grun Roofing & Constr. Co. v. Cope](link)*
+- Factors to consider to see if substantial performance is appropriate:
+  - Purpose to be served
+  - Desire to be grati:ied
+  - Excuse for deviating from contract
+  - Cruelty of enforcing strict adherence
+  - Ratio of money value of tendered performance and promised performance
+
+
+- Rule for performance in general is that the performance that takes the longest will go first however once there has been substantial performance, the duty to pay matures
+- Where a contract is made to perform work and no agreement is made as to the payment, the work must be substantially performed before payment can be demanded.
+  - Courts not interested in compelling people to work
+  - See *[Steward v. Newbury](link)*
+
+#### Implied Condition Fixing the Quality of Performance
+- Constructive Condition = Substantial Performance
+- Test: Does the performance meet the essential purpose of the contract?
+  - Court may construct substantial performance doctrine in a building contract where the essential purpose of the contract was fulfilled.
+  - 2 Types of Remedies used: Diminished Value Rule & Cost to Repair
+    - No restitution given because Court did not agree and the finding of non-substantial performance.
+    - See *[Plante v. Jacobs]
+
+#### Material Breach & Substantial Performance
+- In the matter of homes and their decoration mere taste or preference, almost approaching whimsy, may be controlling with the homeowner, so that variations which might, under other circumstances, be considered trifling, may be inconsistent with that ‘substantial performance’ on which liability to pay must be predicated.
+- Where a contract requests something very specific based on a person’s taste, it must be complied with or a court will not find substantial performance.
+- If the only way to remedy the “breach” is completely redoing the entire thing than it is probably not consistent with substantial
+performance.
+  - See *[O. W. Grun Roofing & Constr. Co. v. Cope](link)*
 
 #### Material Breach
 - “What is our criterion for determining whether or not a breach of contract is so fatal to the undertaking of the parties that it is to be classed as ‘material’?
   - There is no single touchstone. Many factors are involved.”
+  - But the injured party's determination that there has been a material breach, justifying his own repudiation, is fraught with peril, for should such determination, as viewed by a later court in the calm of its contemplation, be unwarranted, the repudiator himself will have been guilty of material breach and himself have become the aggressor, not an innocent victim.
     - See *[Walker & Co. v. Harrison](link)*
 
 #### Divisible Contracts
 - The parties’ promises “can be apportioned into corresponding pairs of part performances so that the parts of each pair are properly regarded as agreed equivalents”
+  - Example: Multiple Payments for each individual performance
+- The doctrine of divisiblity mitigates the harshness of substantial performance remedy on the whole contract. It prevents windfalls, and upholds the purpose of the contract.
+- When do you have an entire or a divisible contract? Looking at the circumstances in totality.
+  -  INTENT of contracting parties manifested not just by the terms and provisions of the written form, but also the surrounding circumstances.
+    - See *[John v. United Advertising Inc.](link)
+
+#### Divisibilty
+- Recovering the unpaid balance arising from the construction of the 20 houses it did build. The court found that the contract was divisible, and that the refusal of the contractor to construct the 15 houses included in the contract, which were in addition to the 20 houses erected by the contractor, did not bar the contractor from recovering the unpaid balance for work done and materials furnished in constructing the 20 houses
+  - See *[Carrig v. Gilbert-Varker Corp.]
+
+#### Material Breaches
+- Common law says if there is a material breach you can terminate contract immediately.
+- Restatement says you can only suspend immediately, but must wait for a potential cure before you can terminate.
+- Under the concept of constructive conditions of exchange, the owner’s payment of progress payments is an implied condition of the builder’s duty to continue to work.
+  - There is a two-step analysis on breach
+    - Was the owner’s breach in failing to make the progress payments significant enough to justify the builder’s suspending performance?
+    - Did owner’s breach continue long enough to justify the builder’s termination the contract?
+- If the answer to both questions is yes, the builder was entitled to terminate the contract and claim damages for total breach against the owner.
+- But if the answer to either is no, the builder’s action was precipitous and unjustified, and amounts to a breach that gave the owner a right to terminate and claim for total breach against the builder.
+  - See *[K & G Const. Co. v. Harris](link)*
+
 
 #### Uniform Commercial Code
 - Perfect Tender Rule

@@ -256,7 +256,7 @@ when utilizing rational basis.
     - Upheld a law denying illegitimate fathers the right to sue for wrongful death, finding that they can choose to become legitimate.
   - See *[Nguyen v. I.N.S](link)
     - Upheld law treating children differently depending on whether the mother or father was the citizen.
-    - Found it was substantially related to the achievement of governmental interests in ensuring biological relationship, and child-parent relationship
+    - Found it was substantially related to the achievement of governmental interests in ensuring biological relationship, and child-parent relationship (Relaxed Intermediate Scrutiny)
   - See *[Caban v. Mohammed](link)*
     - Invalidated a law giving mothers more right in adoption proceedings than fathers of illegitimate children.
     - No substantial relation to a legitimate interest
@@ -313,3 +313,127 @@ when utilizing rational basis.
   - Sexual Orientation is subject to rational basis, but it looks heightened in practice.
     - Applies rational basis scrutiny to overturn a constitutional amendment barring LGBT people from seeking legal protection against discrimination. Court reasons that animus motivated the legislation, and after being too broad and too narrow, is thus invalid)
     - See *[Romer v. Evans](link)*
+
+
+#### Citizenship & Alienage & Scrutiny
+- Strict Scrutiny is generally required for restrictions on legal aliens by states
+  - Public interest doctrine: The state can discriminate based on alienage (1) to limit the use of public resources to its citizens, or (2) pursuant to its police powers to protect its citizens.
+  - Rejection of the Public Interest Doctrine
+    - Alienage is a suspect classification, calling for heightened scrutiny.
+    - See *[Graham v. Richardson](link)*
+      - Held that states could not deny welfare benefits to aliens, finding that status was inherently suspect, and subject to close scrutiny
+  - Bar Admission
+    - See *[In Re Griffiths](link)*
+  - Civil Servant Jobs
+    - See *[Sugarman v. Dougall](link)*
+      - Invalidated law barring aliens from permanent positions in civil service, though granting an exception for certain positions related to government function
+      - Sugarman government function exception has been read broadly to exclude aliens from categories of employment.
+  - Police Officers
+    - See *[Foley v. Connelie](link)*
+      - Uses Rational Basis to uphold exclusion from police
+  - Public School Teachers
+    - See *[Ambach v. Norwick](link)*
+      - Upheld exclusion from public school teaching
+        - BUT See *[Bernal v. Fainter](link)*
+          - Rejecting ban on aliens from serving as notaries
+          - Alienage classifications warrant strict scrutiny. For the law to stand, it “must advance a compelling state interest by the least restrictive means available.
+          - The Cabell test allows alienage classifications if the classification is (1) specific and (2) closely related to governance. Teachers, police, and probation officers meet this requirement. Notaries public do not.
+          - Dissent: The Constitution itself recognizes a distinction between citizens and aliens, so how could alienage be a suspect classification
+            - It’s not irrational for states to require public servants to be citizens, because public servants wield much policymaking authority. Gov- ernment will also be more efficient if citizens run it, because they understand its form and purpose
+
+- Less scrutiny required for restrictions on legal aliens by the federal government
+- Regulation of Resident Aliens
+  - Equal Protection Clause of the Fifth Amendment restrict the federal government’s immigration policy?
+    - Yes. There is no basis for states to distinguish between aliens and citizens of another state, but the federal government distinguishes between citizens and aliens all the time. Congress can limit aliens’ access to Medicare, even though the states can’t impose similar limitations on access to public benefits.
+      - See *[Mathews v. Diaz](link)*
+    - The Court invalidated a regulation that barred aliens from working in the civil service—but it based its holding on due process (finding that ineligibility for employment in a major sector of the economy was a deprivation of liberty), explicitly avoiding the question of whether the regulation violated equal protection.
+      - See *[Hampton v. Mow Sun Wong](link)*
+
+#### Disability, Age, Poverty
+- Mental retardation is subject to rational basis scrutiny
+  - Reduced mental capacity justifies special treatment from state
+  - Not discriminatory
+  - Group is not politically powerless
+  - The effects of permitting heightened scrutiny are too numerous.
+- Heightened scrutiny is being applied, as the permit denial has a rational basis – in turn advocates for varying the level of scrutiny with the importance of the interest affected, and the invidiousness of the discrimination (History of Discrimination)
+    - See *[Cleburne v. Cleburne Living Center, Inc.](Link)*
+      - Denial of a permit for the operation of homes for the mentally retarded violates the Equal Protection Clause of the Constitution where such denial is not rationally related to a legitimate governmental purpose.
+- Age classifications are subject to rational basis
+  - See *[Massachusetts Bd. of Retirement v. Murgia](link)*
+    - Holds that rational basis scrutiny is required in upholding mandatory retirement age for state police
+    - Since physical ability generally declines with age, mandatory retirement at age 50 serves to remove from  police service   those whose fitness for uniformed work presumptively has diminished with age.
+    - This clearly is rationally relatedt o the State's objective
+- Poverty and Wealth Classifications
+- Wealth classifications are subject to rational basis
+  - See *[James v. Valtierra](link)*
+    - Upheld a law requiring voter approval for the creation of low income housing. Found that rational basis was the proper level of scrutiny
+
+#### The "Fundamental Interest" Branch of Equal Protection
+- Fundamental Rights unenumerated in the Constitution also merit strict scrutiny.
+
+
+##### Fundamental Interest in Voting
+- No Explicit Right to Vote but...
+- Access to voting is deemed a fundamental right protected by the equal protection clause
+- Poll Taxes
+  - See *[Harper v. Virginia State Board of Educations](link)*
+    - Court finds that the right to vote is a fundamental right, and that while states do not have to hold elections, if they do, then equal protection requires that the right be extended to all. Here the court strikes down a poll tax, finding that it places a wealth restriction on the right to vote, and that this is not a legitimate state purpose.
+    - Once the franchise is granted to the electorate, lines may not be drawn which are inconsistent with the Equal Protection Clause
+- Property Ownership Requirements
+  - See *[Kramer v. Union Free School District No. 15](Link)*
+    - Struck down restrictions on right to vote in school district elections to parents of children, and land owners/renters.
+    - Court found that there must be a compelling interest to restrict the right to vote
+    - Limited purpose elections can restrict the right to vote when only a discrete class is the sole interested party
+      - See *[Salyer Land Co. v. Tulare Lake Basin Water Storage District](link)*
+        - Upholds restriction for voting in water district to landowners in the district.
+        - Applies minimal scrutiny
+- Disenfranchisement of Felons
+- Felons can be disenfranchised, even after serving sentence.
+  - See *[Richardson v. Ramirez](link)*
+    - Court upheld state disenfranchisement of former felons, finding that §2 of the 14th Amendment, denying vote to those that participate in “rebellion, or other crime” justified.
+- Voter ID Laws
+  - See *[Crawford v. Marion County Election Board](link)*
+- Counting & Recounting Votes
+  - See *[Bush v. Gore](link)*
+
+##### Vote Dilution
+- Historically, the court was reluctant to enter into districting matters, finding that they were political matters.
+  - See *[Colegrove v. Green](link)*
+    - Court refused to hear challenge to districting law, finding that it was a political matter beyond the reach of the judiciary
+- Malaportionment however can be considered justicable under Equal Protection
+  - See *[Baker v. Carr](link)*
+    - Court rejected claim that equal protection challenges to apportionment schemes were nonjusticiable
+- One person, one vote is the required standard in districting
+  - See *[Reynolds v. Sims](link)*
+    - Court finds state’s lack of redistricting for sixty years unconstitutional, as it violates equal protection.
+    - Finds that one person one vote is a basic requirement of citizenship, but that other considerations may be considered, and absolutely equal districts are not mandated
+    - Malapportionment inevitably means vote dilution; those voters in the more populous district have proportionately less  influence in the political process than those in the small districts.
+      - An individual's constitutionally protected right to cast an equally weighted vote cannot be denied even by a vote of a  majority of a State's electorat.
+
+##### Gerrymandering
+- Politics can be a consideration in districting, but discriminatory intent justifies judicial review.
+- See *[Gaffney v. Cummings](link)*
+  - Court indicated that it would be very reluctant to invalidate districts based on gerrymandering
+- Must be a prima facie showing of discrimination
+  - See *[Davis v. Bandemer](link)*
+    - Challenge to state redistricting that produced disparate results for Democratic party were upheld, as for political redistricting claims to be judiciable.
+    - There must be a prima facie showing of discrimination
+    - Mere disparate results in one election were not sufficient
+
+##### After Davis
+- See *[Vieth v. Jubelirer](link)*
+  - Plurality argued that political gerrymandering claims should categorically be non- judiciable)
+
+#### Access to the Judicial System
+- Constitution does not require Access to Courts
+
+##### Economic Barriers and the Criminal Process
+- Transcripts on Appeal
+  - See *[Griffin v. Illinois](link)*
+    - Held that state must provide a trial transcript to indigent criminal defendant appealing conviction. Though noted that appeals are not constitutionally required, when permitted, cannot discriminate on account of wealth.
+- Counsel on Appeal
+  - See *[Douglas v. California](link)*
+    - Held that states must provide indigent with counsel for their first appeal where appeals are granted
+- There is no absolute right to counsel for appeals
+  - See *[Ross v. Moffitt](link)*
+  - Held that the indigent do not have to be provided with counsel for discretionary appeals – indigent still have meaningful access

@@ -6,8 +6,6 @@
 ![Cheat Sheet](/Users/Furs/Downloads/cheatsheet.jpeg)
 
 
-
-
 #### Case: *[Case Name](Link)*
 
 <details><summary><i>Case Brief</i></summary>

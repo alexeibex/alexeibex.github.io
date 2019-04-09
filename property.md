@@ -1489,3 +1489,102 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Smith v. McEnany](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>The tenant had the right to treat an encroachment onto the rented premises, by a wall that was built with the landlord's assent and knowledge of the encroachment, as an eviction determining the lease. This eviction suspended the rent under the lease.</li>
+    <li><b>Facts:</b>The tenant rented a lot from the landlord, part of which was covered by a shed that was used by the tenant to store wagons. A permanent brick wall for a building was built on land that adjoined the lot. The adjoining land was owned by the landlord's husband, and the wall encroached onto the lot rented by the tenant. The wall was constructed with the landlord's assent and with her knowledge of the encroachment. Thereafter, the landlord filed an action against the tenant based on his non-payment of rent, and for the breach of a covenant to repair.</li>
+    <li><b>Issue:</b>Whether the wrongful eviction of the tenant by the landlord from a part of the premises suspends the rent.</li>
+    <li><b>Rule:</b>A wrongful eviction of a tenant by the landlord from a part of the premises suspends the rent under the lease. The main reason is that the enjoyment of the whole consideration is the foundation of the debt and the condition of the covenant, and that the obligation to pay cannot be apportioned. There may be an apportionment when the eviction is by title paramount, or when the lessor's entry is rightful.</li>
+    <li><b>Conclusion:</b>The superior court ruled that the tenant had the right to treat the encroachment as an eviction determining the lease, to which the landlord filed exceptions. The court overruled the exceptions and held that the wrongful eviction of the tenant suspended the rent under the lease. The court held that by the terms of the lease as construed, the tenant made it an absolute condition that he should have the whole of the demised premises, at least as against wilful interference on the landlord's part. The court noted that such an eviction did not necessarily end the lease or other obligations of the tenant under it.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Medico-Dental Building Company of Los Angeles v. Horton & Converse](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Where a lessor breached its restrictive covenant not to lease premises to another entity, who competed against a lessee, the lessee was entitled to vacate the premises without further liability for rent.</li>
+    <li><b>Facts:</b>Defendant lessee's lease stated that the plaintiff lessor was not to lease any other premises to another entity which operated a drug store. A doctor signed a lease which stated that he was not going to operate a drug store. The lessee advised the lessor about a breach of the restrictive covenant not to lease to a drug store when the doctor began to operate a drug store. When the lessor was unable to stop the doctor's operations, the lessee vacated before another rent payment was due. Plaintiff brought a breach of lease contract action against the lessee. The trial court ruled for the lessee. On appeal, the court affirmed.</li>
+    <li><b>Issue:</b>Where a lease contained a covenant that the lessor was "not to lease" to another drug store and the lessee was obligated "to pay rent," did violation of the covenant relieve the lessee of his obligation; the covenant addressing the estate conveyed in the lease and the obligation being a mere contract term?</li>
+    <li><b>Rule:</b>While it is true that a lease is primarily a conveyance in that it transfers an estate to the lessee, it also presents the aspect of a contract. This dual character serves to create two distinct sets of rights and obligations -- one comprising those growing out of the relation of landlord and tenant, and said to be based on the privity of estate, and the other comprising those growing out of the express stipulations of the lease, and so said to be based on privity of contract. Those features of the lease, which are strictly contractual in their nature, should be construed according to the rules for the interpretation of contracts generally and in conformity with the fundamental principle that the intentions of the parties should be given effect as far as possible.</li>
+    <li><b>Conclusion:</b>The court affirmed the decision for the lessee because, where the covenant ran to the entire consideration of the lease, the restrictive covenant was dependent on the other lease obligations according to the parties' intentions. The doctor clearly operated a legal drug store under Cal. Bus. & Prof. Code §§ 4030, 4035. The evidence showed that the lessee did not acquiesce in the operation of the doctor's drug store.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Sutton v. Temple](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Landlord leased property to tenant who used the land to raise animals. The land was poisonous because of old paint so the animals died. The landlord was unaware the land was poisonous.</li>
+    <li><b>Facts:</b>D-Tenant leased a field to graze cattle. Cattle died. Cause was poisonous paint embedded in field’s soil. P & D were not aware. Lease did not include any guarantees or warranties that the grass would be suitable for purpose of cattle eating. </li>
+    <li><b>Issue:</b>Did T have to pay per K when land was not suited for intended purpose? </li>
+    <li><b>Rule:</b>If a person enters a lease for the use and occupation of land for a specific purpose, he is bound to that bargain, even though he took it for a particular purpose and that purpose was unattainable. Caveat Lessee = common law rule that even if the property is unsuitable for the intended purpose, the renter still has to pay rent per the contract.</li>
+    <li><b>Conclusion:</b>Where one undertakes to pay a specific rent for a piece of land, he is obliged to pay the rent whether it answers to the purpose for which he took it or not. Benefit by occupation is irrelevant. Forfeiture clauses -» These were clauses in leases invariably insisted upon by landlords, providing that upon the tenant’s violation of enumerated covenants in the lease – most crucially the covenant to pay rent – the tenant’s interest in the lease would be immediately forfeited.Under one form, analogous to the fee simple determinable, the lease forfeits automatically upon violation of specified covenants by the tenant. Under the other form, analogous to the fee simple subject to condition subsequent, the violation of specified covenants by the tenant authorizes the landlord to “reenter and retake” the premises.
+</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Blackett V. Olanoff](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Landlords had it within their control to correct conditions that caused tenants to vacate their apartments and, therefore, they were not entitled to collect rent for residences that were not reasonably habitable.</li>
+    <li><b>Facts:</b>Plaintiff landlords sued defendant tenants to collect past-due rent. Defendant tenants successfully raised the defense of constructive eviction. They claimed that late evening noise from a nearby lounge leased by plaintiff landlords to others violated their implied warranty of quiet enjoyment, and the lower court agreed. Plaintiff landlords appealed the judgment, which the court affirmed.</li>
+    <li><b>Issue:</b>Did the plaintiff breach defendant tenants' implied warranty of quiet enjoyment?</li>
+    <li><b>Rule:</b>Where a landlord has not intended to violate a tenant's rights, there can nevertheless be a breach of the landlord's covenant of quiet enjoyment which flows as the natural and probable consequence of what the landlord does, what he fails to do, or what he permits to be done.</li>
+    <li><b>Conclusion:</b>The court affirmed, holding that plaintiff landlords had it within their control to correct the conditions that caused plaintiff tenants to vacate their apartments. The noise problem was the natural and probable consequence of plaintiff landlords permitting the lounge to operate where it did and, therefore, they were not entitled to collect rent for residences that were not reasonably habitable.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Gottlieb v. Taco Bell](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> In an action for breach of a lease, the landlords' acceptance of the tenant's surrender of the lease operated to discharge the tenant from all liability for future rent where the lease contained no acceleration clause.</li>
+    <li><b>Facts:</b>The plaintiffs, landlords, filed suit for an alleged breach of commercial lease. The parties had entered into a 20-year lease where the tenant agreed to build and operate a fast-food restaurant. Due to a community opposition, the tenant never completed the construction and repudiated the lease. The tenant never paid any rent on the lease. The trial court granted summary judgment for the landlords, holding that they were not required to accept the repudiation, and referred the matter for a trial as to damages.</li>
+    <li><b>Issue:</b>Were the commercial landlords entitled to damages?</li>
+    <li><b>Rule:</b>When a lessee attempts to repudiate a lease prior to the expiration of its term, the lessor may reject the repudiation and do nothing, in which case the lessee continues to remain liable under the terms of the lease, as there is no obligation for a commercial lessor to mitigate damages. The lessor can also elect to notify the lessee that it is entering the premises and re-letting for the lessee's benefit, in which case the lessee remains liable for any rent deficiency. The lessor also has the option to accept the repudiation, re-enter the premises, and re-let for its own benefit. In that event the lessee is relieved from any further liability under the lease. No further rent accrues because the landlord-tenant relationship no longer exists.</li>
+    <li><b>Conclusion:</b>The court determined that the landlords accepted the tenant’s repudiation when they leased to a new tenant. Thus, the landlords were only entitled to accrued rent with interest, the value of the structure for which had already contracted, and attorney’s fees.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Sommer v. Kridel](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Landlords have an obligation to make a reasonable effort to mitigate damages in wrongfully vacated apartments, and were prevented from recovering when landlord did not rent to a ready, willing, and able replacement tenant.</li>
+    <li><b>Facts:</b>Defendant tenants signed a residential lease for apartments which they vacated. Landlords sued tenants in two separate cases to collect rent for the entire lease. One trial court dismissed the complaint, which was reversed on appeal. The other trial court granted of summary judgment for the landlord, which was affirmed on appeal. Both defendants appealed. In one case, plaintiff landlord said he did not attempt to re-let, and even denied a potential tenant the opportunity to rent the vacated apartment. The other plaintiff did not respond to interrogatories posited during discovery. </li>
+    <li><b>Issue:</b>Were the landlords entitled to recover rent due under the leases regardless of whether they had attempted to re-let the vacated apartments?</li>
+    <li><b>Rule:</b>Antiquated real property concepts which served as the basis for the pre-existing rule, shall no longer be controlling where there is a claim for damages under a residential lease. Such claims must be governed by more modern notions of fairness and equity. A landlord has a duty to mitigate damages where he seeks to recover rents due from a defaulting tenant.</li>
+    <li><b>Conclusion:</b>The state supreme court reversed, holding that landlords had an obligation to make a reasonable effort to mitigate damages with respect to the wrongfully vacated apartments. Therefore, the court overruled Joyce v. Bauman, 113 N.J.L. 438 (E. & A. 1934), to the extent it was inconsistent with its decision. Thus, the judgment of one case was reversed where the plaintiff landlord did not mitigate his damages and could have re-leased the apartment right away. The other case was reversed and remanded to determine whether the landlord could have mitigated the damages.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
