@@ -124,3 +124,47 @@
     - There is an increasing trend to treat leases not as conveyances of land, but as contracts. As a result, application of the contract doctrine of mitigation of damages is appropriate. If a landlord fails to mitigate damages when he has the opportunity, the defaulting tenant may be relieved of his duty to pay rent.
     - Not a loss volume seller because each apartment may have unique features.
       - *[Sommer v. Kridel](link)*
+
+##### Hypo
+1  | 2  | 3  | 4  |  5 | 6
+--|---|---|---|---|--
+T1 Vacates  |   | L Relets @ $700   |   |   |  Lease of T1 Ends
+
+###### 3 Months after L Relets
+1. If Court determines surrender has been accepted T1 owes = $o
+2. If Court determines reletting not an acceptance of surrender they owe $900 ($300 x 3 Months)
+
+###### 3 Months Prior to Reletting
+- No duty to mitigate, per lease agreement T1 owes = $3000 ($1000 x 3 months)
+- Duty to mitigate (1 Month is Reasonable time to Relet)
+  - $1000 for 1st month +
+  - $100 expense for transaction costs +
+  - + FMV of new lease($700) for months 2 & 3
+    - Duty to mitigate != Duty to excuse lease
+
+#### Implied Warranty of Habitability
+- The landlord must repair the premises regardless of the provisions of the lease.
+- Creates a dependent covenant - Treat lease agreements as an ordinary contract
+  - If the landlord breaches warranty of habitability, then the tenant can stop paying rent
+- A breach occurs when **a reasonable person** would find the **premises uninhabitable** or when the property **violates housing codes**.
+- **Cannot be waived**
+- In regards to residential property, the landlord makes an implied warranty of habitability and that standard of habitability is set by relevant housing codes.
+  - Modern Status of Renting
+    - Most renters acquire living space in a building, not farmland.
+    - Apartment buildings are complex, making them difficult to inspect and repair.
+    - Renters are also unlikely to be able to make home repairs themselves
+    - Modern tenants frequently move so unable to internalize the full benefits of repairs v. landlord who can relet property at higher price post repairs.
+  - Consumer Protection
+    - Info asymmetry; unequal bargaining power because of standardized forms where all Landlords are offering the same terms.
+  - Poor Quality Housing is the detriment to the entire city
+  - See *[Javins v. 1st National Realty Corp.](Link)*
+
+##### Remedies for Tenants
+- Remain in Possession and Withhold Rent
+  - The landlord cannot sue for unpaid rent or to evict, since the tenant can raise the defense of the breach of the implied warranty.
+- Remain in possession and “repair and deduct”
+- Remain in possession, pay rent, and sue for damages
+- Terminate lease and sue for damages
+
+##### Policy Reasons
+  - **Caveat lessee** does not suit the needs of poor urban tenants. Urban tenants lack the skills to repair the premises on their own, and the shortage of affordable housing makes it unlikely that they will be able to negotiate with landlords.

@@ -3709,6 +3709,39 @@ and, later, opposed the 1787 constitution.
 
 - <span style="color:red">**Class Discussion**</span>
 
+#### Case: *[M.L.B. v. S.L.J.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>A state could not, consistent with Due Process and Equal Protection Clauses of the Fourteenth Amendment, condition appeals from trial court decrees terminating parental rights, on the ability to pay record preparation fees.</li>
+    <li><b>Facts:</b>After petitioner's parental rights to her minor children were terminated, she sought to appeal. However, since she lacked funds to pay for record preparation required by Miss. Code Ann. §§ 11-51-3 and 11-51-29 as a predicate to appeal, her appeal was dismissed.</li>
+    <li><b>Issue:</b>Can a State condition an appeal for an indigent’s loss of child custody due to the latter’s inability to pay record preparation fees?</li>
+    <li><b>Rule:</b>A state may not, consistent with the Due Process and Equal Protection Clauses of U.S. Const. amend. XIV, condition appeals from trial court decrees terminating parental rights on the affected parent's ability to pay record preparation fees. Just as a state may not block an indigent petty offender's access to an appeal afforded others, so may it not deny a parent, because of her poverty, appellate review of the sufficiency of the evidence on which the trial court found her unfit to remain a parent.</li>
+    <li><b>Conclusion:</b>The court held that: (a) an indigent's right to a transcript at state expense for purposes of appeal, while absolute in criminal cases, applied rarely in civil cases; (b) the right did apply in civil cases, pursuant to the Due Process and Equal Protection Clauses of U.S. Const. amend. XIV, when the interest involved is sufficiently strong; and (c) parents' interest in their relationship with their children was sufficiently strong as to require provision of a free transcript for indigents.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[San Antonio Independent School Dist v. Rodriguez](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Parents, who alleged that their children were receiving a poorer quality education than that available to children in districts having more assessable wealth, unsuccessfully challenged the Texas school finance system on equal protection grounds.</li>
+    <li><b>Facts:</b>The financing of public elementary and secondary schools in Texas is a product of state and local participation. Almost half of the revenues are derived from a largely state-funded program designed to provide a basic minimum educational offering in every school. Each district supplements state aid through an ad valorem tax on property within its jurisdiction. Appellees brought this class action on behalf of school children said to be members of poor families who reside in school districts having a low property tax base, making the claim that the Texas system's reliance on local property taxation favors the more affluent and violates equal protection requirements because of substantial interdistrict disparities in per-pupil expenditures resulting primarily from differences in the value of assessable property among the districts. The District Court, finding that wealth is a "suspect" classification and that education is a "fundamental" right, concluded that the system could be upheld only upon a showing, which appellants failed to make, that there was a compelling state interest for the system. The court also concluded that appellants failed even to demonstrate a reasonable or rational basis for the State's system.</li>
+    <li><b>Issue:</b>Whether the Texas system of financing public education operates to the of some suspect class or impinges upon a fundamental right explicitly or implicitly protected by the Constitution, thereby requiring strict judicial scrutiny?</li>
+    <li><b>Rule:</b>Questions of federalism are always inherent in the process of determining whether a state's laws are to be accorded the traditional presumption of constitutionality, or are to be subjected instead to rigorous judicial scrutiny.</li>
+    <li><b>Conclusion:</b>This is not a proper case in which to examine a State's laws under standards of strict judicial scrutiny, since that test is reserved for cases involving laws that operate to the disadvantage of suspect classes or interfere with the exercise of fundamental rights and liberties explicitly or implicitly protected by the Constitution. The wealth discrimination discovered by the District Court in this case, and by several other courts that have recently struck down school-financing laws in other States is quite unlike any of the forms of wealth discrimination heretofore reviewed by this Court. Rather than focusing on the unique features of the alleged discrimination, the courts in these cases have virtually assumed their findings of a suspect classification through a simplistic process of analysis: since, under the traditional systems of financing public schools, some poorer people receive less expensive educations than other more affluent people, these systems discriminate on the basis of wealth. This approach largely ignores the hard threshold questions, including whether it makes a difference for purposes of consideration under the Constitution that the class of disadvantaged "poor" cannot be identified or defined in customary equal protection terms, and whether the relative -- rather than absolute -- nature of the asserted deprivation is of significant consequence. Before a State's laws and the justifications for the classifications they create are subjected to strict judicial scrutiny, we think these threshold considerations must be analyzed more closely than they were in the court below.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
 
 #### Case: *[Civil Rights Cases](Link)*
 

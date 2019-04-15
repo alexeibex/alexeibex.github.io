@@ -426,6 +426,7 @@ when utilizing rational basis.
 
 #### Access to the Judicial System
 - Constitution does not require Access to Courts
+- "Equal Justice Under the Law"
 
 ##### Economic Barriers and the Criminal Process
 - Transcripts on Appeal
@@ -437,3 +438,40 @@ when utilizing rational basis.
 - There is no absolute right to counsel for appeals
   - See *[Ross v. Moffitt](link)*
   - Held that the indigent do not have to be provided with counsel for discretionary appeals – indigent still have meaningful access
+
+##### Economic Barriers and Civil Litigation
+- When fundamental right is at stake, courts are more willing to strike down economic barriers
+- Marriage & Divorce
+  - See *[Boddie v. Connecticut](link)*
+    - Court struck down requirement for indigent to pay service fees to obtain a divorce, reasoning that marriage is a fundamental right, and the state controls the means to ending one
+- Substantive Rights
+  - See *[M.L.B. v. S.L.J.](link)*
+    - Court found that appeals from proceedings terminating **parental rights** could not be conditioned on the ability to pay the substantial record preparation fees. Court reasoned that it was a quasi criminal proceeding, and enumerated two exceptions to the general rule that states do not have to adjust practices for economic differences: the right to vote and criminal/quasi- criminal proceedings
+- When no fundamental rights are at stake, courts are less willing to strike down economic barriers.
+  - See *[United States v. Kras](link)*
+    - Boddie was not extended to bankruptcy filing fees, finding no fundamental right
+
+##### No Fundamental Interest in Food, Shelter, Education
+- Food and necessities are not deemed a fundamental interest.
+  - See *[Dandridge v. Williams](link)*
+    - Court upheld limits on aid to needy families with children, finding that it did not violate equal protection, and was not subject to strict scrutiny. Imperfect state laws for social welfare are not necessarily unconstitutional.
+- Shelter is not viewed as a fundamental interest.
+  - See *[Lindsey v. Normet](link)*
+    - Upheld state law allowing eviction for nonpayment of rent, rejecting that shelter be viewed as a fundamental interest sufficient to justify heightened scrutiny
+- Education is not viewed as a fundamental interest
+  - See *[San Antonio Independent School Dist v. Rodriguez](link)*
+    - Court found no equal protection violation for school district funding system, where some districts had more means than others. Found no identifiable class, and no fundamental right to education
+      - Is wealth a **suspect classification**?
+        - The Texas system could be seen as discriminating against people who (1) are poor below a certain threshold, (2) are relatively poor, or (3) happen to reside in poor districts, regardless of their personal incomes.
+        - In earlier cases setting precedent for wealth as a suspect classification, the victims were completely unable to pay for a certain benefit, and were therefore absolutely deprived.
+        - Plaintiffs failed to establish a class according to any of the above three categories. The class here was large and amorphous, and therefore not a suspect class
+      - Is education a **fundamental right**?
+        - [Brown](link) and others held that education is an important right. But it is not a constitutionally guaranteed right, explicitly or implicitly. Education might impact a person’s ability to participate in civil society, but so do food and shelter, and the Constitution doesn’t guarantee those.
+        - Texas’s efforts were “affirmative and reformatory,” so the **proper standard of review was rational review**.
+      -  Localities are free to define their own educational policies. “Some inequality” among districts is insufficient to warrant heightened review.
+      - The Texas system passed rational review.
+- HOWEVER: Court has recognized the importance of Education
+  - See *[Plyler v. Doe](link)*
+    - Applied heightened scrutiny to require admission of illegal aliens to public schools when it was completely denied and required payment
+    - No Heightened Scrutiny & Suspect Class for Illegal Aliens because it is a "Voluntary" act
+      - BUT their CHILDREN requires a higher review because its NOT THEIR FAULT.

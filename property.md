@@ -1588,3 +1588,39 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+#### Implied Warranty of Habitability
+
+#### Case: *[Javins v. 1st National Realty Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Tenants could not be evicted for nonpayment of rent where numerous housing code violations existed at their property and common law rule that placed burden of repair on tenants was displaced by housing code.</li>
+    <li><b>Facts:</b>By separate written leases, each of the appellants rented an apartment in a three-building apartment complex in Northwest Washington known as Clifton Terrace. The landlord, First National Realty Corporation, filed separate actions in the Landlord and Tenant Branch of the Court of General Sessions on April 8, 1966, seeking possession on the ground that each of the appellants had defaulted in the payment of rent due for the month of April. The tenants, appellants here, admitted that they had not paid the landlord any rent for April. However, they alleged numerous violations of the Housing Regulations as "an equitable defense or [a] claim by way of recoupment or set-off in an amount equal to the rent claim," as provided in the rules of the Court of General Sessions. The lower court allowed the evictions, finding proof of housing code violations was inadmissible when proffered as a defense to an eviction action for nonpayment of rent. </li>
+    <li><b>Issue:</b>Can violations of the Housing Regulations, which arise during the term of a lease, permit  tenants to not comply with their obligation to pay rent?</li>
+    <li><b>Rule:</b>The tenant's obligation to pay rent is dependent upon the landlord's performance of his obligations, including his warranty to maintain the premises in habitable condition. In order to determine whether any rent is owed to the landlord, the tenants must be given an opportunity to prove the housing code violations alleged as breach of the landlord's warranty. A warranty of habitability, measured by the standards set out in the Housing Regulations for the District of Columbia, is implied by operation of law into leases of urban dwelling units covered by those regulations and that breach of this warranty gives rise to the usual remedies for breach of contract.</li>
+    <li><b>Conclusion:</b>The U.S. Court of Appeals for the District of Columbia Circuit disagreed with the lower court because leases should have been viewed as contracts, and modern contract law implied warranties of quality to meet expectations of buyers. In addition, the comprehensive regulatory scheme of the housing code displaced the common law no-repair rule and is to be abandoned in favor of an implied warranty of habitability. The common law "no-repair" rule, which placed the burden of repair on tenant, was no longer valid because modern urban tenants' interest in property had nothing to do with the land itself, but was an interest in having suitable living quarters. If housing code violations existed, but part of back rent was owed and the tenants agreed to pay, a judgment of possession could not have been entered. As such, the Court reversed and remanded the case.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Kelo v. City of New London](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Municipal development plan constituted a valid public use for the exercise of the eminent domain appropriate by creating new jobs, increasing tax and other revenues, and otherwise revitalizing distressed urban areas.</li>
+    <li><b>Facts:</b>The City of New London initiated an economic development plan that required it to take petitioners’ property (15 houses in all). The petitioners argued that the taking violated the “public use ” restriction in the Takings Clause. The Superior Court granted a restraining order for some of the properties and denied relief for other</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b>“Public use” should be interpreted broadly as “public purpose”—i.e., the property need not be available to the entire general public as long as the use confers a public benefit. The Connecticut Supreme Court held that all of the takings were valid. The taking was valid because it was part of an economic plan as a whole. Economic development is a “public use.”</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
