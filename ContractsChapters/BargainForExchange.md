@@ -47,7 +47,7 @@
   - Promisor requires something from the promisee in return for the promise = **Consideration**
 - Simple Gift Promise
   - Promisor gets nothing in return for their promise = No Consideration
-    - See *[Hardesty v. Smith](link)*
+    - See *[Hardesty v. Smith](https://alexeibex.github.io/Contracts#case-hardesty-v-smith)*
 - Tramp Example:
   - Conditional gratuitous promises are not enforceable.
     - There must be evidence that the promisor is getting something in return and/or a benefit from the condition they are imposing on the promisee.
@@ -57,7 +57,7 @@
 - Distinction between bargain for exchange and Gift Promise is in the motive
 - A promisor's gratitude for the promisee's past good conduct or services does not = Consideration
   - Promisor is not extracting and promisee is not supplying anything as the price of the promisor's promise.
-    - See *[Dougherty v. Salt](link)*
+    - See *[Dougherty v. Salt](https://alexeibex.github.io/Contracts#case-dougherty-v-salt)*
       - Where Promisor did not make her promise with the motive of extracting anything from the promisee in return; therefore held that promise was unenforceable gift promise.
 - Contract law measures the promisor's motive objectively
   - A reasonable person must believe that your motive for making the promise was to obtain the return promise in exchange
@@ -72,7 +72,7 @@
   - Performance = Acts or Forbearance
     - Act = Payment
     - Forbearance = desisting from exercising one's legal rights
-      - See *[Hammer v. Sidway](link)*
+      - See *[Hammer v. Sidway](https://alexeibex.github.io/Contracts#case-hamer-v-sidway)*
 
 #### Forbearance to Sue as Consideration
 - Forbearance from pursuing a claim constitued adequate consideration
@@ -113,19 +113,19 @@
   - Agreement lacks an obligation on a party because they have not promised to deliver anything in exchange.
   - Example = $400 for piano in exchange for a statement to sell piano "if you want to.." = No Contract
 - Question often boils down to whether a promise is **real or illusory**
-  - See *[De Los Santos v. Great Western Sugar Company](link)*
+  - See *[De Los Santos v. Great Western Sugar Company](https://alexeibex.github.io/Contracts#case-de-los-santos-v-great-western-sugar-company)*
 - As long as there has been sufficient consideration, unequal terms do not invalidate a contract.
 
 #### Inferring and enforcing implied promises
 - Illusory Language in appearence only but still ends up committing parties because of "reasonable efforts"
   - A Promise may be lacking, yet the entire writing may be "instinct with obligation" imperfectly expressed, if so then there is a contract.
-  - See *[Wood v. Lucy Lady Duff-Gordon](link)*
+  - See *[Wood v. Lucy Lady Duff-Gordon](https://alexeibex.github.io/Contracts#case-wood-v-lucy-lady-duff-gordon)*
 - Satisfaction Clauses interpreted with a "good faith" requirement on the part of the promisor who must be satisfied.
   - Decision about satisfaction must be reasonable and honest
     - If regarding commercial value or quality, operative fitness, or mechanical utility, courts generally apply reasonable test.
       - Satisfaction can be easily compared to other market alternatives
     - If involves fancy taste or judgement then courts use honesty test.
-    - See *[Mattei v. Hopper](link)*
+    - See *[Mattei v. Hopper](https://alexeibex.github.io/Contracts#case-mattei-v-hopper)*
 
 #### Preexisting Duty Doctrine, Accord and Satisfaction
 

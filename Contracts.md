@@ -81,7 +81,7 @@
 
 ### Consideration
 
-####Freedom of Transaction
+#### Freedom of Transaction
 
 #### Case: *[Hardesty v. Smith](https://advance.lexis.com/api/permalink/f0f3a33f-a251-40dd-8ba8-447935669cde/?context=1000516)*
 
@@ -389,7 +389,6 @@ A promise which the promisor should reasonably expect to induce action or forbea
       - ∆ would get benefit by building his reputation that he fixes windows, good company reviews.
         - Not every benefit is consideration
         - **Court rejected claim that a hypothetical/tangential benefit to reputation is sufficient consideration**
-  -
 
 #### Case: *[Springstead v. Nees](Link)*
 - Plaintiffs sought review of the decision of a trial court (New York), which dismissed plaintiffs' action against defendants to prevent defendants from collecting a portion of the proceeds from the sale of a parcel of land inherited by plaintiffs.
@@ -3407,6 +3406,108 @@ performance.</li>
     <li><b>Issue:</b>Did the appellant have a right, under the circumstances, to refuse to make the installment payment?</li>
     <li><b>Rule:</b> Promises and counter-promises made by the respective parties to a contract are (1) independent of each other, or (2) mutually dependent, one upon the other. They are independent of each other if the parties intend that performance by each of them is in no way conditioned upon performance by the other. In other words, the parties exchange promises for promises, not the performance of promises for the performance of promises. A failure to perform an independent promise does not excuse non-performance on the part of the adverse party, but each is required to perform his promise, and, if one does not perform, he is liable to the adverse party for such non-performance.</li>
     <li><b>Conclusion:</b>Judgment was reversed and entered in favor of appellant because appellee's abandonment of the work was a breach that would render him liable to appellant for damages even if the original defects in performance did not. When the subcontractor's employee negligently damaged the contractor's wall, this constituted a breach of the subcontractor's promise to perform his work in a "workmanlike manner," and in accordance with the best practices. There can be little doubt that the breach was material and that the damage to the wall amounted to more than double the payment due to appellee.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Canadian Industrial Alcohol Co. v. Dunbar Molasses Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Defendant's duty to provide a product under a contract was not discharged when the supplier decreased its output because defendant could have assured a sufficient supply, and plaintiff was not informed of such a contract condition.</li>
+    <li><b>Facts:</b>Plaintiff and defendant entered into a contract for a refined petroleum product. The contract provided that if the product failed to come into existence, the obligations of both parties would be terminated. Upon defendant's failure to deliver the product, plaintiff sued defendant for breach of contract. Defendant argued that its duty to deliver was conditioned upon its supplier's willingness to supply a sufficient amount of the product to fulfill plaintiff's order. The trial court found in favor of plaintiff, and the intermediate appellate court affirmed. Defendant appealed the judgment of the Appellate Division of the Supreme Court in the First Judicial Department (New York).</li>
+    <li><b>Issue:</b>Was the defendant’s own duty to deliver proportionate to the refinery's willingness to supply, and was that duty discharged when the output was reduced?</li>
+    <li><b>Rule:</b>In regard to whether a contract obligation is conditional, the inquiry is merely whether the continuance of a special group of circumstances appears from the terms of the contract, interpreted in the setting of the occasion, to have been a tacit or implied presupposition in the minds of the contracting parties, conditioning their belief in a continued obligation.</li>
+    <li><b>Conclusion:</b>The court affirmed, holding that because defendant could have assured itself a supply sufficient for its needs, and because plaintiff was not informed that performance was conditioned upon defendant obtaining such a contract with its supplier, defendant's duty to perform under the contract was not discharged.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Marcovich Land Co. v. J.J. Newberry Co.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Tenant was entitled to judgment rendered against landlords for their refusal to rebuild after a building was destroyed by fire as required by lease because landlords were not entitled to defenses of unconscionability and impossibility of performance.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Mineral Park Land Co. v. Howard](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Contract requiring defendants to pay plaintiff to haul gravel and earth from his property became impracticable when the remaining earth was below water level, so defendants were excused from further performance.</li>
+    <li><b>Facts:</b>Plaintiff and defendants contracted to give defendants the right to haul gravel and earth from his property for a construction project. Defendants agreed to take all gravel needed for the job from plaintiff's property and to pay the latter per cubic yard taken. However, defendants only took a portion of the gravel from the plaintiffs property and even failed to pay him. Plaintiff sued defendants seeking recovery of the balance owed for the gravel taken and an amount for defendants' failure to take the entire amount from plaintiff's property. Court ruled in favor of plaintiff but deducted amount of damages to be awarded.</li>
+    <li><b>Issue:</b>Is the defendant’s failure to take from the plaintiff's land all of the earth and gravel required by the defendant justified?</li>
+    <li><b>Rule:</b>A thing is impossible in legal contemplation when it is not practicable; and a thing is impracticable when it can only be done at an excessive and unreasonable cost.</li>
+    <li><b>Conclusion:</b>The parties were contracting for the right to take earth and gravel to be used in the construction of the bridge. When they stipulated that all of the earth and gravel needed for this purpose should be taken from plaintiff's land, they contemplated and assumed that the land contained the requisite quantity, available for use. The defendants were not binding themselves to take what was not there. And, in determining whether the earth and gravel were "available," we must view the conditions in a practical and reasonable way. Although there was gravel on the land, it was so situated that the defendants could not take it by ordinary means, nor except at a prohibitive cost. To all fair intents then, it was impossible for defendants to take it. "A  thing is impossible in legal contemplation when it is not practicable; and a thing is impracticable when it can only be done at an excessive and unreasonable cost." </li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Transatlantic Financing Corp. v. United States](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Plaintiff was entitled to only the contract price for transporting cargo of wheat from Texas to Iran via the Suez Canal because performance of the contract was not rendered legally impossible by the canal's closure.</li>
+    <li><b>Facts:</b>Plaintiff contracted with defendant to deliver a cargo of wheat from Texas to Iran via the Suez Canal. When the Suez closed, the contract became impossible to perform. Plaintiff argued when it delivered the cargo by going around the Cape of Good Hope, instead of the usual route via Suez, it conferred a benefit upon defendant for which it should have been paid in quantum meruit.</li>
+    <li><b>Issue:</b>Whether the closure of a usual and customary route renders a contract to deliver cargo impossible to perform.</li>
+    <li><b>Rule:</b>When the issue of impossibility of performance is raised, the court is asked to construct a condition of performance based on the changed circumstances, a process that involves at least three reasonably definable steps. First, a contingency (something unexpected) must have occurred. Second, the risk of the unexpected occurrence must not have been allocated either by agreement or by custom. Finally, occurrence of the contingency must have rendered performance commercially impracticable. Unless the court finds these three requirements satisfied, the plea of impossibility must fail.</li>
+    <li><b>Conclusion:</b>The court held that plaintiff was entitled to only the contract price for transporting the cargo because performance of the contract was not rendered legally impossible by the canal's closure. Instead, plaintiff attempted to take its profit on the contract and then force defendant to absorb the cost of the additional voyage. When impracticability without fault occurs, the law seeks an equitable solution. There was no interest in casting the entire burden of commercial disaster on defendant in order to preserve plaintiff's profit.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Mishara Construction Co. v. Transit-Mixed Concrete Corp.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Evidence that the contract was made impossible for the supplier to perform as a result of an unexpected labor dispute that resulted in a picket line on the contractor's construction site was properly admitted.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Frustration of Purpose
+#### Case: *[Krell v. Henry](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b>The defendant, CS Henry, agreed by contract on 20 June 1902, to rent a flat at 56A Pall Mall from the plaintiff, Paul Krell, for the purpose of watching the coronation procession of Edward VII scheduled for 2 6 and 27 June. The housekeeper of the premises had informed Henry that he would have an excellent view of the procession from the room. The parties agreed on a price of £75, but nowhere in their written correspondence mentioned the coronation ceremony explicitly. Henry paid a deposit of £25 to Krell for the use of the flat, but when the procession did not take place on the days originally set, on the grounds of the King’s illness, Henry refused to pay the remaining £50. Krell brought suit against Henry to recover the remaining balance of £50, and Henry countersued to recover his deposit in the amount of £25.</li>
+    <li><b>Issue:</b>whether there was an implied condition to the contract: whether or not while the contract was made, the two parties knew that the reason behind the contract was for Henry to watch the coronation procession.</li>
+    <li><b>Rule:</b>When a condition that is not expressly mentioned in a contract can nevertheless be implied from extrinsic evidence as being understood by both parties to be the subject matter of the contract, the nonoccurrence of the condition may excuse nonperformance of the contract by both parties.</li>
+    <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

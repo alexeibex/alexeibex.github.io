@@ -1624,3 +1624,38 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Goldstein v. New York Urban Development Corporation](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Government plan to make the Barclays center and a mixed use residential development. Some residents held out selling property to the corporation so the government took it. NY state statute was to take land that is blighted so the government said the land was blighted so they could take it.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b>Can government take land that they deem is blighted?</li>
+    <li><b>Rule:</b>Eminent Domain is ok if blighted; if any reasonable person would agree that this was blighted, then it is ok; whether this bar is too low, is for legislature to decide, b/c it requires weighing Public v. Private Interests.</li>
+    <li><b>Conclusion:</b>Yes. This is a taking or public use because there only needs to be a public purpose and blight removal is in the NY constitution. A reasonable person COULD conclude the area was blighted.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[In Re Kaur, In Re Truck Away Inc.](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Empire State Development Corporation's exercise of its power of eminent domain to acquire business owners' property for development of new Columbia University campus was proper, where it was supported by a sufficient public use, benefit, or purpose and two reports prepared by consultants arrived at the conclusion that the project site was blighted.</li>
+    <li><b>Facts:</b>Manhattanville has some property and Columbia University wants that property. They conducted a study and determined the land was blighted.</li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b>For landowners; taking was unconstitutional. (later overturned for industry, b/c disagreed w/ GOLDSTEIN). This court said it violated the NY constitution and the priciples of social conrtact. And the Universities expansion ws not a civil project designated by the statute because it cant just be for an education institution it needs to be educational for civil purpose. This was revered by the New York Court of Appeals (highest NY court) because they had just previously decided Goldstein and this court was bound by that decision.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>

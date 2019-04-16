@@ -6,7 +6,20 @@
 
 
 
-## Contents
+## Contents & Chapters
+1. [The History](https://alexeibex.github.io/ConstitutionalChapters/History)
+2. [Judicial Power](https://alexeibex.github.io/ConstitutionalChapters/JudicialReview)
+3. [Executive Power](https://alexeibex.github.io/ConstitutionalChapters/SeparationofPowers)
+4. [Legislative Authority](https://alexeibex.github.io/ConstitutionalChapters/LegislativeAuthority)
+5. [Taxing & Spending](https://alexeibex.github.io/ConstitutionalChapters/TaxingPower.md)
+6. [Dormant Commerce Clause](https://alexeibex.github.io/ConstitutionalChapters/DormantCommerce)
+7. [Due Process](https://alexeibex.github.io/ConstitutionalChapters/DueProcess)
+8. [Procedural Due Procss](http://alexeibex.github.io/ConstitutionalChapters/ProceduralDueProcess)
+1. [Equal Protection](https://alexeibex.github.io/ConstitutionalChapters/EqualProtection)
+10. [Privacy](https://alexeibex.github.io/ConstitutionalChapters/Privacy)
+11. [Individual Rights](https://alexeibex.github.io/ConstitutionalChapters/IndividualRights)
+12. [Economic Liberties & Takings](https://alexeibex.github.io/ConstitutionalChapters/EconomicLiberty&Takings)
+13.
 
 - 1.0 The Constitution and the Court
 - 1.1 [Introduction: The US Constitution](#11-introduction)
@@ -3331,7 +3344,7 @@ and, later, opposed the 1787 constitution.
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b></li>
+    <li><b>Overview:</b>Appellate court erroneously invalidated a qualifying test taken by police recruits because the facially neutral statute requiring the recruits to take the test was not applied by city officials so as to invidiously discriminate on the basis of race.</li>
     <li><b>Facts:</b></li>
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
@@ -3744,6 +3757,108 @@ and, later, opposed the 1787 constitution.
 
 
 #### Case: *[Civil Rights Cases](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[City of Boerne v. Flores](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b>Court  expressly  rejected  this  viewand shifted to the federalist perspective that Congress may not use its §5 powers to expand the scope of rights or to create new rights</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Shelby County v. Holder](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Kimel v. Florida Board of Regents](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[Board of Trustees of the University of Alabama v. Garrett](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+
+#### Case: *[Tennessee v. Lane](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b> Court recognized that Congress has greater latitude to legislate under §5 when dealing with a claim that receives heightened judicial scrutiny, whether because it is a fundamental right or a type of discrimination that receives heightened scrutiny.</li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+#### Case: *[Nevada Department of Human Resources v. Hibbs](Link)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
