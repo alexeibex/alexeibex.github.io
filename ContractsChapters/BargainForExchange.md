@@ -127,8 +127,7 @@
     - If involves fancy taste or judgement then courts use honesty test.
     - See *[Mattei v. Hopper](https://alexeibex.github.io/Contracts#case-mattei-v-hopper)*
 
-#### Preexisting Duty Doctrine, Accord and Satisfaction
-
+### Preexisting Duty Doctrine, Accord and Satisfaction
 
 #### Promise for Benefit Received
 - Contract law declines to enforce such promises based on the promise-for-benefit-received theory (Past Consideration)

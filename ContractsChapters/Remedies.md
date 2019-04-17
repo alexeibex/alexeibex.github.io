@@ -28,7 +28,7 @@
     - The appropriate measure of damages is the difference between
       - (1) performance of the contract as promised and
       - (2) actual performance
-        - See *[Sullivan v. O'Connor](link)*
+        - See *[Sullivan v. O'Connor](https://alexeibex.github.io/Contracts#case-sullivan-v-oconnor)*
             -Breach of Contract Claim + Negligent Malpractice Tort
               - Jury awarded verdict of $13.5K for Breach of Contract
                 - Contract to "Enhance Beauty + Improve Appearence"
@@ -55,8 +55,6 @@
               - Too Lenient?
 
 
-
-
 ### Restitution (Down Payment, Deposit)
   - Put the promisor back in the position he would have been in had the promise never been made.
 
@@ -79,7 +77,9 @@
   - In a proper case, π would also be entitiled to lost profits or other positive harms done
   - See *[Hawkins v. McGee](link)*
 - True expectation damages would be lost profits (handling fee)
-  - See *[Tongish v. Thomas](link)*
+  - A core tenet of contract law is that a breaching party must not be punished for a breach, but rather, the nonbreaching party must simply be made whole. However, where the breach is in bad faith, the Uniform Commercial Code provides for damages that increase market stability.
+    - See *[Tongish v. Thomas](https://alexeibex.github.io/Contracts#case-tongish-v-thomas)*
+      - While contract law generally dictates that a party who is the victim of a breach is simply to be made whole and the breaching party is not to be penalized, in the case of a bad faith breach, U.C.C. Section: 2-713 dictates that damages are equal to market price minus contract price.
 
 
 
@@ -109,7 +109,7 @@
   - Promisor is only liable for damages foreseen or which could have been reasonably foreseen (by both parties) at the time when the agreement was made.
   - If special circumstances are present, and are unknown to breaching party, that party is only liable for amount of injury he could foresee to arise generally.
   - Encourages high-value shippers to self-identify and contract around the default rule of low-value damages
-    - See *[Hadley v. Baxendale](link)*
+    - See *[Hadley v. Baxendale](https://alexeibex.github.io/Contracts#case-hadley-v-baxendale)*
 
 #### Second Restatement §351 Unforeseeability & Related Limitations on Damages
 - (1) Damages are not recoverable for loss that the party in breach did not have reason to foresee as a probable result of the breach when the contract was made.
@@ -140,7 +140,7 @@ ___
   - K = Profit + Expenses
     - Damages should not be awarded for expenses and labor occuring after the breach
     - Foundation for mitigation of losses by **acting reasonably**
-      - See *[Clark v. Marsiglia](Link)*
+      - See *[Clark v. Marsiglia](https://alexeibex.github.io/Contracts#case-clark-v-marsiglia)*
 
 
 #### Mitigation of Lost Volume Seller
@@ -148,12 +148,12 @@ ___
   - Evidence must show that they at least **tried**
   - Not a lost volume seller because sale to father was a substitution in lieu of son's default
   - "The duty to mitigate damages requires an injured party to act reasonably after breach”
-    - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
+    - See *[Schiavi Mobile Homes, Inc. v. Gironda](https://alexeibex.github.io/Contracts#case-schiavi-mobile-homes-inc-v-gironda)*
 #### Avoidability
 - here was no obligation to mitigate, because there is no opportunity to mitigate
 - The―lost volume doctrine applies when there is a theoretically limitless supply of boats, i.e., it is correct that he would have sold two boats, and it is correct that there was no opportunity to mitigate
 - Must subtract one-time-only preparation costs for the boat
-  - See [Neri v. Retail Marine Corp.]
+  - See [Neri v. Retail Marine Corp.](https://alexeibex.github.io/Contracts#case-neri-v-retail-marine-corp)
 
 #### UCC 2-706 Seller's Resale (Statement of Neri Rule)
 - (1) Seller should re-sell, then (subject to good faith) recover the difference between the resale price and the contract price + incidental damages – expenses saved by breach
@@ -198,19 +198,18 @@ ___
   - Most courts apply some variation of two tests, both of which must be satisfied. (Restatement § 339)
     - First, the agreed damages must be **a reasonable forecast of just compensation** of just compensation for the harm that is caused by the breach.
     - Second, the harm that is caused by the breach is one that is incapable or very difficult of accurate estimation.
-    - See *[H. J. McGrath Co. v. Wisner](Link)*
-    - See *[Vanderbilt University v. DiNardo](Link)*
+    - See *[H. J. McGrath Co. v. Wisner](https://alexeibex.github.io/Contracts#case-h-j-mcgrath-co-v-wisner)*
+    - See *[Vanderbilt University v. DiNardo](https://alexeibex.github.io/Contracts#case-vanderbilt-university-v-dinardo)*
 - Performance in Good faith
-  - See *[Truck Rent-A-Center, Inc. v. Puritan Farms 2nd, Inc.](link)*
+  - See *[Truck Rent-A-Center, Inc. v. Puritan Farms 2nd, Inc.](https://alexeibex.github.io/Contracts#case-truck-rent-a-center-inc-v-puritan-farms-2nd-inc-)*
 - Underliquidated Damages
   - Under liquidated damages — anamount less than actual estimated damages are usually enforced.
     - Justified because you are taking a risk. you could get more you could also get less.
 - Policy Reasons
   - "Compeling" performances so that parties do not breach contract but must not "coerce"
-- See *[H. J. McGrath Co. v. Wisner ](Link)*
+- See *[H. J. McGrath Co. v. Wisner ](https://alexeibex.github.io/Contracts#case-h-j-mcgrath-co-v-wisner)*
 
 - Limitation Damages v. Liquidation Damages
--
   - Hillman: Let parties contract and enjoy freedom of contracts
 
 
@@ -233,25 +232,25 @@ ___
     - UCC Governs
       - Seller's Breach
         - Specfic Relief & Damages
-    - [*Hawkins v. McGee*](LINK)
+    - *[Hawkins v. McGee](LINK)*
 
 ### Objective v. Subjective Reward of Expectation Damages
 - **Cost-to-Complete**
   - Cost-of-completion damages will sometimes put the owner in a better economic position than he would have been in if the contract had been fully performed. The factfinder should determine whether the owner is likely to pocket the difference or actually put it towards repairs.
   - If a contractor leaves a job unfinished, the client can recover cost of completion damages.
-    - [Groves v. John Wunder Co.](Link)
+    - [Groves v. John Wunder Co.](https://alexeibex.github.io/Contracts#case-groves-v-john-wunder-co)
   - Environmental Statutes
-    - [Rock Island Improvement Company v. Helmerich & Payne, Inc.](Link)
+    - [Rock Island Improvement Company v. Helmerich & Payne, Inc.](https://alexeibex.github.io/Contracts#case-rock-island-improvement-company-v-helmerich--payne-inc)
   - Intent of π to use funds won to complete said contract
     - Begins to look like specific performance
-    - [Radford v. De Froberville](Link)
+    - [Radford v. De Froberville](https://alexeibex.github.io/Contracts#case-radford-v-de-froberville)
 
 
 - **Diminuation in Value**
   - Where cost of performance exceeds diminuation (grossly dispraportionate) in value, courts are likely to award damages only for diminuation in value. (subjective value)
   - "The cost of remedying the defects is grossly proportionate to the benefits . . .”
   - The court affirmed Peevyhouse, despite recent statutory revisions. “ . . . where the cost is grossly disproportionate to the cost of reclamation as in Peevyhouse, a review of recent case law suggests that courts are adhering to the diminution in value award"
-    - [Peevyhouse v. Garland Coal & Mining Co.](Link)
+    - [Peevyhouse v. Garland Coal & Mining Co.](https://alexeibex.github.io/Contracts#case-peevyhouse-v-garland-coal--mining-co)
   - Diminished value damages should be measured at the date of the breach, not the original date of the contract.
 - **Cost-of-completion and diminished-value** damages are not the only possibilities.
   - The measure should be “the loss truly suffered by the promisee.”
@@ -285,18 +284,18 @@ ___
 
 #### Examination of actual benefit for determining Damages
   - Measure of Damages != Cost of performance v. Extent of harm by non-performance
-    - [Freund v. Washington Square Press]
+    - See *[Freund v. Washington Square Press](link)*
       - Cost to publish books v. Injury to the party was loss of royalties
         - Revise contract "I want the books published" v. "I want the royalties of the books sold that are published"
 
 #### Efficient Breach
-  - [Handicapped Children's Education Board of Sheboygan County v. Lukaszewski](link)
+  - See [Handicapped Children's Education Board of Sheboygan County v. Lukaszewski](https://alexeibex.github.io/Contracts#case-handicapped-childrens-education-board-of-sheboygan-county-v-lukaszweski)
     - “expectancy damages correctly encourage a party to breach when the breach is efficient, in that the breach makes some parties better off without making anyone worse off”
     - Posner on Efficient Breach
       - Theory of efficient breach: “breach of contract is efficient, and therefore desirable, if the promisor’s gain from breach, after payment of expectation damages, will exceed promisee’s loss from breach.”
     - Factoring all fees and added costs is it really efficient?
     - Breaching party takes the risk of not knowing what the nonbreaching party may have to pay for a replacement.
-  -[Tongish v. Thomas](link)
+  - See[Tongish v. Thomas](https://alexeibex.github.io/Contracts#case-tongish-v-thomas)
     - Resale paradigm: A agrees to sell 100,000 widgets to B at $1 a piece. After A delivers 10,000 widgets, C says he desperately needs 25,000 wid- gets, and he’s willing to pay $2 a piece. A agrees to sell to C. He makes a $1,250 profit on C’s order, but it delays B’s order, causing B $1,000 in damages. But even after paying expectation damages to B, A’s breach still earned a profit of $250.181
     - Fuller and Eisenberg challenge the theory in the context of the Overbidder Paradigm, in which a seller breaches a contract with a buyer in favor of a sale with another buyer willing to pay more. They contend that efficient breach is inefficient in this case for three reasons:
         - (a) It remakes the parties’ contract into a contract that allows and encourages sellers to seek overbidders.
@@ -310,7 +309,7 @@ ___
 
 
 #### Recovery for Lost Profits under the UCC 708
-- See *[Neri v. Retail Marine Corp.](link)*
+- See *[Neri v. Retail Marine Corp.](https://alexeibex.github.io/Contracts#case-neri-v-retail-marine-corp)*
   - **Lost Volume Seller: Measure of Damages = Contract Price - Construction Costs - Expenses + Profits**
   - A lost volume seller has the capacity to meet every potential sales order.
     - Read literally, the last clause of 2-708(2)—“due credit for payments or proceeds of resale”
@@ -323,12 +322,12 @@ ___
 ### Availability of Lost Expectancy Damages, Qualifications and Limits
 
 - Limits on Expectancy Damages
-  - See *[See Hadley v. Baxendale](Link)*
+  - See *[Hadley v. Baxendale](https://alexeibex.github.io/Contracts#case-hadley-v-baxendale)*
     - **Hadley Rules: Two Rules**
       - General Damages = Market value of the very thing promised at the time of performance
       - Consequentail Damages = Damages that would **reasonably foreseeable** so known and communicated at the time the contract is formed.
         - Application of reasonable knowledge
-          - See *[Armstrong v. Bangor Mill Supply Corp.](link)*
+          - See *[Armstrong v. Bangor Mill Supply Corp.](https://alexeibex.github.io/Contracts#case-armstrong-v-bangor-mill-supply-corp)*
             - Mill repair man could reasonably foresee that broken mill crank would inhibit mill from working and generating profits.
     - Creates an incentive to fully disclose information at the time of K formation
     - Codified in UCC 2-715(2)(a)
@@ -339,10 +338,10 @@ ___
 
 
 
-  - See *[Parker v. Twentieth Century Fox Film Corp](link)
-    - "Before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee’s rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages."
-    - Reasonableness of mitigation for employee to take comperable and substantially similar
-      - Dissent Test: Differences should be for the **kind of employment** v. **mere circumstances**
+- See *[Parker v. Twentieth Century Fox Film Corp](https://alexeibex.github.io/Contracts#case-parker-v-20th-century-fox-film-corp)
+  - "Before projected earnings from other employment opportunities not sought or accepted by the discharged employee can be applied in mitigation, the employer must show that the other employment was comparable, or substantially similar, to that of which the employee has been deprived; the employee’s rejection of or failure to seek other available employment of a different or inferior kind may not be resorted to in order to mitigate damages."
+  - Reasonableness of mitigation for employee to take comperable and substantially similar
+    - Dissent Test: Differences should be for the **kind of employment** v. **mere circumstances**
 
 
 
@@ -353,11 +352,11 @@ ___
 
 #### Duty to Mitigate Damages
 
-  - See *[Schiavi Mobile Homes, Inc. v. Gironda](Link)*
+  - See *[Schiavi Mobile Homes, Inc. v. Gironda](https://alexeibex.github.io/Contracts#case-schiavi-mobile-homes-inc-v-gironda)*
 
 
 - Lost Volume Sellers Duty to Mitigate
-  - See *[In Re WorldCom, Inc.](link)*
+  - See *[In Re WorldCom, Inc.](https://alexeibex.github.io/Contracts#case-in-re-worldcom-inc)*
 
 
 Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornbook Series).” Apple Books.
@@ -384,11 +383,11 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 
 #### Monetary Remedies Where the Theory of Obligation is Promissory Estoppel
 - Restatement § 90
-- See *[Goodman v. Dicker](Link)*
+- See *[Goodman v. Dicker](https://alexeibex.github.io/Contracts#case-goodman-v-dicker)*
   - No profits awarded because π did not demonstrate any expectation of potential sales.
-- See *[Walters v. Marathon Oil Co.](Link)*
+- See *[Walters v. Marathon Oil Co.](https://alexeibex.github.io/Contracts#case-walters-v-marathon-oil-co)*
   - Foregone opportunity doctrine
-- See *[Walters v. Marathon Oil Co.](Link)*
+- See *[Walters v. Marathon Oil Co.](https://alexeibex.github.io/Contracts#case-walters-v-marathon-oil-co)*
   - The Walters reasonably relied on Marathon’s promise to let them open a dealrship. The court awarded remedies to put the Walters in the position they would have been in if the contract had been performed (expectation damages).
 ---
 
@@ -409,10 +408,9 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 
 #### Restatement Contracts §371
 - a. the reasonable value to the other party of what he received in terms of what it would have cost him to obtain it from a person in the claimant's position or
-- b.
 
 - The Promisee upon breach has the option to forego any suit of contract and claim only reasonable value of their performance.
-- See *[United States For Use of Susi Contracting Co. v. Zara Contracting Co.](link)*
+- See *[United States For Use of Susi Contracting Co. v. Zara Contracting Co.](https://alexeibex.github.io/Contracts#case-united-states-for-use-of-susi-contracting-co-v-zara-contracting-co)*
   - Remedy on the contract v. remedy based on restitution
   - The contract price or the unit price per cubic yard of a construction or excavation contract does not limit recovery. A plaintiff may well have completed the hardest part of a job for which an average cost had been set. With the breach fall all the other parts of the contract. Hence it is clear that plaintiffs are not limited to the contract prices in the situation disclosed here.
   - The measure of recovery by way of restitution, though often confused with recovery on the contract, should not be measured or limited thereby; but he does point out that the contract may be important evidence of the value of the performance to the defendant, as may also the cost of the labor and materials.
@@ -430,7 +428,7 @@ Excerpt From: Robert Hillman. “Principles of Contract Law, 3d (Concise Hornboo
 Problem 3-15
 
 - The non-breaching party will sometimes be satisfied with rescission of the contract and restitution of any value conferred on the breaching party. The purpose of restitution is to prevent unjust enrichment.
-  - See *[Osteen v. Johnson](link)*
+  - See *[Osteen v. Johnson](https://alexeibex.github.io/Contracts#case-osteen-v-johnson)*
 
 
 ---
@@ -439,12 +437,12 @@ Problem 3-15
 #### Restatement of Contracts §363
 - Specific performance or an injunction will be refused if a substantial part of the agreed exchange has been unperformed and its performance is not secured to the satisfaction of the court.
 - According to general view today, buyer of land is entitled to specific performance (absent a defense). Land is inherently unique an damages cannot be an adequate remedy.
-  - See *[Kitchen v. Herring](link)*
+  - See *[Kitchen v. Herring](https://alexeibex.github.io/Contracts#case-kitchen-v-herring)*
 - Sale of Goods/Chattels
   - Distinction between land and goods, specific performance contracts over goods in certain conditions
     - Timing, Quality, Quantity
     - Reputation Damages
-      - See *[Curtice Brothers Co. v. Catts](link)*
+      - See *[Curtice Brothers Co. v. Catts](https://alexeibex.github.io/Contracts#case-curtice-brothers-co-v-cattshttps://alexeibex.github.io/Contracts#case-curtice-brothers-co-v-catts)*
     -
 - Damages at law & Jurisdiction of Specific Performance Depends on grounds that damages will not afford a complete remedy.
 - The remedy for a breach of contract for the sale of personal property is an action at law, where  damages  are  awarded.  However,  there  are  recognized  exceptions.  Jurisdiction  to enforce  specific  performance  rests,  not  on  the  distinction  between  real  and  personal property, but on the ground that damages at law will not afford a complete remedy.
@@ -468,8 +466,7 @@ Problem 3-15
   - Equivilant to indentured servitude
   - Surveillance and oversight of Court
 - Employee-Employer context, specific performance generally precluded to either party
-  - See *[Pratt Furniture Co. v. McBee](link)*
-  -
+  - See *[Pratt Furniture Co. v. McBee](https://alexeibex.github.io/Contracts#case-pratt-furniture-co-v-mcbee)*
 
 
 ---
@@ -547,7 +544,6 @@ Problem 3-15
   - Market Fluctuations for a property will be upheld
     - Policy notions regarding contract's validity
     - Court take a hardline on "backing out of deals"
-  -
 
 #### 3-4
 “The “cover” price is the price of the substitute purchase.) If the substitute purchase is “in good faith,” is “without unreasonable delay,” and is otherwise reasonable”

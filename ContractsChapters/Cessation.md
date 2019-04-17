@@ -1,4 +1,18 @@
 ## Grounds of Rightful Cessation
+<!-- TOC -->
+
+- [Grounds of Rightful Cessation](#grounds-of-rightful-cessation)
+  - [Cessation and The Role of Lawyer](#cessation-and-the-role-of-lawyer)
+  - [Invalidity and Related Defenses - A Brief Retrospect](#invalidity-and-related-defenses---a-brief-retrospect)
+  - [Mutual Mistake](#mutual-mistake)
+  - [Impossibility of Performance](#impossibility-of-performance)
+    - [Implied Conditions](#implied-conditions)
+    - [Standard for Impossibility](#standard-for-impossibility)
+    - [Impracticability of Performance](#impracticability-of-performance)
+    - [UCC & Impossibility](#ucc--impossibility)
+  - [Frustration of Purpose](#frustration-of-purpose)
+
+<!-- /TOC -->
 ### Cessation and The Role of Lawyer
 
 ### Invalidity and Related Defenses - A Brief Retrospect
@@ -36,15 +50,14 @@
       - But did not get replacement insurance instead got present value, therefore No Impossibility Excuse
     - Impracticability: Technically possible but financially burdensome (400k to build but only received 200k)
 
-##### Performance becomes “impossible in legal contemplation” if it is beyond practicality
+- Performance becomes “impossible in legal contemplation” if it is beyond practicality
 - Where it is commercially senseless to enforce a contract, it should be excused for impracticability.
   - When performance is excessively more expensive then anticipated, it may be excused.
     - See *[Mineral Park Land Co. v. Howard](link)*
       - The rest of the gravel and earth on the plaintiffs’ land was impractical (and thus “impossible in legal contemplation”) to retrieve.
         - Begins to look like **mutual mistake** as opposed to mutual misunderstanding *[Peerless](link)*
         - Existing impossibility - that existed at K formation aleviates mistake element
-
-##### Allocation of Risk Analyiss
+- Allocation of Risk Analyiss
 - Foreseeability and appreciation of risk is probative of risk allocation but is not conclusive
 - When something is foreseeable, and if performance is not excessively costly, then there is no impracticability.
   - See *[Translatlanic Financing Corp. v. United States](link)*
@@ -66,7 +79,7 @@
 
 
 
-#### Frustration of Purpose
+### Frustration of Purpose
 - Test for Frustration of Purpose:
   - What was foundation of the contract?
   - Was performance prevented?
