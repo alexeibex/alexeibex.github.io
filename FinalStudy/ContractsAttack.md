@@ -69,10 +69,10 @@ ____
 - Mutual assent requires both offer & acceptance
 
 #### Offer
-1. Identify Manifestation Objective Willingness
+- Identify Manifestation Objective Willingness
   - Outward actions are determinative not hidden intentions
   - Identify & describe negotiations
-2. Creation of a power of acceptance
+- Creation of a power of acceptance
   - Invitation to assent to acceptance
   - Must be communicated unless mailbox rule
   - Issues:
@@ -80,19 +80,19 @@ ____
     - Contest & Reward Offers
     - Invitations to deal
     - Conditonal Acceptances
-3. Specify all necessary terms
-- Terms must be **definite** & **certain**
-  - Common Law Terms:
-    - Quantity
-    - Time
-    - Identity of Subject Matter
-    - Parties
-  - UCC Terms
-    - Quantity
-    - Reasonble Terms supplied by gap fillers
+- Specify all necessary terms
+  - Terms must be **definite** & **certain**
+    - Common Law Terms:
+      - Quantity
+      - Time
+      - Identity of Subject Matter
+      - Parties
+    - UCC Terms
+      - Quantity
+      - Reasonble Terms supplied by gap fillers
 
 ##### Termination of Offer
-1. Revocation
+- Revocation
   - Expressly Communicated prior to acceptance
     - Exceptions:
       - Option Contract (Consideration to keep option open)
@@ -101,19 +101,19 @@ ____
         - Performance began
       - Detrimenal Reliance
         - Reasonable & Foreseeable Reliance
-2. Constructive Revocation
+- Constructive Revocation
   - When offeree learns of conduct inconsistent with continuing ability to make a contract
-3. Rejection
+- Rejection
   - Moment of Rejection expressed terminates offer and new offer required
-4. Counter Offer
+- Counter Offer
   - Acts as a rejection and results in new offer to previous offeror, previous offer cannot be then accepted
-5. Death
+- Death
   - Terminates offer
-6. Time
+- Time
   - Reasonble amount of time passes
     - Examination of facts required to determine reasonabless
       - More Money: More Time
-7. Mailbox acceptance
+- Mailbox acceptance
   - Offeree has already mailed acceptance or performed on offer
 
 
@@ -134,10 +134,10 @@ ____
 #### Acceptance
 - Unequivocal agreement to the terms of acceptance that is communicated to the offeror by an offeree with the power of acceptance
 
-1. Objective Willingness
+- Objective Willingness
   - Outward manfiestation of conduct
   - Performance and Communicate (unilateral)
-2. Acceptance in accordance with "Master of Offer"
+- Acceptance in accordance with "Master of Offer"
   - Bilateral Contract
     - Return Promise for Promise
       - Return promise = Acceptance OR;
@@ -146,21 +146,21 @@ ____
     - Acceptance requires performance or action
       - Once started offer is **irrevocable**
         - Acceptance only valid upon completion
-3. Power of Acceptance
+- Power of Acceptance
   - Offeror must have directed to the offeree to accept
     - Intent of Offeror
       - Exceptions: Contest/Reward Offers
-4. Timely Acceptance
+- Timely Acceptance
   - In specified and reasonble way
     - Silence only if based on previous conduct and custom
     - Offeree retain a benefit after reasonble opportunity to object
-5. Mailbox Rule: Timing of Acceptance ONLY
+- Mailbox Rule: Timing of Acceptance ONLY
   - Sending acceptance/rejection is valid as soon as sent by offeree unless revocation received prior to acceptance
     - Exceptions
       - Irrevocable Offer
       - If **accepted and then rejected;** Mailbox rule still applies, no subsequent rejection applies
       - If offeree **rejects** and then sends acceptance; which ever is received/opened by offeror first applies
-6. Mirror Image Rule vs. Battle of Forms (UCC 2-207)
+- Mirror Image Rule vs. Battle of Forms (UCC 2-207)
 - Additional or Different Terms
   - Under Common Law = **Mirror Image Rule**
     - If any additional terms, results in Counter Offer
