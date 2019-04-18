@@ -1,4 +1,33 @@
 ## Entity Property
+<!-- TOC -->
+
+- [Entity Property](#entity-property)
+  - [Overview](#overview)
+  - [Functional Categories](#functional-categories)
+    - [Possessory](#possessory)
+    - [Non Possessory](#non-possessory)
+  - [Legal Categories](#legal-categories)
+    - [Functional Specialization](#functional-specialization)
+    - [Property Rights](#property-rights)
+  - [Separating Management and Possessory Rights](#separating-management-and-possessory-rights)
+    - [Leases](#leases)
+      - [Lease Types](#lease-types)
+      - [Independent Covenants Model](#independent-covenants-model)
+      - [Dependent Covenants](#dependent-covenants)
+      - [Restrictive & Dependent Covenants](#restrictive--dependent-covenants)
+      - [Caveat Lessee](#caveat-lessee)
+      - [Surrender](#surrender)
+      - [Abandonmnent](#abandonmnent)
+      - [Hypo](#hypo)
+        - [3 Months after L Relets](#3-months-after-l-relets)
+        - [3 Months Prior to Reletting](#3-months-prior-to-reletting)
+    - [Implied Warranty of Habitability](#implied-warranty-of-habitability)
+      - [Remedies for Tenants](#remedies-for-tenants)
+      - [Policy Reasons](#policy-reasons)
+
+<!-- /TOC -->
+
+### Overview
 - In order to provide for a more effective means of of management of resources, the law has developed a governance strategy for the management of resources.
 - Key attribute of entity property devices is that they permit the management of resources to be separated from their use and enjoyment.
   - Separation allows the managerial governance function to be concentrated in the hands of specialists, while the use and enjoyment is distributed over a larer and more diffuse group of individuals.

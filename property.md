@@ -1,16 +1,6 @@
 # Property Law
 Supplemental Reading: Gilberts Outline, Sprankling
-<!-- TOC -->
 
-### [Contents](#property-law)
-  - 1.0 Introduction
-    - [1.1 Acquisition and Claim Scope](#11-acquisition-and-claim-scope)
-    - [1.1 Open Access and the Commons](#11-open-access-and-the-commons)
-  - [2.0 Water Rights](https://alexeibex.github.io/property#20-water-rights)
-    - [2.1 WaterCourses]
-    - [2.2 Reasonable Use Theory]
-
-<!-- /TOC -->
 
 
 ## 1.0 Introduction
@@ -1653,6 +1643,23 @@ Occupant Has Title To |  -  | A  | B--C   | C-->B
     <li><b>Issue:</b></li>
     <li><b>Rule:</b></li>
     <li><b>Conclusion:</b>For landowners; taking was unconstitutional. (later overturned for industry, b/c disagreed w/ GOLDSTEIN). This court said it violated the NY constitution and the priciples of social conrtact. And the Universities expansion ws not a civil project designated by the statute because it cant just be for an education institution it needs to be educational for civil purpose. This was revered by the New York Court of Appeals (highest NY court) because they had just previously decided Goldstein and this court was bound by that decision.</li>
+    <li><b>Notes/Concepts:</b></li>
+  </ul>
+
+</details>
+
+- <span style="color:red">**Class Discussion**</span>
+
+
+#### Case: *[United States v. Miller](Link)*
+
+<details><summary><i>Case Brief</i></summary>
+  <ul>
+    <li><b>Overview:</b></li>
+    <li><b>Facts:</b></li>
+    <li><b>Issue:</b></li>
+    <li><b>Rule:</b></li>
+    <li><b>Conclusion:</b></li>
     <li><b>Notes/Concepts:</b></li>
   </ul>
 

@@ -1,4 +1,5 @@
 ## Takings
+### Overview
 - Federal, state, and local governments have the inherent power to take private property for public use over the owner’s objection, through a process known as eminent domain.
   - Takings power is limited both by statute & Constitution(s).
     - 5th Amendment  = Nor shall private property be taken **for public use** without **just compensation**.
@@ -69,20 +70,43 @@
     - Confirmation Bias of Blight used as a justification for takings
       - See [In Re Kaur, In Re Truck Away Inc.](link)
 
-##### Summary of Takings between Goldstein & Kaur
+- Summary of Takings between Goldstein & Kaur
   - Facts of two above cases are similar and yet two courts and two judges reaching separate opinions
 
 
-#### Just Compensation
 
-#####  Owners of taken land get pre-dev price, not post-dev price.
-- Compensation is for owner’s loss, not taker’s gain
-- General Rule is that the fair market value for the taking is from the date of the taking. Here, it depended on the government’s intent and when the government becomes committed to the project is the date the fair market value is evaluated. If their intent was taking the property in question then the date of the commitment is the date of fair market value evaluatin, however, if the original scope of the project (when they committed to it) did not include the parcel in question then it is measured buy the date of the actual taking.
+### Just Compensation
 
-### Regulatory Takings
-#### NIMBY (Not In My Back Yard)
-- If the regulation is just an exercise of the 10th Amendment police power then no, govt does not have to provide compensation, But, if it amounts to a regulatory taking, then government must provide just compensation, even though government does not physically occupy the land.
-  - See *[US v. Miller](link)*
+- Owners of taken land get pre-dev price, not post-dev price. Compensation is for the loss to owner not the gain to the taker
+- Partial Takings: Government may take part of a parcel not the entire.
+- **Compensation:** Fair market value of the portion taken as well as **severance damages**
+  - **Fair Market Value:** What willing buyer would pay to willing seller in cash at the **time** of takings.
+    - If unknown: Guess but minus out the sentimental value of owner
+    - Time of Taking: Dependeds on the government’s intent and when the government becomes committed to the project is the date the fair market value is evaluated.
+    - If their intent was taking the property in question then the date of the commitment is the date of fair market value evaluation, however, if the original scope of the project (when they committed to it) did not include the parcel in question then it is measured buy the date of the actual taking.
+  - **Severance Damages:** Compensate the owner for a parcel that is larger and now smaller.
+    - BUT: Subtract any special damages that accrue from project benefiting the remaining parcel
+    - See *[US v. Miller](link)*
+      - Should the government pay just compensation to land owner for value created by the government project
 
-##### It is a per se taking if the regulation authorizes a permanent physical occupation of property
-  - See *[Loretto v. Teleprompter Manhattan CATV Corp](link)*
+### Regulatory Takings (Inverse Condemnation)
+- If the regulation is just an exercise of the 10th Amendment police power then no just compensation required, government does not have to provide compensation
+  - But, if it amounts to a regulatory taking, then government must provide just compensation, even though government does not physically occupy the land.
+#### 2 Categories of Regulatory Takings
+##### Per Se Takings
+- Government authorizing permanent physical occupation
+    - Physical Occupation of Land (Whole or Part)
+    - Authorization of 3rd party onto property
+      - It is a per se taking if the regulation **authorizes a permanent physical occupation** of property
+        - See *[Loretto v. Teleprompter Manhattan CATV Corp](link)*
+- Loss of All Economically Beneficial or Productive Use
+  - Eliminates all economic use of the land
+    - Must be **100%** economic loss in value
+      - Denominator Question - See *[Murr]
+  - Not the equivilant of eliminating a public nuisance
+    - Government can abate a nuisance, even if it creates that nuisance
+- If not per se taking could still be ad hoc taking
+
+
+##### Ad Hoc Takings
+-

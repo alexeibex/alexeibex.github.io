@@ -130,7 +130,7 @@ ____
 - See *[Leonard v. Pepsico](link)
   - Corporation's advertisement to give consumer a jet upon buying enough of its product was clearly made in jest and did not constitute a contract; overall tone of the advertisement was fanciful and statute of frauds was violated.
 
-
+---
 #### Acceptance
 - Unequivocal agreement to the terms of acceptance that is communicated to the offeror by an offeree with the power of acceptance
 
@@ -215,5 +215,26 @@ ____
 - Illusory Promises
   - No commitment to deal or promise itself does not result in real legal detriment
 
+##### Cases
+- See [Hardest v. Smith](link)
+  - Classic bargained for consideration. Deference to freedom of contract between autonomous citizens. No
+need for law to interfere as long as consideration is apparent.
+- See [Dougherty v. Salt](link)
+  - Promisor’s motive is measured objectively. Court will not enforce promises of gifts, only bargained for exchanges.
+- See [Maughs v. Porter](link)
+  - Example of consideration when promisor benefits even though a conditional promise because the promisor did actually benefit from this arrangement (more people at his auction)
+- See [Tramp Example](link)
+  - Conditional gratuitous promises are not enforceable. There must be evidence that the promisor is getting something in return and/or a benefit from the condition they are imposing on the promisee.
+- See [Hamer v. Sidway](link)
+  - Nephew’s abstention is sufficient consideration, because his forbearance was him giving up some of his legal rights. Does not matter whether uncle benefited or not. Benefit to promisor OR Detriment to promisee is sufficient to qualify as consideration.
+- See [Baehr v. Penn-O-Tex Oil Corp](link)
+  - No consideration because there was no mutual inducement, and no bargaining. Forbearance may be evidence of consideration, but not in this case.
+- See [Neuhoff v. Marvin Lumber & Cedar Co.](link)
+  - In order for forbearance to serve as consideration there must be evidence that such forbearance induced the other party.
+- See [Springstead v. Nees](link)
+  - Consideration for the promise must rest upon the forbearance to exercise a legal right. Forbearance to assert either a legal or equitable claim is sufficient consideration. No consideration if you are giving up something you have no legal claim to.
+- See [De Los Santos v. Great Western Sugar Co](link)
+  - Mutuality of obligation is an essential element of every enforceable agreement. Mutuality is absent when only one of the contracting parties is bound to perform. An agreement which depends on the wish, will, or pleasure of one of the parties is not enforceable.
+---
 ### Defenses
 ### Statute of Frauds
