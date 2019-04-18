@@ -1,4 +1,32 @@
 # Contracts Attack Outline
+<!-- TOC -->
+
+- [Contracts Attack Outline](#contracts-attack-outline)
+  - [Overall Attack](#overall-attack)
+    - [Formation - *Was a traditional contract formed?*](#formation---was-a-traditional-contract-formed)
+    - [Alternative Theories - *Are there any alternative legal theories of enfocement available?*](#alternative-theories---are-there-any-alternative-legal-theories-of-enfocement-available)
+    - [Performance - *Was the traditional, enforcable contract performed?*](#performance---was-the-traditional-enforcable-contract-performed)
+    - [Remedies - *What remedies are available to the π?*](#remedies---what-remedies-are-available-to-the-%CF%80)
+  - [Gateway Common Law vs. UCC](#gateway-common-law-vs-ucc)
+  - [Formation](#formation)
+    - [Basics](#basics)
+      - [Promises](#promises)
+        - [Bilateral Contract](#bilateral-contract)
+        - [Unilateral Contract](#unilateral-contract)
+    - [Mutual Assent](#mutual-assent)
+      - [Offer](#offer)
+        - [Termination of Offer](#termination-of-offer)
+        - [Cases](#cases)
+      - [Acceptance](#acceptance)
+        - [Cases](#cases-1)
+    - [Consideration](#consideration)
+      - [Bargained-for-Exchange](#bargained-for-exchange)
+        - [Reciprocal Inducement & Legal Detriment](#reciprocal-inducement--legal-detriment)
+        - [Cases](#cases-2)
+    - [Defenses](#defenses)
+    - [Statute of Frauds](#statute-of-frauds)
+
+<!-- /TOC -->
 ## Overall Attack
 
 ### Formation - *Was a traditional contract formed?*
