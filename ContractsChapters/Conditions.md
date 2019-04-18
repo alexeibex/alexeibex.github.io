@@ -1,5 +1,42 @@
 ## Conditions
+<!-- TOC -->
 
+- [Conditions](#conditions)
+  - [Conditions Defined](#conditions-defined)
+    - [Condition Implied-in-Law](#condition-implied-in-law)
+    - [Condition Implied-in-fact](#condition-implied-in-fact)
+    - [Order of Performance](#order-of-performance)
+    - [Express Conditions](#express-conditions)
+      - [Creation of an Express Condition](#creation-of-an-express-condition)
+      - [Promissory & Pure Conditions Conditions](#promissory--pure-conditions-conditions)
+      - [Condition Construction](#condition-construction)
+      - [Substantial Performance](#substantial-performance)
+    - [Interpretation of Contract Lanuage to Determine Whether it Creates an Express Condition](#interpretation-of-contract-lanuage-to-determine-whether-it-creates-an-express-condition)
+      - [Interpretation of the Content of Express Conditions](#interpretation-of-the-content-of-express-conditions)
+    - [Impossibility & Avoiding the Express Condition](#impossibility--avoiding-the-express-condition)
+  - [Waivers](#waivers)
+  - [Excused Express Condition](#excused-express-condition)
+    - [Restatement Approach](#restatement-approach)
+    - [Taylor Hypo on Waivers](#taylor-hypo-on-waivers)
+    - [Problem 7-4](#problem-7-4)
+    - [Three methods of overriding failure of express condition:](#three-methods-of-overriding-failure-of-express-condition)
+      - [Overriding of Express Condition Precedent to Prevent Forfeiture](#overriding-of-express-condition-precedent-to-prevent-forfeiture)
+    - [CA Statutory Approach](#ca-statutory-approach)
+    - [Problem 7-5](#problem-7-5)
+    - [Unjust enrichment as a theory to prevent forfeiture](#unjust-enrichment-as-a-theory-to-prevent-forfeiture)
+  - [Sequential Performances](#sequential-performances)
+    - [Substantial Performance](#substantial-performance-1)
+    - [Implied Condition Fixing the Quality of Performance](#implied-condition-fixing-the-quality-of-performance)
+    - [Material Breach & Substantial Performance](#material-breach--substantial-performance)
+    - [Material Breach](#material-breach)
+    - [Divisible Contracts](#divisible-contracts)
+    - [Divisibilty](#divisibilty)
+    - [Material Breaches](#material-breaches)
+    - [Uniform Commercial Code](#uniform-commercial-code)
+    - [Restatement of Contracts 261 – Interpretation of doubtful words as promise or condition](#restatement-of-contracts-261--interpretation-of-doubtful-words-as-promise-or-condition)
+      - [Content of an Express Condition](#content-of-an-express-condition)
+
+<!-- /TOC -->
 ### Conditions Defined
 - Conditions Defined: A condition * * * is ‘an event, not certain to occur, which must occur, unless its non-occurrence is excused, before performance under a contract becomes due.’
 - Some contingency that must be done in order for some duty of performance to arise.

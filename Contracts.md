@@ -1598,7 +1598,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
-    <li><b>Overview:</b> Miller sought to recover the profits lost from the clsoing of the mill as a result of a carrier's failure to make timely delivery of a broken crank shaft to an enfineering firm where it was to be used as a model for a replacement.</li>
+    <li><b>Overview:</b> Miller sought to recover the profits lost from the closing of the mill as a result of a carrier's failure to make timely delivery of a broken crank shaft to an enfineering firm where it was to be used as a model for a replacement.</li>
     <li><b>Facts:</b> π carried on an extensive milling operation. Mill was stopped by a breakage of the crank shaft by which the mill was worked. π sent their servent to the office of a well known carrier company. π servant told clerk it must be sent immediately. ∆ answer was that if it was sent up by 12pm any day it would be delivered the following day. Delivery of shaft was delayed by some neglect. π did not receive shaft for several days after they would have otherwise done, working on the mill was delayed and they lost profits.</li>
     <li><b>Issue:</b> Whether π is entitled to the lost profits caused by the delays in shipping?</li>
     <li><b>Rule:</b> Where 2 parties have made a contract which one of them has broken the damages which the other party ought to receive in respect to such breach of contract should be as may fairly and reasonably be considered either arising naturally, according to the usual course of things, from such breach of contract itself, or such as may be reasonably be supposed to have been in the contemplation of both parties at the time they made the contract. If special cirumstances were made and communicated to and known to both parties, the damages resulting from a breach of contract under these circumstances would be the amount of injury which would ordinarily follow from a breach of contract.</li>
@@ -1801,6 +1801,8 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 </details>
 
 - <span style="color:red">**Class Discussion**</span>
+
+
 ### Restitution Damages
 #### Case: *[United States for Use of Susi Contracting Co. v. Zara Contracting Co.](Link)*
 
@@ -1847,7 +1849,7 @@ Formulas for Measuring Damages for Breach by a Person Who has Contracted to Have
 - <span style="color:red">**Class Discussion**</span>
 
 
-#### Where the π has conferred a benefit but the contract is invalid, frustrated, or otherwise unenforceable
+- Where the π has conferred a benefit but the contract is invalid, frustrated, or otherwise unenforceable
 - Restitution may be granted to a party whose agreement is unenforceable.
 
 

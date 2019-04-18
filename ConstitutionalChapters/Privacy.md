@@ -1,3 +1,23 @@
+## Privacy
+<!-- TOC -->
+
+- [Privacy](#privacy)
+- [Substantive Due Process & Privacy](#substantive-due-process--privacy)
+  - [Due Process & Privacy](#due-process--privacy)
+    - [Substantive Due Process & Family Rights](#substantive-due-process--family-rights)
+    - [Substantive Due Process, Childbearing and Contraception](#substantive-due-process-childbearing-and-contraception)
+  - [Substantive Due Process and Abortion](#substantive-due-process-and-abortion)
+    - [Implications of Roe](#implications-of-roe)
+    - [The Undue Burden Standard of Casey (Roe Light)](#the-undue-burden-standard-of-casey-roe-light)
+  - [Marriage & Family Relations](#marriage--family-relations)
+  - [Sexuality & Hybrid Due Process and Equal Protection Rights](#sexuality--hybrid-due-process-and-equal-protection-rights)
+  - [Constitutional Protection for Medical Care Decisions](#constitutional-protection-for-medical-care-decisions)
+    - [Physician-Assisted Death](#physician-assisted-death)
+    - [Differing Methodologies on Physician-Assisted Suicide](#differing-methodologies-on-physician-assisted-suicide)
+    - [Meaning and Implications of Glucksberg](#meaning-and-implications-of-glucksberg)
+
+<!-- /TOC -->
+
 ## Substantive Due Process & Privacy
 - Substantive Due Process: Providing Substance to the definition of the Due Process Clause
   - Protections of liberty are more substantive

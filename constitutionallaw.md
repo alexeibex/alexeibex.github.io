@@ -1,12 +1,10 @@
 # Constitutional Law
-### Course Themes
-1. Powers
-2. Limits
-3. Rights
 
 
 
-## Contents & Chapters
+
+
+## Chapters
 1. [The History](https://alexeibex.github.io/ConstitutionalChapters/History)
 2. [Judicial Power](https://alexeibex.github.io/ConstitutionalChapters/JudicialReview)
 3. [Executive Power](https://alexeibex.github.io/ConstitutionalChapters/SeparationofPowers)
@@ -19,294 +17,20 @@
 10. [Privacy](https://alexeibex.github.io/ConstitutionalChapters/Privacy)
 11. [Individual Rights](https://alexeibex.github.io/ConstitutionalChapters/IndividualRights)
 12. [Economic Liberties & Takings](https://alexeibex.github.io/ConstitutionalChapters/EconomicLiberty&Takings)
-13.
-
-- 1.0 The Constitution and the Court
-- 1.1 [Introduction: The US Constitution](#11-introduction)
-- 1.2 [Creation of the Confederacy](https://alexeibex.github.io/constitutionallaw#12-articles-of-the-confederacy)
-  - Articles of the Confederacy
-- 1.3 [Passage of the Bill of Rights](LINK)
-- 1.4 [Authority and Role of the Supreme Court](LINK)
-  - 1.4.1 [The Power of Judicial Review](LINK)
-    - *Marbury v. Madison*
-  - 1.4.2 [Authority to Review State Court Judgements](LINK)
-    - *Martin v. Hunter's Lessee*
-  - 1.4.3 [Judicial Exclusivity]()
-    - *Cooper v. Aaron*
-    - *Baker v. Carr*
-- 2.0 [National Powers & Local Activities]()
-  - 2.1 Federalism: History & Principles
-    - *McCulloch v. Maryland*
-    - *U.S. Term Limits, Inc. v. Thornton*
-    - *U.S. v. Comstock*
-
-## 1.0 The Constitution and the Court
-### 1.1 [The Constitution of the United States](https://www.law.cornell.edu/constitution)
-"*We the People of the United States...*"
-* Preamble set up to set forth the *Government*
-1. Structure and Organization
-1. *"Secure the Blessings of Liberty"*
-1. [Captain Kirk Monologue](https://www.youtube.com/watch?v=uGO-SldLrNA)
-
-### 1.2 Creation of the Confederacy
 
 
-<details><summary><b>Articles of the Confederacy</b></summary>
+### Authority & Role of the Supreme Court
 
-<details><summary>Article 1 - The Legislature</summary>
-
-    <ul>
-      <li><b>Section 1: Legislative Powers</b></li>
-        <ul>
-          <li><i>"All Legislative Power herein granted shall be vested in a Congress of the United States"</i></li>
-        </ul>
-
-      <li><b>Section 2: The House of Representatives</b></li>
-        <ul>
-          <li>Creation of House and sets election terms.</li>
-          <li>1st Stain of the Constitution* The 3/5ths clause</li>
-        </ul>
-
-      <li><b>Section 3: The Senate & Impeachment</b></li>
-        <ul>
-          <li>Creation of Senate and election terms</li>
-          <li>Separate but **Interlocking** Powers</li>
-          <li>Vice President has vote if tie</li>
-          <li>Senate has the sole power to try all Impeachment</li>
-          <li>"...on Oath or affirmation."</li>
-          <li>Chief Justice of SCOTUS will preside over Impeachment</li>
-          <li>Impeachment requires 2/3rds majority</li>
-          <li>Impeachment results in exit from office</li>
-        </ul>
-
-      <li><b>Section 6: Compensation and Privileges of Members</b></li>
-        <ul>
-          <li>Prevention of abuse to promote free discussion & debate</li>
-          <li>"for any Speech or Debate...they shall not be questioned in any other place"</li>
-        </ul>
-
-      <li><b>Section 7: Passage of Bills</b></li>
-        <ul>
-          <li>"Swiss Timepiece process of creation of law"</li>
-          <li>"Let's make it **Hard** for the government to act..."</li>
-        </ul>
-
-      <li><b> Section 8: Scope of Legislative Power</b></li>
-        <ul>
-          <li>Commerce Clause of Congress</li>
-          <li>"The Power to regulate Commerce among <b>different places...</b>"</li>
-          <li>Patents & Trademarks</li>
-          <li>International Law</li>
-          <li>War Powers</li>
-          <li>Necessary & Proper (Elastic Clause)</li>
-        </ul>
-
-      <li><b>Section 9:Limits on Legislative Power</b></li>
-        <ul>
-          <li>Stain #2 - Commerce of slaves</li>
-          <li>Habeas Corpus</li>
-          <li>Ex Post Facto</li>
-          <li>No Title of Nobility & No Emoluments</li>
-        </ul>
-
-      <li><b>Section 10: Limits on States</b></li>
-        <ul>
-          <li>States cannot get involved in treaties</li>
-          <li>No Bills of attainder & Ex Post Facto</li>
-          <li>No Law impairing federal law</li>
-        </ul>
-    </ul>
-
-</details>
-
-<details><summary>Article 2 - The Presidency</summary>
-
-  <ul>
-    <li><b>Section 1: Election, Installation, Removal</b></li>
-      <ul>
-        <li>Natural Born citizen</li>
-        <li>35 years old</li>
-        <li>The Oath "I do solemnly swear"</li>
-      </ul>
-
-    <li><b>Section 2: Presidential Powers</b></li>
-      <ul>
-        <li>Commander and Chief</li>
-        <li>Reprieves and Pardons</li>
-        <li>Appointment of all officials</li>
-
-      </ul>
-
-    <li><b>Section 3: State of the Union, Receive Ambassadors, Laws Faithfully Executed, Commission Officers</b></li>
-
-      <ul>
-        <li>State of the Union</li>
-      </ul>
-
-    <li><b>Section 4: Impeachment</b></li>
-
-  </ul>
-
-</details>
-
-<details><summary>Article 3 - The Judiciary</summary>
-
-  <ul>
-    <li><b>Section 1: Judicial Power Vested</b></li>
-    <li><b>Section 2: Scope of Judicial Power</b></li>
-      <ul>
-        <li>Subject Matter Jurisdiction</li>
-        <li>Appellate Jurisdiction v. Original Jurisdiction</li>
-        <li>Procedure of...</li>
-      </ul>
-  <li><b>Section 3: Treason</b></li>
-      <ul>
-        <li>Specific guidelines for Treason</li>
-      </ul>
-  </ul>
-
-</details>
-
-<details><summary>Article 4 - The States</summary>
-
-  <ul>
-    <li><b>Section 1: Full Faith and Credit</b></li>
-    <li><b>Section 2: Privileges & Immunities, Extradition, Fugitive Slaves</b></li>
-    <li><b>Section 3:Admission of States</b></li>
-      <ul>
-        <li>Senate as an Undemocratic institution</li>
-      </ul>
-    <li><b>Section 4: Guarantees to States</b></li>
-  </ul>
-
-</details>
-
-<details><summary>Article 5 - Amendment Process</summary>
-  <ul>
-
-    <li>2/3rds & 3/4ths requirements for amendments</li>
-    <li>Very Difficult to Change the Constitution</li>
-        <ul>
-          <li>Super Super Majority</li>
-        </ul>
-  </ul>
-
-</details>
-
-<details><summary>Article 6 - Legal Status of the Constitution</summary>
-  <ul>
-
-    <li>Supremacy Clause</li>
-    <li>"but no religious test shall ever be required..."</li>
-  </ul>
-
-
-</details>
-
-<details><summary>Article 7 - Ratification</summary>
-  <ul>
-  </ul>
-
-</details>
-</details>
-
-### 1.3 Passage of Bill of Rights - (1791)
-
-<details><summary>The Bill Of Rights (10 Amendments)</summary>
-
-<ul>
-  <li>1st Amendment: Freedom of Religion, Speech, Press, Assembly</li>
-  <li>2nd Amendement: Right to bear arms</li>
-  <li>3rd Amendment: No quarter</li>
-  <li>4th Amendment: Unreasonable Search and Seizure</li>
-  <li>5th Amendment: Human and Individual Rights</li>
-    <details>
-      <ul>
-        <li>Grand Jury</li>
-        <li>Double Jepordy</li>
-        <li>Self Incrimination</li>
-        <li>Due Process</li>
-        <li>Takings Clause</li>
-      </ul>
-    </details>
-  <li>6th Amendment: Criminal Rights</li>
-    <details>
-      <ul>
-        <li>Right to a Jury</li>
-        <li></li>
-      </ul>
-    </details>
-  <li>7th Amendment: Common Law Suits</li>
-  <li>8th Amendment: Excessive Bail and Cruel/Unusual Punishment</li>
-  <li>9th Amendment: Non-Enumerated Rights</li>
-  <li>10th Amendment: Rights Reserved to States</li>
-</ul>
-</details>
-
-<details><summary>Subsequent Amendments (17 Amendments)</summary>
-
-  <ul>
-    <li>11th Amendment: Suits against States</li>
-    <li>12th Amendment: Election of President and Vice President</li>
-    <li>13th Amendment: Abolition of Slavery</li>
-    <li>14th Amendment: Privileges/Immunities, Due Process, Equal Protection</li>
-      <details>
-        <ul>
-          <li>Section 1: Overules Dred Scott Decision on Slave Rights</li>
-          <li>Everyone has naturalized rights at birth</li>
-          <li>No laws to abridge privileges or immunities of citizens </li>
-          <li>State limits on due process</li>
-          <li>No state can deny equal protection</li>
-        </ul>
-      </details>
-    <li>15th Amendment: Rights Not to Be Denied on Account of Race </li>
-    <li>16th Amendment: Income Tax</li>
-    <li>17th Amendment: Election of Senators</li>
-    <li>18th Amendment: Prohibition (Repealed by 21st Amendment)</li>
-    <li>19th Amendment: Women's Right to Vote</li>
-    <li>20th Amendment: Presidential Term Succession</li>
-    <li>21st Amendment: Repeal of Prohibition</li>
-    <li>22nd Amendment: Two Term Limit of President</li>
-    <li>23rd Amendment: Presidential Vote in D.C</li>
-    <li>24th Amendment: Abolotion of Poll Tax</li>
-    <li>25th Amendment: Presidential Succession</li>
-      <details>
-        <ul>
-          <li><i>Placeholder note for exam question on Supreme Court</i></li>
-        </ul>
-      </details>
-    <li>26th Amendment: Right to Vote at Age 18</li>
-    <li>27th Amendment: Compensation of Members of Congress</li>
-      <details>
-        <ul>
-          <li>Not passed for 200 years until 1992</li>
-        </ul>
-      </details>
-  </ul>
-
-</details>
-
-<details><summary>Unratified Amendments</summary>
-
-  <ul>
-    <li>Not Passed: 28th Equal Rights Amendment</li>
-  </ul>
-</details>
-
-
-
-### 1.4 Authority & Role of the Supreme Court
-
-#### 1.4.1 The Power of Judicial Review
-
-Does the Court have the final word in constitutional interpretation? **Both Congress and the Executive Branch** also interpret the Constitution, but whose say is final?
+#### The Power of Judicial Review
+- Does the Court have the final word in constitutional interpretation?
+  - **Both Congress and the Executive Branch** also interpret the Constitution, but whose say is final?
 
 ##### Historical Context of Judicial Review
-1. Adams had issued and signed an order appointing Marbury a justice of the peace. Marshall, then Secretary of State, failed to deliver it before the end of the Adams administration. Jefferson and Madison, the new Secretary of State, refused to deliver it. Marbury sued in December 1801 to receive the commission.
-2. The “peculiar delicacy” of the case was its contentious political context and the impact of the Court’s decision on the relations between the branches of government. Madison’s failure to appear in court resulted from the controversy.
+- Adams had issued and signed an order appointing Marbury a justice of the peace. Marshall, then Secretary of State, failed to deliver it before the end of the Adams administration. Jefferson and Madison, the new Secretary of State, refused to deliver it. Marbury sued in December 1801 to receive the commission.
+- The “peculiar delicacy” of the case was its contentious political context and the impact of the Court’s decision on the relations between the branches of government. Madison’s failure to appear in court resulted from the controversy.
 
 
-<b>Case: <i>[Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)</i></b>
+#### Case: *[Marbury v. Madison](https://advance.lexis.com/api/permalink/c36871a6-f343-4439-92c2-c20a624e1549/?context=1000516)*
 
 <details><summary><i>Case Brief</i></summary>
   <ul>
@@ -352,31 +76,30 @@ Does the Court have the final word in constitutional interpretation? **Both Cong
 </details>
 
 ##### Theories of Judicial Review
-1. Judicial interpretation: First or Last Word?
+- Judicial interpretation: First or Last Word?
    - Is the court’s role mainly to legitimize the national government’s actions or to invalidate them?
-2. Judicial supremacy and judicial finality
+- Judicial supremacy and judicial finality
    - Do other branches have to accept Court decisions as authoritative (judicial supremacy)? Does the court get the last word, or do other branches also have the authority to interpret the Constitution (judicial finality/exclusivity)?
-3. Departmentalism:
+- Departmentalism:
   - Each Branch of government can interpret the constitution.
 
 ##### Frameworks of Beneath the Theories of Judicial Review
-1. Functionalism
+- Functionalism
   - The Court’s actions contribute to maintaining a certain kind of American polity. Judiciary represents, "We The People" as a check on Congress and the Executive Branch.
-2. Originalism and Textualism
+- Originalism and Textualism
  - The Court acts on the framers’ intent or on its reading of the text itself.
 
 
 
-#### 1.4.2 Supreme Court Authority to Review State Court Judgements
-Vertical Power over the states.
-"The Constituion bristols with limits over states..."
-
-###### Judiciary oversees interactions within the federal government and between the federal government and the states.
+#### Supreme Court Authority to Review State Court Judgements
+- Vertical Power over the states.
+  - "The Constituion bristols with limits over states..."
+- Judiciary oversees interactions within the federal government and between the federal government and the states.
   - The Court rejects the dual soveriengty idea and replaces it with interlocking oversight.
 
 
 
-<b>Case: <i>[Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)</i></b>
+#### Case: *[Martin v. Hunter's Lessee](https://advance.lexis.com/api/permalink/b6a39380-672b-4b93-8fdb-f7bb6d7d8c42/?context=1000516)*
 
 <details><summary>Case Brief</summary>
 
@@ -396,11 +119,11 @@ Vertical Power over the states.
 
 
 #### 1.4.2.1 Supreme Court Review of State Criminal Cases
-*"The judicial power extends to all cases arising under the constitution or a law of the United States, whoever may be the parties"* - Marshall
+- *"The judicial power extends to all cases arising under the constitution or a law of the United States, whoever may be the parties"* - Marshall
 
-Power granted by §25 of the 1789 Judiciary act
+- Power granted by §25 of the 1789 Judiciary act
 
-<b>Case: <i>[Cohens v. Virginia](Link)</i></b>
+#### Case: *[Cohens v. Virginia](Link)*
 
 <details><summary><i>Case Brief</i></summary>
 
@@ -415,14 +138,14 @@ Power granted by §25 of the 1789 Judiciary act
 
 </details>
 
-#### 1.4.3 Judicial Exclusivity
-*"It is emphatically *the province* and duty of the judicial department to say what the law is"* - Marshall
+#### Judicial Exclusivity
+- *"It is emphatically *the province* and duty of the judicial department to say what the law is"* - Marshall
 
 ##### Supreme Court Decision Are Binding
 - Supreme Court are the "Keepers of the Flame" of the Constitution
 - Opinion written by all 9 justices.
 
-<b>Case: <i>[Cooper v. Aaron](https://www.lexisnexis.com/lawschool/resources/p/casebrief-cooper-v-aaron.aspx)</i></b>
+#### Case: *[Cooper v. Aaron](https://www.lexisnexis.com/lawschool/resources/p/casebrief-cooper-v-aaron.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
 <ul>
@@ -444,9 +167,9 @@ Power granted by §25 of the 1789 Judiciary act
 
 ##### Supreme Court Interpretations of the Constiution may not be overruled by an Act of Congress
 
-Supreme Court is the final word on Constiutional interpretation
+### Supreme Court is the final word on Constiutional interpretation
 
-<b>Case: <i>[Dickerson v. United States](https://www.lexisnexis.com/lawschool/resources/p/casebrief-dickerson-v-united-states.aspx)</i></b>
+#### Case:*[Dickerson v. United States](https://www.lexisnexis.com/lawschool/resources/p/casebrief-dickerson-v-united-states.aspx)*
 
 <details><summary><i>Case Brief</i></summary>
 <ul>
@@ -461,18 +184,16 @@ Supreme Court is the final word on Constiutional interpretation
 </details>
 
 ##### Supreme Court over the Executive Branch
-
-Judiciary set its own limits on the executive branch. Only has jurisdiction over executive agents in certain situations.
-Big bark but no bite? Presidents will obey orders of court but generally talk a big game.
-
+- Judiciary set its own limits on the executive branch. Only has jurisdiction over executive agents in certain situations.
+  - Big bark but no bite? Presidents will obey orders of court but generally talk a big game.
 - Jefferson: *"Co-ordinate branches should be checks on each other, but for the Legislative & Executive in their spheres would make the judiciary a despotic branch"*
 - Jackson: *"The opinion of the judges has no more authority over Congress than the opinion of Congress has over the judges, and on that point the President is independent of both."*
 - Lincoln
 - Roosevelt
 
-#### 1.4.4 Political Restraints on the Supreme Court
+#### Political Restraints on the Supreme Court
 
-##### 1. Judicial Selection: The Nomination and Confirmation Process
+##### Judicial Selection: The Nomination and Confirmation Process
 <details>
 
 <ul>
@@ -483,7 +204,7 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
 
 </details>
 
-##### 2. Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
+##### Impeachment: Justices appointed to the court *"to hold their Offices during good Behaviour"* (Article 3)
 
 <details>
 <ul>
@@ -493,15 +214,15 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
 </ul>
 </details>
 
-##### 3. Structural Interference: Congress sets the size of and budge for the Court.
+##### Structural Interference: Congress sets the size of and budge for the Court.
   - Executive Court Packing
   - Justice salaries cannot be diminished during their Continuance in Office (Article 3)
   - Potential source of political checking power
 
-##### 4. Jurisdiction-Stripping
+##### Jurisdiction-Stripping
   - Congress has the power to make "exceptions" to the Supreme Court's appellate jurisdiction. (Article 3)
 
-##### 5. Constitutional Amendment
+##### Constitutional Amendment
   - Article 5 permits amendment of almost every provision (Article 5)
   - 2 Methods for initiating the amendment process:
     1. Congress, by a ***2/3rds*** vote may propose amendments for ratification by ***3/4ths*** of the states
@@ -509,8 +230,8 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
     - Amendments to overturn specific Supreme Court rulings have been ratified only 4 times since founding.
       - **(11th, 14th, 16th, 26th)**
 
-#### 1.4.5 Political Questions & The Political Thicket (Limits)
-*"Questions, in their nature political, or which are, by the Constitution and laws, submitted to the executive can never be made in this court"* - Marshall
+#### Political Questions & The Political Thicket (Limits)
+- *"Questions, in their nature political, or which are, by the Constitution and laws, submitted to the executive can never be made in this court"* - Marshall
 
 ##### Limits on Court:
   - "A case or controvery ***(must)*** arises under the Constituion"
@@ -522,17 +243,17 @@ Big bark but no bite? Presidents will obey orders of court but generally talk a 
 
 #### Political Question Doctrine:
 
-***The Supreme Court does not resolve political questions.***
-Those questions are resolved through the political process.
-1. That some matters are committed to the unreviewable discretion of the political branches, AND
-  - Constitutional interpretation
-2. That some otherwise legal questions ought to be left to the other branches as a matter of prudence.
-  - Judicial Discretion
+- ***The Supreme Court does not resolve political questions.***
+  - Those questions are resolved through the political process.
+    - That some matters are committed to the unreviewable discretion of the political branches, AND
+      - Constitutional interpretation
+    - That some otherwise legal questions ought to be left to the other branches as a matter of prudence.
+      - Judicial Discretion
 
 
 
 
-<b>Case: <i>[Baker v. Carr](Link)</i></b>
+#### Case: *[Baker v. Carr](Link)*
 
 <details><summary><i>Case Brief</i></summary>
 
@@ -559,7 +280,7 @@ Those questions are resolved through the political process.
 
 
 ##### Distinguishing Legal From Political Questions
-Questions that are to be answered by political process not the judicial process.
+- Questions that are to be answered by political process not the judicial process.
 
 1. Congressional Qualifications
 <details>
@@ -597,9 +318,9 @@ Questions that are to be answered by political process not the judicial process.
 
 ---
 
-## 2.0 National Powers & Local Activities
+## National Powers & Local Activities
 
-### 2.1 Federalism: History & Principles
+### Federalism: History & Principles
 - Federalism: Division of power between national and state/local government.
   - Federal government vs. states,
     - limits on federal power.
@@ -615,7 +336,7 @@ and, later, opposed the 1787 constitution.
     - Horizontal/Vertical Separation of Powers
 
 
-#### 2.1.1 Articles of the Confederation & Amendments
+### Articles of the Confederation & Amendments
 - Article 9: Details out powers of the Federal Government
   - War/Peace
   - Tariffs
@@ -630,7 +351,7 @@ and, later, opposed the 1787 constitution.
 - Articles deemed too weak but must not be made too strong
   - Specific and enumerated powers not general powers of federal government
 
-#### 2.1.2 Sovereignty in the Federal System
+### Sovereignty in the Federal System
 
 #### Case: *[McCulloch v. Maryland](Link)*
 
@@ -692,7 +413,7 @@ and, later, opposed the 1787 constitution.
  - **Proper**
    - Within the power of the government and not to assume a great and substantial power
 
-#### Reserved Powers States v. Federal Government
+### Reserved Powers States v. Federal Government
 #### Case: *[U.S Term Limits, Inc. v. Thornton](Link)*
 
 <details><summary><i>Case Brief</i></summary>
@@ -727,13 +448,13 @@ and, later, opposed the 1787 constitution.
 - Rights enumerated to the Federal Government
 - States rights reserved to them v. intent of the Constituion to the federal government.
 
-#### Tenth Amendment
+### Tenth Amendment
 - Should be read in conjunction with the Ninth Amendment (Enumeration of rights in the Constitution or lack thereof doesnt disparage those rights of the people)
 - US Federal Government has enumerated rights outlined by the Constitution.
   - All other rights are reserved to the states.
   - Justice Thomas Default Position in *US Term Limits*
 
-#### Necessary & Proper Clause
+### Necessary & Proper Clause
 - “The Congress shall have Power . . . To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers.”
   - Jefferson: *The House that Jack Built*
     - Loose interpretation = power to do anything
@@ -816,7 +537,7 @@ and, later, opposed the 1787 constitution.
 
 
 ---
-## 3.0 The Commerce Power and Its Federalism Based Limits
+## The Commerce Power and Its Federalism Based Limits
 - Article 1 § 8 granted Congress the power to:
   - Taxes
   - Borrow Money
@@ -830,7 +551,7 @@ and, later, opposed the 1787 constitution.
 2. One counterargument is that this is not a true prisoner’s dilemma because states may not agree that child labor laws are best for their citizens.
 3. The federal government can provide the necessary centralized coordination to solve this dilemma.
 
-### 3.1 Commerce Power Before the New Deal
+### Commerce Power Before the New Deal
 - Marshall gave an expansive interpretation to the Commerce Clause in early 19th century.
   - NY legislature granted Livingston and Fulton, exclusive right to operate steamboats in NY waters.
 
@@ -895,7 +616,7 @@ and, later, opposed the 1787 constitution.
 
 
 
-#### Limits on the Police Power of the Commerce Clause
+### Limits on the Police Power of the Commerce Clause
 
 #### Case: *[Hammer v. Dagenhart](Link)*
 - The power to prohibit commerce depends on the harmful nature of the prohibited trade. Lotteries, for instance, are a “widespread pestilence” and therefore fall within Congress’s regulatory authority. Champion. But child labor does not. Moreover, Congress does not have the authority to prevent unfair competition between states.
@@ -1096,7 +817,7 @@ and, later, opposed the 1787 constitution.
 - <span style="color:red">**Class Discussion**</span>
 
 
-#### Commerce Clause & Criminal Law
+### Commerce Clause & Criminal Law
 
 #### Case: *[Perez v. United States](Link)*
 
