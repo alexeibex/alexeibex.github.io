@@ -1,19 +1,76 @@
 # Constitutional Attack Outline
+
 <span style="color:red">**The Attack Outline**</span>
-### Contents
-1. Legislative Authority to Act
-2. Commerce Clause via Necessary & Proper Attack
-3. Dormant Commerce Clause
+
+## Contents
+
+<!-- TOC -->
+
+- [Constitutional Attack Outline](#constitutional-attack-outline)
+  - [Contents](#contents)
+    - [Themes](#themes)
+  - [1. Legislative Powers to Act](#1-legislative-powers-to-act)
+    - [Legislative Subject Matter Authority under the United States Constitution](#legislative-subject-matter-authority-under-the-united-states-constitution)
+      - [Legislative Sources of Power](#legislative-sources-of-power)
+      - [Presidential Sources of Power](#presidential-sources-of-power)
+  - [2. Commerce Clause Attack](#2-commerce-clause-attack)
+    - [Necessary and Proper](#necessary-and-proper)
+      - [Test of Necessary & Proper](#test-of-necessary--proper)
+        - [Is it Proper?](#is-it-proper)
+        - [Is it Necessary?](#is-it-necessary)
+    - [**Commerce Power** via Necessary & Proper](#commerce-power-via-necessary--proper)
+      - [Types of Activity Covered as Commerce](#types-of-activity-covered-as-commerce)
+        - [Instrumentalities of Commerce](#instrumentalities-of-commerce)
+        - [Substantial Effects to Commerce](#substantial-effects-to-commerce)
+      - [10th Amendment Zone & Dual Sovereignty](#10th-amendment-zone--dual-sovereignty)
+      - [Anti Comandeering via Taxing and Spending](#anti-comandeering-via-taxing-and-spending)
+  - [3. Fundamental Rights](#3-fundamental-rights)
+    - [Assertion of a New Fundamental Right](#assertion-of-a-new-fundamental-right)
+      - [Traditional Analysis](#traditional-analysis)
+      - [Obergefell Method](#obergefell-method)
+    - [Fundamental Rights as a Matter of Law](#fundamental-rights-as-a-matter-of-law)
+      - [General Rights](#general-rights)
+        - [General Freedoms](#general-freedoms)
+        - [Right to Self-Defense](#right-to-self-defense)
+        - [Bodily Integrity](#bodily-integrity)
+        - [Freedom to Contract](#freedom-to-contract)
+      - [Family Rights](#family-rights)
+        - [Right to Marriage (Hetrosexual)](#right-to-marriage-hetrosexual)
+        - [Right to Marriage (Homosexual)](#right-to-marriage-homosexual)
+        - [Right to Legitimate Offspring](#right-to-legitimate-offspring)
+        - [Right to Parents to Control Upbringing](#right-to-parents-to-control-upbringing)
+        - [Right to Select a Family Surrogate](#right-to-select-a-family-surrogate)
+      - [Sexual Autonomy Rights](#sexual-autonomy-rights)
+        - [Right to Privacy](#right-to-privacy)
+        - [Right to Procreation](#right-to-procreation)
+        - [Right to Contraceptives](#right-to-contraceptives)
+        - [Right to Full Sexual Autonomy](#right-to-full-sexual-autonomy)
+      - [Medical Autonomy Rights](#medical-autonomy-rights)
+        - [Right to Privacy](#right-to-privacy-1)
+        - [Right to Refuse Treatment](#right-to-refuse-treatment)
+        - [Right to Determine Specific Treatment](#right-to-determine-specific-treatment)
+        - [Right to Die with Dignity](#right-to-die-with-dignity)
+        - [Right to Select Family Surrogate](#right-to-select-family-surrogate)
+        - [Bodily Integrity](#bodily-integrity-1)
+  - [4. Dormant Commerce Clause & Privileges and Immunities](#4-dormant-commerce-clause--privileges-and-immunities)
+    - [Dormant Commerce Clause](#dormant-commerce-clause)
+      - [Discrimnatory Purpose or Effect](#discrimnatory-purpose-or-effect)
+      - [Facially Discriminatory (Strict Scruitiny)](#facially-discriminatory-strict-scruitiny)
+      - [Discrinatory Purpose or Effect (Strict Scruitiny)](#discrinatory-purpose-or-effect-strict-scruitiny)
+      - [Application of Proper Test](#application-of-proper-test)
+      - [Exceptions to Dormant Commerce Clause](#exceptions-to-dormant-commerce-clause)
+    - [Privileges and Immunities](#privileges-and-immunities)
+      - [Articulation of Fundamental Rights & Out of Staters](#articulation-of-fundamental-rights--out-of-staters)
+      - [Application of Scrutiny](#application-of-scrutiny)
+
+<!-- /TOC -->
 
 
-
-Themes
+## Themes
 - Establishg the scope of Congressional Authority & relationship between state and federal government
 - What is Congress's authority under specific constitutional provisions
 - Are there any limits on federal power through state soveriengty and the 10th Amendment
 - What limits if any exist on Congressional power to delegate legislative power?
-
-
 
 
 ## 1. Legislative Powers to Act

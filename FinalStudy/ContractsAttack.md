@@ -198,7 +198,7 @@ ____
         - Counteroffer if new terms are **expressly conditioned** to the assent of additional terms
         - Acceptance if additional terms added **without** conditional acceptance to new terms
       - (2) If acceptance with additional/different terms, **which terms control**
-        - Acceptance under (1) additional terms apply & both merchants
+        - Acceptance under (1) additional terms apply & **both merchants**
           - Exceptions to apply Gap Fillers
             - If both offer expressly limits acceptance to terms of original offer
             - New additional terms added **materially** alter deal
