@@ -102,11 +102,29 @@
 - Loss of All Economically Beneficial or Productive Use
   - Eliminates all economic use of the land
     - Must be **100%** economic loss in value
-      - Denominator Question - See *[Murr]
+      - Denominator Question
+        - See *[Murr]
   - Not the equivilant of eliminating a public nuisance
     - Government can abate a nuisance, even if it creates that nuisance
 - If not per se taking could still be ad hoc taking
 
 
 ##### Ad Hoc Takings
--
+- Penn Central v. City of New York
+- Railroad business not doing great in 1970s, need money
+ - Automobiles and airplanes taking over
+- Penn central owns grand central terminal. They want a tall story high-rise on top of the terminal
+- Transferrable development rights  - Difference between what zoning will allow you to do and Landmark preservation law. Landmarks preservation law places restrictions. Zoning allows you to build building 65 stories tall, but landmarks law allows you only 2 stories. SO 63 stories. TDR allows you to transfer that 63 stories. SO, you can then sell that. Transferable rights – its valuable
+- Is this a taking?
+ - Court says no, not a taking
+- Multifactor analysis: factual inquiries
+  1.Extent of the diminution in value caused by regulation
+  2.Did the regulation interfere with distinct investment back expectations
+    a.Did they really expect to be able to do what the regulation was prohibiting
+  3.What was the character of the government’s action
+    a.Was there a physical invasion
+    b.Did it adjust the burdens to promote the common good
+
+- Dissent – Rehnquist – should have used Penn coal factors – and it would’ve been a taking
+
+- Consitution requires Fair market value compensation – TDR’s dont do that

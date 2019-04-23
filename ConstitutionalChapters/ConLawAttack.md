@@ -72,6 +72,48 @@
 - Are there any limits on federal power through state soveriengty and the 10th Amendment
 - What limits if any exist on Congressional power to delegate legislative power?
 
+## Attack Flow
+### Legislative Authority over the Subject Matter to Pass the Law?
+- If Federal Congress:
+  - Powers:
+    - Commerce Power
+    - Taxing & Spending Power
+    - 14th Amendment Enforcement
+- If State Congress
+  - Powers:
+    - Police Power (All legitimate state interests)
+
+### Can President Exercise the Power Absent Approval?
+- If no recent act of a legsilature OR in Defiance of Legislature
+  - Powers:
+    - War Powers
+    - Appointment/Removal
+    - Foreign Policy
+
+### Does the law go beyond the scope of permissible action in achieving its goal?
+- If Federal Congress
+  - Limits:
+    - Cannot force state government to act
+      - Source: 10th Amendment Anti Comondeering
+    - Cannot overly burden state with threats of conditional funding
+      - Source: Taxing & Spending/Anti-Comondeering
+    - Cannot unjustly deprive all people of a liberty
+      - Source: 5th Amendment
+      - Source: 14th Amendment Due Process Clause (Substantive Due Process)
+    - Cannot unjustly deprive specific groups of people of liberty
+      - Source: 14th Amendment Equal Protection clause (Substantive Due Process)
+    - Cannot unjustly treat a certain class of people different under the color of the law
+      - Source: 14th Amendment Equal Protection Clause (Equal Protection)
+- If State Congress
+  - Limits:
+    - Cannot treat out of staters differently
+      - Source: Dormant Commerce Clause
+      - Source: Priviliges & Immunities Clause
+    - Cannot legislate where Federal Congress exercsies supremecy
+      - Source: Supremecy Clause
+
+### Judicial Oversight of Act by Congress & Executive Branch
+
 
 ## 1. Legislative Powers to Act
 - Pervasive Concerns & Themes Throughout Analysis
@@ -376,3 +418,5 @@
   - Discrimination against nonresidents bears a substantial relationship to the objective
   - Analyzing the fit the court must consider less restrictive means but not the least restrictive
     - Case: [Piper](https://alexeibex.github.io/constitutionallaw#case-supreme-court-of-new-hampshire-v-piper)
+
+####

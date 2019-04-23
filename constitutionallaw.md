@@ -1,9 +1,6 @@
 # Constitutional Law
 
 
-
-
-
 ## Chapters
 1. [The History](https://alexeibex.github.io/ConstitutionalChapters/History)
 2. [Judicial Power](https://alexeibex.github.io/ConstitutionalChapters/JudicialReview)
