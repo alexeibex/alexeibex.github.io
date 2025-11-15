@@ -1,0 +1,56 @@
+---
+layout: default
+title: Home
+---
+
+<section id="identity">
+    <p>
+        <span style="color: #666;">> SYSTEM_USER:</span> <strong>AlexeiBex</strong><br>
+        <span style="color: #666;">> ROLE:</span> <strong>Tech-Focused Legal Counsel</strong><br>
+        <span style="color: #666;">> STATUS:</span> <span style="color: #00ff41;" class="blink">ONLINE</span>
+    </p>
+    <p class="intro">
+        Operating at the intersection of <strong>Cyber Rights</strong>, <strong>IP Law</strong>, and <strong>Future Tech</strong>. 
+        This repository serves as a digital vault for my legal arguments, academic papers, and raw data logs.
+    </p>
+</section>
+
+<section id="papers">
+    <h2>// LEGAL_WRITING_MODULES</h2>
+    <p>Polished arguments and published works.</p>
+    <div class="grid">
+        {% for file in site.static_files %}
+            {% if file.path contains 'papers/' %}
+            <div class="card">
+                <span class="label">DOC_TYPE: PAPER</span>
+                <a href="{{ file.path }}" class="title">{{ file.name }}</a>
+            </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+<section id="notes">
+    <h2>// RAW_DATA_LOGS (NOTES)</h2>
+    <p>Unfiltered output from legal training and research.</p>
+    <div class="grid">
+        {% for file in site.static_files %}
+            {% if file.path contains 'notes/' %}
+                {% unless file.path contains '.DS_Store' %}
+                <div class="card">
+                    <span class="label">DIR: /NOTES/</span>
+                    <a href="{{ file.path }}" class="title">{{ file.name }}</a>
+                </div>
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+<section id="contact">
+    <h2>// ESTABLISH_UPLINK</h2>
+    <p>
+        > <a href="https://github.com/alexeibex">GITHUB_PROFILE</a><br>
+        > <a href="mailto:your.email@example.com">ENCRYPTED_MAIL_RELAY</a>
+    </p>
+</section>
