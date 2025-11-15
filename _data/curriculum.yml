@@ -1,0 +1,75 @@
+1L_Core_Kernel:
+  Civil_Procedure:
+  - Jurisdiction
+  - Erie Doctrine
+  - Pleadings
+  - Joinder
+  - Discovery
+  - Preclusion
+  Constitutional_Law:
+  - Judicial Review
+  - Separation of Powers
+  - Federalism
+  - Individual Rights
+  - Due Process
+  Contracts:
+  - Offer & Acceptance
+  - Consideration
+  - Defenses to Formation
+  - Performance & Breach
+  - Remedies
+  Criminal_Law:
+  - Actus Reus/Mens Rea
+  - Homicide
+  - Inchoate Crimes
+  - Defenses
+  - Theft Offenses
+  Property_Law:
+  - Adverse Possession
+  - Estates in Land
+  - Landlord/Tenant
+  - Easements
+  - Takings
+  Torts:
+  - Intentional Torts
+  - Negligence
+  - Strict Liability
+  - Products Liability
+  - Defamation
+Advanced_Protocols:
+  Administrative_Law:
+  - Agency Power
+  - Rulemaking
+  - Adjudication
+  - Judicial Review (Chevron)
+  Corporations:
+  - Formation
+  - Fiduciary Duties
+  - Shareholder Rights
+  - M&A
+  - Securities Basics
+  Criminal_Procedure:
+  - 4th Amendment (Search/Seizure)
+  - 5th Amendment (Miranda)
+  - 6th Amendment (Counsel)
+  Evidence:
+  - Relevance
+  - Hearsay
+  - Character Evidence
+  - Impeachment
+  - Expert Testimony
+  Intellectual_Property:
+  - Copyright
+  - Trademarks
+  - Patents
+  - Trade Secrets
+  Professional_Responsibility:
+  - Client Confidentiality
+  - Conflicts of Interest
+  - Duties to the Court
+Future_Vision:
+  Future_Law_Tech:
+  - Artificial Intelligence Policy
+  - Blockchain & Smart Contracts
+  - Cyber Rights
+  - Algorithmic Bias

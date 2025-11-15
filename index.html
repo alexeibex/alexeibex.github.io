@@ -7,50 +7,52 @@ title: Home
     <p>
         <span style="color: #666;">> SYSTEM_USER:</span> <strong>AlexeiBex</strong><br>
         <span style="color: #666;">> ROLE:</span> <strong>Tech-Focused Legal Counsel</strong><br>
-        <span style="color: #666;">> STATUS:</span> <span style="color: #00ff41;" class="blink">ONLINE</span>
-    </p>
-    <p class="intro">
-        Operating at the intersection of <strong>Cyber Rights</strong>, <strong>IP Law</strong>, and <strong>Future Tech</strong>. 
-        This repository serves as a digital vault for my legal arguments, academic papers, and raw data logs.
+        <span style="color: #666;">> MISSION:</span> <strong>Decoding the Future of Law</strong>
     </p>
 </section>
 
-<section id="papers">
-    <h2>// LEGAL_WRITING_MODULES</h2>
-    <p>Polished arguments and published works.</p>
+<section id="future-tech">
+    <h2>// SECTOR_01: FUTURE_OF_LAW_&_TECH</h2>
+    <p>Research protocols on AI, Blockchain, and Cyber Rights.</p>
     <div class="grid">
         {% for file in site.static_files %}
-            {% if file.path contains 'papers/' %}
-            <div class="card">
-                <span class="label">DOC_TYPE: PAPER</span>
-                <a href="{{ file.path }}" class="title">{{ file.name }}</a>
+            {% if file.path contains 'papers/Future_Law_Tech' %}
+             <div class="card" style="border-color: #ff00ff;">
+                <span class="label" style="color: #ff00ff;">PRIORITY_DOC</span>
+                <a href="{{ file.path }}" class="title">{{ file.name | replace: '.md', '' | replace: '_', ' ' }}</a>
             </div>
             {% endif %}
         {% endfor %}
     </div>
 </section>
 
-<section id="notes">
-    <h2>// RAW_DATA_LOGS (NOTES)</h2>
-    <p>Unfiltered output from legal training and research.</p>
+<section id="core-kernel">
+    <h2>// SECTOR_02: CORE_KERNEL (JD_FOUNDATIONS)</h2>
+    <p>The fundamental operating system of American Jurisprudence.</p>
     <div class="grid">
-        {% for file in site.static_files %}
-            {% if file.path contains 'notes/' %}
-                {% unless file.path contains '.DS_Store' %}
-                <div class="card">
-                    <span class="label">DIR: /NOTES/</span>
-                    <a href="{{ file.path }}" class="title">{{ file.name }}</a>
-                </div>
-                {% endunless %}
-            {% endif %}
+        {% for item in site.data.curriculum.1L_Core_Kernel %}
+        <div class="card">
+            <span class="label">MODULE: CORE</span>
+            <a href="/notes/{{ item[0] }}/" class="title">{{ item[0] | replace: '_', ' ' }}</a>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+<section id="advanced-protocols">
+    <h2>// SECTOR_03: ADVANCED_PROTOCOLS</h2>
+    <p>Specialized modules and regulatory frameworks.</p>
+    <div class="grid">
+        {% for item in site.data.curriculum.Advanced_Protocols %}
+        <div class="card">
+            <span class="label">MODULE: ADVANCED</span>
+            <a href="/notes/{{ item[0] }}/" class="title">{{ item[0] | replace: '_', ' ' }}</a>
+        </div>
         {% endfor %}
     </div>
 </section>
 
 <section id="contact">
     <h2>// ESTABLISH_UPLINK</h2>
-    <p>
-        > <a href="https://github.com/alexeibex">GITHUB_PROFILE</a><br>
-        > <a href="mailto:your.email@example.com">ENCRYPTED_MAIL_RELAY</a>
-    </p>
+    <p>> <a href="https://github.com/alexeibex">GITHUB_REPO</a></p>
 </section>
