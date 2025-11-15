@@ -14,7 +14,7 @@ title: Home
         <p style="margin-top: 0; color: #00f3ff; font-family: 'Rajdhani', sans-serif; font-size: 1.2rem; letter-spacing: 1px;">
             J.D. GRADUATE // LEGAL TECHNOLOGIST // CYBER_COUNSEL
         </p>
-    </div>
+    </div>git push
 
     <p class="intro">
         <strong>> STATUS:</strong> <span style="color: #ff00ff;">BAR_ADMISSION_PENDING (Or J.D. CONFERRED)</span><br>
