@@ -1,4 +1,9 @@
----
+import os
+
+# --- THE NEW HOMEPAGE CONTENT ---
+# Updated with "J.D. Graduate" status and LinkedIn integration.
+
+INDEX_HTML = """---
 layout: default
 title: Home
 ---
@@ -87,3 +92,19 @@ title: Home
         > <a href="https://www.linkedin.com/in/alexei-furs-35587773/">LINKEDIN_RELAY</a>
     </p>
 </section>
+"""
+
+def main():
+    print("--- INITIATING IDENTITY UPGRADE ---")
+    
+    # Overwrite the index.html with the new professional data
+    with open('index.html', 'w') as f:
+        f.write(INDEX_HTML)
+        
+    print(" > Identity Module Updated: J.D. Status Confirmed.")
+    print(" > LinkedIn Uplink Established.")
+    print(" > MIT Publication Added to Portfolio.")
+    print("--- UPGRADE COMPLETE. COMMIT TO DEPLOY. ---")
+
+if __name__ == "__main__":
+    main()
