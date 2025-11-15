@@ -1,5 +1,5 @@
 title: "AlexeiBex | Cyber_Counsel"
-description: "Tech-Focused Legal Portfolio. Organizing the chaos of code and law."
-theme: jekyll-theme-prime
+description: "Tech-Focused Legal Portfolio."
+# We do NOT specify a theme here. We are the theme.
 plugins:
   - jekyll-seo-tag
