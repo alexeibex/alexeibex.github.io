@@ -14,19 +14,13 @@ layout: null
 
     <div id="terminal-content"></div>
 
-    <div class="cursor-line" style="display:none;">
-        <span style="color: #00f3ff;">alexei@legal-system:~$</span>
-        <span class="cursor-block"></span>
-    </div>
-
     <div id="main-gui">
         
         <div class="output-block">
             <p>> CURRENT_STATUS: <span style="color: #ff00ff;">ONLINE</span></p>
             <p>
                 I am a <strong>Senior Privacy Engineer</strong> at <strong>Google DeepMind</strong> and an <strong>Admitted Attorney (NYS)</strong>.<br>
-                My work ensures that AI Agents and Large Language Models adhere to privacy laws and ethical standards.<br>
-                Previously: Google (Search/Assistant), Twitter, BetterCloud.
+                My work ensures that AI Agents and Large Language Models adhere to privacy laws and ethical standards.
             </p>
             <p>
                 > <a href="/assets/Alexei_Furs_Resume.pdf" target="_blank">[ DOWNLOAD_RESUME.PDF ]</a><br>
@@ -34,7 +28,7 @@ layout: null
             </p>
         </div>
 
-        <h2>// DIR: /RESEARCH_PAPERS/</h2>
+        <h2 id="research-papers">// DIR: /RESEARCH_PAPERS/</h2>
         <div class="grid">
             <div class="file-card">
                 <span class="label">r--r--r-- MIT_CLR.pdf</span>
@@ -50,7 +44,7 @@ layout: null
             {% endfor %}
         </div>
 
-        <h2>// DIR: /LEGAL_ARCHIVE/ (NOTES)</h2>
+        <h2 id="legal-archive">// DIR: /LEGAL_ARCHIVE/ (NOTES)</h2>
         <div class="grid">
             {% if site.data.curriculum.1L_Core_Kernel %}
                 {% for item in site.data.curriculum.1L_Core_Kernel %}
@@ -71,10 +65,14 @@ layout: null
             {% endif %}
         </div>
 
-        <footer>
-            <br>
-            <p style="color: #444;">> SYSTEM_IDLE. WAITING FOR INPUT...</p>
-        </footer>
+        <br>
+        <div id="history"></div>
+        <div id="input-line">
+            <span class="prompt">user@legal-os:~$</span>
+            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false">
+        </div>
+        <br><br>
+
     </div>
 
 </body>
