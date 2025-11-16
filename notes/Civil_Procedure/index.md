@@ -21,3 +21,5 @@ The following sub-routines are covered in this archive:
 
 ---
 *End of Log. Return to [Main Console](/)*
+
+### [>> ACCESS ATTACK OUTLINE <<](Attack_Outline.md)
