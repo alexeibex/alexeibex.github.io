@@ -248,6 +248,13 @@ layout: null
 
     <div id="main-gui">
         
+        <div id="history"></div>
+        <div id="input-line">
+            <span class="prompt">user@legal-os:~$</span>
+            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false">
+        </div>
+        <br>
+
         <div class="output-block">
             <p>> CURRENT_STATUS: <span style="color: #ff00ff;">ONLINE</span></p>
             <p>
@@ -297,14 +304,6 @@ layout: null
             {% endif %}
         </div>
 
-        <br>
-        <div id="history"></div>
-        <div id="input-line">
-            <span class="prompt">user@legal-os:~$</span>
-            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false">
-        </div>
-        <br><br>
-
     </div>
 
 </body>
@@ -336,4 +335,4 @@ def main():
     print("--- UPGRADE COMPLETE. RUN GIT COMMANDS TO DEPLOY. ---")
 
 if __name__ == "__main__":
-    main(
+    main()
