@@ -15,11 +15,13 @@ title: Criminal Law Attack Outline
 ## I. MENS REA (THE GUILTY MIND)
 * **Specific Intent:** D wanted the specific result. (Theft, First Degree Murder).
 * **Malice:** Reckless disregard of high risk. (Arson, Common Law Murder).
+* **Strict Liability:** No intent required. (Statutory Rape).
 
-## II. FOURTH AMENDMENT
-**Did the police need a warrant?**
-1.  **Gov't Conduct?**
-2.  **Reasonable Expectation of Privacy (REP)?**
-    * **Yes:** Home, Phone Booth ([*Katz*](https://supreme.justia.com/cases/federal/us/389/347/)).
-    * **No:** Open Fields, Garbage.
-3.  **Exceptions (ESCAPIST):** Exigent Circumstances, Search Incident to Arrest, Consent, Automobile, Plain View, Inventory, Stop & Frisk ([*Terry v. Ohio*](https://supreme.justia.com/cases/federal/us/392/1/)).
+## II. HOMICIDE
+* **Common Law Murder:** Unlawful killing + Malice Aforethought.
+* **Felony Murder:** Killing during BARRK felony (Burglary, Arson, Rape, Robbery, Kidnapping).
+* **Voluntary Manslaughter:** Heat of Passion + Provocation.
+
+## III. INCHOATE OFFENSES
+* **Conspiracy:** Agreement + Overt Act. (Pinkerton Liability applies).
+* **Attempt:** Substantial Step + Specific Intent.
