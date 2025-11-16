@@ -6,7 +6,7 @@ layout: null
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>alexei@legal-os:~</title>
+    <title>alexei@gatekeeper:~</title>
     <link rel="stylesheet" href="/assets/css/style.css">
     <script src="/assets/js/terminal.js"></script>
 </head>
@@ -14,15 +14,15 @@ layout: null
 
     <div id="terminal-content"></div>
 
+    <div id="history" style="margin-top: 20px; margin-bottom: 20px;"></div>
+
+    <div id="input-line">
+        <span class="prompt">user@legal-os:~$</span>
+        <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" placeholder="">
+    </div>
+
     <div id="main-gui">
         
-        <div id="input-line">
-            <span class="prompt">user@legal-os:~$</span>
-            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" placeholder="Ask me anything (e.g. 'What is 1+1?', 'Who is the president?')">
-        </div>
-        
-        <div id="history" style="margin-top: 20px; margin-bottom: 40px;"></div>
-
         <div class="output-block">
             <p>> CURRENT_STATUS: <span style="color: #ff00ff;">ONLINE</span></p>
             <p>

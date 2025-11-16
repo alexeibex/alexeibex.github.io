@@ -1,6 +1,6 @@
 ---
 ---
-/* TERMINAL AESTHETIC PROTOCOL v6.3 */
+/* TERMINAL AESTHETIC PROTOCOL v7.0 */
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
 
 $bg-color: #0a0a0a;
@@ -8,6 +8,7 @@ $text-main: #00ff41;
 $text-command: #00f3ff; 
 $text-system: #ff00ff; 
 $text-dim: #666;
+$text-danger: #ff2a2a;
 
 body {
     background-color: $bg-color;
@@ -42,6 +43,9 @@ h1, h2 {
 .system-msg { color: $text-dim; }
 .command { color: $text-command; font-weight: bold; }
 .success-msg { color: $text-main; }
+.error-msg { color: $text-danger; font-weight: bold; }
+.question-msg { color: $text-danger; border-left: 3px solid $text-danger; padding-left: 10px; margin-top: 20px; }
+
 .output { color: #ccc; margin-left: 20px; }
 .response-msg { color: #fff; margin-bottom: 20px; display: block; border-left: 3px solid $text-system; padding-left: 15px; }
 .command-echo { color: $text-command; margin-top: 15px; font-weight: bold; }
