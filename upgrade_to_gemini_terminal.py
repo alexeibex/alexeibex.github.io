@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // --- CONFIGURATION ---
     // REPLACE THIS WITH YOUR ACTUAL API KEY FROM GOOGLE AI STUDIO
-    const API_KEY = "AIzaSyCQz68Pa_FSesxzCxYJMjMgj7dnHHwijwcE"; 
+    const API_KEY = "AIzaSyAkWiLWRhGEFPJy7U4nh1PVYw69FUMbRh8"; 
     
     const SYSTEM_PROMPT = `You are Legal_OS v6.0, a cyberpunk portfolio assistant for Alexei Furs. 
     Alexei is a Senior Privacy Engineer at Google DeepMind and an Admitted Attorney (NYS). 
