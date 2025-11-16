@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Contracts Attack Outline
+title: Contracts Comprehensive Outline
 ---
-# // CONTRACTS: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // CONTRACTS: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,21 +12,59 @@ title: Contracts Attack Outline
 </div>
 
 
-## I. FORMATION
-### A. Offer
-* **Rule:** Manifestation of willingness to enter a bargain.
-* **Ads:** Generally invitations to deal, unless specific/limiting. ([*Lefkowitz*](https://law.justia.com/cases/minnesota/supreme-court/1957/36-988.html)).
-
-### B. Acceptance
-* **Mirror Image Rule (CL):** Must match offer exactly.
-* **UCC 2-207 (Battle of the Forms):** New terms may become part of the K between merchants.
-
-### C. Consideration
-* **Rule:** Bargained-for exchange. ([*Hamer v. Sidway*](https://casebriefs.com/blog/law/contracts/contracts-keyed-to-farnsworth/policing-the-bargain/hamer-v-sidway/)).
-* **Promissory Estoppel:** Reliance can substitute for consideration.
+## I. APPLICABLE LAW
+* **UCC Article 2:** Sale of Goods (movable, tangible).
+* **Common Law:** Services, Real Estate, Employment.
+* **Mixed Deals:** "Predominant Purpose Test" - what is the main reason for the K?
 
 ---
 
-## II. REMEDIES
-* **Expectation Damages:** Put P in position as if K was performed. ([*Hawkins v. McGee*](https://en.wikipedia.org/wiki/Hawkins_v._McGee)).
-* **Specific Performance:** Only for unique items (Land).
+## II. FORMATION (O + A + C)
+### A. Offer
+* Manifestation of willingness to enter a bargain.
+* **Ads:** Usually invitations to deal. Exception: "First 10 customers get X for $1" (Specific/leaving nothing to negotiation).
+* **Termination:** Revocation (before acceptance), Rejection, Counteroffer, Death, Lapse of Time.
+* **Irrevocable:**
+    1.  Option K (paid).
+    2.  UCC Firm Offer (Merchant + Signed Writing).
+    3.  Detrimental Reliance.
+
+### B. Acceptance
+* **Common Law:** Mirror Image Rule. Must match offer exactly.
+* **UCC 2-207 (Battle of Forms):**
+    * Acceptance with new terms is VALID.
+    * *Terms:* If both merchants, new terms enter unless material alteration or objection.
+
+### C. Consideration
+* Bargained-for exchange of legal value.
+* **Past Consideration:** Invalid.
+* **Pre-Existing Duty:** CL requires new consideration to modify. UCC allows modification in Good Faith (no new consideration).
+
+---
+
+## III. DEFENSES (Unenforceability)
+* **Statute of Frauds (MYLEGS):** Marriage, Year (>1), Land, Executor, Goods (>$500), Surety.
+    * *Exception:* Part performance, Specially manufactured goods.
+* **Duress:** Physical or Economic (improper threat + no reasonable alternative).
+* **Unconscionability:** Procedural (fine print) + Substantive (unfair terms).
+
+---
+
+## IV. PERFORMANCE & BREACH
+### A. Parol Evidence Rule
+* Final writing blocks prior oral terms.
+* *Merger Clause:* "This is the complete agreement."
+
+### B. Breach
+* **Common Law:**
+    * *Material Breach:* Excuses counter-performance. P can sue for total damages.
+    * *Substantial Performance:* Non-material breach. P gets K price minus cost of defect.
+* **UCC:** Perfect Tender Rule. If goods fail in ANY respect, buyer can reject all.
+
+---
+
+## V. REMEDIES
+* **Expectation Damages:** Put P in position as if K performed. (K Price - Market Price).
+* **Consequential Damages:** Foreseeable losses (lost profits) known to D at time of K. (*Hadley v. Baxendale*).
+* **Mitigation:** P has duty to minimize damages.
+* **Specific Performance:** Only for unique goods (Land, Art). Never services.

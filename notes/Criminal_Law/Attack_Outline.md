@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Criminal Law Attack Outline
+title: Criminal Law Comprehensive Outline
 ---
-# // CRIMINAL LAW: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // CRIMINAL LAW: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,16 +12,46 @@ title: Criminal Law Attack Outline
 </div>
 
 
-## I. MENS REA (THE GUILTY MIND)
-* **Specific Intent:** D wanted the specific result. (Theft, First Degree Murder).
-* **Malice:** Reckless disregard of high risk. (Arson, Common Law Murder).
-* **Strict Liability:** No intent required. (Statutory Rape).
+## I. THE ELEMENTS
+1.  **Actus Reus:** Voluntary Act (Bodily movement).
+    * *Omission:* Liability only if duty exists (Statute, Contract, Relationship, Creation of Peril).
+2.  **Mens Rea:** Guilty Mind.
+    * *Specific Intent:* Goal-oriented. (Solicitation, Conspiracy, Attempt, First Degree Murder, Assault, Larceny, Robbery, Burglary, Forgery).
+    * *General Intent:* Awareness of factors. (Battery, Rape, False Imprisonment).
+    * *Malice:* Reckless disregard. (Arson, Common Law Murder).
+    * *Strict Liability:* No mental state. (Statutory Rape, Public Welfare).
+3.  **Causation:**
+    * *Actual:* "But for".
+    * *Proximate:* Foreseeable result. (Superseding cause breaks chain).
+
+---
 
 ## II. HOMICIDE
-* **Common Law Murder:** Unlawful killing + Malice Aforethought.
-* **Felony Murder:** Killing during BARRK felony (Burglary, Arson, Rape, Robbery, Kidnapping).
-* **Voluntary Manslaughter:** Heat of Passion + Provocation.
+* **Common Law Murder:** Unlawful killing of human with Malice Aforethought.
+    1.  Intent to Kill.
+    2.  Intent to Inflict Serious Bodily Harm.
+    3.  Depraved Heart (Reckless indifference to human life).
+    4.  Felony Murder (Death during BARRK felony).
+* **First Degree (Statutory):** Premeditated + Deliberate.
+* **Voluntary Manslaughter:** Murder + "Heat of Passion" (Adequate provocation + No cooling off).
+* **Involuntary Manslaughter:** Criminal Negligence.
 
-## III. INCHOATE OFFENSES
-* **Conspiracy:** Agreement + Overt Act. (Pinkerton Liability applies).
-* **Attempt:** Substantial Step + Specific Intent.
+---
+
+## III. INCHOATE CRIMES
+* **Solicitation:** Asking another to commit crime. Merges into completed crime.
+* **Conspiracy:** Agreement + Intent + Overt Act.
+    * *Pinkerton:* Liable for ALL foreseeable crimes of co-conspirators.
+    * *No Merger:* Can be convicted of Conspiracy AND Crime.
+* **Attempt:** Specific Intent + Substantial Step (beyond mere prep).
+
+---
+
+## IV. DEFENSES
+* **Insanity:**
+    * *M'Naghten:* Didn't know wrongfulness OR didn't understand nature of act.
+    * *MPC:* Lacked capacity to appreciate criminality or conform conduct.
+* **Intoxication:**
+    * *Voluntary:* Defense to SPECIFIC INTENT only.
+    * *Involuntary:* Defense to ALL.
+* **Self-Defense:** Reasonable force to protect self. Deadly force only if threat of death/serious harm.

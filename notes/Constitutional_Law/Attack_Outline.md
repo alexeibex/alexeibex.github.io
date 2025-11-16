@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Con Law Attack Outline
+title: Constitutional Law Comprehensive Outline
 ---
-# // CON LAW: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // CON LAW: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,23 +12,79 @@ title: Con Law Attack Outline
 </div>
 
 
-## I. JUDICIAL REVIEW
-* **Marbury v. Madison:** It is emphatically the province of the judicial department to say what the law is. ([*Marbury*](https://supreme.justia.com/cases/federal/us/5/137/)).
-
-## II. FEDERALISM & POWERS
-### A. Commerce Clause
-* **Congress can regulate:** 1) Channels, 2) Instrumentalities, 3) Activities having substantial effect on interstate commerce. ([*US v. Lopez*](https://supreme.justia.com/cases/federal/us/514/549/)).
-
-### B. Commandeering
-* Congress cannot force states to enact federal programs. ([*New York v. US*](https://supreme.justia.com/cases/federal/us/505/144/)).
+## I. JUDICIAL POWER
+* **Marbury v. Madison:** Established Judicial Review. The Constitution is supreme; courts say what the law is.
+* **Justiciability (Article III Limits):**
+    1.  **Standing:**
+        * *Injury in Fact:* Concrete & Particularized (not ideological).
+        * *Causation:* Traceable to D.
+        * *Redressability:* Court ruling will fix it.
+    2.  **Ripeness:** Too early? (No pre-enforcement review unless hardship).
+    3.  **Mootness:** Too late? (Injury ended). Exception: "Capable of repetition yet evading review" (Roe v. Wade).
+    4.  **Political Question:** Textually committed to another branch (Impeachment, Foreign Policy recognition).
 
 ---
 
-## III. INDIVIDUAL RIGHTS
-### A. Equal Protection (14th Am)
-* **Strict Scrutiny (Race/Origin):** Gov must show compelling interest + narrowly tailored. ([*Brown v. Board*](https://supreme.justia.com/cases/federal/us/347/483/)).
-* **Intermediate Scrutiny (Gender):** Important interest + substantially related.
-* **Rational Basis:** Legitimate interest + rational relation.
+## II. LEGISLATIVE POWER (CONGRESS)
+* **Enumerated Powers Only:** Congress has NO general police power (except M.I.L.D. - Military, Indian lands, Lands (federal), DC).
+* **Commerce Clause:** Congress can regulate:
+    1.  **Channels:** Roads, rivers, internet.
+    2.  **Instrumentalities:** Trucks, planes, phones.
+    3.  **Substantial Effects:**
+        * *Economic Activity:* Aggregation applies (*Wickard v. Filburn* - growing own wheat affects market).
+        * *Non-Economic:* Cannot aggregate (*US v. Lopez* - gun in school zone is not commerce).
+* **Taxing & Spending:** Extremely broad. Can condition funds to states if: related to general welfare, unambiguous, not coercive (*Sebelius*).
+* **10th Amendment (Commandeering):** Congress cannot force states to pass laws or enforce federal programs. (*New York v. US*).
 
-### B. Fundamental Rights (Substantive Due Process)
-* Marriage, Privacy, Contraception. ([*Obergefell v. Hodges*](https://supreme.justia.com/cases/federal/us/576/14-556/)).
+---
+
+## III. EXECUTIVE POWER
+* **Domestic:**
+    * *Youngstown Sheet & Tube:*
+        * Zone 1 (Max): Acts with Congress approval.
+        * Zone 2 (Twilight): Congress silent.
+        * Zone 3 (Lowest): Acts against Congress (Unconstitutional unless exclusive power).
+* **Foreign:**
+    * Commander in Chief: Broad power, but Congress declares war.
+    * Treaties: Ratified by Senate (Supreme Law).
+    * Exec Agreements: No Senate needed (Trumps state law, loses to federal statute).
+
+---
+
+## IV. INDIVIDUAL RIGHTS (14th AMENDMENT)
+### A. State Action Doctrine
+* Constitution only applies to Government conduct.
+* **Exceptions:**
+    * *Public Function:* Private entity doing exclusive gov task (company town).
+    * *Entanglement:* Gov encourages/facilitates private discrimination.
+
+### B. Equal Protection (EP)
+**Step 1: What is the Classification?**
+**Step 2: Apply Scrutiny Level.**
+
+1.  **Strict Scrutiny:**
+    * *Classes:* Race, National Origin, Alienage (State laws).
+    * *Test:* Gov must show **Compelling Interest** + **Narrowly Tailored** (Necessary).
+    * *Burden:* On Government. (Usually fatal).
+2.  **Intermediate Scrutiny:**
+    * *Classes:* Gender, Illegitimacy.
+    * *Test:* Gov must show **Important Interest** + **Substantially Related**.
+    * *Burden:* On Government.
+3.  **Rational Basis:**
+    * *Classes:* Age, Wealth, Disability, Sexual Orientation (though arguably higher).
+    * *Test:* P must show law is **Not Rationally Related** to **Legitimate Interest**.
+    * *Burden:* On Plaintiff. (Gov usually wins).
+
+### C. Due Process (DP)
+1.  **Procedural DP:** Life, Liberty, Property taken? Need Notice + Hearing. (*Mathews v. Eldridge* balance).
+2.  **Substantive DP (Fundamental Rights):**
+    * *Strict Scrutiny applied to:* Vote, Travel, Privacy (CAMPER: Contraception, Abortion*, Marriage, Procreation, Education-ish, Relations).
+    * *Abortion:* *Dobbs* overruled *Roe*. Now Rational Basis test.
+
+### D. First Amendment (Speech)
+* **Content-Based:** Strict Scrutiny.
+* **Content-Neutral (Time/Place/Manner):** Intermediate Scrutiny (Narrowly tailored to significant interest + alternative channels).
+* **Unprotected Speech:**
+    * *Incitement:* Imminent lawless action + likely to produce. (*Brandenburg*).
+    * *Obscenity:* Prurient interest + offensive + no artistic value (*Miller*).
+    * *True Threats* / *Fighting Words*.

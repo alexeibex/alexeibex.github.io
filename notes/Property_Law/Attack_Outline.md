@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Property Law Attack Outline
+title: Property Law Comprehensive Outline
 ---
-# // PROPERTY: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // PROPERTY: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,34 +12,47 @@ title: Property Law Attack Outline
 </div>
 
 
-## I. POSSESSION & OWNERSHIP
-### A. First Possession
-* **Rule:** Pursuit alone is not enough; you must mortally wound or capture. ([*Pierson v. Post*](https://en.wikipedia.org/wiki/Pierson_v._Post)).
-
-### B. Adverse Possession (ECHO)
-**You can steal land if you are:**
-1.  **E**xclusive.
-2.  **C**ontinuous.
-3.  **H**ostile (Claim of Right).
-4.  **O**pen and Notorious.
+## I. ADVERSE POSSESSION (COAH)
+**Goal:** Turn trespasser into owner.
+1.  **Continuous:** Statutory period (e.g., 10 years).
+2.  **Open & Notorious:** Visible use.
+3.  **Actual & Exclusive:** Not sharing with owner.
+4.  **Hostile:** Without permission.
 
 ---
 
-## II. ESTATES IN LAND
-* **Fee Simple Absolute:** "To A and his heirs." (Total ownership).
-* **Life Estate:** "To A for life."
-* **Joint Tenancy:** Four Unities (Time, Title, Interest, Possession) + Right of Survivorship.
+## II. ESTATES & FUTURE INTERESTS
+* **Fee Simple Absolute:** "To A." (Forever).
+* **Life Estate:** "To A for life." (Reversion to Grantor).
+* **Rule Against Perpetuities (RAP):** "No interest is good unless it must vest, if at all, not later than 21 years after some life in being at creation."
+    * *Applies to:* Contingent remainders, Executory interests, Vested remainder subject to open.
 
 ---
 
 ## III. LANDLORD / TENANT
-* **Implied Warranty of Habitability:** Residential rentals must be fit for human habitation. Non-waivable.
-* **Covenant of Quiet Enjoyment:** L cannot constructively evict T (e.g., by failing to fix the heat).
+* **Types:** Term of Years (Fixed), Periodic (Month-to-month), At Will, Sufferance (Holdover).
+* **Tenant Duties:** Pay rent, avoid waste.
+* **Landlord Duties:**
+    * *Possession:* Deliver keys.
+    * *Implied Warranty of Habitability:* Basic human living standards (Heat, Water). Breach -> T can withhold rent.
+    * *Quiet Enjoyment:* No constructive eviction (unlivable conditions forcing T out).
 
 ---
 
-## IV. TAKINGS (5th AMENDMENT)
-**"Nor shall private property be taken for public use, without just compensation."**
-* **Per Se Taking:** Permanent physical occupation. ([*Loretto*](https://supreme.justia.com/cases/federal/us/458/419/)).
-* **Total Regulatory Taking:** Regulation leaves land with NO economic value. ([*Lucas v. South Carolina*](https://supreme.justia.com/cases/federal/us/505/1003/)).
-* **Penn Central Test:** For partial takings, balance: 1) Economic impact, 2) Investment-backed expectations, 3) Character of gov't action.
+## IV. EASEMENTS
+**Right to use land of another.**
+* **Creation (PING):**
+    * *Prescription:* Adverse use (like Adv Poss).
+    * *Implication:* Prior use implied from division.
+    * *Necessity:* Landlocked.
+    * *Grant:* Writing (>1 year).
+* **Termination (END CRAMP):** Estoppel, Necessity ends, Destruction, Condemnation, Release, Abandonment, Merger, Prescription.
+
+---
+
+## V. TAKINGS (5th Amendment)
+* **Rule:** Private property shall not be taken for public use without just compensation.
+* **Per Se Taking:** Physical occupation (*Loretto*).
+* **Regulatory Taking:**
+    * *Total:* Leaves NO economic value (*Lucas*).
+    * *Partial:* Penn Central Balancing (Economic impact vs. Expectation vs. Character).

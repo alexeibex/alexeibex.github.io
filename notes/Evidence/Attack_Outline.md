@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Evidence Attack Outline
+title: Evidence Comprehensive Outline
 ---
-# // EVIDENCE: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // EVIDENCE: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -13,28 +13,35 @@ title: Evidence Attack Outline
 
 
 ## I. RELEVANCE
-* **Rule 401:** Evidence is relevant if it has ANY tendency to make a fact more/less probable.
-* **Rule 403 (The Gatekeeper):** Relevant evidence may be excluded if probative value is **substantially outweighed** by prejudice/confusion.
+* **401:** Any tendency to make fact more/less probable.
+* **403:** Probative value substantially outweighed by prejudice, confusion, waste of time.
 
 ## II. CHARACTER EVIDENCE
-* **Rule:** You generally cannot argue "Once a thief, always a thief."
-* **Exceptions (MIMIC):** Motive, Intent, Mistake (Absence of), Identity, Common Plan.
+* **Civil:** Inadmissible to prove propensity. (Exceptions: Defamation, Custody).
+* **Criminal:**
+    * Pros cannot introduce bad character first.
+    * D can "open door" with good character -> Pros can rebut.
+* **MIMIC (Not Character):** Motive, Intent, Mistake, Identity, Common Plan.
 
 ## III. HEARSAY
-**"Out of court statement, offered for the truth of the matter asserted."**
+**Definition:** Out of court statement + Offered for truth.
 
-### A. Not Hearsay (Exclusions)
-* **Effect on Listener:** "I heard him say 'Fire'" (to show why I ran, not that there was a fire).
-* **Party Opponent Admission:** Anything the defendant said.
+### A. Exclusions (Not Hearsay)
+* Prior Statement of Witness (if subject to cross).
+* **Party Opponent Admission:** Anything D said is admissible against D.
 
 ### B. Exceptions (Declarant Unavailable)
-* Dying Declaration.
 * Former Testimony.
+* Dying Declaration (Homicide/Civil only).
+* Statement Against Interest.
 
 ### C. Exceptions (Availability Irrelevant)
-* **Excited Utterance:** "Oh my god, he shot him!"
-* **Present Sense Impression:** "The car is running the red light."
-* **Business Records.**
+* Present Sense Impression.
+* Excited Utterance.
+* State of Mind.
+* Business Records.
 
-## IV. CONFRONTATION CLAUSE
-* **Crawford:** In criminal cases, testimonial hearsay is barred unless D had prior opportunity to cross-examine. ([*Crawford v. Washington*](https://supreme.justia.com/cases/federal/us/541/36/)).
+## IV. IMPEACHMENT
+* Prior Inconsistent Statement.
+* Bias.
+* Prior Convictions (Crimen Falsi = Automatic; Felony = Balancing).

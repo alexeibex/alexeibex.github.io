@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Civil Procedure Attack Outline
+title: Civil Procedure Comprehensive Outline
 ---
-# // CIVIL PROCEDURE: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // CIVIL PROCEDURE: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -13,55 +13,100 @@ title: Civil Procedure Attack Outline
 
 
 ## I. PERSONAL JURISDICTION (PJ)
-**THE ISSUE:** Can this specific court exercise power over this specific defendant?
+**THE ISSUE:** Can *this* court (in this state) exercise power over *this* defendant?
 
-### A. The Two-Step Analysis
-1.  **Statutory Step:** Does the state's "Long Arm Statute" allow it?
-2.  **Constitutional Step (Due Process):** Does D have "such minimum contacts with the forum so that jurisdiction does not offend traditional notions of fair play and substantial justice"? ([*Int'l Shoe v. Washington*](https://supreme.justia.com/cases/federal/us/326/310/)).
+### A. The Framework
+1.  **Statutory Step:** Check the State Long-Arm Statute.
+    * *California Type:* "Courts may exercise jurisdiction on any basis not inconsistent with the Constitution." (Go to Step 2).
+    * *Enumerated Type:* List specific acts (tort, contract, property in state).
+2.  **Constitutional Step (Due Process):** Does D have "such minimum contacts with the forum so that jurisdiction does not offend traditional notions of fair play and substantial justice"? ([*Int'l Shoe*](https://supreme.justia.com/cases/federal/us/326/310/)).
 
 ### B. General Jurisdiction ("At Home")
-* **Rule:** D can be sued for *anything* in this state.
-* **Human:** Domicile (Presence + Intent to remain).
-* **Corporation:** State of Incorporation OR Principal Place of Business (PBB/Nerve Center). ([*Daimler AG v. Bauman*](https://supreme.justia.com/cases/federal/us/571/117/)).
+* **Rule:** D can be sued for *any* claim in this state, even unrelated ones.
+* **Individuals:** Domicile (Physical presence + Intent to remain).
+* **Corporations:**
+    1.  State of Incorporation.
+    2.  Principal Place of Business (PPB). *Hertz*: The "Nerve Center" (usually HQ).
+    * *Daimler Rule:* Only "at home" in these two places. Being "essentially at home" elsewhere is exceptionally rare.
 
-### C. Specific Jurisdiction (The Analysis)
+### C. Specific Jurisdiction (The 3-Prong Test)
 **1. Purposeful Availment (The Contact)**
-* Did D reach out to the forum? (Marketing, selling, driving).
-* **Stream of Commerce:** Merely putting a product in the stream is likely *not* enough without "targeting" the specific state. ([*McIntyre v. Nicastro*](https://supreme.justia.com/cases/federal/us/564/873/)).
-* **Internet:** *Zippo* Sliding Scale (Active vs. Passive websites).
+* Did D *reach out* to the forum? (Marketing, selling, driving, calling).
+* **Stream of Commerce:** Merely placing a product in the stream is likely *not* enough. Needs "targeting" (advertising, customer service). (*McIntyre v. Nicastro*).
+* **Effects Test:** Intentional torts aimed at the forum (libel) count. (*Calder v. Jones*).
+* **Internet (*Zippo*):** Active (business) vs. Passive (info only). Interactive is the grey zone.
 
 **2. Relatedness (The Nexus)**
-* Does the Plaintiff's claim *arise from* or *relate to* D's contact?
+* Does P's claim *arise from* or *relate to* D's contact?
+* *Ford Motor Co.:* "Relate to" is broader than strict causation. If D sells cars in State A, and P gets hurt in State A by that model (even if bought elsewhere), there is a nexus.
 
-**3. Fairness (The 5 Factors)**
-* Burden on D, State's Interest, Plaintiff's Interest, Interstate Efficiency, Social Policy. ([*World-Wide Volkswagen*](https://supreme.justia.com/cases/federal/us/444/286/)).
+**3. Fairness (The 5 Factors - *World-Wide Volkswagen*)**
+* Burden on D (Must be "so gravely difficult and inconvenient" -> unconstitutional).
+* State's Interest (Protecting citizens).
+* Plaintiff's Interest (Suing at home).
+* Interstate Efficiency.
+* Substantive Social Policy.
 
 ---
 
 ## II. SUBJECT MATTER JURISDICTION (SMJ)
-**THE ISSUE:** Can federal courts hear this *type* of case?
+**THE ISSUE:** Can *federal* courts hear this *type* of case?
 
 ### A. Diversity Jurisdiction (§ 1332)
-1.  **Complete Diversity:** No P is a citizen of the same state as any D. ([*Strawbridge v. Curtiss*](https://supreme.justia.com/cases/federal/us/7/267/)).
-2.  **Amount in Controversy:** Must **exceed** $75,000.
+1.  **Complete Diversity:** No Plaintiff can be a citizen of the same state as any Defendant. (*Strawbridge*).
+    * *Tested at time of filing.*
+    * *Citizenship (Human):* Domicile.
+    * *Citizenship (Corp):* Every state of incorp + The one PPB.
+2.  **Amount in Controversy:** Must **exceed** $75,000.00.
+    * *Aggregation:* 1 P can stack all claims against 1 D.
 
 ### B. Federal Question (§ 1331)
-* **Rule:** The claim must "arise under" federal law.
-* **Well-Pleaded Complaint Rule:** The federal question must appear on the face of the P's complaint, not as a defense. ([*Mottley*](https://supreme.justia.com/cases/federal/us/211/149/)).
+* **Rule:** The claim must "arise under" federal law (Constitution, Treaties, Statutes).
+* **Well-Pleaded Complaint Rule:** The federal issue must appear in the *Plaintiff's* cause of action, not in an anticipated defense. (*Mottley* - P sued RR for breach of pass; RR's defense was federal law. No SMJ).
 
 ### C. Supplemental Jurisdiction (§ 1367)
-* **The Test:** "Common Nucleus of Operative Fact" (CNOF). ([*Gibbs*](https://supreme.justia.com/cases/federal/us/383/715/)).
+* **Step 1:** Is there an "anchor claim" with original SMJ?
+* **Step 2 (The Test):** Does the new claim share a "Common Nucleus of Operative Fact" (CNOF)? (Usually same transaction).
+* **Step 3 (The Trap - § 1367(b)):** In *Diversity* cases only, P cannot use Supp Jur to sue new parties if it would destroy diversity.
 
 ---
 
-## III. ERIE DOCTRINE
-**THE ISSUE:** Federal Judge in Diversity Case - Which law applies?
+## III. VENUE (§ 1391)
+**THE ISSUE:** Which specific federal district?
 
-1.  **Federal Rule on Point?** YES -> Apply Federal Rule. ([*Hanna v. Plumer*](https://supreme.justia.com/cases/federal/us/380/460/)).
-2.  **No Rule?** Apply State Substantive Law, Federal Procedural Law. ([*Erie R.R. v. Tompkins*](https://supreme.justia.com/cases/federal/us/304/64/)).
+1.  **Residential Venue:** Any district where *any* D resides (if all Ds reside in same state).
+2.  **Transactional Venue:** Any district where a *substantial part* of events occurred.
+3.  **Transfer:**
+    * *1404 (Convenience):* Original venue was proper, but another is better.
+    * *1406 (Improper):* Original venue was wrong. Court dismisses or transfers.
 
 ---
 
-## IV. PRECLUSION
-* **Claim Preclusion (Res Judicata):** Same Parties, Same Claim, Valid Final Judgment.
-* **Issue Preclusion (Collateral Estoppel):** Same Issue, Actually Litigated, Essential to Judgment.
+## IV. ERIE DOCTRINE
+**THE ISSUE:** Federal Court + Diversity Case. Which law applies?
+
+1.  **Hanna Prong:** Is there a valid Federal Rule (FRCP/Statute) on point?
+    * YES -> Apply it. (Supremacy Clause).
+2.  **Erie Prong:** If no federal rule:
+    * **Substantive Issue?** Apply State Law. (Elements of crime, Statue of Limitations, Tolling).
+    * **Procedural Issue?** Apply Federal Law. (Judge/Jury allocation).
+3.  **Grey Areas (Tests):**
+    * *Outcome Determinative:* Would federal law change the result? -> Use State.
+    * *Balance of Interests:* Does feds have strong interest (e.g., jury system)? -> Use Federal.
+    * *Twin Aims of Erie:* Avoid forum shopping + inequitable administration of laws.
+
+---
+
+## V. PRECLUSION
+### A. Claim Preclusion (Res Judicata)
+**"One bite at the apple."**
+1.  **Same Parties:** Case 1 and Case 2 have same P and same D.
+2.  **Valid Final Judgment on Merits:** Not dismissed for technicality (PJ, Venue).
+3.  **Same Claim:** Arises from same Transaction/Occurrence. (Federal approach).
+
+### B. Issue Preclusion (Collateral Estoppel)
+**"Fact sticking."**
+1.  **Same Issue:** Literal identical fact.
+2.  **Actually Litigated:** Not a default judgment/settlement.
+3.  **Essential to Judgment:** If the verdict didn't rely on it, it's not precluded.
+4.  **Against Whom?** Can only be used *against* someone who was a party in Case 1 (Due Process).

@@ -1,4 +1,7 @@
+import os
 
+# --- 1. THE NEURAL ENGINE (JAVASCRIPT) ---
+TERMINAL_JS = """
 document.addEventListener('DOMContentLoaded', function() {
     const terminalContent = document.getElementById('terminal-content');
     const mainGui = document.getElementById('main-gui');
@@ -103,10 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (currentQ.field === "transmit") {
             if (input.toLowerCase().startsWith('y')) {
                 const subject = `LEGAL_OS LOG: ${visitorLog.name}`;
-                const body = `NAME: ${visitorLog.name}
-PURPOSE: ${visitorLog.purpose}
-MET: ${visitorLog.metAlexei}
-MEETING: ${visitorLog.wantsMeeting}`;
+                const body = `NAME: ${visitorLog.name}\nPURPOSE: ${visitorLog.purpose}\nMET: ${visitorLog.metAlexei}\nMEETING: ${visitorLog.wantsMeeting}`;
                 
                 // POPUP WINDOW FIX
                 const url = `mailto:${OWNER_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
@@ -202,11 +202,11 @@ MEETING: ${visitorLog.wantsMeeting}`;
             const response = await fetch(url, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ contents: [{ parts: [{ text: `You are Legal_OS... (Prompt)` + "\n\nUSER QUERY: " + prompt }] }] })
+                body: JSON.stringify({ contents: [{ parts: [{ text: `You are Legal_OS... (Prompt)` + "\\n\\nUSER QUERY: " + prompt }] }] })
             });
             const data = await response.json();
             if (data.error) return `> API ERROR: ${data.error.message}`;
-            if (data.candidates) return data.candidates[0].content.parts[0].text.replace(/\n/g, "<br>");
+            if (data.candidates) return data.candidates[0].content.parts[0].text.replace(/\\n/g, "<br>");
             return "> NO DATA.";
         } catch (e) { return "> CONNECTION FAILED."; }
     }
@@ -219,3 +219,13 @@ MEETING: ${visitorLog.wantsMeeting}`;
         setTimeout(() => { line.remove(); cb(); }, 800);
     }
 });
+"""
+
+def main():
+    print("--- UPGRADING LOGIC (LAZY GATEKEEPER) ---")
+    with open('assets/js/terminal.js', 'w') as f:
+        f.write(TERMINAL_JS)
+    print(" > terminal.js rewritten.")
+
+if __name__ == "__main__":
+    main()

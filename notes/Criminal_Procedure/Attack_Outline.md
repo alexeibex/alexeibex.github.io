@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Criminal Procedure Attack Outline
+title: Crim Pro Comprehensive Outline
 ---
-# // CRIM PRO: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // CRIMINAL PROCEDURE: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,15 +12,26 @@ title: Criminal Procedure Attack Outline
 </div>
 
 
-## I. FOURTH AMENDMENT (SEARCH & SEIZURE)
-* **Katz Test:** 1) Subjective expectation of privacy? 2) Is it objectively reasonable? ([*Katz v. US*](https://supreme.justia.com/cases/federal/us/389/347/)).
-* **Warrant Requirement:** Police generally need a warrant based on Probable Cause.
-* **Exclusionary Rule:** Evidence found illegally is "fruit of the poisonous tree" and excluded. ([*Mapp v. Ohio*](https://supreme.justia.com/cases/federal/us/367/643/)).
+## I. FOURTH AMENDMENT (Search & Seizure)
+* **Step 1: Search?** Gov't conduct violating Reasonable Expectation of Privacy (Katz).
+* **Step 2: Warrant?** Needs Probable Cause + Particularity.
+* **Step 3: Exceptions?**
+    * **S**earch Incident to Arrest.
+    * **P**lain View.
+    * **A**utomobile (if PC exists).
+    * **C**onsent.
+    * **E**xigent Circumstances.
+    * **S**top & Frisk (*Terry* - RS).
 
-## II. FIFTH AMENDMENT (MIRANDA)
-* **Trigger:** Custody + Interrogation.
-* **Right:** To remain silent and to counsel. ([*Miranda v. Arizona*](https://supreme.justia.com/cases/federal/us/384/436/)).
+## II. FIFTH AMENDMENT (Confessions)
+* **Miranda:** Custody + Interrogation.
+* **Waiver:** Must be Knowing, Voluntary, Intelligent.
+* **Invocation:** Must be explicit ("I want a lawyer").
 
-## III. SIXTH AMENDMENT (COUNSEL)
-* **Right to Counsel:** Attaches at all critical stages of prosecution.
-* **Indigent Defendants:** Must be provided counsel in felony cases. ([*Gideon v. Wainwright*](https://supreme.justia.com/cases/federal/us/372/335/)).
+## III. SIXTH AMENDMENT
+* **Right to Counsel:** Post-charge critical stages.
+* **Ineffective Assistance:** 1) Deficient performance + 2) Prejudice (Outcome would be different).
+
+## IV. EXCLUSIONARY RULE
+* **Fruit of Poisonous Tree:** Evidence derived from illegality is out.
+* *Exceptions:* Independent Source, Inevitable Discovery, Attenuation.

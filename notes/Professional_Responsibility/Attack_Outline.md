@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Professional Responsibility Attack Outline
+title: Professional Responsibility Comprehensive Outline
 ---
-# // PROFESSIONAL RESPONSIBILITY: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // PROFESSIONAL RESPONSIBILITY: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,13 +12,19 @@ title: Professional Responsibility Attack Outline
 </div>
 
 
-## I. DUTY OF CONFIDENTIALITY (Rule 1.6)
-* **Rule:** Lawyer shall not reveal information relating to representation.
-* **Exception:** To prevent reasonably certain death or substantial bodily harm.
+## I. DUTIES TO CLIENT
+* **Competence:** Knowledge/skill reasonably necessary.
+* **Confidentiality (1.6):** Keep info secret.
+    * *Exceptions:* Prevent death/GBH, Prevent fraud (using lawyer's services), Fee dispute.
+* **Loyalty (Conflicts 1.7):**
+    * *Direct Adversity:* Cannot represent Client A v. Client B.
+    * *Material Limitation:* Lawyer's own interest limits rep.
 
-## II. CONFLICTS OF INTEREST (Rule 1.7)
-* **Direct Adversity:** Cannot represent Client A vs. Client B.
-* **Material Limitation:** Cannot represent if representation is limited by responsibility to another client or self-interest.
+## II. DUTIES TO COURT
+* **Candor:** Cannot lie / Must correct false statements.
+* **Frivolous Claims:** Must have basis in law/fact.
 
-## III. CANDOR TO THE TRIBUNAL (Rule 3.3)
-* Cannot knowingly make a false statement of fact or law to a tribunal.
+## III. FEES
+* Must be reasonable.
+* **Contingency:** Writing required. Prohibited in Criminal/Domestic.
+* **Splitting:** No splitting with non-lawyers.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: IP Law Attack Outline
+title: IP Law Comprehensive Outline
 ---
-# // INTELLECTUAL PROPERTY: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // INTELLECTUAL PROPERTY: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -13,14 +13,27 @@ title: IP Law Attack Outline
 
 
 ## I. COPYRIGHT
-* **Scope:** Original works of authorship fixed in a tangible medium.
-* **Feist:** Sweat of the brow is not enough; need "creative spark." ([*Feist v. Rural Telephone*](https://supreme.justia.com/cases/federal/us/499/340/)).
-* **Fair Use (Four Factors):** 1) Purpose (Transformative?), 2) Nature of work, 3) Amount used, 4) Effect on market.
+* **Subject Matter:** Original work of authorship + Fixed in tangible medium.
+* **Rights:** Reproduce, Derivative Works, Distribute, Perform, Display.
+* **Infringement:** Access + Substantial Similarity.
+* **Fair Use (107):**
+    1.  Purpose (Transformative?).
+    2.  Nature of work.
+    3.  Amount used.
+    4.  Effect on Market (Most important).
 
-## II. PATENT
-* **Scope:** New, useful, and non-obvious inventions.
-* **Alice Test:** Abstract ideas (algorithms) are not patentable unless there is an "inventive concept." ([*Alice Corp. v. CLS Bank*](https://supreme.justia.com/cases/federal/us/573/208/)).
+## II. TRADEMARK
+* **Goal:** Prevent consumer confusion.
+* **Distinctiveness:**
+    * *Inherently:* Fanciful ("Kodak"), Arbitrary ("Apple"), Suggestive ("Coppertone").
+    * *Requires Secondary Meaning:* Descriptive ("Best Buy").
+    * *Generic:* No protection ("Apple" for apples).
+* **Infringement:** Likelihood of Confusion (Polaroid Factors).
 
-## III. TRADEMARK
-* **Scope:** Source identifiers (Names, Logos).
-* **Abercrombie Spectrum:** Fanciful (Strongest) -> Arbitrary -> Suggestive -> Descriptive -> Generic (No protection).
+## III. PATENT
+* **Subject Matter:** Process, Machine, Manufacture, Composition.
+* **Requirements:**
+    1.  Patentable Subject Matter (No abstract ideas - *Alice*).
+    2.  Novelty.
+    3.  Non-Obviousness.
+    4.  Utility.

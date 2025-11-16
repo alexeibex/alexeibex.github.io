@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Admin Law Attack Outline
+title: Admin Law Comprehensive Outline
 ---
-# // ADMIN LAW: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // ADMINISTRATIVE LAW: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,10 +12,16 @@ title: Admin Law Attack Outline
 </div>
 
 
-## I. AGENCY POWER
-* **Non-Delegation Doctrine:** Congress must provide an "intelligible principle" when delegating power.
+## I. DELEGATION
+* **Non-Delegation Doctrine:** Congress cannot delegate legislative power without an "Intelligible Principle." (Historically very loose).
 
-## II. JUDICIAL REVIEW
-* **Chevron Deference (OVERTURNED):** Formerly, courts deferred to agency interpretation of ambiguous statutes.
-* **Loper Bright:** Courts must now exercise independent judgment on legal questions. ([*Loper Bright Enterprises v. Raimondo*](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf)).
-* **Arbitrary & Capricious:** Agency action must be rational and based on the record. ([*Motor Vehicle Mfrs. Assn. v. State Farm*](https://supreme.justia.com/cases/federal/us/463/29/)).
+## II. AGENCY ACTION
+* **Rulemaking (Legislative):**
+    * *Notice & Comment (553):* Publish draft, accept comments, publish final.
+* **Adjudication (Judicial):** Hearings, ALJ decisions.
+
+## III. JUDICIAL REVIEW
+* **Standing:** Injury + Causation + Redressability.
+* **Chevron Deference (HISTORICAL/OVERTURNED):** Used to defer to agency on ambiguous statutes.
+* **Loper Bright (2024):** **MAJOR SHIFT.** Courts must exercise independent judgment on legal questions. No automatic deference to agency interpretation.
+* **Arbitrary & Capricious (State Farm):** Agency must examine relevant data and articulate satisfactory explanation. Hard Look Review.

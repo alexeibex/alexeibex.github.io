@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Corporations Attack Outline
+title: Corporations Comprehensive Outline
 ---
-# // CORPORATIONS: THE FINAL ATTACK
-### STATUS: COMPREHENSIVE_MODE
+# // CORPORATIONS: EXAM MASTER PROTOCOL
+### STATUS: FINAL_REVIEW_MODE
 
 
 <div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
@@ -12,14 +12,25 @@ title: Corporations Attack Outline
 </div>
 
 
-## I. DUTY OF CARE
-* **Business Judgment Rule (BJR):** Courts presume directors acted on an informed basis, in good faith, and in the honest belief that the action was in the best interest of the company.
-* **Van Gorkom:** Gross negligence (failure to inform oneself) overcomes BJR. ([*Smith v. Van Gorkom*](https://en.wikipedia.org/wiki/Smith_v._Van_Gorkom)).
+## I. FORMATION
+* **De Jure:** File Articles of Incorporation with Secretary of State.
+* **De Facto:** Good faith attempt to incorporate + act like corp.
+* **Piercing Corporate Veil:** Court ignores limited liability if: Alter Ego / Undercapitalization / Fraud.
 
-## II. DUTY OF LOYALTY
-* **Self-Dealing:** Director is on both sides of the transaction.
-* **Safe Harbor:** Transaction is valid if approved by disinterested directors or shareholders after full disclosure.
+## II. FIDUCIARY DUTIES
+### A. Duty of Care
+* **Rule:** Act as prudent person in like position.
+* **Business Judgment Rule (BJR):** Court will NOT second guess business decisions if: Informed + Good Faith + No Conflict.
+* **Overcoming BJR:** Gross Negligence (*Van Gorkom*).
 
-## III. DERIVATIVE SUITS
-* **Rule:** Shareholder sues *on behalf* of the corporation for harm done *to* the corporation.
-* **Demand Requirement:** Must ask the board to sue first, unless demand is "futile."
+### B. Duty of Loyalty
+* **Self-Dealing:** Director on both sides of deal. Voidable unless:
+    1.  Approved by disinterested directors.
+    2.  Approved by shareholders.
+    3.  Fair to corp.
+* **Corporate Opportunity:** Cannot usurp opportunity belonging to corp.
+
+## III. SHAREHOLDER SUITS
+* **Direct:** SH harmed personally (dividend denial).
+* **Derivative:** Harm to Corp. (SH sues on behalf).
+    * *Demand Requirement:* Must ask board to sue first (unless futile).
