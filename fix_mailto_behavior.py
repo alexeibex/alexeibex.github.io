@@ -1,4 +1,7 @@
+import os
 
+# --- 1. THE NEURAL ENGINE (JAVASCRIPT) ---
+TERMINAL_JS = """
 document.addEventListener('DOMContentLoaded', function() {
     const terminalContent = document.getElementById('terminal-content');
     const mainGui = document.getElementById('main-gui');
@@ -179,19 +182,12 @@ document.addEventListener('DOMContentLoaded', function() {
         if (currentQ.field === "transmit") {
             if (input.toLowerCase().startsWith('y')) {
                 const subject = `LEGAL_OS VISITOR LOG: ${visitorLog.name}`;
-                const body = `VISITOR LOG CAPTURED:
-
-NAME: ${visitorLog.name}
-PURPOSE: ${visitorLog.purpose}
-MET ALEXEI: ${visitorLog.metAlexei}
-WANTS MEETING: ${visitorLog.wantsMeeting}
-
-TIMESTAMP: ${visitorLog.timestamp}`;
+                const body = `VISITOR LOG CAPTURED:\n\nNAME: ${visitorLog.name}\nPURPOSE: ${visitorLog.purpose}\nMET ALEXEI: ${visitorLog.metAlexei}\nWANTS MEETING: ${visitorLog.wantsMeeting}\n\nTIMESTAMP: ${visitorLog.timestamp}`;
                 
                 // FALLBACK DISPLAY
                 const fallback = document.createElement('div');
                 fallback.className = 'terminal-line system-msg';
-                fallback.innerHTML = `> INITIATING UPLINK...<br>> IF EMAIL CLIENT FAILS, COPY LOG BELOW:<br><br>--------------------<br>${body.replace(/\n/g, '<br>')}<br>--------------------`;
+                fallback.innerHTML = `> INITIATING UPLINK...<br>> IF EMAIL CLIENT FAILS, COPY LOG BELOW:<br><br>--------------------<br>${body.replace(/\\n/g, '<br>')}<br>--------------------`;
                 history.appendChild(fallback);
 
                 // OPEN IN NEW TAB (Prevents Page Takeover)
@@ -266,11 +262,11 @@ TIMESTAMP: ${visitorLog.timestamp}`;
             const response = await fetch(url, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ contents: [{ parts: [{ text: SYSTEM_PROMPT + "\n\nUSER QUERY: " + prompt }] }] })
+                body: JSON.stringify({ contents: [{ parts: [{ text: SYSTEM_PROMPT + "\\n\\nUSER QUERY: " + prompt }] }] })
             });
             const data = await response.json();
             if (data.error) return `> API ERROR: ${data.error.message}`;
-            if (data.candidates && data.candidates.length > 0) return data.candidates[0].content.parts[0].text.replace(/\n/g, "<br>");
+            if (data.candidates && data.candidates.length > 0) return data.candidates[0].content.parts[0].text.replace(/\\n/g, "<br>");
             return "> API ERROR: No response.";
         } catch (error) { return "> CONNECTION FAILURE."; }
     }
@@ -386,3 +382,13 @@ TIMESTAMP: ${visitorLog.timestamp}`;
         if(inputLine.style.display !== 'none' && !cmdInput.disabled) cmdInput.focus();
     });
 });
+"""
+
+def main():
+    print("--- FIXING MAILTO BEHAVIOR ---")
+    with open('assets/js/terminal.js', 'w') as f:
+        f.write(TERMINAL_JS)
+    print(" > Terminal Logic Updated.")
+
+if __name__ == "__main__":
+    main()
