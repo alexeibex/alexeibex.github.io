@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // REPLACE THIS WITH YOUR ACTUAL API KEY FROM GOOGLE AI STUDIO
     const API_KEY = "AIzaSyAkWiLWRhGEFPJy7U4nh1PVYw69FUMbRh8"; 
     
-    const SYSTEM_PROMPT = `You are Legal_OS v6.0, a cyberpunk portfolio assistant for Alexei Furs. 
+    const SYSTEM_PROMPT = `You are Legal_OS v6.1, a cyberpunk portfolio assistant for Alexei Furs. 
     Alexei is a Senior Privacy Engineer at Google DeepMind and an Admitted Attorney (NYS). 
     Key Bio:
     - Current: Google DeepMind (Privacy for Gemini/AI Agents).
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // --- 3. BOOT SEQUENCE ---
     const bootSequence = [
-        { text: "> INITIALIZING LEGAL_OS v6.0 (GEMINI INTEGRATED)...", delay: 200, class: "system-msg" },
+        { text: "> INITIALIZING LEGAL_OS v6.1 (GEMINI INTEGRATED)...", delay: 200, class: "system-msg" },
         { text: "> ESTABLISHING NEURAL UPLINK...", delay: 400, class: "system-msg" },
         { text: "> ACCESS GRANTED: ALEXEI FURS [JD_GRADUATE]", delay: 1000, class: "success-msg" },
         { text: "> SYSTEM READY. WAITING FOR INPUT.", delay: 1200, class: "success-msg" }
@@ -112,7 +112,8 @@ document.addEventListener('DOMContentLoaded', function() {
             return "> ERROR: API KEY NOT CONFIGURED. PLEASE UPDATE terminal.js.";
         }
 
-        const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+        // UPDATED URL: Uses 'gemini-1.5-flash-latest' to fix 404 error
+        const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
         
         try {
             const response = await fetch(url, {
@@ -418,7 +419,7 @@ layout: null
 """
 
 def main():
-    print("--- INSTALLING LEGAL_OS v6.0 (GEMINI API INTEGRATION) ---")
+    print("--- INSTALLING LEGAL_OS v6.1 (GEMINI API FIX) ---")
     
     # Ensure directories exist
     os.makedirs('assets/js', exist_ok=True)
@@ -427,7 +428,7 @@ def main():
     # Write JS
     with open('assets/js/terminal.js', 'w') as f:
         f.write(TERMINAL_JS)
-    print(" > Neural Engine (Gemini API) Installed.")
+    print(" > Neural Engine (Gemini API) Updated.")
 
     # Write CSS
     with open('assets/css/style.scss', 'w') as f:
