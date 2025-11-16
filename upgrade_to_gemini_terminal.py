@@ -1,4 +1,8 @@
+import os
 
+# --- 1. THE NEURAL ENGINE (JAVASCRIPT) ---
+# Now includes REAL Gemini API calls.
+TERMINAL_JS = """
 document.addEventListener('DOMContentLoaded', function() {
     const terminalContent = document.getElementById('terminal-content');
     const mainGui = document.getElementById('main-gui');
@@ -116,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
                     contents: [{
-                        parts: [{ text: SYSTEM_PROMPT + "\n\nUSER QUERY: " + prompt }]
+                        parts: [{ text: SYSTEM_PROMPT + "\\n\\nUSER QUERY: " + prompt }]
                     }]
                 })
             });
@@ -130,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Extract text
             const text = data.candidates[0].content.parts[0].text;
             // Simple formatting: replace newlines with breaks for HTML
-            return text.replace(/\n/g, "<br>");
+            return text.replace(/\\n/g, "<br>");
 
         } catch (error) {
             return "> CONNECTION FAILURE: UNABLE TO REACH NEURAL NET.";
@@ -236,3 +240,206 @@ document.addEventListener('DOMContentLoaded', function() {
         if(inputLine.style.display !== 'none' && !cmdInput.disabled) cmdInput.focus();
     });
 });
+"""
+
+# --- 2. THE TERMINAL STYLES (CSS) ---
+# Reusing the proven v5 styles
+STYLE_SCSS = """---
+---
+/* TERMINAL AESTHETIC PROTOCOL v6.0 */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+
+$bg-color: #0a0a0a;
+$text-main: #00ff41; 
+$text-command: #00f3ff; 
+$text-system: #ff00ff; 
+$text-dim: #666;
+
+body {
+    background-color: $bg-color;
+    color: $text-main;
+    font-family: 'Fira Code', monospace;
+    margin: 0;
+    padding: 20px;
+    font-size: 14px;
+    line-height: 1.6;
+    overflow-x: hidden;
+    padding-bottom: 100px;
+}
+
+a {
+    color: $text-system;
+    text-decoration: none;
+    border-bottom: 1px dashed $text-system;
+    transition: 0.2s;
+    &:hover { background-color: $text-system; color: $bg-color; }
+}
+
+h1, h2 {
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+    color: $text-command;
+    font-size: 1.2rem;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
+
+.terminal-line { margin-bottom: 5px; white-space: pre-wrap; }
+.system-msg { color: $text-dim; }
+.command { color: $text-command; font-weight: bold; }
+.success-msg { color: $text-main; }
+.output { color: #ccc; margin-left: 20px; }
+.response-msg { color: #fff; margin-bottom: 20px; display: block; border-left: 3px solid $text-system; padding-left: 15px; }
+.command-echo { color: $text-command; margin-top: 15px; font-weight: bold; }
+
+#input-line {
+    display: none;
+    align-items: center;
+    margin-top: 10px;
+    background: rgba(255,255,255,0.05);
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #333;
+}
+
+.prompt { color: $text-command; margin-right: 10px; }
+
+#cmd-input {
+    background: transparent;
+    border: none;
+    color: $text-main;
+    font-family: 'Fira Code', monospace;
+    font-size: 14px;
+    outline: none;
+    flex-grow: 1;
+    width: 100%;
+}
+
+#main-gui { opacity: 0; transition: opacity 1s ease-in; }
+#main-gui.visible { opacity: 1; }
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.file-card {
+    border: 1px solid #333;
+    padding: 10px;
+    background: rgba(255,255,255,0.02);
+    transition: 0.2s;
+    &:hover { border-color: $text-command; background: rgba(0, 243, 255, 0.05); transform: translateY(-2px); }
+}
+
+.label { font-size: 0.7em; color: $text-dim; display: block; margin-bottom: 5px; }
+"""
+
+# --- 3. THE HTML STRUCTURE ---
+INDEX_HTML = """---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>alexei@legal-os:~</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="/assets/js/terminal.js"></script>
+</head>
+<body>
+
+    <div id="terminal-content"></div>
+
+    <div id="main-gui">
+        
+        <div id="input-line">
+            <span class="prompt">user@legal-os:~$</span>
+            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" placeholder="Ask me anything (e.g. 'What is 1+1?', 'Who is the president?')">
+        </div>
+        
+        <div id="history" style="margin-top: 20px; margin-bottom: 40px;"></div>
+
+        <div class="output-block">
+            <p>> CURRENT_STATUS: <span style="color: #ff00ff;">ONLINE</span></p>
+            <p>
+                I am a <strong>Senior Privacy Engineer</strong> at <strong>Google DeepMind</strong> and an <strong>Admitted Attorney (NYS)</strong>.<br>
+                My work ensures that AI Agents and Large Language Models adhere to privacy laws and ethical standards.
+            </p>
+            <p>
+                > <a href="/assets/Alexei_Furs_Resume.pdf" target="_blank">[ DOWNLOAD_RESUME.PDF ]</a><br>
+                > <a href="https://www.linkedin.com/in/alexei-furs-35587773/" target="_blank">[ CONNECT_LINKEDIN_RELAY ]</a>
+            </p>
+        </div>
+
+        <h2 id="research-papers">// DIR: /RESEARCH_PAPERS/</h2>
+        <div class="grid">
+            <div class="file-card">
+                <span class="label">r--r--r-- MIT_CLR.pdf</span>
+                <a href="https://law.mit.edu/pub/trustinatrustlesssystem" target="_blank">Trust in a Trustless System</a>
+            </div>
+            {% for file in site.static_files %}
+                {% if file.path contains 'papers/Future_Law_Tech' %}
+                <div class="file-card">
+                    <span class="label">r--r--r-- LOCAL_FILE</span>
+                    <a href="{{ file.path }}">{{ file.name }}</a>
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+
+        <h2 id="legal-archive">// DIR: /LEGAL_ARCHIVE/ (NOTES)</h2>
+        <div class="grid">
+            {% if site.data.curriculum.1L_Core_Kernel %}
+                {% for item in site.data.curriculum.1L_Core_Kernel %}
+                <div class="file-card">
+                    <span class="label">d--x--x-- MODULE</span>
+                    <a href="/notes/{{ item[0] }}/">{{ item[0] }}</a>
+                </div>
+                {% endfor %}
+            {% endif %}
+
+            {% if site.data.curriculum.Advanced_Protocols %}
+                {% for item in site.data.curriculum.Advanced_Protocols %}
+                <div class="file-card">
+                    <span class="label">d--x--x-- MODULE</span>
+                    <a href="/notes/{{ item[0] }}/">{{ item[0] }}</a>
+                </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+    </div>
+
+</body>
+</html>
+"""
+
+def main():
+    print("--- INSTALLING LEGAL_OS v6.0 (GEMINI API INTEGRATION) ---")
+    
+    # Ensure directories exist
+    os.makedirs('assets/js', exist_ok=True)
+    os.makedirs('assets/css', exist_ok=True)
+    
+    # Write JS
+    with open('assets/js/terminal.js', 'w') as f:
+        f.write(TERMINAL_JS)
+    print(" > Neural Engine (Gemini API) Installed.")
+
+    # Write CSS
+    with open('assets/css/style.scss', 'w') as f:
+        f.write(STYLE_SCSS)
+    print(" > Visual Protocol Updated.")
+
+    # Write HTML
+    with open('index.html', 'w') as f:
+        f.write(INDEX_HTML)
+    print(" > Interface Updated.")
+    
+    print("--- UPGRADE COMPLETE. REMEMBER TO ADD YOUR API KEY BEFORE DEPLOYING! ---")
+
+if __name__ == "__main__":
+    main()
