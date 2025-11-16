@@ -2,34 +2,51 @@
 layout: default
 title: Torts Attack Outline
 ---
+# // TORTS: THE FINAL ATTACK
+### STATUS: COMPREHENSIVE_MODE
 
-# // TORTS_ATTACK_OUTLINE
-### STATUS: ACTIVE_PROTOCOL
 
-> **MISSION:** Identify the wrong, the harm, and the remedy.
+<div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
+    <button onclick="window.print()" style="background: #00ff41; color: black; border: none; padding: 10px 20px; font-family: 'Fira Code', monospace; font-weight: bold; cursor: pointer; margin-right: 10px;">[ SAVE AS PDF ]</button>
+    <a href="Attack_Outline.md" download="Attack_Outline.md" style="color: #00f3ff; text-decoration: none; font-family: 'Fira Code', monospace; font-weight: bold;">[ DOWNLOAD MARKDOWN ]</a>
+</div>
 
-## 1. INTENTIONAL TORTS
-**Did D intend the act?**
-- [ ] **Battery:** Harmful/offensive contact + Intent + Causation.
-- [ ] **Assault:** Reasonable apprehension of immediate battery + Intent.
-- [ ] **False Imprisonment:** Confinement + Awareness/Harm.
-- [ ] **IIED:** Extreme/Outrageous conduct + Severe distress.
 
-## 2. NEGLIGENCE
-**The Big Four.**
-- [ ] **Duty:** To foreseeable plaintiffs in the zone of danger (Standard: Reasonable Person).
-- [ ] **Breach:** Failure to meet standard (B < PL / Custom / Negligence Per Se).
-- [ ] **Causation:**
-    - [ ] **Actual (Factual):** "But for" test.
-    - [ ] **Proximate (Legal):** Was the harm a foreseeable result of the breach?
-- [ ] **Damages:** Actual harm required (Eggshell Skull Rule applies).
+## I. NEGLIGENCE (THE BIG FOUR)
+**Prima Facie Case:** Duty, Breach, Causation, Damages.
 
-## 3. STRICT LIABILITY
-**Liability without fault.**
-- [ ] **Wild Animals:** Strict liability for dangerous propensities.
-- [ ] **Abnormally Dangerous Activities:** High risk, cannot be made safe, not common.
-- [ ] **Products Liability:** Commercial seller + Defective product + Unaltered since sale.
+### A. DUTY
+**To whom do you owe a duty?**
+* **Cardozo (Majority):** Foreseeable plaintiffs in the "Zone of Danger." ([*Palsgraf v. Long Island RR*](https://casetext.com/case/palsgraf-v-long-island-rr-co)).
+* **Andrews (Minority):** Everyone. If you hurt someone, you owe them a duty.
 
-## 4. DEFENSES
-- [ ] **Contributory/Comparative Negligence.**
-- [ ] **Assumption of Risk.**
+### B. BREACH
+* **Hand Formula:** B < PL (Burden < Probability x Loss). ([*United States v. Carroll Towing*](https://law.justia.com/cases/federal/appellate-courts/f2/159/169/)).
+* **Res Ipsa Loquitur:** "The thing speaks for itself."
+
+### C. CAUSATION
+**1. Actual Cause (Factual)**
+* **"But For" Test:** But for D's act, injury wouldn't have happened.
+
+**2. Proximate Cause (Legal)**
+* **Foreseeability:** Was the harm a foreseeable consequence?
+* **Intervening Causes:** Independent acts (Acts of God) supersede D's liability.
+
+### D. DAMAGES
+* **Eggshell Skull Rule:** You take your victim as you find them.
+
+---
+
+## II. STRICT LIABILITY
+### A. Abnormally Dangerous Activities
+* **Rule:** High risk + Cannot be made safe + Not common. ([*Rylands v. Fletcher*](https://www.law.cornell.edu/wex/rylands_v_fletcher)).
+
+### B. Products Liability
+* **Defects:** Manufacturing, Design, Warning.
+
+---
+
+## III. INTENTIONAL TORTS
+* **Battery:** Harmful/Offensive contact + Intent.
+* **Assault:** Reasonable apprehension of immediate battery.
+* **IIED:** Extreme & Outrageous conduct + Severe Distress.

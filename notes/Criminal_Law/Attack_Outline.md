@@ -2,33 +2,24 @@
 layout: default
 title: Criminal Law Attack Outline
 ---
+# // CRIMINAL LAW: THE FINAL ATTACK
+### STATUS: COMPREHENSIVE_MODE
 
-# // CRIMINAL_LAW_ATTACK_OUTLINE
-### STATUS: ACTIVE_PROTOCOL
 
-> **MISSION:** Determine criminal liability and punishment.
+<div class="export-controls" style="margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 20px;">
+    <button onclick="window.print()" style="background: #00ff41; color: black; border: none; padding: 10px 20px; font-family: 'Fira Code', monospace; font-weight: bold; cursor: pointer; margin-right: 10px;">[ SAVE AS PDF ]</button>
+    <a href="Attack_Outline.md" download="Attack_Outline.md" style="color: #00f3ff; text-decoration: none; font-family: 'Fira Code', monospace; font-weight: bold;">[ DOWNLOAD MARKDOWN ]</a>
+</div>
 
-## 1. ELEMENTS OF A CRIME
-- [ ] **Actus Reus:** Voluntary physical act.
-- [ ] **Mens Rea:** Mental state (Specific Intent, General Intent, Malice, Strict Liability).
-- [ ] **Concurrence:** Act + Mental State at same time.
-- [ ] **Causation:** Actual + Proximate.
 
-## 2. HOMICIDE
-- [ ] **Murder:** Unlawful killing + Malice Aforethought.
-    - [ ] Intent to kill.
-    - [ ] Intent to inflict great bodily harm.
-    - [ ] Depraved Heart (Reckless indifference).
-    - [ ] Felony Murder (BARRK).
-- [ ] **Voluntary Manslaughter:** "Heat of Passion" + Provocation.
-- [ ] **Involuntary Manslaughter:** Criminal Negligence.
+## I. MENS REA (THE GUILTY MIND)
+* **Specific Intent:** D wanted the specific result. (Theft, First Degree Murder).
+* **Malice:** Reckless disregard of high risk. (Arson, Common Law Murder).
 
-## 3. INCHOATE OFFENSES
-- [ ] **Solicitation:** Asking another to commit crime.
-- [ ] **Conspiracy:** Agreement + Overt Act.
-- [ ] **Attempt:** Specific Intent + Substantial Step.
-
-## 4. DEFENSES
-- [ ] **Insanity (M'Naghten / MPC).**
-- [ ] **Intoxication (Voluntary vs. Involuntary).**
-- [ ] **Self-Defense.**
+## II. FOURTH AMENDMENT
+**Did the police need a warrant?**
+1.  **Gov't Conduct?**
+2.  **Reasonable Expectation of Privacy (REP)?**
+    * **Yes:** Home, Phone Booth ([*Katz*](https://supreme.justia.com/cases/federal/us/389/347/)).
+    * **No:** Open Fields, Garbage.
+3.  **Exceptions (ESCAPIST):** Exigent Circumstances, Search Incident to Arrest, Consent, Automobile, Plain View, Inventory, Stop & Frisk ([*Terry v. Ohio*](https://supreme.justia.com/cases/federal/us/392/1/)).
