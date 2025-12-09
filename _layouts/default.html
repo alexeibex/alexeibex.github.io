@@ -7,9 +7,37 @@
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+    <script src="/assets/js/legal_os_v19.js"></script>
 </head>
 <body>
+    
+    <nav class="command-bar">
+        <span class="brand">LEGAL_OS v19.0</span>
+        <a href="/">[ HOME ]</a>
+        <a href="/#legal-archive">[ ARCHIVE ]</a>
+        <a href="/assets/Alexei_Furs_Resume.pdf" target="_blank">[ RESUME ]</a>
+        <a href="https://www.linkedin.com/in/alexei-furs-35587773/" target="_blank">[ LINKEDIN ]</a>
+    </nav>
+
+    <div id="email-modal" class="modal-overlay" style="display:none;">
+        <div class="modal-window">
+            <div class="modal-header">
+                <h3>// SECURE_TRANSMISSION_UPLINK</h3>
+                <button onclick="closeEmailModal()" class="close-btn">X</button>
+            </div>
+            <div class="modal-body">
+                <p>> ENCRYPTED PACKET PREPARED.</p>
+                <div id="modal-log-content" class="log-display"></div>
+                <br>
+                <p>> SELECT ACTION:</p>
+                <div id="mail-btn-container"></div>
+                <br><br>
+                <p style="font-size:0.8em; color:#666;">*Opens a secure Gmail window.</p>
+            </div>
+        </div>
+    </div>
+
     <div class="scanline"></div>
     
     <div class="container">

@@ -6,23 +6,23 @@ layout: null
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>alexei@gatekeeper:~</title>
+    <title>alexei@legal-os:~</title>
     <link rel="stylesheet" href="/assets/css/style.css">
-    <script src="/assets/js/terminal.js"></script>
+    <script src="/assets/js/legal_os_v19.js"></script>
 </head>
 <body>
 
     <div id="terminal-content"></div>
 
-    <div id="history" style="margin-top: 20px; margin-bottom: 20px;"></div>
-
-    <div id="input-line">
-        <span class="prompt">user@legal-os:~$</span>
-        <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" placeholder="">
-    </div>
-
     <div id="main-gui">
         
+        <div id="input-line">
+            <span class="prompt">user@legal-os:~$</span>
+            <input type="text" id="cmd-input" autocomplete="off" spellcheck="false" placeholder="Ask me anything (e.g. 'Who is Alexei?', 'Draft an NDA')">
+        </div>
+        
+        <div id="history" style="margin-top: 20px; margin-bottom: 40px;"></div>
+
         <div class="output-block">
             <p>> CURRENT_STATUS: <span style="color: #ff00ff;">ONLINE</span></p>
             <p>
